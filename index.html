@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LLM Timeline — AIの変遷を見える化</title>
+  <meta name="description" content="2017年Transformer論文からの大規模言語モデル（LLM）の変遷をインタラクティブなタイムラインで可視化。OpenAI・Anthropic・Google・Meta等の主要リリース・発表・主要人物の発言を追跡。">
+
+  <!-- vis-timeline (CDN) -->
+  <link rel="stylesheet" href="https://unpkg.com/vis-timeline@7.7.3/styles/vis-timeline-graph2d.min.css">
+  <script src="https://unpkg.com/vis-timeline@7.7.3/standalone/umd/vis-timeline-graph2d.min.js"></script>
+
+  <!-- アプリスタイル -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- ===== HEADER ===== -->
+<header>
+  <h1>LLM <span>Timeline</span></h1>
+  <div style="display:flex;gap:12px;align-items:center">
+    <button onclick="fitAll()" style="background:var(--bg);border:1px solid var(--border);color:var(--text-muted);padding:4px 10px;border-radius:4px;cursor:pointer;font-size:0.75rem">全体表示</button>
+    <button onclick="jumpToToday()" style="background:var(--accent);border:none;color:white;padding:4px 10px;border-radius:4px;cursor:pointer;font-size:0.75rem">今日へ</button>
+    <span class="header-meta" id="header-meta">読み込み中...</span>
+  </div>
+</header>
+
+<!-- ===== LAYOUT ===== -->
+<div class="layout">
+
+  <!-- ===== SIDEBAR ===== -->
+  <aside class="sidebar">
+    <!-- 検索 -->
+    <div class="sidebar-section">
+      <h3>検索</h3>
+      <input type="text" id="search-input" class="search-box" placeholder="キーワードを入力...">
+    </div>
+
+    <!-- 企業フィルタ -->
+    <div class="sidebar-section">
+      <h3>企業</h3>
+      <div id="company-filters"></div>
+    </div>
+
+    <!-- イベント種別 -->
+    <div class="sidebar-section">
+      <h3>イベント種別</h3>
+      <div id="type-filters"></div>
+    </div>
+
+    <!-- 重要度 -->
+    <div class="sidebar-section">
+      <h3>重要度</h3>
+      <div class="importance-buttons">
+        <button class="imp-btn" data-importance="high">★ 重要</button>
+        <button class="imp-btn" data-importance="medium">◆ 中</button>
+        <button class="imp-btn" data-importance="low">▪ 低</button>
+      </div>
+    </div>
+  </aside>
+
+  <!-- ===== MAIN AREA ===== -->
+  <main class="main-area">
+    <div id="timeline-container" style="flex:1;display:none">
+      <div id="vis-timeline" style="height:100%"></div>
+    </div>
+
+    <!-- ローディング -->
+    <div id="loading" style="flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;color:var(--text-muted)">
+      <div class="spinner"></div>
+      <p>データを読み込んでいます...</p>
+    </div>
+
+    <!-- 統計バー -->
+    <div class="stats-bar">
+      <span>表示: <strong id="stats-shown">0</strong> / <strong id="stats-total">0</strong>件</span>
+      <span>期間: <strong id="stats-range">—</strong></span>
+      <span style="margin-left:auto;font-size:0.68rem">← ドラッグでスクロール / スクロールでズーム / アイテムをクリックで詳細</span>
+    </div>
+  </main>
+
+  <!-- ===== DETAIL PANEL ===== -->
+  <aside class="detail-panel hidden" id="detail-panel">
+    <div class="detail-header">
+      <div class="detail-title" id="detail-title"></div>
+      <button class="close-btn" onclick="hideDetail()">×</button>
+    </div>
+    <div class="detail-body">
+      <div class="detail-meta" id="detail-meta"></div>
+      <p class="detail-description" id="detail-description"></p>
+      <div class="detail-tags" id="detail-tags"></div>
+      <pre id="detail-body-text" style="font-size:0.78rem;color:var(--text-muted);white-space:pre-wrap;margin-bottom:16px;font-family:var(--font)"></pre>
+      <a class="detail-link" id="detail-link" href="#" target="_blank" rel="noopener">
+        🔗 ソースを開く
+      </a>
+    </div>
+  </aside>
+
+</div>
+
+<script src="js/timeline.js"></script>
+</body>
+</html>
