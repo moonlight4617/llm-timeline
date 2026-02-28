@@ -1,0 +1,98 @@
+# LLM Timeline - 収集設定
+
+# 収集スケジュール（GitHub Actions）
+schedule:
+  cron: "0 1 * * *"  # 毎日 UTC 01:00（JST 10:00）
+
+# RSSフィード
+rss_feeds:
+  - name: OpenAI News
+    company: openai
+    url: https://openai.com/news/rss.xml
+  - name: Anthropic News
+    company: anthropic
+    url: https://www.anthropic.com/rss.xml
+  - name: Google DeepMind Blog
+    company: google
+    url: https://deepmind.google/blog/rss/
+  - name: Meta AI Blog
+    company: meta
+    url: https://ai.meta.com/blog/rss/
+  - name: Hugging Face Blog
+    company: huggingface
+    url: https://huggingface.co/blog/feed.xml
+  - name: Mistral News
+    company: mistral
+    url: https://mistral.ai/news/rss
+
+# arXiv設定
+arxiv:
+  enabled: true
+  categories:
+    - cs.CL   # Computation and Language
+    - cs.AI   # Artificial Intelligence
+    - cs.LG   # Machine Learning
+  keywords:
+    - GPT
+    - Claude
+    - Gemini
+    - LLaMA
+    - transformer
+    - large language model
+    - reasoning model
+    - chain-of-thought
+  max_results: 10
+  importance_keywords:  # これらを含む論文はhigh扱い
+    - GPT-4
+    - Claude 3
+    - Gemini Ultra
+    - attention is all you need
+
+# ニュースAPI設定
+news:
+  enabled: false  # NewsAPI_keyが設定されたら true に変更
+  api_key_env: NEWSAPI_KEY
+  keywords:
+    - large language model
+    - GPT
+    - Claude
+    - Gemini
+    - LLM release
+  sources:
+    - techcrunch
+    - wired
+    - the-verge
+  max_per_run: 20
+
+# Twitter/X API設定
+twitter:
+  enabled: false  # TWITTER_BEARER_TOKENが設定されたら true に変更
+  bearer_token_env: TWITTER_BEARER_TOKEN
+  tracked_users:
+    - sama          # Sam Altman
+    - DarioAmodei   # Dario Amodei
+    - demishassabis # Demis Hassabis
+    - ylecun        # Yann LeCun
+    - ilyasut       # Ilya Sutskever
+    - geoffreyhinton # Geoffrey Hinton
+    - elonmusk      # Elon Musk
+    - jenshwang     # Jensen Huang
+  ai_keywords:      # ツイートフィルタ（これらを含む発言のみ保存）
+    - AI
+    - LLM
+    - GPT
+    - Claude
+    - Gemini
+    - AGI
+    - model
+    - safety
+    - intelligence
+    - neural
+  max_per_user: 5   # 1回の収集で1ユーザーあたり最大取得数
+
+# 重複排除
+dedup:
+  key: source_url   # このフィールドで重複チェック
+
+# 自動収集イベントのデフォルト importance
+default_importance: medium

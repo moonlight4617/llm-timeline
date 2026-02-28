@@ -1,0 +1,80 @@
+persons:
+  sam_altman:
+    name: Sam Altman
+    role: CEO
+    company: openai
+    twitter_handle: sama
+    twitter_id: null  # X API Bearer Tokenで取得後に設定
+    description: OpenAI CEO。ChatGPT・GPT-4を世に送り出した実業家
+
+  dario_amodei:
+    name: Dario Amodei
+    role: CEO & Co-founder
+    company: anthropic
+    twitter_handle: DarioAmodei
+    twitter_id: null
+    description: Anthropic共同創業者CEO。元OpenAI VP of Research
+
+  daniela_amodei:
+    name: Daniela Amodei
+    role: President & Co-founder
+    company: anthropic
+    twitter_handle: danielaamodei
+    twitter_id: null
+    description: Anthropic共同創業者President。
+
+  demis_hassabis:
+    name: Demis Hassabis
+    role: CEO
+    company: google
+    twitter_handle: demishassabis
+    twitter_id: null
+    description: Google DeepMind CEO。AlphaFold2でノーベル化学賞受賞（2024年）
+
+  yann_lecun:
+    name: Yann LeCun
+    role: Chief AI Scientist
+    company: meta
+    twitter_handle: ylecun
+    twitter_id: null
+    description: Meta AI主任科学者。深層学習のパイオニア。AGIの方向性についてOpenAIと異論
+
+  ilya_sutskever:
+    name: Ilya Sutskever
+    role: Founder & Chief Scientist
+    company: ssi  # Safe Superintelligence Inc.
+    twitter_handle: ilyasut
+    twitter_id: null
+    description: Safe Superintelligence設立者。元OpenAI共同創業者・Chief Scientist
+
+  geoffrey_hinton:
+    name: Geoffrey Hinton
+    role: Independent Researcher
+    company: null
+    twitter_handle: geoffreyhinton
+    twitter_id: null
+    description: 深層学習の父。Googleを退職後AIリスクを警告。ノーベル物理学賞受賞（2024年）
+
+  elon_musk:
+    name: Elon Musk
+    role: Founder & CEO
+    company: xai
+    twitter_handle: elonmusk
+    twitter_id: null
+    description: xAI創業者。Tesla・SpaceX CEO。元OpenAI共同創業者
+
+  jensen_huang:
+    name: Jensen Huang
+    role: CEO
+    company: nvidia
+    twitter_handle: jenshwang
+    twitter_id: null
+    description: NVIDIA CEO。AI向けGPUの普及を牽引したLLM時代のインフラ立役者
+
+  greg_brockman:
+    name: Greg Brockman
+    role: President
+    company: openai
+    twitter_handle: gdb
+    twitter_id: null
+    description: OpenAI共同創業者President。技術面をリード

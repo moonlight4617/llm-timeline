@@ -1,0 +1,72 @@
+companies:
+  openai:
+    name: OpenAI
+    color: "#00A67E"
+    url: https://openai.com
+    blog_rss: https://openai.com/news/rss.xml
+    founded: 2015
+    description: ChatGPT・GPTシリーズの開発元
+
+  anthropic:
+    name: Anthropic
+    color: "#D4A017"
+    url: https://www.anthropic.com
+    blog_rss: https://www.anthropic.com/rss.xml
+    founded: 2021
+    description: Claudeシリーズの開発元
+
+  google:
+    name: Google DeepMind
+    color: "#4285F4"
+    url: https://deepmind.google
+    blog_rss: https://deepmind.google/blog/rss/
+    founded: 2010
+    description: Gemini・PaLMシリーズの開発元
+
+  meta:
+    name: Meta AI
+    color: "#0866FF"
+    url: https://ai.meta.com
+    blog_rss: https://ai.meta.com/blog/rss/
+    founded: 2013
+    description: Llamaシリーズのオープンウェイトモデル開発元
+
+  mistral:
+    name: Mistral AI
+    color: "#FF6B6B"
+    url: https://mistral.ai
+    blog_rss: https://mistral.ai/news/rss
+    founded: 2023
+    description: ヨーロッパ発の高性能LLM開発元
+
+  xai:
+    name: xAI
+    color: "#1DA1F2"
+    url: https://x.ai
+    blog_rss: null
+    founded: 2023
+    description: Elon MuskによるGrokシリーズの開発元
+
+  deepseek:
+    name: DeepSeek
+    color: "#7C3AED"
+    url: https://www.deepseek.com
+    blog_rss: null
+    founded: 2023
+    description: 中国発の高コスパオープンウェイトLLM開発元
+
+  huggingface:
+    name: Hugging Face
+    color: "#FF9D00"
+    url: https://huggingface.co
+    blog_rss: https://huggingface.co/blog/feed.xml
+    founded: 2016
+    description: AIモデルのオープンプラットフォーム
+
+  nvidia:
+    name: NVIDIA
+    color: "#76B900"
+    url: https://www.nvidia.com
+    blog_rss: null
+    founded: 1993
+    description: AI向けGPUインフラの主要プロバイダー
