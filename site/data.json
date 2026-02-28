@@ -1,23 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-02-25T05:40:49.706399Z",
-    "total_events": 57,
+    "generated_at": "2026-02-28T00:31:38.203711Z",
+    "total_events": 87,
     "type_counts": {
-      "paper": 4,
+      "paper": 14,
       "model_release": 39,
-      "announcement": 11,
+      "announcement": 31,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 21,
+      "openai": 31,
       "anthropic": 10,
       "meta": 6,
-      "other": 5,
+      "other": 15,
       "mistral": 3,
       "xai": 1,
-      "deepseek": 2
+      "deepseek": 2,
+      "huggingface": 10
     }
   },
   "companies": [
@@ -1468,6 +1469,646 @@
       "company_color": "#00A67E",
       "person_name": "Sam Altman",
       "type_icon": "🤖"
+    },
+    {
+      "id": "2026-02-05_introducing-sygra-studio",
+      "date": "2026-02-05",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Introducing SyGra Studio",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-09_transformersjs-v4-preview-now-available-on-npm",
+      "date": "2026-02-09",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Transformers.js v4 Preview: Now Available on NPM!",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/transformersjs-v4",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-12_openenv-in-practice-evaluating-tool-using-agents-i",
+      "date": "2026-02-12",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/openenv-turing",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-13_custom-kernels-for-all-from-codex-and-claude",
+      "date": "2026-02-13",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Custom Kernels for All from Codex and Claude",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-18_ibm-and-uc-berkeley-diagnose-why-enterprise-agents",
+      "date": "2026-02-18",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-18_one-shot-any-web-app-with-gradios-grhtml",
+      "date": "2026-02-18",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "One-Shot Any Web App with Gradio's gr.HTML",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-20_ggml-and-llamacpp-join-hf-to-ensure-the-long-term-",
+      "date": "2026-02-20",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ggml-joins-hf",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-20_train-ai-models-with-unsloth-and-hugging-face-jobs",
+      "date": "2026-02-20",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/unsloth-jobs",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-23_why-we-no-longer-evaluate-swe-bench-verified",
+      "date": "2026-02-23",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Why we no longer evaluate SWE-bench Verified",
+      "description": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+      "source_url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-24_arvind-kc-appointed-chief-people-officer",
+      "date": "2026-02-24",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Arvind KC appointed Chief People Officer",
+      "description": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
+      "source_url": "https://openai.com/index/arvind-kc-chief-people-officer",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-24_deploying-open-source-vision-language-models-vlm-o",
+      "date": "2026-02-24",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-25_disrupting-malicious-uses-of-ai-february-2026",
+      "date": "2026-02-25",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Disrupting malicious uses of AI | February 2026",
+      "description": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
+      "source_url": "https://openai.com/index/disrupting-malicious-ai-uses",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-26_dygnrole-modeling-asymmetry-in-dynamic-graphs-with",
+      "date": "2026-02-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "DyGnROLE: Modeling Asymmetry in Dynamic Graphs with Node-Role-Oriented Latent Encoding",
+      "description": "Real-world dynamic graphs are often directed, with source and destination nodes exhibiting asymmetrical behavioral patterns and temporal dynamics. However, existing dynamic graph architectures largely rely on shared parameters for processing source and destination nodes, with limited or no system...",
+      "source_url": "http://arxiv.org/abs/2602.23135v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-02-26_efficient-encoder-free-fourier-based-3d-large-mult",
+      "date": "2026-02-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Efficient Encoder-Free Fourier-based 3D Large Multimodal Model",
+      "description": "Large Multimodal Models (LMMs) that process 3D data typically rely on heavy, pre-trained visual encoders to extract geometric features. While recent 2D LMMs have begun to eliminate such encoders for efficiency and scalability, extending this paradigm to 3D remains challenging due to the unordered...",
+      "source_url": "http://arxiv.org/abs/2602.23153v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-02-26_efficient-real-time-adaptation-of-roms-for-unstead",
+      "date": "2026-02-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Efficient Real-Time Adaptation of ROMs for Unsteady Flows Using Data Assimilation",
+      "description": "We propose an efficient retraining strategy for a parameterized Reduced Order Model (ROM) that attains accuracy comparable to full retraining while requiring only a fraction of the computational time and relying solely on sparse observations of the full system. The architecture employs an encode-...",
+      "source_url": "http://arxiv.org/abs/2602.23188v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-02-26_esaa-event-sourcing-for-autonomous-agents-in-llm-b",
+      "date": "2026-02-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "ESAA: Event Sourcing for Autonomous Agents in LLM-Based Software Engineering",
+      "description": "Autonomous agents based on Large Language Models (LLMs) have evolved from reactive assistants to systems capable of planning, executing actions via tools, and iterating over environment observations. However, they remain vulnerable to structural limitations: lack of native state, context degradat...",
+      "source_url": "http://arxiv.org/abs/2602.23193v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-02-26_fine-tuning-without-forgetting-in-context-learning",
+      "date": "2026-02-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Fine-Tuning Without Forgetting In-Context Learning: A Theoretical Analysis of Linear Attention Models",
+      "description": "Transformer-based large language models exhibit in-context learning, enabling adaptation to downstream tasks via few-shot prompting with demonstrations. In practice, such models are often fine-tuned to improve zero-shot performance on downstream tasks, allowing them to solve tasks without example...",
+      "source_url": "http://arxiv.org/abs/2602.23197v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-02-26_flashoptim-optimizers-for-memory-efficient-trainin",
+      "date": "2026-02-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "FlashOptim: Optimizers for Memory Efficient Training",
+      "description": "Standard mixed-precision training of neural networks requires many bytes of accelerator memory for each model parameter. These bytes reflect not just the parameter itself, but also its gradient and one or more optimizer state variables. With each of these values typically requiring 4 bytes, train...",
+      "source_url": "http://arxiv.org/abs/2602.23349v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-02-26_innerq-hardware-aware-tuning-free-quantization-of-",
+      "date": "2026-02-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "InnerQ: Hardware-aware Tuning-free Quantization of KV Cache for Large Language Models",
+      "description": "Reducing the hardware footprint of large language models (LLMs) during decoding is critical for efficient long-sequence generation. A key bottleneck is the key-value (KV) cache, whose size scales with sequence length and easily dominates the memory footprint of the model. Previous work proposed q...",
+      "source_url": "http://arxiv.org/abs/2602.23200v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-02-26_invariant-transformation-and-resampling-based-epis",
+      "date": "2026-02-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Invariant Transformation and Resampling based Epistemic-Uncertainty Reduction",
+      "description": "An artificial intelligence (AI) model can be viewed as a function that maps inputs to outputs in high-dimensional spaces. Once designed and well trained, the AI model is applied for inference. However, even optimized AI models can produce inference errors due to aleatoric and epistemic uncertaint...",
+      "source_url": "http://arxiv.org/abs/2602.23315v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-02-26_metaothello-a-controlled-study-of-multiple-world-m",
+      "date": "2026-02-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "MetaOthello: A Controlled Study of Multiple World Models in Transformers",
+      "description": "Foundation models must handle multiple generative processes, yet mechanistic interpretability largely studies capabilities in isolation; it remains unclear how a single transformer organizes multiple, potentially conflicting 'world models'. Previous experiments on Othello playing neural-networks ...",
+      "source_url": "http://arxiv.org/abs/2602.23164v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-02-26_mixture-of-experts-moes-in-transformers",
+      "date": "2026-02-26",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Mixture of Experts (MoEs) in Transformers",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/moe-transformers",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-26_on-sample-efficient-generalized-planning-via-learn",
+      "date": "2026-02-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "On Sample-Efficient Generalized Planning via Learned Transition Models",
+      "description": "Generalized planning studies the construction of solution strategies that generalize across families of planning problems sharing a common domain model, formally defined by a transition function $γ: S \times A \rightarrow S$. Classical approaches achieve such generalization through symbolic abstr...",
+      "source_url": "http://arxiv.org/abs/2602.23148v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-02-26_openai-codex-and-figma-launch-seamless-code-to-des",
+      "date": "2026-02-26",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+      "description": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
+      "source_url": "https://openai.com/index/figma-partnership",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-26_pacific-northwest-national-laboratory-and-openai-p",
+      "date": "2026-02-26",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+      "description": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+      "source_url": "https://openai.com/index/pacific-northwest-national-laboratory",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-27_an-update-on-our-mental-health-related-work",
+      "date": "2026-02-27",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "An update on our mental health-related work",
+      "description": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments.",
+      "source_url": "https://openai.com/index/update-on-mental-health-related-work",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-27_introducing-the-stateful-runtime-environment-for-a",
+      "date": "2026-02-27",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+      "description": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+      "source_url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-27_joint-statement-from-openai-and-microsoft",
+      "date": "2026-02-27",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Joint Statement from OpenAI and Microsoft",
+      "description": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+      "source_url": "https://openai.com/index/continuing-microsoft-partnership",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-27_openai-and-amazon-announce-strategic-partnership",
+      "date": "2026-02-27",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "OpenAI and Amazon announce strategic partnership",
+      "description": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+      "source_url": "https://openai.com/index/amazon-partnership",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-27_scaling-ai-for-everyone",
+      "date": "2026-02-27",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Scaling AI for everyone",
+      "description": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+      "source_url": "https://openai.com/index/scaling-ai-for-everyone",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
     }
   ]
 }
