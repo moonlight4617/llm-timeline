@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-02-28T01:35:56.802735Z",
-    "total_events": 87,
+    "generated_at": "2026-03-01T01:36:22.593381Z",
+    "total_events": 88,
     "type_counts": {
       "paper": 14,
       "model_release": 39,
-      "announcement": 31,
+      "announcement": 32,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 31,
+      "openai": 32,
       "anthropic": 10,
       "meta": 6,
       "other": 15,
@@ -2098,6 +2098,27 @@
       "title": "Scaling AI for everyone",
       "description": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
       "source_url": "https://openai.com/index/scaling-ai-for-everyone",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-28_our-agreement-with-the-department-of-war",
+      "date": "2026-02-28",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Our agreement with the Department of War",
+      "description": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+      "source_url": "https://openai.com/index/our-agreement-with-the-department-of-war",
       "tags": [
         "openai",
         "auto-collected"
