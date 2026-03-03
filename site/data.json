@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-03-02T01:37:42.359664Z",
-    "total_events": 88,
+    "generated_at": "2026-03-03T01:37:38.150292Z",
+    "total_events": 98,
     "type_counts": {
-      "paper": 14,
+      "paper": 24,
       "model_release": 39,
       "announcement": 32,
       "statement": 2,
@@ -14,7 +14,7 @@
       "openai": 32,
       "anthropic": 10,
       "meta": 6,
-      "other": 15,
+      "other": 25,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
@@ -2006,6 +2006,28 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-02-27_agenticocr-parsing-only-what-you-need-for-efficien",
+      "date": "2026-02-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AgenticOCR: Parsing Only What You Need for Efficient Retrieval-Augmented Generation",
+      "description": "The expansion of retrieval-augmented generation (RAG) into multimodal domains has intensified the challenge for processing complex visual documents, such as financial reports. While page-level chunking and retrieval is a natural starting point, it creates a critical bottleneck: delivering entire ...",
+      "source_url": "http://arxiv.org/abs/2602.24134v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-02-27_an-update-on-our-mental-health-related-work",
       "date": "2026-02-27",
       "type": "announcement",
@@ -2025,6 +2047,72 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-27_cuda-agent-large-scale-agentic-rl-for-high-perform",
+      "date": "2026-02-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
+      "description": "GPU kernel optimization is fundamental to modern deep learning but remains a highly specialized task requiring deep hardware expertise. Despite strong performance in general programming, large language models (LLMs) remain uncompetitive with compiler-based systems such as torch.compile for CUDA k...",
+      "source_url": "http://arxiv.org/abs/2602.24286v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-02-27_dare-bench-evaluating-modeling-and-instruction-fid",
+      "date": "2026-02-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science",
+      "description": "The fast-growing demands in using Large Language Models (LLMs) to tackle complex multi-step data science tasks create an emergent need for accurate benchmarking. There are two major gaps in existing benchmarks: (i) the lack of standardized, process-aware evaluation that captures instruction adher...",
+      "source_url": "http://arxiv.org/abs/2602.24288v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-02-27_faultxformer-a-transformer-encoder-based-fault-cla",
+      "date": "2026-02-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "FaultXformer: A Transformer-Encoder Based Fault Classification and Location Identification model in PMU-Integrated Active Electrical Distribution System",
+      "description": "Accurate fault detection and localization in electrical distribution systems is crucial, especially with the increasing integration of distributed energy resources (DERs), which inject greater variability and complexity into grid operations. In this study, FaultXformer is proposed, a Transformer ...",
+      "source_url": "http://arxiv.org/abs/2602.24254v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     },
     {
       "id": "2026-02-27_introducing-the-stateful-runtime-environment-for-a",
@@ -2069,6 +2157,72 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-02-27_memory-caching-rnns-with-growing-memory",
+      "date": "2026-02-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Memory Caching: RNNs with Growing Memory",
+      "description": "Transformers have been established as the de-facto backbones for most recent advances in sequence modeling, mainly due to their growing memory capacity that scales with the context length. While plausible for retrieval tasks, it causes quadratic complexity and so has motivated recent studies to e...",
+      "source_url": "http://arxiv.org/abs/2602.24281v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-02-27_mode-seeking-meets-mean-seeking-for-fast-long-vide",
+      "date": "2026-02-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Mode Seeking meets Mean Seeking for Fast Long Video Generation",
+      "description": "Scaling video generation from seconds to minutes faces a critical bottleneck: while short-video data is abundant and high-fidelity, coherent long-form data is scarce and limited to narrow domains. To address this, we propose a training paradigm where Mode Seeking meets Mean Seeking, decoupling lo...",
+      "source_url": "http://arxiv.org/abs/2602.24289v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-02-27_muvit-multi-resolution-vision-transformers-for-lea",
+      "date": "2026-02-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "MuViT: Multi-Resolution Vision Transformers for Learning Across Scales in Microscopy",
+      "description": "Modern microscopy routinely produces gigapixel images that contain structures across multiple spatial scales, from fine cellular morphology to broader tissue organization. Many analysis tasks require combining these scales, yet most vision models operate at a single resolution or derive multi-sca...",
+      "source_url": "http://arxiv.org/abs/2602.24222v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-02-27_openai-and-amazon-announce-strategic-partnership",
       "date": "2026-02-27",
       "type": "announcement",
@@ -2090,6 +2244,28 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-02-27_ravit-resolution-adaptive-vision-transformer",
+      "date": "2026-02-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "RAViT: Resolution-Adaptive Vision Transformer",
+      "description": "Vision transformers have recently made a breakthrough in computer vision showing excellent performance in terms of precision for numerous applications. However, their computational cost is very high compared to alternative approaches such as Convolutional Neural Networks. To address this problem,...",
+      "source_url": "http://arxiv.org/abs/2602.24159v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-02-27_scaling-ai-for-everyone",
       "date": "2026-02-27",
       "type": "announcement",
@@ -2109,6 +2285,50 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-02-27_taming-momentum-rethinking-optimizer-states-throug",
+      "date": "2026-02-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Taming Momentum: Rethinking Optimizer States Through Low-Rank Approximation",
+      "description": "Modern optimizers like Adam and Muon are central to training large language models, but their reliance on first- and second-order momenta introduces significant memory overhead, which constrains scalability and computational efficiency. In this work, we reframe the exponential moving average (EMA...",
+      "source_url": "http://arxiv.org/abs/2602.24283v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-02-27_what-you-read-is-what-you-classify-highlighting-at",
+      "date": "2026-02-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "What You Read is What You Classify: Highlighting Attributions to Text and Text-Like Inputs",
+      "description": "At present, there are no easily understood explainable artificial intelligence (AI) methods for discrete token inputs, like text. Most explainable AI techniques do not extend well to token sequences, where both local and global features matter, because state-of-the-art models, like transformers, ...",
+      "source_url": "http://arxiv.org/abs/2602.24149v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     },
     {
       "id": "2026-02-28_our-agreement-with-the-department-of-war",
