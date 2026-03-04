@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-03-03T01:37:38.150292Z",
-    "total_events": 98,
+    "generated_at": "2026-03-04T01:37:11.372164Z",
+    "total_events": 111,
     "type_counts": {
-      "paper": 24,
+      "paper": 34,
       "model_release": 39,
-      "announcement": 32,
+      "announcement": 35,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 32,
+      "openai": 34,
       "anthropic": 10,
       "meta": 6,
-      "other": 25,
+      "other": 35,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 10
+      "huggingface": 11
     }
   },
   "companies": [
@@ -2348,6 +2348,289 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-02_cognitive-prosthetic-an-ai-enabled-multimodal-syst",
+      "date": "2026-03-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Cognitive Prosthetic: An AI-Enabled Multimodal System for Episodic Recall in Knowledge Work",
+      "description": "Modern knowledge workplaces increasingly strain human episodic memory as individuals navigate fragmented attention, overlapping meetings, and multimodal information streams. Existing workplace tools provide partial support through note-taking or analytics but rarely integrate cognitive, physiolog...",
+      "source_url": "http://arxiv.org/abs/2603.02072v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-02_frontier-models-can-take-actions-at-low-probabilit",
+      "date": "2026-03-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Frontier Models Can Take Actions at Low Probabilities",
+      "description": "Pre-deployment evaluations inspect only a limited sample of model actions. A malicious model seeking to evade oversight could exploit this by randomizing when to 'defect': misbehaving so rarely that no malicious actions are observed during evaluation, but often enough that they occur eventually i...",
+      "source_url": "http://arxiv.org/abs/2603.02202v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-02_gendb-the-next-generation-of-query-processing-synt",
+      "date": "2026-03-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "GenDB: The Next Generation of Query Processing -- Synthesized, Not Engineered",
+      "description": "Traditional query processing relies on engines that are carefully optimized and engineered by many experts. However, new techniques and user requirements evolve rapidly, and existing systems often cannot keep pace. At the same time, these systems are difficult to extend due to their internal comp...",
+      "source_url": "http://arxiv.org/abs/2603.02081v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-02_how-small-can-6g-reason-scaling-tiny-language-mode",
+      "date": "2026-03-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "How Small Can 6G Reason? Scaling Tiny Language Models for AI-Native Networks",
+      "description": "Emerging 6G visions, reflected in ongoing standardization efforts within 3GPP, IETF, ETSI, ITU-T, and the O-RAN Alliance, increasingly characterize networks as AI-native systems in which high-level semantic reasoning layers operate above standardized control and data-plane functions. Although fro...",
+      "source_url": "http://arxiv.org/abs/2603.02156v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-02_kiwi-edit-versatile-video-editing-via-instruction-",
+      "date": "2026-03-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Kiwi-Edit: Versatile Video Editing via Instruction and Reference Guidance",
+      "description": "Instruction-based video editing has witnessed rapid progress, yet current methods often struggle with precise visual control, as natural language is inherently limited in describing complex visual nuances. Although reference-guided editing offers a robust solution, its potential is currently bott...",
+      "source_url": "http://arxiv.org/abs/2603.02175v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-02_liftavatar-kinematic-space-completion-for-expressi",
+      "date": "2026-03-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "LiftAvatar: Kinematic-Space Completion for Expression-Controlled 3D Gaussian Avatar Animation",
+      "description": "We present LiftAvatar, a new paradigm that completes sparse monocular observations in kinematic space (e.g., facial expressions and head pose) and uses the completed signals to drive high-fidelity avatar animation. LiftAvatar is a fine-grained, expression-controllable large-scale video diffusion ...",
+      "source_url": "http://arxiv.org/abs/2603.02129v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-02_longrlvr-long-context-reinforcement-learning-requi",
+      "date": "2026-03-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards",
+      "description": "Reinforcement Learning with Verifiable Rewards (RLVR) has significantly advanced the reasoning capabilities of Large Language Models (LLMs) by optimizing them against factual outcomes. However, this paradigm falters in long-context scenarios, as its reliance on internal parametric knowledge is il...",
+      "source_url": "http://arxiv.org/abs/2603.02146v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-02_organizing-orchestrating-and-benchmarking-agent-sk",
+      "date": "2026-03-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Organizing, Orchestrating, and Benchmarking Agent Skills at Ecosystem Scale",
+      "description": "The rapid proliferation of Claude agent skills has raised the central question of how to effectively leverage, manage, and scale the agent skill ecosystem. In this paper, we propose AgentSkillOS, the first principled framework for skill selection, orchestration, and ecosystem-level management. Ag...",
+      "source_url": "http://arxiv.org/abs/2603.02176v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-02_pencil-puzzle-bench-a-benchmark-for-multi-step-ver",
+      "date": "2026-03-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Pencil Puzzle Bench: A Benchmark for Multi-Step Verifiable Reasoning",
+      "description": "We introduce Pencil Puzzle Bench, a framework for evaluating large language model reasoning through pencil puzzles, a family of constraint-satisfaction problems closely related to NP-complete problems, with deterministic, step-level verification. From a database of 62,231 puzzles across 94 variet...",
+      "source_url": "http://arxiv.org/abs/2603.02119v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-02_reasoning-core-a-scalable-procedural-data-generati",
+      "date": "2026-03-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training",
+      "description": "Training on verifiable symbolic data is a promising way to expand the reasoning frontier of language models beyond what standard pre-training corpora provide. Yet existing procedural generators often rely on fixed puzzles or templates and do not deliver the distributional breadth needed at scale....",
+      "source_url": "http://arxiv.org/abs/2603.02208v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-03_gpt-53-instant-smoother-more-useful-everyday-conve",
+      "date": "2026-03-03",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+      "description": "OpenAI Newsからの自動収集記事。",
+      "source_url": "https://openai.com/index/gpt-5-3-instant",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-03_gpt-53-instant-system-card",
+      "date": "2026-03-03",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "GPT-5.3 Instant System Card",
+      "description": "OpenAI Newsからの自動収集記事。",
+      "source_url": "https://openai.com/index/gpt-5-3-instant-system-card",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-03_prx-part-3-training-a-text-to-image-model-in-24h",
+      "date": "2026-03-03",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/Photoroom/prx-part3",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
     }
