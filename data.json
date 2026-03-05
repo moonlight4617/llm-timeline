@@ -1,20 +1,20 @@
 {
   "meta": {
-    "generated_at": "2026-03-04T01:37:11.372164Z",
-    "total_events": 111,
+    "generated_at": "2026-03-05T01:37:28.073332Z",
+    "total_events": 124,
     "type_counts": {
-      "paper": 34,
+      "paper": 44,
       "model_release": 39,
-      "announcement": 35,
+      "announcement": 38,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 34,
+      "openai": 37,
       "anthropic": 10,
       "meta": 6,
-      "other": 35,
+      "other": 45,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
@@ -2572,6 +2572,94 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-03-03_beyond-task-completion-revealing-corrupt-success-i",
+      "date": "2026-03-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Beyond Task Completion: Revealing Corrupt Success in LLM Agents through Procedure-Aware Evaluation",
+      "description": "Large Language Model (LLM)-based agents are increasingly adopted in high-stakes settings, but current benchmarks evaluate mainly whether a task was completed, not how. We introduce Procedure-Aware Evaluation (PAE), a framework that formalizes agent procedures as structured observations and expose...",
+      "source_url": "http://arxiv.org/abs/2603.03116v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-03_evaluating-performance-drift-from-model-switching-",
+      "date": "2026-03-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Evaluating Performance Drift from Model Switching in Multi-Turn LLM Systems",
+      "description": "Deployed multi-turn LLM systems routinely switch models mid-interaction due to upgrades, cross-provider routing, and fallbacks. Such handoffs create a context mismatch: the model generating later turns must condition on a dialogue prefix authored by a different model, potentially inducing silent ...",
+      "source_url": "http://arxiv.org/abs/2603.03111v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-03_feast-retrieval-augmented-multi-hierarchical-food-",
+      "date": "2026-03-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "FEAST: Retrieval-Augmented Multi-Hierarchical Food Classification for the FoodEx2 System",
+      "description": "Hierarchical text classification (HTC) and extreme multi-label classification (XML) tasks face compounded challenges from complex label interdependencies, data sparsity, and extreme output dimensions. These challenges are exemplified in the European Food Safety Authority's FoodEx2 system-a standa...",
+      "source_url": "http://arxiv.org/abs/2603.03176v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-03_from-complex-dynamics-to-dynformer-rethinking-tran",
+      "date": "2026-03-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "From Complex Dynamics to DynFormer: Rethinking Transformers for PDEs",
+      "description": "Partial differential equations (PDEs) are fundamental for modeling complex physical systems, yet classical numerical solvers face prohibitive computational costs in high-dimensional and multi-scale regimes. While Transformer-based neural operators have emerged as powerful data-driven alternatives...",
+      "source_url": "http://arxiv.org/abs/2603.03112v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-03-03_gpt-53-instant-smoother-more-useful-everyday-conve",
       "date": "2026-03-03",
       "type": "announcement",
@@ -2614,6 +2702,72 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-03-03_inherited-goal-drift-contextual-pressure-can-under",
+      "date": "2026-03-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Inherited Goal Drift: Contextual Pressure Can Undermine Agentic Goals",
+      "description": "The accelerating adoption of language models (LMs) as agents for deployment in long-context tasks motivates a thorough understanding of goal drift: agents' tendency to deviate from an original objective. While prior-generation language model agents have been shown to be susceptible to drift, the ...",
+      "source_url": "http://arxiv.org/abs/2603.03258v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-03_multi-scale-adaptive-neighborhood-awareness-transf",
+      "date": "2026-03-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Multi-Scale Adaptive Neighborhood Awareness Transformer For Graph Fraud Detection",
+      "description": "Graph fraud detection (GFD) is crucial for identifying fraudulent behavior within graphs, benefiting various domains such as financial networks and social media. Existing methods based on graph neural networks (GNNs) have succeeded considerably due to their effective expressive capacity for graph...",
+      "source_url": "http://arxiv.org/abs/2603.03106v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-03_on-the-expressive-power-of-transformers-for-maxout",
+      "date": "2026-03-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "On the Expressive Power of Transformers for Maxout Networks and Continuous Piecewise Linear Functions",
+      "description": "Transformer networks have achieved remarkable empirical success across a wide range of applications, yet their theoretical expressive power remains insufficiently understood. In this paper, we study the expressive capabilities of Transformer architectures. We first establish an explicit approxima...",
+      "source_url": "http://arxiv.org/abs/2603.03084v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-03-03_prx-part-3-training-a-text-to-image-model-in-24h",
       "date": "2026-03-03",
       "type": "announcement",
@@ -2631,6 +2785,135 @@
       "body": "",
       "company_name": "Hugging Face",
       "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-03_tikzilla-scaling-text-to-tikz-with-high-quality-da",
+      "date": "2026-03-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "TikZilla: Scaling Text-to-TikZ with High-Quality Data and Reinforcement Learning",
+      "description": "Large language models (LLMs) are increasingly used to assist scientists across diverse workflows. A key challenge is generating high-quality figures from textual descriptions, often represented as TikZ programs that can be rendered as scientific images. Prior research has proposed a variety of da...",
+      "source_url": "http://arxiv.org/abs/2603.03072v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-03_tinyicenet-low-power-sar-sea-ice-segmentation-for-",
+      "date": "2026-03-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "TinyIceNet: Low-Power SAR Sea Ice Segmentation for On-Board FPGA Inference",
+      "description": "Accurate sea ice mapping is essential for safe maritime navigation in polar regions, where rapidly changing ice conditions require timely and reliable information. While Sentinel-1 Synthetic Aperture Radar (SAR) provides high-resolution, all-weather observations of sea ice, conventional ground-ba...",
+      "source_url": "http://arxiv.org/abs/2603.03075v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-03_unig2u-bench-do-unified-models-advance-multimodal-",
+      "date": "2026-03-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?",
+      "description": "Unified multimodal models have recently demonstrated strong generative capabilities, yet whether and when generation improves understanding remains unclear. Existing benchmarks lack a systematic exploration of the specific tasks where generation facilitates understanding. To this end, we introduc...",
+      "source_url": "http://arxiv.org/abs/2603.03241v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-04_extending-single-minus-amplitudes-to-gravitons",
+      "date": "2026-03-04",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Extending single-minus amplitudes to gravitons",
+      "description": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
+      "source_url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-04_how-axios-uses-ai-to-help-deliver-high-impact-loca",
+      "date": "2026-03-04",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How Axios uses AI to help deliver high-impact local journalism",
+      "description": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
+      "source_url": "https://openai.com/index/axios-allison-murphy",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-04_understanding-ai-and-learning-outcomes",
+      "date": "2026-03-04",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Understanding AI and learning outcomes",
+      "description": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+      "source_url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
     }
