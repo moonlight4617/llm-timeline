@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-03-05T01:37:28.073332Z",
-    "total_events": 124,
+    "generated_at": "2026-03-06T01:37:15.351253Z",
+    "total_events": 133,
     "type_counts": {
       "paper": 44,
       "model_release": 39,
-      "announcement": 38,
+      "announcement": 47,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 37,
+      "openai": 44,
       "anthropic": 10,
       "meta": 6,
       "other": 45,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 11
+      "huggingface": 13
     }
   },
   "companies": [
@@ -2905,6 +2905,195 @@
       "title": "Understanding AI and learning outcomes",
       "description": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
       "source_url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-05_bringing-robotics-ai-to-embedded-platforms-dataset",
+      "date": "2026-03-05",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-05_ensuring-ai-use-in-education-leads-to-opportunity",
+      "date": "2026-03-05",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Ensuring AI use in education leads to opportunity",
+      "description": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+      "source_url": "https://openai.com/index/ai-education-opportunity",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-05_gpt-54-thinking-system-card",
+      "date": "2026-03-05",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "GPT-5.4 Thinking System Card",
+      "description": "OpenAI Newsからの自動収集記事。",
+      "source_url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-05_introducing-chatgpt-for-excel-and-new-financial-da",
+      "date": "2026-03-05",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing ChatGPT for Excel and new financial data integrations",
+      "description": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
+      "source_url": "https://openai.com/index/chatgpt-for-excel",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-05_introducing-gpt-54",
+      "date": "2026-03-05",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing GPT-5.4",
+      "description": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+      "source_url": "https://openai.com/index/introducing-gpt-5-4",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-05_introducing-modular-diffusers-composable-building-",
+      "date": "2026-03-05",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/modular-diffusers",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-05_introducing-the-adoption-news-channel",
+      "date": "2026-03-05",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing the Adoption news channel",
+      "description": "Practical insights and frameworks to turn AI progress into business advantage",
+      "source_url": "https://openai.com/index/introducing-the-adoption-news-channel",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-05_reasoning-models-struggle-to-control-their-chains-",
+      "date": "2026-03-05",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+      "description": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+      "source_url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-05_the-five-ai-value-models-driving-business-reinvent",
+      "date": "2026-03-05",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "The five AI value models driving business reinvention",
+      "description": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+      "source_url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
       "tags": [
         "openai",
         "auto-collected"
