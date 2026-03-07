@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-03-06T01:37:15.351253Z",
-    "total_events": 133,
+    "generated_at": "2026-03-07T01:36:39.599337Z",
+    "total_events": 147,
     "type_counts": {
-      "paper": 44,
+      "paper": 54,
       "model_release": 39,
-      "announcement": 47,
+      "announcement": 51,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 44,
+      "openai": 47,
       "anthropic": 10,
       "meta": 6,
-      "other": 45,
+      "other": 55,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 13
+      "huggingface": 14
     }
   },
   "companies": [
@@ -2918,6 +2918,28 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-03-05_an-exploration-analysis-disambiguation-reasoning-f",
+      "date": "2026-03-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "An Exploration-Analysis-Disambiguation Reasoning Framework for Word Sense Disambiguation with Low-Parameter LLMs",
+      "description": "Word Sense Disambiguation (WSD) remains a key challenge in Natural Language Processing (NLP), especially when dealing with rare or domain-specific senses that are often misinterpreted. While modern high-parameter Large Language Models (LLMs) such as GPT-4-Turbo have shown state-of-the-art WSD per...",
+      "source_url": "http://arxiv.org/abs/2603.05400v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-03-05_bringing-robotics-ai-to-embedded-platforms-dataset",
       "date": "2026-03-05",
       "type": "announcement",
@@ -2958,6 +2980,28 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-05_flashattention-4-algorithm-and-kernel-pipelining-c",
+      "date": "2026-03-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling",
+      "description": "Attention, as a core layer of the ubiquitous Transformer architecture, is the bottleneck for large language models and long-context applications. While FlashAttention-3 optimized attention for Hopper GPUs through asynchronous execution and warp specialization, it primarily targets the H100 archit...",
+      "source_url": "http://arxiv.org/abs/2603.05451v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     },
     {
       "id": "2026-03-05_gpt-54-thinking-system-card",
@@ -3065,6 +3109,138 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-03-05_layer-by-layer-module-by-module-choose-both-for-op",
+      "date": "2026-03-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Layer by layer, module by module: Choose both for optimal OOD probing of ViT",
+      "description": "Recent studies have observed that intermediate layers of foundation models often yield more discriminative representations than the final layer. While initially attributed to autoregressive pretraining, this phenomenon has also been identified in models trained via supervised and discriminative s...",
+      "source_url": "http://arxiv.org/abs/2603.05280v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-05_med-v1-small-language-models-for-zero-shot-and-sca",
+      "date": "2026-03-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Med-V1: Small Language Models for Zero-shot and Scalable Biomedical Evidence Attribution",
+      "description": "Assessing whether an article supports an assertion is essential for hallucination detection and claim verification. While large language models (LLMs) have the potential to automate this task, achieving strong performance requires frontier models such as GPT-5 that are prohibitively expensive to ...",
+      "source_url": "http://arxiv.org/abs/2603.05308v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-05_mobilefetalclip-selective-repulsive-knowledge-dist",
+      "date": "2026-03-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "MobileFetalCLIP: Selective Repulsive Knowledge Distillation for Mobile Fetal Ultrasound Analysis",
+      "description": "Fetal ultrasound AI could transform prenatal care in low-resource settings, yet current foundation models exceed 300M visual parameters, precluding deployment on point-of-care devices. Standard knowledge distillation fails under such extreme capacity gaps (~26x), as compact students waste capacit...",
+      "source_url": "http://arxiv.org/abs/2603.05421v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-05_nctb-qa-a-large-scale-bangla-educational-question-",
+      "date": "2026-03-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "NCTB-QA: A Large-Scale Bangla Educational Question Answering Dataset and Benchmarking Performance",
+      "description": "Reading comprehension systems for low-resource languages face significant challenges in handling unanswerable questions. These systems tend to produce unreliable responses when correct answers are absent from context. To solve this problem, we introduce NCTB-QA, a large-scale Bangla question answ...",
+      "source_url": "http://arxiv.org/abs/2603.05462v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-05_poet-x-memory-efficient-llm-training-by-scaling-or",
+      "date": "2026-03-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation",
+      "description": "Efficient and stable training of large language models (LLMs) remains a core challenge in modern machine learning systems. To address this challenge, Reparameterized Orthogonal Equivalence Training (POET), a spectrum-preserving framework that optimizes each weight matrix through orthogonal equiva...",
+      "source_url": "http://arxiv.org/abs/2603.05500v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-05_progressive-residual-warmup-for-language-model-pre",
+      "date": "2026-03-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Progressive Residual Warmup for Language Model Pretraining",
+      "description": "Transformer architectures serve as the backbone for most modern Large Language Models, therefore their pretraining stability and convergence speed are of central concern. Motivated by the logical dependency of sequentially stacked layers, we propose Progressive Residual Warmup (ProRes) for langua...",
+      "source_url": "http://arxiv.org/abs/2603.05369v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-03-05_reasoning-models-struggle-to-control-their-chains-",
       "date": "2026-03-05",
       "type": "announcement",
@@ -3086,6 +3262,28 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-03-05_reasoning-theater-disentangling-model-beliefs-from",
+      "date": "2026-03-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Reasoning Theater: Disentangling Model Beliefs from Chain-of-Thought",
+      "description": "We provide evidence of performative chain-of-thought (CoT) in reasoning models, where a model becomes strongly confident in its final answer, but continues generating tokens without revealing its internal belief. Our analysis compares activation probing, early forced answering, and a CoT monitor ...",
+      "source_url": "http://arxiv.org/abs/2603.05488v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-03-05_the-five-ai-value-models-driving-business-reinvent",
       "date": "2026-03-05",
       "type": "announcement",
@@ -3094,6 +3292,112 @@
       "title": "The five AI value models driving business reinvention",
       "description": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
       "source_url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-05_the-spike-the-sparse-and-the-sink-anatomy-of-massi",
+      "date": "2026-03-05",
+      "type": "paper",
+      "company": null,
+      "person": "yann_lecun",
+      "title": "The Spike, the Sparse and the Sink: Anatomy of Massive Activations and Attention Sinks",
+      "description": "We study two recurring phenomena in Transformer language models: massive activations, in which a small number of tokens exhibit extreme outliers in a few channels, and attention sinks, in which certain tokens attract disproportionate attention mass regardless of semantic relevance. Prior work obs...",
+      "source_url": "http://arxiv.org/abs/2603.05498v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "Yann LeCun",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-06_codex-security-now-in-research-preview",
+      "date": "2026-03-06",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Codex Security: now in research preview",
+      "description": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+      "source_url": "https://openai.com/index/codex-security-now-in-research-preview",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-06_conversational-llm-evaluations-in-minutes-with-nvi",
+      "date": "2026-03-06",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/model-evaluation-skill",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-06_how-balyasny-asset-management-built-an-ai-research",
+      "date": "2026-03-06",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How Balyasny Asset Management built an AI research engine for investing",
+      "description": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+      "source_url": "https://openai.com/index/balyasny-asset-management",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-06_how-descript-enables-multilingual-video-dubbing-at",
+      "date": "2026-03-06",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How Descript enables multilingual video dubbing at scale",
+      "description": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+      "source_url": "https://openai.com/index/descript",
       "tags": [
         "openai",
         "auto-collected"
