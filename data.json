@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-03-08T01:36:54.199079Z",
-    "total_events": 147,
+    "generated_at": "2026-03-09T01:37:52.428952Z",
+    "total_events": 156,
     "type_counts": {
-      "paper": 54,
+      "paper": 63,
       "model_release": 39,
       "announcement": 51,
       "statement": 2,
@@ -14,7 +14,7 @@
       "openai": 47,
       "anthropic": 10,
       "meta": 6,
-      "other": 55,
+      "other": 64,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
@@ -3327,6 +3327,50 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-03-06_beyond-rows-to-reasoning-agentic-retrieval-for-mul",
+      "date": "2026-03-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Beyond Rows to Reasoning: Agentic Retrieval for Multimodal Spreadsheet Understanding and Editing",
+      "description": "Recent advances in multimodal Retrieval-Augmented Generation (RAG) enable Large Language Models (LLMs) to analyze enterprise spreadsheet workbooks containing millions of cells, cross-sheet dependencies, and embedded visual artifacts. However, state-of-the-art approaches exclude critical context t...",
+      "source_url": "http://arxiv.org/abs/2603.06503v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-06_claire-compressed-latent-autoencoder-for-industria",
+      "date": "2026-03-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "CLAIRE: Compressed Latent Autoencoder for Industrial Representation and Evaluation -- A Deep Learning Framework for Smart Manufacturing",
+      "description": "Accurate fault detection in high-dimensional industrial environments remains a major challenge due to the inherent complexity, noise, and redundancy in sensor data. This paper introduces CLAIRE, i.e., a hybrid end-to-end learning framework that integrates unsupervised deep representation learning...",
+      "source_url": "http://arxiv.org/abs/2603.06361v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-03-06_codex-security-now-in-research-preview",
       "date": "2026-03-06",
       "type": "announcement",
@@ -3369,6 +3413,72 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-03-06_do-compact-ssl-backbones-matter-for-audio-deepfake",
+      "date": "2026-03-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Do Compact SSL Backbones Matter for Audio Deepfake Detection? A Controlled Study with RAPTOR",
+      "description": "Self-supervised learning (SSL) underpins modern audio deepfake detection, yet most prior work centers on a single large wav2vec2-XLSR backbone, leaving compact under studied. We present RAPTOR, Representation Aware Pairwise-gated Transformer for Out-of-domain Recognition a controlled study of com...",
+      "source_url": "http://arxiv.org/abs/2603.06164v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-06_dynamic-chunking-diffusion-transformer",
+      "date": "2026-03-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Dynamic Chunking Diffusion Transformer",
+      "description": "Diffusion Transformers process images as fixed-length sequences of tokens produced by a static $\textit{patchify}$ operation. While effective, this design spends uniform compute on low- and high-information regions alike, ignoring that images contain regions of varying detail and that the denoisi...",
+      "source_url": "http://arxiv.org/abs/2603.06351v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-06_gazemoe-perception-of-gaze-target-with-mixture-of-",
+      "date": "2026-03-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "GazeMoE: Perception of Gaze Target with Mixture-of-Experts",
+      "description": "Estimating human gaze target from visible images is a critical task for robots to understand human attention, yet the development of generalizable neural architectures and training paradigms remains challenging. While recent advances in pre-trained vision foundation models offer promising avenues...",
+      "source_url": "http://arxiv.org/abs/2603.06256v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-03-06_how-balyasny-asset-management-built-an-ai-research",
       "date": "2026-03-06",
       "type": "announcement",
@@ -3409,6 +3519,94 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-06_mind-the-gap-pitfalls-of-llm-alignment-with-asian-",
+      "date": "2026-03-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Mind the Gap: Pitfalls of LLM Alignment with Asian Public Opinion",
+      "description": "Large Language Models (LLMs) are increasingly being deployed in multilingual, multicultural settings, yet their reliance on predominantly English-centric training data risks misalignment with the diverse cultural values of different societies. In this paper, we present a comprehensive, multilingu...",
+      "source_url": "http://arxiv.org/abs/2603.06264v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-06_noble-accelerating-transformers-with-nonlinear-low",
+      "date": "2026-03-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "NOBLE: Accelerating Transformers with Nonlinear Low-Rank Branches",
+      "description": "We introduce NOBLE (Nonlinear lOw-rank Branch for Linear Enhancement), an architectural augmentation that adds nonlinear low-rank branches to transformer linear layers. Unlike LoRA and other parameter-efficient fine-tuning (PEFT) methods, NOBLE is designed for pretraining from scratch. The branch...",
+      "source_url": "http://arxiv.org/abs/2603.06492v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-06_random-quadratic-form-on-a-sphere-synchronization-",
+      "date": "2026-03-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Random Quadratic Form on a Sphere: Synchronization by Common Noise",
+      "description": "We introduce the Random Quadratic Form (RQF): a stochastic differential equation which formally corresponds to the gradient flow of a random quadratic functional on a sphere. While the one-point dynamics of the system is a Brownian motion and thus has no preferred direction, the two-point motion ...",
+      "source_url": "http://arxiv.org/abs/2603.06187v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-06_transparent-ai-for-mathematics-transformer-based-l",
+      "date": "2026-03-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Transparent AI for Mathematics: Transformer-Based Large Language Models for Mathematical Entity Relationship Extraction with XAI",
+      "description": "Mathematical text understanding is a challenging task due to the presence of specialized entities and complex relationships between them. This study formulates mathematical problem interpretation as a Mathematical Entity Relation Extraction (MERE) task, where operands are treated as entities and ...",
+      "source_url": "http://arxiv.org/abs/2603.06348v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     }
   ]
 }
