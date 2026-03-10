@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-03-09T01:37:52.428952Z",
-    "total_events": 156,
+    "generated_at": "2026-03-10T01:37:16.648968Z",
+    "total_events": 170,
     "type_counts": {
-      "paper": 63,
+      "paper": 73,
       "model_release": 39,
-      "announcement": 51,
+      "announcement": 55,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 47,
+      "openai": 48,
       "anthropic": 10,
       "meta": 6,
-      "other": 64,
+      "other": 74,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 14
+      "huggingface": 17
     }
   },
   "companies": [
@@ -3607,6 +3607,310 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-07_a-cortically-inspired-architecture-for-modular-per",
+      "date": "2026-03-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A Cortically Inspired Architecture for Modular Perceptual AI",
+      "description": "This paper bridges neuroscience and artificial intelligence to propose a cortically inspired blueprint for modular perceptual AI. While current monolithic models such as GPT-4V achieve impressive performance, they often struggle to explicitly support interpretability, compositional generalization...",
+      "source_url": "http://arxiv.org/abs/2603.07295v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-07_agri-challenge-a-data-centric-ai-competition-for-c",
+      "date": "2026-03-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AgrI Challenge: A Data-Centric AI Competition for Cross-Team Validation in Agricultural Vision",
+      "description": "Machine learning models in agricultural vision often achieve high accuracy on curated datasets but fail to generalize under real field conditions due to distribution shifts between training and deployment environments. Moreover, most machine learning competitions focus primarily on model design w...",
+      "source_url": "http://arxiv.org/abs/2603.07356v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-07_do-deployment-constraints-make-llms-hallucinate-ci",
+      "date": "2026-03-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Do Deployment Constraints Make LLMs Hallucinate Citations? An Empirical Study across Four Models and Five Prompting Regimes",
+      "description": "LLMs are increasingly used to draft academic text and to support software engineering (SE) evidence synthesis, but they often hallucinate bibliographic references that look legitimate. We study how deployment-motivated prompting constraints affect citation verifiability in a closed-book setting. ...",
+      "source_url": "http://arxiv.org/abs/2603.07287v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-07_domain-specific-quality-estimation-for-machine-tra",
+      "date": "2026-03-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Domain-Specific Quality Estimation for Machine Translation in Low-Resource Scenarios",
+      "description": "Quality Estimation (QE) is essential for assessing machine translation quality in reference-less settings, particularly for domain-specific and low-resource language scenarios. In this paper, we investigate sentence-level QE for English to Indic machine translation across four domains (Healthcare...",
+      "source_url": "http://arxiv.org/abs/2603.07372v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-07_finsheet-bench-from-simple-lookups-to-complex-reas",
+      "date": "2026-03-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "FinSheet-Bench: From Simple Lookups to Complex Reasoning, Where LLMs Break on Financial Spreadsheets",
+      "description": "While Large Language Models (LLMs) can accelerate text-heavy tasks in alternative investment due diligence, a gap remains in their ability to accurately extract and reason over structured tabular data from complex financial spreadsheets. Progress is held back by the lack of real industry fund por...",
+      "source_url": "http://arxiv.org/abs/2603.07316v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-07_learning-to-reflect-hierarchical-multi-agent-reinf",
+      "date": "2026-03-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Learning to Reflect: Hierarchical Multi-Agent Reinforcement Learning for CSI-Free mmWave Beam-Focusing",
+      "description": "Reconfigurable Intelligent Surfaces promise to transform wireless environments, yet practical deployment is hindered by the prohibitive overhead of Channel State Information (CSI) estimation and the dimensionality explosion inherent in centralized optimization. This paper proposes a Hierarchical ...",
+      "source_url": "http://arxiv.org/abs/2603.07370v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-07_position-llms-must-use-functor-based-and-rag-drive",
+      "date": "2026-03-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Position: LLMs Must Use Functor-Based and RAG-Driven Bias Mitigation for Fairness",
+      "description": "Biases in large language models (LLMs) often manifest as systematic distortions in associations between demographic attributes and professional or social roles, reinforcing harmful stereotypes across gender, ethnicity, and geography. This position paper advocates for addressing demographic and ge...",
+      "source_url": "http://arxiv.org/abs/2603.07368v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-07_scheduling-parallel-optical-circuit-switches-for-a",
+      "date": "2026-03-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Scheduling Parallel Optical Circuit Switches for AI Training",
+      "description": "The rapid growth of AI training has dramatically increased datacenter traffic demand and energy consumption, which has motivated renewed interest in optical circuit switches (OCSes) as a high-bandwidth, energy-efficient alternative for AI fabrics. Deploying multiple parallel OCSes is a leading al...",
+      "source_url": "http://arxiv.org/abs/2603.07373v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-07_spectral-discovery-of-continuous-symmetries-via-ge",
+      "date": "2026-03-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Spectral Discovery of Continuous Symmetries via Generalized Fourier Transforms",
+      "description": "Continuous symmetries are fundamental to many scientific and learning problems, yet they are often unknown a priori. Existing symmetry discovery approaches typically search directly in the space of transformation generators or rely on learned augmentation schemes. We propose a fundamentally diffe...",
+      "source_url": "http://arxiv.org/abs/2603.07299v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-07_structsam-structure-and-spectrum-preserving-token-",
+      "date": "2026-03-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "StructSAM: Structure- and Spectrum-Preserving Token Merging for Segment Anything Models",
+      "description": "Recent token merging techniques for Vision Transformers (ViTs) provide substantial speedups by reducing the number of tokens processed by self-attention, often without retraining. However, their direct application to the Segment Anything Model (SAM) family is nontrivial: SAM's image encoder mixes...",
+      "source_url": "http://arxiv.org/abs/2603.07307v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-09_granite-40-1b-speech-compact-multilingual-and-buil",
+      "date": "2026-03-09",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-09_lerobot-v050-scaling-every-dimension",
+      "date": "2026-03-09",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "LeRobot v0.5.0: Scaling Every Dimension",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/lerobot-release-v050",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-09_openai-to-acquire-promptfoo",
+      "date": "2026-03-09",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "OpenAI to acquire Promptfoo",
+      "description": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "source_url": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-09_ulysses-sequence-parallelism-training-with-million",
+      "date": "2026-03-09",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ulysses-sp",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
     }
   ]
 }
