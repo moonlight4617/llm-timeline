@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-03-10T01:37:16.648968Z",
-    "total_events": 170,
+    "generated_at": "2026-03-11T01:37:08.061946Z",
+    "total_events": 185,
     "type_counts": {
-      "paper": 73,
+      "paper": 83,
       "model_release": 39,
-      "announcement": 55,
+      "announcement": 60,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 48,
+      "openai": 50,
       "anthropic": 10,
       "meta": 6,
-      "other": 74,
+      "other": 84,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 17
+      "huggingface": 20
     }
   },
   "companies": [
@@ -3911,6 +3911,331 @@
       "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-10_an-optimal-control-approach-to-transformer-trainin",
+      "date": "2026-03-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "An Optimal Control Approach To Transformer Training",
+      "description": "In this paper, we develop a rigorous optimal control-theoretic approach to Transformer training that respects key structural constraints such as (i) realized-input-independence during execution, (ii) the ensemble control nature of the problem, and (iii) positional dependence. We model the Transfo...",
+      "source_url": "http://arxiv.org/abs/2603.09571v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-10_enhancing-debunking-effectiveness-through-llm-base",
+      "date": "2026-03-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Enhancing Debunking Effectiveness through LLM-based Personality Adaptation",
+      "description": "This study proposes a novel methodology for generating personalized fake news debunking messages by prompting Large Language Models (LLMs) with persona-based inputs aligned to the Big Five personality traits: Extraversion, Agreeableness, Conscientiousness, Neuroticism, and Openness. Our approach ...",
+      "source_url": "http://arxiv.org/abs/2603.09533v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-10_geneplan-evolving-better-generalized-pddl-plans-us",
+      "date": "2026-03-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "GenePlan: Evolving Better Generalized PDDL Plans using Large Language Models",
+      "description": "We present GenePlan (GENeralized Evolutionary Planner), a novel framework that leverages large language model (LLM) assisted evolutionary algorithms to generate domain-dependent generalized planners for classical planning tasks described in PDDL. By casting generalized planning as an optimization...",
+      "source_url": "http://arxiv.org/abs/2603.09481v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-10_how-nvidia-builds-open-data-for-ai",
+      "date": "2026-03-10",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "How NVIDIA Builds Open Data for AI",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/open-data-for-ai",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-10_improving-instruction-hierarchy-in-frontier-llms",
+      "date": "2026-03-10",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Improving instruction hierarchy in frontier LLMs",
+      "description": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+      "source_url": "https://openai.com/index/instruction-hierarchy-challenge",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-10_introducing-storage-buckets-on-the-hugging-face-hu",
+      "date": "2026-03-10",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Introducing Storage Buckets on the Hugging Face Hub",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/storage-buckets",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-10_keep-the-tokens-flowing-lessons-from-16-open-sourc",
+      "date": "2026-03-10",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/async-rl-training-landscape",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-10_mm-tau-p2-persona-adaptive-prompting-for-robust-mu",
+      "date": "2026-03-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "MM-tau-p$^2$: Persona-Adaptive Prompting for Robust Multi-Modal Agent Evaluation in Dual-Control Settings",
+      "description": "Current evaluation frameworks and benchmarks for LLM powered agents focus on text chat driven agents, these frameworks do not expose the persona of user to the agent, thus operating in a user agnostic environment. Importantly, in customer experience management domain, the agent's behaviour evolve...",
+      "source_url": "http://arxiv.org/abs/2603.09643v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-10_new-ways-to-learn-math-and-science-in-chatgpt",
+      "date": "2026-03-10",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "New ways to learn math and science in ChatGPT",
+      "description": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+      "source_url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-10_reviving-convnext-for-efficient-convolutional-diff",
+      "date": "2026-03-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Reviving ConvNeXt for Efficient Convolutional Diffusion Models",
+      "description": "Recent diffusion models increasingly favor Transformer backbones, motivated by the remarkable scalability of fully attentional architectures. Yet the locality bias, parameter efficiency, and hardware friendliness--the attributes that established ConvNets as the efficient vision backbone--have see...",
+      "source_url": "http://arxiv.org/abs/2603.09408v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-10_routing-without-forgetting",
+      "date": "2026-03-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Routing without Forgetting",
+      "description": "Continual learning in transformers is commonly addressed through parameter-efficient adaptation: prompts, adapters, or LoRA modules are specialized per task while the backbone remains frozen. Although effective in controlled multi-epoch settings, these approaches rely on gradual gradient-based sp...",
+      "source_url": "http://arxiv.org/abs/2603.09576v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-10_surgical-repair-of-collapsed-attention-heads-in-al",
+      "date": "2026-03-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Surgical Repair of Collapsed Attention Heads in ALiBi Transformers",
+      "description": "We identify a systematic attention collapse pathology in the BLOOM family of transformer language models, where ALiBi positional encoding causes 31-44% of attention heads to attend almost entirely to the beginning-of-sequence token. The collapse follows a predictable pattern across four model sca...",
+      "source_url": "http://arxiv.org/abs/2603.09616v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-10_traindeeploy-hardware-accelerated-parameter-effici",
+      "date": "2026-03-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "TrainDeeploy: Hardware-Accelerated Parameter-Efficient Fine-Tuning of Small Transformer Models at the Extreme Edge",
+      "description": "On-device tuning of deep neural networks enables long-term adaptation at the edge while preserving data privacy. However, the high computational and memory demands of backpropagation pose significant challenges for ultra-low-power, memory-constrained extreme-edge devices. These challenges are fur...",
+      "source_url": "http://arxiv.org/abs/2603.09511v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-10_variational-routing-a-scalable-bayesian-framework-",
+      "date": "2026-03-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Variational Routing: A Scalable Bayesian Framework for Calibrated Mixture-of-Experts Transformers",
+      "description": "Foundation models are increasingly being deployed in contexts where understanding the uncertainty of their outputs is critical to ensuring responsible deployment. While Bayesian methods offer a principled approach to uncertainty quantification, their computational overhead renders their use impra...",
+      "source_url": "http://arxiv.org/abs/2603.09453v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-10_vibe-creation-the-epistemology-of-human-ai-emergen",
+      "date": "2026-03-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Vibe-Creation: The Epistemology of Human-AI Emergent Cognition",
+      "description": "The encounter between human reasoning and generative artificial intelligence (GenAI) cannot be adequately described by inherited metaphors of tool use, augmentation, or collaborative partnership. This article argues that such interactions produce a qualitatively distinct cognitive-epistemic forma...",
+      "source_url": "http://arxiv.org/abs/2603.09486v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     }
   ]
 }
