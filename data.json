@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-03-11T01:37:08.061946Z",
-    "total_events": 185,
+    "generated_at": "2026-03-12T01:39:00.785051Z",
+    "total_events": 200,
     "type_counts": {
-      "paper": 83,
+      "paper": 93,
       "model_release": 39,
-      "announcement": 60,
+      "announcement": 65,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 50,
+      "openai": 54,
       "anthropic": 10,
       "meta": 6,
-      "other": 84,
+      "other": 94,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 20
+      "huggingface": 21
     }
   },
   "companies": [
@@ -4236,6 +4236,331 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-11_a-hybrid-knowledge-grounded-framework-for-safety-a",
+      "date": "2026-03-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A Hybrid Knowledge-Grounded Framework for Safety and Traceability in Prescription Verification",
+      "description": "Medication errors pose a significant threat to patient safety, making pharmacist verification (PV) a critical, yet heavily burdened, final safeguard. The direct application of Large Language Models (LLMs) to this zero-tolerance domain is untenable due to their inherent factual unreliability, lack...",
+      "source_url": "http://arxiv.org/abs/2603.10891v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-11_code-concepts-a-large-scale-synthetic-dataset-gene",
+      "date": "2026-03-11",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/synthetic-code-concepts",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-11_continuous-diffusion-transformers-for-designing-sy",
+      "date": "2026-03-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Continuous Diffusion Transformers for Designing Synthetic Regulatory Elements",
+      "description": "We present a parameter-efficient Diffusion Transformer (DiT) for generating 200bp cell-type-specific regulatory DNA sequences. By replacing the U-Net backbone of DNA-Diffusion with a transformer denoiser equipped with a 2D CNN input encoder, our model matches the U-Net's best validation loss in 1...",
+      "source_url": "http://arxiv.org/abs/2603.10885v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-11_contract-and-conquer-how-to-provably-compute-adver",
+      "date": "2026-03-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Contract And Conquer: How to Provably Compute Adversarial Examples for a Black-Box Model?",
+      "description": "Black-box adversarial attacks are widely used as tools to test the robustness of deep neural networks against malicious perturbations of input data aimed at a specific change in the output of the model. Such methods, although they remain empirically effective, usually do not guarantee that an adv...",
+      "source_url": "http://arxiv.org/abs/2603.10689v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-11_designing-ai-agents-to-resist-prompt-injection",
+      "date": "2026-03-11",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Designing AI agents to resist prompt injection",
+      "description": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+      "source_url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-11_dynamics-informed-deep-learning-for-predicting-ext",
+      "date": "2026-03-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Dynamics-Informed Deep Learning for Predicting Extreme Events",
+      "description": "Predicting extreme events in high-dimensional chaotic dynamical systems remains a fundamental challenge, as such events are rare, intermittent, and arise from transient dynamical mechanisms that are difficult to infer from limited observations. Accordingly, real-time forecasting calls for precurs...",
+      "source_url": "http://arxiv.org/abs/2603.10777v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-11_emulating-clinician-cognition-via-self-evolving-de",
+      "date": "2026-03-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Emulating Clinician Cognition via Self-Evolving Deep Clinical Research",
+      "description": "Clinical diagnosis is a complex cognitive process, grounded in dynamic cue acquisition and continuous expertise accumulation. Yet most current artificial intelligence (AI) systems are misaligned with this reality, treating diagnosis as single-pass retrospective prediction while lacking auditable ...",
+      "source_url": "http://arxiv.org/abs/2603.10677v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-11_from-images-to-words-efficient-cross-modal-knowled",
+      "date": "2026-03-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "From Images to Words: Efficient Cross-Modal Knowledge Distillation to Language Models from Black-box Teachers",
+      "description": "Knowledge distillation (KD) methods are pivotal in compressing large pre-trained language models into smaller models, ensuring computational efficiency without significantly dropping performance. Traditional KD techniques assume homogeneity in modalities between the teacher (source) and the stude...",
+      "source_url": "http://arxiv.org/abs/2603.10877v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-11_from-model-to-agent-equipping-the-responses-api-wi",
+      "date": "2026-03-11",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "From model to agent: Equipping the Responses API with a computer environment",
+      "description": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+      "source_url": "https://openai.com/index/equip-responses-api-computer-environment",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-11_implicit-statistical-inference-in-transformers-app",
+      "date": "2026-03-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Implicit Statistical Inference in Transformers: Approximating Likelihood-Ratio Tests In-Context",
+      "description": "In-context learning (ICL) allows Transformers to adapt to novel tasks without weight updates, yet the underlying algorithms remain poorly understood. We adopt a statistical decision-theoretic perspective by investigating simple binary hypothesis testing, where the optimal policy is determined by ...",
+      "source_url": "http://arxiv.org/abs/2603.10573v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-11_large-language-models-as-annotators-for-machine-tr",
+      "date": "2026-03-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Large Language Models as Annotators for Machine Translation Quality Estimation",
+      "description": "Large Language Models (LLMs) have demonstrated excellent performance on Machine Translation Quality Estimation (MTQE), yet their high inference costs make them impractical for direct application. In this work, we propose applying LLMs to generate MQM-style annotations for training a COMET model: ...",
+      "source_url": "http://arxiv.org/abs/2603.10775v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-11_lookaheadkv-fast-and-accurate-kv-cache-eviction-by",
+      "date": "2026-03-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "LookaheadKV: Fast and Accurate KV Cache Eviction by Glimpsing into the Future without Generation",
+      "description": "Transformer-based large language models (LLMs) rely on key-value (KV) caching to avoid redundant computation during autoregressive inference. While this mechanism greatly improves efficiency, the cache size grows linearly with the input sequence length, quickly becoming a bottleneck for long-cont...",
+      "source_url": "http://arxiv.org/abs/2603.10899v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-11_probabilistic-verification-of-voice-anti-spoofing-",
+      "date": "2026-03-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Probabilistic Verification of Voice Anti-Spoofing Models",
+      "description": "Recent advances in generative models have amplified the risk of malicious misuse of speech synthesis technologies, enabling adversaries to impersonate target speakers and access sensitive resources. Although speech deepfake detection has progressed rapidly, most existing countermeasures lack form...",
+      "source_url": "http://arxiv.org/abs/2603.10713v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-11_rakuten-fixes-issues-twice-as-fast-with-codex",
+      "date": "2026-03-11",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Rakuten fixes issues twice as fast with Codex",
+      "description": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+      "source_url": "https://openai.com/index/rakuten",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-11_wayfair-boosts-catalog-accuracy-and-support-speed-",
+      "date": "2026-03-11",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "description": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+      "source_url": "https://openai.com/index/wayfair",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
     }
   ]
 }
