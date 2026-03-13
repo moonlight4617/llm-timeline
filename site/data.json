@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-03-12T01:39:00.785051Z",
-    "total_events": 200,
+    "generated_at": "2026-03-13T01:37:09.900212Z",
+    "total_events": 211,
     "type_counts": {
-      "paper": 93,
+      "paper": 103,
       "model_release": 39,
-      "announcement": 65,
+      "announcement": 66,
       "statement": 2,
       "policy": 1
     },
@@ -14,11 +14,11 @@
       "openai": 54,
       "anthropic": 10,
       "meta": 6,
-      "other": 94,
+      "other": 104,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 21
+      "huggingface": 22
     }
   },
   "companies": [
@@ -4559,6 +4559,247 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-12_coarse-guided-visual-generation-via-weighted-h-tra",
+      "date": "2026-03-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Coarse-Guided Visual Generation via Weighted h-Transform Sampling",
+      "description": "Coarse-guided visual generation, which synthesizes fine visual samples from degraded or low-fidelity coarse references, is essential for various real-world applications. While training-based approaches are effective, they are inherently limited by high training costs and restricted generalization...",
+      "source_url": "http://arxiv.org/abs/2603.12057v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-12_docsage-an-information-structuring-agent-for-multi",
+      "date": "2026-03-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "DocSage: An Information Structuring Agent for Multi-Doc Multi-Entity Question Answering",
+      "description": "Multi-document Multi-entity Question Answering inherently demands models to track implicit logic between multiple entities across scattered documents. However, existing Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) frameworks suffer from critical limitations: standard RAG'...",
+      "source_url": "http://arxiv.org/abs/2603.11798v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-12_entransformer-a-deep-generative-transformer-for-mu",
+      "date": "2026-03-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "EnTransformer: A Deep Generative Transformer for Multivariate Probabilistic Forecasting",
+      "description": "Reliable uncertainty quantification is critical in multivariate time series forecasting problems arising in domains such as energy systems and transportation networks, among many others. Although Transformer-based architectures have recently achieved strong performance for sequence modeling, most...",
+      "source_url": "http://arxiv.org/abs/2603.11909v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-12_exhaustive-circuit-mapping-of-a-single-cell-founda",
+      "date": "2026-03-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Exhaustive Circuit Mapping of a Single-Cell Foundation Model Reveals Massive Redundancy, Heavy-Tailed Hub Architecture, and Layer-Dependent Differentiation Control",
+      "description": "Mechanistic interpretability of biological foundation models has relied on selective feature sampling, pairwise interaction testing, and observational trajectory analysis. Each of these can introduce systematic bias. Here we present three experiments that address these limitations through exhaust...",
+      "source_url": "http://arxiv.org/abs/2603.11940v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-12_human-centred-llm-privacy-audits-findings-and-fric",
+      "date": "2026-03-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Human-Centred LLM Privacy Audits: Findings and Frictions",
+      "description": "Large language models (LLMs) learn statistical associations from massive training corpora and user interactions, and deployed systems can surface or infer information about individuals. Yet people lack practical ways to inspect what a model associates with their name. We report interim findings f...",
+      "source_url": "http://arxiv.org/abs/2603.12094v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-12_radar-closed-loop-robotic-data-generation-via-sema",
+      "date": "2026-03-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset",
+      "description": "The acquisition of large-scale physical interaction data, a critical prerequisite for modern robot learning, is severely bottlenecked by the prohibitive cost and scalability limits of human-in-the-loop collection paradigms. To break this barrier, we introduce Robust Autonomous Data Acquisition fo...",
+      "source_url": "http://arxiv.org/abs/2603.11811v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-12_sommbench-assessing-sommelier-expertise-of-languag",
+      "date": "2026-03-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "SommBench: Assessing Sommelier Expertise of Language Models",
+      "description": "With the rapid advances of large language models, it becomes increasingly important to systematically evaluate their multilingual and multicultural capabilities. Previous cultural evaluation benchmarks focus mainly on basic cultural knowledge that can be encoded in linguistic form. Here, we propo...",
+      "source_url": "http://arxiv.org/abs/2603.12117v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-12_statistical-and-structural-identifiability-in-repr",
+      "date": "2026-03-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Statistical and structural identifiability in representation learning",
+      "description": "Representation learning models exhibit a surprising stability in their internal representations. Whereas most prior work treats this stability as a single property, we formalize it as two distinct concepts: statistical identifiability (consistency of representations across runs) and structural id...",
+      "source_url": "http://arxiv.org/abs/2603.11970v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-12_the-landscape-of-generative-ai-in-information-syst",
+      "date": "2026-03-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The Landscape of Generative AI in Information Systems: A Synthesis of Secondary Reviews and Research Agendas",
+      "description": "As organizations grapple with the rapid adoption of Generative AI (GenAI), this study synthesizes the state of knowledge through a systematic literature review of secondary studies and research agendas. Analyzing 28 papers published since 2023, we find that while GenAI offers transformative poten...",
+      "source_url": "http://arxiv.org/abs/2603.11842v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-12_understanding-llm-behavior-when-encountering-user-",
+      "date": "2026-03-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Understanding LLM Behavior When Encountering User-Supplied Harmful Content in Harmless Tasks",
+      "description": "Large Language Models (LLMs) are increasingly trained to align with human values, primarily focusing on task level, i.e., refusing to execute directly harmful tasks. However, a subtle yet crucial content-level ethical question is often overlooked: when performing a seemingly benign task, will LLM...",
+      "source_url": "http://arxiv.org/abs/2603.11914v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-13_build-an-agent-that-thinks-like-a-data-scientist-h",
+      "date": "2026-03-13",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
     }
