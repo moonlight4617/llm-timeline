@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-03-13T01:37:09.900212Z",
-    "total_events": 211,
+    "generated_at": "2026-03-14T01:36:48.820857Z",
+    "total_events": 215,
     "type_counts": {
-      "paper": 103,
+      "paper": 106,
       "model_release": 39,
-      "announcement": 66,
+      "announcement": 67,
       "statement": 2,
       "policy": 1
     },
@@ -14,11 +14,11 @@
       "openai": 54,
       "anthropic": 10,
       "meta": 6,
-      "other": 104,
+      "other": 107,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 22
+      "huggingface": 23
     }
   },
   "companies": [
@@ -4563,6 +4563,28 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-03-12_clasp-defending-hybrid-large-language-models-again",
+      "date": "2026-03-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "CLASP: Defending Hybrid Large Language Models Against Hidden State Poisoning Attacks",
+      "description": "State space models (SSMs) like Mamba have gained significant traction as efficient alternatives to Transformers, achieving linear complexity while maintaining competitive performance. However, Hidden State Poisoning Attacks (HiSPAs), a recently discovered vulnerability that corrupts SSM memory th...",
+      "source_url": "http://arxiv.org/abs/2603.12206v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-03-12_coarse-guided-visual-generation-via-weighted-h-tra",
       "date": "2026-03-12",
       "type": "paper",
@@ -4629,6 +4651,28 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-03-12_examining-reasoning-llms-as-judges-in-non-verifiab",
+      "date": "2026-03-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training",
+      "description": "Reasoning LLMs-as-Judges, which can benefit from inference-time scaling, provide a promising path for extending the success of reasoning models to non-verifiable domains where the output correctness/quality cannot be directly checked. However, while reasoning judges have shown better performance ...",
+      "source_url": "http://arxiv.org/abs/2603.12246v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-03-12_exhaustive-circuit-mapping-of-a-single-cell-founda",
       "date": "2026-03-12",
       "type": "paper",
@@ -4637,6 +4681,28 @@
       "title": "Exhaustive Circuit Mapping of a Single-Cell Foundation Model Reveals Massive Redundancy, Heavy-Tailed Hub Architecture, and Layer-Dependent Differentiation Control",
       "description": "Mechanistic interpretability of biological foundation models has relied on selective feature sampling, pairwise interaction testing, and observational trajectory analysis. Each of these can introduce systematic bias. Here we present three experiments that address these limitations through exhaust...",
       "source_url": "http://arxiv.org/abs/2603.11940v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-12_hiap-a-multi-granular-stochastic-auto-pruning-fram",
+      "date": "2026-03-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "HiAP: A Multi-Granular Stochastic Auto-Pruning Framework for Vision Transformers",
+      "description": "Vision Transformers require significant computational resources and memory bandwidth, severely limiting their deployment on edge devices. While recent structured pruning methods successfully reduce theoretical FLOPs, they typically operate at a single structural granularity and rely on complex, m...",
+      "source_url": "http://arxiv.org/abs/2603.12222v1",
       "tags": [
         "paper",
         "arxiv",
@@ -4781,6 +4847,27 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-13_beyond-semantic-similarity-introducing-nvidia-nemo",
+      "date": "2026-03-13",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
     },
     {
       "id": "2026-03-13_build-an-agent-that-thinks-like-a-data-scientist-h",
