@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-03-16T01:38:26.430244Z",
-    "total_events": 225,
+    "generated_at": "2026-03-17T01:37:23.438689Z",
+    "total_events": 237,
     "type_counts": {
-      "paper": 116,
+      "paper": 126,
       "model_release": 39,
-      "announcement": 67,
+      "announcement": 69,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 54,
+      "openai": 55,
       "anthropic": 10,
       "meta": 6,
-      "other": 117,
+      "other": 127,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 23
+      "huggingface": 24
     }
   },
   "companies": [
@@ -5109,6 +5109,268 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-14_dualswinfusionseg-multimodal-martian-landslide-seg",
+      "date": "2026-03-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "DualSwinFusionSeg: Multimodal Martian Landslide Segmentation via Dual Swin Transformer with Multi-Scale Fusion and UNet++",
+      "description": "Automated segmentation of Martian landslides, particularly in tectonically active regions such as Valles Marineris,is important for planetary geology, hazard assessment, and future robotic exploration. However, detecting landslides from planetary imagery is challenging due to the heterogeneous na...",
+      "source_url": "http://arxiv.org/abs/2603.14132v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-14_enhancing-mental-health-classification-with-layer-",
+      "date": "2026-03-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Enhancing Mental Health Classification with Layer-Attentive Residuals and Contrastive Feature Learning",
+      "description": "The classification of mental health is challenging for a variety of reasons. For one, there is overlap between the mental health issues. In addition, the signs of mental health issues depend on the context of the situation, making classification difficult. Although fine-tuning transformers has im...",
+      "source_url": "http://arxiv.org/abs/2603.14075v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-14_human-like-object-grouping-in-self-supervised-visi",
+      "date": "2026-03-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Human-like Object Grouping in Self-supervised Vision Transformers",
+      "description": "Vision foundation models trained with self-supervised objectives achieve strong performance across diverse tasks and exhibit emergent object segmentation properties. However, their alignment with human object perception remains poorly understood. Here, we introduce a behavioral benchmark in which...",
+      "source_url": "http://arxiv.org/abs/2603.13994v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-14_neptam-a-nepali-tamang-parallel-corpus-and-baselin",
+      "date": "2026-03-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "NepTam: A Nepali-Tamang Parallel Corpus and Baseline Machine Translation Experiments",
+      "description": "Modern Translation Systems heavily rely on high-quality, large parallel datasets for state-of-the-art performance. However, such resources are largely unavailable for most of the South Asian languages. Among them, Nepali and Tamang fall into such category, with Tamang being among the least digita...",
+      "source_url": "http://arxiv.org/abs/2603.14053v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-14_probing-neural-audio-codecs-for-distinctions-among",
+      "date": "2026-03-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Probing neural audio codecs for distinctions among English nuclear tunes",
+      "description": "State-of-the-art spoken dialogue models (Défossez et al. 2024; Schalkwyk et al. 2025) use neural audio codecs to 'tokenize' audio signals into a lower-frequency stream of vectorial latent representations, each quantized using a hierarchy of vector codebooks. A transformer layer allows these repre...",
+      "source_url": "http://arxiv.org/abs/2603.14035v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-14_the-gelato-dataset-for-legislative-ner",
+      "date": "2026-03-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The GELATO Dataset for Legislative NER",
+      "description": "This paper introduces GELATO (Government, Executive, Legislative, and Treaty Ontology), a dataset of U.S. House and Senate bills from the 118th Congress annotated using a novel two-level named entity recognition ontology designed for U.S. legislative texts. We fine-tune transformer-based models (...",
+      "source_url": "http://arxiv.org/abs/2603.14130v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-14_the-reasoning-bottleneck-in-graph-rag-structured-p",
+      "date": "2026-03-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The Reasoning Bottleneck in Graph-RAG: Structured Prompting and Context Compression for Multi-Hop QA",
+      "description": "Graph-RAG systems achieve strong multi-hop question answering by indexing documents into knowledge graphs, but strong retrieval does not guarantee strong answers. Evaluating KET-RAG, a leading Graph-RAG system, on three multi-hop QA benchmarks (HotpotQA, MuSiQue, 2WikiMultiHopQA), we find that 77...",
+      "source_url": "http://arxiv.org/abs/2603.14045v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-14_the-taxonomies-training-and-applications-of-event-",
+      "date": "2026-03-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The Taxonomies, Training, and Applications of Event Stream Modelling for Electronic Health Records",
+      "description": "The widespread adoption of electronic health records (EHRs) enables the acquisition of heterogeneous clinical data, spanning lab tests, vital signs, medications, and procedures, which offer transformative potential for artificial intelligence in healthcare. Although traditional modelling approach...",
+      "source_url": "http://arxiv.org/abs/2603.14003v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-14_understanding-the-emergence-of-seemingly-useless-f",
+      "date": "2026-03-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Understanding the Emergence of Seemingly Useless Features in Next-Token Predictors",
+      "description": "Trained Transformers have been shown to compute abstract features that appear redundant for predicting the immediate next token. We identify which components of the gradient signal from the next-token prediction objective give rise to this phenomenon, and we propose a method to estimate the influ...",
+      "source_url": "http://arxiv.org/abs/2603.14087v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-14_what-counts-as-real-speech-restoration-and-voice-q",
+      "date": "2026-03-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "What Counts as Real? Speech Restoration and Voice Quality Conversion Pose New Challenges to Deepfake Detection",
+      "description": "Audio anti-spoofing systems are typically formulated as binary classifiers distinguishing bona fide from spoofed speech. This assumption fails under layered generative processing, where benign transformations introduce distributional shifts that are misclassified as spoofing. We show that phonati...",
+      "source_url": "http://arxiv.org/abs/2603.14033v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-16_the-first-healthcare-robotics-dataset-and-foundati",
+      "date": "2026-03-16",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-16_why-codex-security-doesnt-include-a-sast-report",
+      "date": "2026-03-16",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Why Codex Security Doesn’t Include a SAST Report",
+      "description": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+      "source_url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
     }
   ]
 }
