@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-03-17T01:37:23.438689Z",
-    "total_events": 237,
+    "generated_at": "2026-03-18T01:38:09.439682Z",
+    "total_events": 252,
     "type_counts": {
-      "paper": 126,
+      "paper": 136,
       "model_release": 39,
-      "announcement": 69,
+      "announcement": 74,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 55,
+      "openai": 58,
       "anthropic": 10,
       "meta": 6,
-      "other": 127,
+      "other": 136,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 24
+      "huggingface": 27
     }
   },
   "companies": [
@@ -5371,6 +5371,332 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-17_capability-guided-compression-toward-interpretabil",
+      "date": "2026-03-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Capability-Guided Compression: Toward Interpretability-Aware Budget Allocation for Large Language Models",
+      "description": "Large language model compression has made substantial progress through pruning, quantization, and low-rank decomposition, yet a fundamental limitation persists across all existing methods: compression budgets are allocated without any representation of what individual model components functionall...",
+      "source_url": "http://arxiv.org/abs/2603.16440v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-17_d3-rsmde-40times-faster-and-high-fidelity-remote-s",
+      "date": "2026-03-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "$D^3$-RSMDE: 40$\times$ Faster and High-Fidelity Remote Sensing Monocular Depth Estimation",
+      "description": "Real-time, high-fidelity monocular depth estimation from remote sensing imagery is crucial for numerous applications, yet existing methods face a stark trade-off between accuracy and efficiency. Although using Vision Transformer (ViT) backbones for dense prediction is fast, they often exhibit poo...",
+      "source_url": "http://arxiv.org/abs/2603.16362v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-17_enggpt2-sovereign-efficient-and-open-intelligence",
+      "date": "2026-03-17",
+      "type": "paper",
+      "company": "openai",
+      "person": null,
+      "title": "EngGPT2: Sovereign, Efficient and Open Intelligence",
+      "description": "EngGPT2-16B-A3B is the latest iteration of Engineering Group's Italian LLM and it's built to be a Sovereign, Efficient and Open model. EngGPT2 is trained on 2.5 trillion tokens - less than Qwen3's 36T or Llama3's 15T - and delivers performance on key benchmarks, including MMLU-Pro, GSM8K, IFEval ...",
+      "source_url": "http://arxiv.org/abs/2603.16430v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected",
+        "openai"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-17_equipping-workers-with-insights-about-compensation",
+      "date": "2026-03-17",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Equipping workers with insights about compensation",
+      "description": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+      "source_url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-17_factorengine-a-program-level-knowledge-infused-fac",
+      "date": "2026-03-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "FactorEngine: A Program-level Knowledge-Infused Factor Mining Framework for Quantitative Investment",
+      "description": "We study alpha factor mining, the automated discovery of predictive signals from noisy, non-stationary market data-under a practical requirement that mined factors be directly executable and auditable, and that the discovery process remain computationally tractable at scale. Existing symbolic app...",
+      "source_url": "http://arxiv.org/abs/2603.16365v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-17_holotron-12b-high-throughput-computer-use-agent",
+      "date": "2026-03-17",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Holotron-12B - High Throughput Computer Use Agent",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/Hcompany/holotron-12b",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-17_introducing-gpt-54-mini-and-nano",
+      "date": "2026-03-17",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing GPT-5.4 mini and nano",
+      "description": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+      "source_url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-17_learning-to-predict-discover-and-reason-in-high-di",
+      "date": "2026-03-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Learning to Predict, Discover, and Reason in High-Dimensional Discrete Event Sequences",
+      "description": "Electronic control units (ECUs) embedded within modern vehicles generate a large number of asynchronous events known as diagnostic trouble codes (DTCs). These discrete events form complex temporal sequences that reflect the evolving health of the vehicle's subsystems. In the automotive industry, ...",
+      "source_url": "http://arxiv.org/abs/2603.16313v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-17_nemotron-3-nano-4b-a-compact-hybrid-model-for-effi",
+      "date": "2026-03-17",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-17_omnilingual-mt-machine-translation-for-1600-langua",
+      "date": "2026-03-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Omnilingual MT: Machine Translation for 1,600 Languages",
+      "description": "High-quality machine translation (MT) can scale to hundreds of languages, setting a high bar for multilingual systems. However, compared to the world's 7,000 languages, current systems still offer only limited coverage: about 200 languages on the target side, and maybe a few hundreds more on the ...",
+      "source_url": "http://arxiv.org/abs/2603.16309v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-17_plottwist-a-creative-plot-generation-framework-wit",
+      "date": "2026-03-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "PlotTwist: A Creative Plot Generation Framework with Small Language Models",
+      "description": "Creative plot generation presents a fundamental challenge for language models: transforming a concise premise into a coherent narrative that sustains global structure, character development, and emotional resonance. Although recent Large Language Models (LLMs) demonstrate strong fluency across ge...",
+      "source_url": "http://arxiv.org/abs/2603.16410v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-17_prior-informed-neural-network-initialization-a-spe",
+      "date": "2026-03-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Prior-Informed Neural Network Initialization: A Spectral Approach for Function Parameterizing Architectures",
+      "description": "Neural network architectures designed for function parameterization, such as the Bag-of-Functions (BoF) framework, bridge the gap between the expressivity of deep learning and the interpretability of classical signal processing. However, these models are inherently sensitive to parameter initiali...",
+      "source_url": "http://arxiv.org/abs/2603.16376v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-17_sf-mamba-rethinking-state-space-model-for-vision",
+      "date": "2026-03-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "SF-Mamba: Rethinking State Space Model for Vision",
+      "description": "The realm of Mamba for vision has been advanced in recent years to strike for the alternatives of Vision Transformers (ViTs) that suffer from the quadratic complexity. While the recurrent scanning mechanism of Mamba offers computational efficiency, it inherently limits non-causal interactions bet...",
+      "source_url": "http://arxiv.org/abs/2603.16423v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-17_state-of-open-source-on-hugging-face-spring-2026",
+      "date": "2026-03-17",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-17_visbrowse-bench-benchmarking-visual-native-search-",
+      "date": "2026-03-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents",
+      "description": "The rapid advancement of Multimodal Large Language Models (MLLMs) has enabled browsing agents to acquire and reason over multimodal information in the real world. But existing benchmarks suffer from two limitations: insufficient evaluation of visual reasoning ability and the neglect of native vis...",
+      "source_url": "http://arxiv.org/abs/2603.16289v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     }
   ]
 }
