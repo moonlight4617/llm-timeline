@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-03-19T01:38:13.913124Z",
-    "total_events": 263,
+    "generated_at": "2026-03-20T01:37:25.704645Z",
+    "total_events": 276,
     "type_counts": {
-      "paper": 146,
+      "paper": 156,
       "model_release": 39,
-      "announcement": 75,
+      "announcement": 78,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 59,
+      "openai": 61,
       "anthropic": 10,
       "meta": 6,
-      "other": 146,
+      "other": 156,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 27
+      "huggingface": 28
     }
   },
   "companies": [
@@ -5938,6 +5938,289 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-19_a-comparative-empirical-study-of-catastrophic-forg",
+      "date": "2026-03-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A Comparative Empirical Study of Catastrophic Forgetting Mitigation in Sequential Task Adaptation for Continual Natural Language Processing Systems",
+      "description": "Neural language models deployed in real-world applications must continually adapt to new tasks and domains without forgetting previously acquired knowledge. This work presents a comparative empirical study of catastrophic forgetting mitigation in continual intent classification. Using the CLINC15...",
+      "source_url": "http://arxiv.org/abs/2603.18641v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-19_analysis-of-linguistic-stereotypes-in-single-and-m",
+      "date": "2026-03-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Analysis Of Linguistic Stereotypes in Single and Multi-Agent Generative AI Architectures",
+      "description": "Many works in the literature show that LLM outputs exhibit discriminatory behaviour, triggering stereotype-based inferences based on the dialect in which the inputs are written. This bias has been shown to be particularly pronounced when the same inputs are provided to LLMs in Standard American E...",
+      "source_url": "http://arxiv.org/abs/2603.18729v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-19_automatic-detection-of-gen-ai-texts-a-comparative-",
+      "date": "2026-03-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Automatic detection of Gen-AI texts: A comparative framework of neural models",
+      "description": "The rapid proliferation of Large Language Models has significantly increased the difficulty of distinguishing between human-written and AI generated texts, raising critical issues across academic, editorial, and social domains. This paper investigates the problem of AI generated text detection th...",
+      "source_url": "http://arxiv.org/abs/2603.18750v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-19_bridging-network-fragmentation-a-semantic-augmente",
+      "date": "2026-03-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Bridging Network Fragmentation: A Semantic-Augmented DRL Framework for UAV-aided VANETs",
+      "description": "Vehicular Ad-hoc Networks (VANETs) are the digital cornerstone of autonomous driving, yet they suffer from severe network fragmentation in urban environments due to physical obstructions. Unmanned Aerial Vehicles (UAVs), with their high mobility, have emerged as a vital solution to bridge these c...",
+      "source_url": "http://arxiv.org/abs/2603.18871v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-19_clawtrap-a-mitm-based-red-teaming-framework-for-re",
+      "date": "2026-03-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "ClawTrap: A MITM-Based Red-Teaming Framework for Real-World OpenClaw Security Evaluation",
+      "description": "Autonomous web agents such as \textbf{OpenClaw} are rapidly moving into high-impact real-world workflows, but their security robustness under live network threats remains insufficiently evaluated. Existing benchmarks mainly focus on static sandbox settings and content-level prompt attacks, which ...",
+      "source_url": "http://arxiv.org/abs/2603.18762v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-19_detecting-basic-values-in-a-noisy-russian-social-m",
+      "date": "2026-03-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Detecting Basic Values in A Noisy Russian Social Media Text Data: A Multi-Stage Classification Framework",
+      "description": "This study presents a multi-stage classification framework for detecting human values in noisy Russian language social media, validated on a random sample of 7.5 million public text posts. Drawing on Schwartz's theory of basic human values, we design a multi-stage pipeline that includes spam and ...",
+      "source_url": "http://arxiv.org/abs/2603.18822v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-19_how-we-monitor-internal-coding-agents-for-misalign",
+      "date": "2026-03-19",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How we monitor internal coding agents for misalignment",
+      "description": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+      "source_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-19_implicit-grading-bias-in-large-language-models-how",
+      "date": "2026-03-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Implicit Grading Bias in Large Language Models: How Writing Style Affects Automated Assessment Across Math, Programming, and Essay Tasks",
+      "description": "As large language models (LLMs) are increasingly deployed as automated graders in educational settings, concerns about fairness and bias in their evaluations have become critical. This study investigates whether LLMs exhibit implicit grading bias based on writing style when the underlying content...",
+      "source_url": "http://arxiv.org/abs/2603.18765v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-19_introducing-speed-bench-a-unified-and-diverse-benc",
+      "date": "2026-03-19",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "**Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/speed-bench",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-19_manar-memory-augmented-attention-with-navigational",
+      "date": "2026-03-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "MANAR: Memory-augmented Attention with Navigational Abstract Conceptual Representation",
+      "description": "MANAR (Memory-augmented Attention with Navigational Abstract Conceptual Representation), contextualization layer generalizes standard multi-head attention (MHA) by instantiating the principles of Global Workspace Theory (GWT). While MHA enables unconstrained all-to-all communication, it lacks the...",
+      "source_url": "http://arxiv.org/abs/2603.18676v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-19_measuring-and-exploiting-confirmation-bias-in-llm-",
+      "date": "2026-03-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Measuring and Exploiting Confirmation Bias in LLM-Assisted Security Code Review",
+      "description": "Security code reviews increasingly rely on systems integrating Large Language Models (LLMs), ranging from interactive assistants to autonomous agents in CI/CD pipelines. We study whether confirmation bias (i.e., the tendency to favor interpretations that align with prior expectations) affects LLM...",
+      "source_url": "http://arxiv.org/abs/2603.18740v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-19_neurogame-transformer-gibbs-inspired-attention-dri",
+      "date": "2026-03-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "NeuroGame Transformer: Gibbs-Inspired Attention Driven by Game Theory and Statistical Physics",
+      "description": "Standard attention mechanisms in transformers are limited by their pairwise formulation, which hinders the modeling of higher-order dependencies among tokens. We introduce the NeuroGame Transformer (NGT) to overcome this by reconceptualizing attention through a dual perspective: tokens are treate...",
+      "source_url": "http://arxiv.org/abs/2603.18761v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-19_openai-to-acquire-astral",
+      "date": "2026-03-19",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "OpenAI to acquire Astral",
+      "description": "Accelerates Codex growth to power the next generation of Python developer tools",
+      "source_url": "https://openai.com/index/openai-to-acquire-astral",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
     }
   ]
 }
