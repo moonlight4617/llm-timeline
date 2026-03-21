@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-03-20T01:37:25.704645Z",
-    "total_events": 276,
+    "generated_at": "2026-03-21T01:36:48.925903Z",
+    "total_events": 287,
     "type_counts": {
-      "paper": 156,
+      "paper": 165,
       "model_release": 39,
-      "announcement": 78,
+      "announcement": 80,
       "statement": 2,
       "policy": 1
     },
@@ -14,11 +14,11 @@
       "openai": 61,
       "anthropic": 10,
       "meta": 6,
-      "other": 156,
+      "other": 165,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 28
+      "huggingface": 30
     }
   },
   "companies": [
@@ -5962,6 +5962,28 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-03-19_adaptive-regime-aware-stock-price-prediction-using",
+      "date": "2026-03-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Adaptive Regime-Aware Stock Price Prediction Using Autoencoder-Gated Dual Node Transformers with Reinforcement Learning Control",
+      "description": "Stock markets exhibit regime-dependent behavior where prediction models optimized for stable conditions often fail during volatile periods. Existing approaches typically treat all market states uniformly or require manual regime labeling, which is expensive and quickly becomes stale as market dyn...",
+      "source_url": "http://arxiv.org/abs/2603.19136v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-03-19_analysis-of-linguistic-stereotypes-in-single-and-m",
       "date": "2026-03-19",
       "type": "paper",
@@ -6072,6 +6094,94 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-03-19_do-vlms-need-vision-transformers-evaluating-state-",
+      "date": "2026-03-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders",
+      "description": "Large vision--language models (VLMs) often use a frozen vision backbone, whose image features are mapped into a large language model through a lightweight connector. While transformer-based encoders are the standard visual backbone, we ask whether state space model (SSM) vision backbones can be a...",
+      "source_url": "http://arxiv.org/abs/2603.19209v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-19_drivetok-3d-driving-scene-tokenization-for-unified",
+      "date": "2026-03-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding",
+      "description": "With the growing adoption of vision-language-action models and world models in autonomous driving systems, scalable image tokenization becomes crucial as the interface for the visual modality. However, most existing tokenizers are designed for monocular and 2D scenes, leading to inefficiency and ...",
+      "source_url": "http://arxiv.org/abs/2603.19219v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-19_em-garde-a-propose-match-framework-for-proactive-s",
+      "date": "2026-03-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Em-Garde: A Propose-Match Framework for Proactive Streaming Video Understanding",
+      "description": "Recent advances in Streaming Video Understanding has enabled a new interaction paradigm where models respond proactively to user queries. Current proactive VideoLLMs rely on per-frame triggering decision making, which suffers from an efficiency-accuracy dilemma. We propose Em-Garde, a novel frame...",
+      "source_url": "http://arxiv.org/abs/2603.19054v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-19_fedtrident-resilient-road-condition-classification",
+      "date": "2026-03-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "FedTrident: Resilient Road Condition Classification Against Poisoning Attacks in Federated Learning",
+      "description": "FL has emerged as a transformative paradigm for ITS, notably camera-based Road Condition Classification (RCC). However, by enabling collaboration, FL-based RCC exposes the system to adversarial participants launching Targeted Label-Flipping Attacks (TLFAs). Malicious clients (vehicles) can relabe...",
+      "source_url": "http://arxiv.org/abs/2603.19101v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-03-19_how-we-monitor-internal-coding-agents-for-misalign",
       "date": "2026-03-19",
       "type": "announcement",
@@ -6134,6 +6244,28 @@
       "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-19_lumamba-latent-unified-mamba-for-electrode-topolog",
+      "date": "2026-03-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "LuMamba: Latent Unified Mamba for Electrode Topology-Invariant and Efficient EEG Modeling",
+      "description": "Electroencephalography (EEG) enables non-invasive monitoring of brain activity across clinical and neurotechnology applications, yet building foundation models for EEG remains challenging due to \u001bmph{differing electrode topologies} and \u001bmph{computational scalability}, as Transformer architectur...",
+      "source_url": "http://arxiv.org/abs/2603.19100v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     },
     {
       "id": "2026-03-19_manar-memory-augmented-attention-with-navigational",
@@ -6219,6 +6351,114 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-19_position-spectral-gnns-are-neither-spectral-nor-su",
+      "date": "2026-03-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Position: Spectral GNNs Are Neither Spectral Nor Superior for Node Classification",
+      "description": "Spectral Graph Neural Networks (Spectral GNNs) for node classification promise frequency-domain filtering on graphs, yet rest on flawed foundations. Recent work shows that graph Laplacian eigenvectors do not in general have the key properties of a true Fourier basis, but leaves the empirical succ...",
+      "source_url": "http://arxiv.org/abs/2603.19091v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-19_r-equivalence-on-cubic-surfaces-i-existing-cases-w",
+      "date": "2026-03-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "$R$-equivalence on Cubic Surfaces I: Existing Cases with Non-Trivial Universal Equivalence",
+      "description": "Let $V$ be a smooth cubic surface over a $p$-adic field $k$ with good reduction. Swinnerton-Dyer (1981) proved that $R$-equivalence is trivial on $V(k)$ except perhaps if $V$ is one of three special types--those whose $R$-equivalence he could not bound by proving the universal (admissible) equiva...",
+      "source_url": "http://arxiv.org/abs/2603.19215v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-19_the-exponentially-weighted-signature",
+      "date": "2026-03-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The Exponentially Weighted Signature",
+      "description": "The signature is a canonical representation of a multidimensional path over an interval. However, it treats all historical information uniformly, offering no intrinsic mechanism for contextualising the relevance of the past. To address this, we introduce the Exponentially Weighted Signature (EWS)...",
+      "source_url": "http://arxiv.org/abs/2603.19198v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-20_build-a-domain-specific-embedding-model-in-under-a",
+      "date": "2026-03-20",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Build a Domain-Specific Embedding Model in Under a Day",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-20_whats-new-in-mellea-040-granite-libraries-release",
+      "date": "2026-03-20",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
     }
