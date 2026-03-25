@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-03-24T01:37:35.329536Z",
-    "total_events": 298,
+    "generated_at": "2026-03-25T01:37:41.300848Z",
+    "total_events": 311,
     "type_counts": {
-      "paper": 175,
+      "paper": 184,
       "model_release": 39,
-      "announcement": 81,
+      "announcement": 85,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 62,
+      "openai": 65,
       "anthropic": 10,
       "meta": 6,
-      "other": 175,
+      "other": 184,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 30
+      "huggingface": 31
     }
   },
   "companies": [
@@ -6691,6 +6691,288 @@
       "title": "Creating with Sora Safely",
       "description": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
       "source_url": "https://openai.com/index/creating-with-sora-safely",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-24_a-new-framework-for-evaluating-voice-agents-eva",
+      "date": "2026-03-24",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "A New Framework for Evaluating Voice Agents (EVA)",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ServiceNow-AI/eva",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-24_authormix-modular-authorship-style-transfer-via-la",
+      "date": "2026-03-24",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AuthorMix: Modular Authorship Style Transfer via Layer-wise Adapter Mixing",
+      "description": "The task of authorship style transfer involves rewriting text in the style of a target author while preserving the meaning of the original text. Existing style transfer methods train a single model on large corpora to model all target styles at once: this high-cost approach offers limited flexibi...",
+      "source_url": "http://arxiv.org/abs/2603.23069v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-24_can-an-llm-detect-instances-of-microservice-infras",
+      "date": "2026-03-24",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Can an LLM Detect Instances of Microservice Infrastructure Patterns?",
+      "description": "Architectural patterns are frequently found in various software artifacts. The wide variety of patterns and their implementations makes detection challenging with current tools, especially since they often only support detecting patterns in artifacts written in a single language. Large Language M...",
+      "source_url": "http://arxiv.org/abs/2603.23073v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-24_conformal-cross-modal-active-learning",
+      "date": "2026-03-24",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Conformal Cross-Modal Active Learning",
+      "description": "Foundation models for vision have transformed visual recognition with powerful pretrained representations and strong zero-shot capabilities, yet their potential for data-efficient learning remains largely untapped. Active Learning (AL) aims to minimize annotation costs by strategically selecting ...",
+      "source_url": "http://arxiv.org/abs/2603.23159v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-24_dbautodoc-automated-discovery-and-documentation-of",
+      "date": "2026-03-24",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "DBAutoDoc: Automated Discovery and Documentation of Undocumented Database Schemas via Statistical Analysis and Iterative LLM Refinement",
+      "description": "A tremendous number of critical database systems lack adequate documentation. Declared primary keys are absent, foreign key constraints have been dropped for performance, column names are cryptic abbreviations, and no entity-relationship diagrams exist. We present DBAutoDoc, a system that automat...",
+      "source_url": "http://arxiv.org/abs/2603.23050v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-24_helping-developers-build-safer-ai-experiences-for-",
+      "date": "2026-03-24",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Helping developers build safer AI experiences for teens",
+      "description": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+      "source_url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-24_jfta-bench-evaluate-llms-ability-of-tracking-and-a",
+      "date": "2026-03-24",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "JFTA-Bench: Evaluate LLM's Ability of Tracking and Analyzing Malfunctions Using Fault Trees",
+      "description": "In the maintenance of complex systems, fault trees are used to locate problems and provide targeted solutions. To enable fault trees stored as images to be directly processed by large language models, which can assist in tracking and analyzing malfunctions, we propose a novel textual representati...",
+      "source_url": "http://arxiv.org/abs/2603.22978v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-24_msformer-enabling-robust-predictive-maintenance-se",
+      "date": "2026-03-24",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "MsFormer: Enabling Robust Predictive Maintenance Services for Industrial Devices",
+      "description": "Providing reliable predictive maintenance is a critical industrial AI service essential for ensuring the high availability of manufacturing devices. Existing deep-learning methods present competitive results on such tasks but lack a general service-oriented framework to capture complex dependenci...",
+      "source_url": "http://arxiv.org/abs/2603.23076v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-24_msr-hubert-self-supervised-pre-training-for-adapta",
+      "date": "2026-03-24",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "MSR-HuBERT: Self-supervised Pre-training for Adaptation to Multiple Sampling Rates",
+      "description": "Self-supervised learning (SSL) has advanced speech processing. However, existing speech SSL methods typically assume a single sampling rate and struggle with mixed-rate data due to temporal resolution mismatch. To address this limitation, we propose MSRHuBERT, a multi-sampling-rate adaptive pre-t...",
+      "source_url": "http://arxiv.org/abs/2603.23048v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-24_papervoyager-building-interactive-web-with-visual-",
+      "date": "2026-03-24",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "PaperVoyager : Building Interactive Web with Visual Language Models",
+      "description": "Recent advances in visual language models have enabled autonomous agents for complex reasoning, tool use, and document understanding. However, existing document agents mainly transform papers into static artifacts such as summaries, webpages, or slides, which are insufficient for technical papers...",
+      "source_url": "http://arxiv.org/abs/2603.22999v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-24_powering-product-discovery-in-chatgpt",
+      "date": "2026-03-24",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Powering product discovery in ChatGPT",
+      "description": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+      "source_url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-24_saiw-source-attributable-invisible-watermarking-fo",
+      "date": "2026-03-24",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "SAiW: Source-Attributable Invisible Watermarking for Proactive Deepfake Defense",
+      "description": "Deepfakes generated by modern generative models pose a serious threat to information integrity, digital identity, and public trust. Existing detection methods are largely reactive, attempting to identify manipulations after they occur and often failing to generalize across evolving generation tec...",
+      "source_url": "http://arxiv.org/abs/2603.23178v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-24_update-on-the-openai-foundation",
+      "date": "2026-03-24",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Update on the OpenAI Foundation",
+      "description": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "source_url": "https://openai.com/index/update-on-the-openai-foundation",
       "tags": [
         "openai",
         "auto-collected"
