@@ -1,20 +1,20 @@
 {
   "meta": {
-    "generated_at": "2026-03-25T01:37:41.300848Z",
-    "total_events": 311,
+    "generated_at": "2026-03-26T01:38:04.100142Z",
+    "total_events": 323,
     "type_counts": {
-      "paper": 184,
+      "paper": 194,
       "model_release": 39,
-      "announcement": 85,
+      "announcement": 87,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 65,
+      "openai": 67,
       "anthropic": 10,
       "meta": 6,
-      "other": 184,
+      "other": 194,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
@@ -6984,6 +6984,268 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-25_accelerating-diffusion-based-video-editing-via-het",
+      "date": "2026-03-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Accelerating Diffusion-based Video Editing via Heterogeneous Caching: Beyond Full Computing at Sampled Denoising Timestep",
+      "description": "Diffusion-based video editing has emerged as an important paradigm for high-quality and flexible content generation. However, despite their generality and strong modeling capacity, Diffusion Transformers (DiT) remain computationally expensive due to the iterative denoising process, posing challen...",
+      "source_url": "http://arxiv.org/abs/2603.24260v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-25_bridging-biological-hearing-and-neuromorphic-compu",
+      "date": "2026-03-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Bridging Biological Hearing and Neuromorphic Computing: End-to-End Time-Domain Audio Signal Processing with Reservoir Computing",
+      "description": "Despite the advancements in cutting-edge technologies, audio signal processing continues to pose challenges and lacks the precision of a human speech processing system. To address these challenges, we propose a novel approach to simplify audio signal processing by leveraging time-domain technique...",
+      "source_url": "http://arxiv.org/abs/2603.24283v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-25_cost-sensitive-neighborhood-aggregation-for-hetero",
+      "date": "2026-03-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Cost-Sensitive Neighborhood Aggregation for Heterophilous Graphs: When Does Per-Edge Routing Help?",
+      "description": "Recent work distinguishes two heterophily regimes: adversarial, where cross-class edges dilute class signal and harm classification, and informative, where the heterophilous structure itself carries useful signal. We ask: when does per-edge message routing help, and when is a uniform spectral cha...",
+      "source_url": "http://arxiv.org/abs/2603.24291v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-25_deepdtf-dual-branch-transformer-fusion-for-multi-o",
+      "date": "2026-03-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "DeepDTF: Dual-Branch Transformer Fusion for Multi-Omics Anticancer Drug Response Prediction",
+      "description": "Cancer drug response varies widely across tumors due to multi-layer molecular heterogeneity, motivating computational decision support for precision oncology. Despite recent progress in deep CDR models, robust alignment between high-dimensional multi-omics and chemically structured drugs remains ...",
+      "source_url": "http://arxiv.org/abs/2603.24265v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-25_inside-our-approach-to-the-model-spec",
+      "date": "2026-03-25",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Inside our approach to the Model Spec",
+      "description": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+      "source_url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-25_introducing-the-openai-safety-bug-bounty-program",
+      "date": "2026-03-25",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "description": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "source_url": "https://openai.com/index/safety-bug-bounty",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-25_invisible-threats-from-model-context-protocol-gene",
+      "date": "2026-03-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Invisible Threats from Model Context Protocol: Generating Stealthy Injection Payload via Tree-based Adaptive Search",
+      "description": "Recent advances in the Model Context Protocol (MCP) have enabled large language models (LLMs) to invoke external tools with unprecedented ease. This creates a new class of powerful and tool augmented agents. Unfortunately, this capability also introduces an under explored attack surface, specific...",
+      "source_url": "http://arxiv.org/abs/2603.24203v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-25_ipatch-a-multi-resolution-transformer-architecture",
+      "date": "2026-03-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "IPatch: A Multi-Resolution Transformer Architecture for Robust Time-Series Forecasting",
+      "description": "Accurate forecasting of multivariate time series remains challenging due to the need to capture both short-term fluctuations and long-range temporal dependencies. Transformer-based models have emerged as a powerful approach, but their performance depends critically on the representation of tempor...",
+      "source_url": "http://arxiv.org/abs/2603.24207v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-25_quantum-neural-physics-solving-partial-differentia",
+      "date": "2026-03-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Quantum Neural Physics: Solving Partial Differential Equations on Quantum Simulators using Quantum Convolutional Neural Networks",
+      "description": "In scientific computing, the formulation of numerical discretisations of partial differential equations (PDEs) as untrained convolutional layers within Convolutional Neural Networks (CNNs), referred to by some as Neural Physics, has demonstrated good efficiency for executing physics-based solvers...",
+      "source_url": "http://arxiv.org/abs/2603.24196v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-25_spingqe-a-generative-quantum-eigensolver-for-spin-",
+      "date": "2026-03-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "SpinGQE: A Generative Quantum Eigensolver for Spin Hamiltonians",
+      "description": "The ground state search problem is central to quantum computing, with applications spanning quantum chemistry, condensed matter physics, and optimization. The Variational Quantum Eigensolver (VQE) has shown promise for small systems but faces significant limitations. These include barren plateaus...",
+      "source_url": "http://arxiv.org/abs/2603.24298v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-25_the-specification-gap-coordination-failure-under-p",
+      "date": "2026-03-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The Specification Gap: Coordination Failure Under Partial Knowledge in Code Agents",
+      "description": "When multiple LLM-based code agents independently implement parts of the same class, they must agree on shared internal representations, even when the specification leaves those choices implicit. We study this coordination problem across 51 class-generation tasks, progressively stripping specific...",
+      "source_url": "http://arxiv.org/abs/2603.24284v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-25_uniscale-synergistic-entire-space-data-and-model-s",
+      "date": "2026-03-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "UniScale: Synergistic Entire Space Data and Model Scaling for Search Ranking",
+      "description": "Recent advances in Large Language Models (LLMs) have inspired a surge of scaling law research in industrial search, advertising, and recommendation systems. However, existing approaches focus mainly on architectural improvements, overlooking the critical synergy between data and architecture desi...",
+      "source_url": "http://arxiv.org/abs/2603.24226v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     }
   ]
 }
