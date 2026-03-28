@@ -1,20 +1,20 @@
 {
   "meta": {
-    "generated_at": "2026-03-27T01:38:11.068935Z",
-    "total_events": 333,
+    "generated_at": "2026-03-28T01:37:35.333405Z",
+    "total_events": 340,
     "type_counts": {
-      "paper": 204,
+      "paper": 210,
       "model_release": 39,
-      "announcement": 87,
+      "announcement": 88,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 67,
+      "openai": 68,
       "anthropic": 10,
       "meta": 6,
-      "other": 204,
+      "other": 210,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
@@ -7248,6 +7248,28 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-03-26_agent-factories-for-high-level-synthesis-how-far-c",
+      "date": "2026-03-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?",
+      "description": "We present an empirical study of how far general-purpose coding agents -- without hardware-specific training -- can optimize hardware designs from high-level algorithmic specifications. We introduce an agent factory, a two-stage pipeline that constructs and coordinates multiple autonomous optimiz...",
+      "source_url": "http://arxiv.org/abs/2603.25719v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-03-26_an-experimental-comparison-of-the-most-popular-app",
       "date": "2026-03-26",
       "type": "paper",
@@ -7256,6 +7278,50 @@
       "title": "An Experimental Comparison of the Most Popular Approaches to Fake News Detection",
       "description": "In recent years, fake news detection has received increasing attention in public debate and scientific research. Despite advances in detection techniques, the production and spread of false information have become more sophisticated, driven by Large Language Models (LLMs) and the amplification po...",
       "source_url": "http://arxiv.org/abs/2603.25501v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-26_anchored-branched-steady-state-wind-flow-transform",
+      "date": "2026-03-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Anchored-Branched Steady-state WInd Flow Transformer (AB-SWIFT): a metamodel for 3D atmospheric flow in urban environments",
+      "description": "Air flow modeling at a local scale is essential for applications such as pollutant dispersion modeling or wind farm modeling. To circumvent costly Computational Fluid Dynamics (CFD) computations, deep learning surrogate models have recently emerged as promising alternatives. However, in the conte...",
+      "source_url": "http://arxiv.org/abs/2603.25635v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-26_deepfan-a-transformer-based-deep-learning-model-fo",
+      "date": "2026-03-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "DeepFAN, a transformer-based deep learning model for human-artificial intelligence collaborative assessment of incidental pulmonary nodules in CT scans: a multi-reader, multi-case trial",
+      "description": "The widespread adoption of CT has notably increased the number of detected lung nodules. However, current deep learning methods for classifying benign and malignant nodules often fail to comprehensively integrate global and local features, and most of them have not been validated through clinical...",
+      "source_url": "http://arxiv.org/abs/2603.25607v1",
       "tags": [
         "paper",
         "arxiv",
@@ -7336,6 +7402,50 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-03-26_is-mathematical-problem-solving-expertise-in-large",
+      "date": "2026-03-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Is Mathematical Problem-Solving Expertise in Large Language Models Associated with Assessment Performance?",
+      "description": "Large Language Models (LLMs) are increasingly used in math education not only as problem solvers but also as assessors of learners' reasoning. However, it remains unclear whether stronger math problem-solving ability is associated with stronger step-level assessment performance. This study examin...",
+      "source_url": "http://arxiv.org/abs/2603.25633v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-26_lantern-latent-visual-structured-reasoning",
+      "date": "2026-03-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "LanteRn: Latent Visual Structured Reasoning",
+      "description": "While language reasoning models excel in many tasks, visual reasoning remains challenging for current large multimodal models (LMMs). As a result, most LMMs default to verbalizing perceptual content into text, a strong limitation for tasks requiring fine-grained spatial and visual understanding. ...",
+      "source_url": "http://arxiv.org/abs/2603.25629v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-03-26_lightweight-genai-for-network-traffic-synthesis-fi",
       "date": "2026-03-26",
       "type": "paper",
@@ -7366,6 +7476,28 @@
       "title": "Offline Decision Transformers for Neural Combinatorial Optimization: Surpassing Heuristics on the Traveling Salesman Problem",
       "description": "Combinatorial optimization problems like the Traveling Salesman Problem are critical in industry yet NP-hard. Neural Combinatorial Optimization has shown promise, but its reliance on online reinforcement learning (RL) hampers deployment and underutilizes decades of algorithmic knowledge. We addre...",
       "source_url": "http://arxiv.org/abs/2603.25241v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-26_on-neural-scaling-laws-for-weather-emulation-throu",
+      "date": "2026-03-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "On Neural Scaling Laws for Weather Emulation through Continual Training",
+      "description": "Neural scaling laws, which in some domains can predict the performance of large neural networks as a function of model, data, and compute scale, are the cornerstone of building foundation models in Natural Language Processing and Computer Vision. We study neural scaling in Scientific Machine Lear...",
+      "source_url": "http://arxiv.org/abs/2603.25687v1",
       "tags": [
         "paper",
         "arxiv",
@@ -7466,6 +7598,27 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-27_stadler-reshapes-knowledge-work-at-a-230-year-old-",
+      "date": "2026-03-27",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "STADLER reshapes knowledge work at a 230-year-old company",
+      "description": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "source_url": "https://openai.com/index/stadler",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
     }
   ]
 }
