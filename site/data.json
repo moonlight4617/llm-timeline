@@ -1,20 +1,20 @@
 {
   "meta": {
-    "generated_at": "2026-03-30T01:38:20.199688Z",
-    "total_events": 341,
+    "generated_at": "2026-03-31T01:38:03.463661Z",
+    "total_events": 352,
     "type_counts": {
-      "paper": 210,
+      "paper": 220,
       "model_release": 39,
-      "announcement": 89,
+      "announcement": 90,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 68,
+      "openai": 69,
       "anthropic": 10,
       "meta": 6,
-      "other": 210,
+      "other": 220,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
@@ -7640,6 +7640,247 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-29_a-gentle-tutorial-and-a-structured-reformulation-o",
+      "date": "2026-03-29",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A gentle tutorial and a structured reformulation of Bock's algorithm for minimum directed spanning trees",
+      "description": "This paper presents a gentle tutorial and a structured reformulation of Bock's 1971 Algol procedure for constructing minimum directed spanning trees. Our aim is to make the original algorithm readable and reproducible for modern readers, while highlighting its relevance as an exact decoder for no...",
+      "source_url": "http://arxiv.org/abs/2603.27530v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-29_copilot-assisted-second-thought-framework-for-brai",
+      "date": "2026-03-29",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Copilot-Assisted Second-Thought Framework for Brain-to-Robot Hand Motion Decoding",
+      "description": "Motor kinematics prediction (MKP) from electroencephalography (EEG) is an important research area for developing movement-related brain-computer interfaces (BCIs). While traditional methods often rely on convolutional neural networks (CNNs) or recurrent neural networks (RNNs), Transformer-based m...",
+      "source_url": "http://arxiv.org/abs/2603.27492v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-29_drag-or-traction-understanding-how-designers-appro",
+      "date": "2026-03-29",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Drag or Traction: Understanding How Designers Appropriate Friction in AI Ideation Outputs",
+      "description": "Seamless AI presents output as a finished, polished product that users consume rather than shape. This risks design fixation: users anchor on AI suggestions rather than generating their own ideas. We propose Generative Friction, which introduces intentional disruptions to AI output (fragmentation...",
+      "source_url": "http://arxiv.org/abs/2603.27550v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-29_helping-disaster-response-teams-turn-ai-into-actio",
+      "date": "2026-03-29",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Helping disaster response teams turn AI into action across Asia",
+      "description": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+      "source_url": "https://openai.com/index/helping-disaster-response-teams-asia",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-29_investigating-the-influence-of-language-on-sycopha",
+      "date": "2026-03-29",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Investigating the Influence of Language on Sycophantic Behavior of Multilingual LLMs",
+      "description": "Large language models (LLMs) have achieved strong performance across a wide range of tasks, but they are also prone to sycophancy, the tendency to agree with user statements regardless of validity. Previous research has outlined both the extent and the underlying causes of sycophancy in earlier m...",
+      "source_url": "http://arxiv.org/abs/2603.27664v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-29_longcat-next-lexicalizing-modalities-as-discrete-t",
+      "date": "2026-03-29",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "LongCat-Next: Lexicalizing Modalities as Discrete Tokens",
+      "description": "The prevailing Next-Token Prediction (NTP) paradigm has driven the success of large language models through discrete autoregressive modeling. However, contemporary multimodal systems remain language-centric, often treating non-linguistic modalities as external attachments, leading to fragmented a...",
+      "source_url": "http://arxiv.org/abs/2603.27538v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-29_over-refusal-and-representation-subspaces-a-mechan",
+      "date": "2026-03-29",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Over-Refusal and Representation Subspaces: A Mechanistic Analysis of Task-Conditioned Refusal in Aligned LLMs",
+      "description": "Aligned language models that are trained to refuse harmful requests also exhibit over-refusal: they decline safe instructions that seemingly resemble harmful instructions. A natural approach is to ablate the global refusal direction, steering the hidden-state vectors away or towards the harmful-r...",
+      "source_url": "http://arxiv.org/abs/2603.27518v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-29_prbench-end-to-end-paper-reproduction-in-physics-r",
+      "date": "2026-03-29",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "PRBench: End-to-end Paper Reproduction in Physics Research",
+      "description": "AI agents powered by large language models exhibit strong reasoning and problem-solving capabilities, enabling them to assist scientific research tasks such as formula derivation and code generation. However, whether these agents can reliably perform end-to-end reproduction from real scientific p...",
+      "source_url": "http://arxiv.org/abs/2603.27646v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-29_project-imaging-x-a-survey-of-1000-open-access-med",
+      "date": "2026-03-29",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Project Imaging-X: A Survey of 1000+ Open-Access Medical Imaging Datasets for Foundation Model Development",
+      "description": "Foundation models have demonstrated remarkable success across diverse domains and tasks, primarily due to the thrive of large-scale, diverse, and high-quality datasets. However, in the field of medical imaging, the curation and assembling of such medical datasets are highly challenging due to the...",
+      "source_url": "http://arxiv.org/abs/2603.27460v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-29_understanding-semantic-perturbations-on-in-process",
+      "date": "2026-03-29",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Understanding Semantic Perturbations on In-Processing Generative Image Watermarks",
+      "description": "The widespread deployment of high-fidelity generative models has intensified the need for reliable mechanisms for provenance and content authentication. In-processing watermarking, embedding a signature into the generative model's synthesis procedure, has been advocated as a solution and is often...",
+      "source_url": "http://arxiv.org/abs/2603.27513v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-29_what-does-a-system-modify-when-it-modifies-itself",
+      "date": "2026-03-29",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "What does a system modify when it modifies itself?",
+      "description": "When a cognitive system modifies its own functioning, what exactly does it modify: a low-level rule, a control rule, or the norm that evaluates its own revisions? Cognitive science describes executive control, metacognition, and hierarchical learning with precision, but lacks a formal framework d...",
+      "source_url": "http://arxiv.org/abs/2603.27611v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     }
   ]
 }
