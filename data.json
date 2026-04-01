@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-03-31T01:38:03.463661Z",
-    "total_events": 352,
+    "generated_at": "2026-04-01T01:37:33.794689Z",
+    "total_events": 365,
     "type_counts": {
-      "paper": 220,
+      "paper": 230,
       "model_release": 39,
-      "announcement": 90,
+      "announcement": 93,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 69,
+      "openai": 70,
       "anthropic": 10,
       "meta": 6,
-      "other": 220,
+      "other": 230,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 32
+      "huggingface": 34
     }
   },
   "companies": [
@@ -7869,6 +7869,289 @@
       "title": "What does a system modify when it modifies itself?",
       "description": "When a cognitive system modifies its own functioning, what exactly does it modify: a low-level rule, a control rule, or the norm that evaluates its own revisions? Cognitive science describes executive control, metacognition, and hierarchical learning with precision, but lacks a formal framework d...",
       "source_url": "http://arxiv.org/abs/2603.27611v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-31_6gagentgym-tool-use-data-synthesis-and-agentic-lea",
+      "date": "2026-03-31",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "6GAgentGym: Tool Use, Data Synthesis, and Agentic Learning for Network Management",
+      "description": "Autonomous 6G network management requires agents that can execute tools, observe the resulting state changes, and adapt their decisions accordingly. Existing benchmarks based on static questions or scripted episode replay, however, do not support such closed-loop interaction, limiting agents to p...",
+      "source_url": "http://arxiv.org/abs/2603.29656v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-31_accelerating-the-next-phase-of-ai",
+      "date": "2026-03-31",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Accelerating the next phase of AI",
+      "description": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+      "source_url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-31_agenda-based-narrative-extraction-steering-pathfin",
+      "date": "2026-03-31",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Agenda-based Narrative Extraction: Steering Pathfinding Algorithms with Large Language Models",
+      "description": "Existing narrative extraction methods face a trade-off between coherence, interactivity, and multi-storyline support. Narrative Maps supports rich interaction and generates multiple storylines as a byproduct of its coverage constraints, though this comes at the cost of individual path coherence. ...",
+      "source_url": "http://arxiv.org/abs/2603.29661v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-31_granite-40-3b-vision-compact-multimodal-intelligen",
+      "date": "2026-03-31",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-31_hyperkkl-learning-kkl-observers-for-non-autonomous",
+      "date": "2026-03-31",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "HyperKKL: Learning KKL Observers for Non-Autonomous Nonlinear Systems via Hypernetwork-Based Input Conditioning",
+      "description": "Kazantzis-Kravaris/Luenberger (KKL) observers are a class of state observers for nonlinear systems that rely on an injective map to transform the nonlinear dynamics into a stable quasi-linear latent space, from where the state estimate is obtained in the original coordinates via a left inverse of...",
+      "source_url": "http://arxiv.org/abs/2603.29744v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-31_measuring-the-metacognition-of-ai",
+      "date": "2026-03-31",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Measuring the metacognition of AI",
+      "description": "A robust decision-making process must take into account uncertainty, especially when the choice involves inherent risks. Because artificial Intelligence (AI) systems are increasingly integrated into decision-making workflows, managing uncertainty relies more and more on the metacognitive capabili...",
+      "source_url": "http://arxiv.org/abs/2603.29693v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-31_mlr3mbo-bayesian-optimization-in-r",
+      "date": "2026-03-31",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "mlr3mbo: Bayesian Optimization in R",
+      "description": "We present mlr3mbo, a comprehensive and modular toolbox for Bayesian optimization in R. mlr3mbo supports single- and multi-objective optimization, multi-point proposals, batch and asynchronous parallelization, input and output transformations, and robust error handling. While it can be used for m...",
+      "source_url": "http://arxiv.org/abs/2603.29730v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-31_one-for-all-a-lightweight-stabilized-and-parameter",
+      "date": "2026-03-31",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "One-for-All: A Lightweight Stabilized and Parameter-Efficient Pre-trained LLM for Time Series Forecasting",
+      "description": "We address the challenge of adapting pre-trained Large Language Models (LLMs) for multivariate time-series analysis, where their deployment is often hindered by prohibitive computational and memory demands. Our solution, One-for-All, introduces Gaussian Rank-Stabilized Low-Rank Adapters (rsLoRA) ...",
+      "source_url": "http://arxiv.org/abs/2603.29756v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-31_reinforced-reasoning-for-end-to-end-retrosynthetic",
+      "date": "2026-03-31",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Reinforced Reasoning for End-to-End Retrosynthetic Planning",
+      "description": "Retrosynthetic planning is a fundamental task in organic chemistry, yet remains challenging due to its combinatorial complexity. To address this, conventional approaches typically rely on hybrid frameworks that combine single-step predictions with external search heuristics, inevitably fracturing...",
+      "source_url": "http://arxiv.org/abs/2603.29723v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-31_tracking-vs-deciding-the-dual-capability-bottlenec",
+      "date": "2026-03-31",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Tracking vs. Deciding: The Dual-Capability Bottleneck in Searchless Chess Transformers",
+      "description": "A human-like chess engine should mimic the style, errors, and consistency of a strong human player rather than maximize playing strength. We show that training from move sequences alone forces a model to learn two capabilities: state tracking, which reconstructs the board from move history, and d...",
+      "source_url": "http://arxiv.org/abs/2603.29761v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-31_trl-v10-post-training-library-built-to-move-with-t",
+      "date": "2026-03-31",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/trl-v1",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-03-31_unbounded-density-ratio-estimation-and-its-applica",
+      "date": "2026-03-31",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Unbounded Density Ratio Estimation and Its Application to Covariate Shift Adaptation",
+      "description": "This paper focuses on the problem of unbounded density ratio estimation -- an understudied yet critical challenge in statistical learning -- and its application to covariate shift adaptation. Much of the existing literature assumes that the density ratio is either uniformly bounded or unbounded b...",
+      "source_url": "http://arxiv.org/abs/2603.29725v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-03-31_view-oriented-conversation-compiler-for-agent-trac",
+      "date": "2026-03-31",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "View-oriented Conversation Compiler for Agent Trace Analysis",
+      "description": "Agent traces carry increasing analytical value in the era of context learning and harness-driven agentic cognition, yet most prior work treats conversation format as a trivial engineering detail. Modern agent conversations contain deeply structured content, including nested tool calls and results...",
+      "source_url": "http://arxiv.org/abs/2603.29678v1",
       "tags": [
         "paper",
         "arxiv",
