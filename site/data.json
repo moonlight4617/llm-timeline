@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-04-01T01:37:33.794689Z",
-    "total_events": 365,
+    "generated_at": "2026-04-02T01:38:04.403068Z",
+    "total_events": 378,
     "type_counts": {
-      "paper": 230,
+      "paper": 240,
       "model_release": 39,
-      "announcement": 93,
+      "announcement": 96,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 70,
+      "openai": 72,
       "anthropic": 10,
       "meta": 6,
-      "other": 230,
+      "other": 239,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 34
+      "huggingface": 36
     }
   },
   "companies": [
@@ -8152,6 +8152,290 @@
       "title": "View-oriented Conversation Compiler for Agent Trace Analysis",
       "description": "Agent traces carry increasing analytical value in the era of context learning and harness-driven agentic cognition, yet most prior work treats conversation format as a trivial engineering detail. Modern agent conversations contain deeply structured content, including nested tool calls and results...",
       "source_url": "http://arxiv.org/abs/2603.29678v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-01_falcon-perception",
+      "date": "2026-04-01",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Falcon Perception",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/tiiuae/falcon-perception",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-01_generalization-bounds-for-spectral-gnns-via-fourie",
+      "date": "2026-04-01",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Generalization Bounds for Spectral GNNs via Fourier Domain Analysis",
+      "description": "Spectral graph neural networks learn graph filters, but their behavior with increasing depth and polynomial order is not well understood. We analyze these models in the graph Fourier domain, where each layer becomes an element-wise frequency update, separating the fixed spectrum from trainable pa...",
+      "source_url": "http://arxiv.org/abs/2604.00918v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-01_gpt-nl-public-corpus-a-permissively-licensed-dutch",
+      "date": "2026-04-01",
+      "type": "paper",
+      "company": "openai",
+      "person": null,
+      "title": "GPT-NL Public Corpus: A Permissively Licensed, Dutch-First Dataset for LLM Pre-training",
+      "description": "We present the GPT-NL Public Corpus, the biggest permissively licensed corpus of Dutch language resources. The GPT-NL Public Corpus contains 21 Dutch-only collections totalling 36B preprocessed Dutch tokens not present in any other LLM pretraining corpus. Additionally, the corpus includes roughly...",
+      "source_url": "http://arxiv.org/abs/2604.00920v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected",
+        "openai"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-01_gradient-labs-gives-every-bank-customer-an-ai-acco",
+      "date": "2026-04-01",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Gradient Labs gives every bank customer an AI account manager",
+      "description": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
+      "source_url": "https://openai.com/index/gradient-labs",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-01_holo3-breaking-the-computer-use-frontier",
+      "date": "2026-04-01",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Holo3: Breaking the Computer Use Frontier",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/Hcompany/holo3",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-01_investigating-autonomous-agent-contributions-in-th",
+      "date": "2026-04-01",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Investigating Autonomous Agent Contributions in the Wild: Activity Patterns and Code Change over Time",
+      "description": "The rise of large language models for code has reshaped software development. Autonomous coding agents, able to create branches, open pull requests, and perform code reviews, now actively contribute to real-world projects. Their growing role offers a unique and timely opportunity to investigate A...",
+      "source_url": "http://arxiv.org/abs/2604.00917v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-01_kuet-at-stancenakba-shared-task-stancemoe-mixture-",
+      "date": "2026-04-01",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "KUET at StanceNakba Shared Task: StanceMoE: Mixture-of-Experts Architecture for Stance Detection",
+      "description": "Actor-level stance detection aims to determine an author expressed position toward specific geopolitical actors mentioned or implicated in a text. Although transformer-based models have achieved relatively good performance in stance classification, they typically rely on unified representations t...",
+      "source_url": "http://arxiv.org/abs/2604.00878v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-01_learning-quantised-structure-preserving-motion-rep",
+      "date": "2026-04-01",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Learning Quantised Structure-Preserving Motion Representations for Dance Fingerprinting",
+      "description": "We present DANCEMATCH, an end-to-end framework for motion-based dance retrieval, the task of identifying semantically similar choreographies directly from raw video, defined as DANCE FINGERPRINTING. While existing motion analysis and retrieval methods can compare pose sequences, they rely on cont...",
+      "source_url": "http://arxiv.org/abs/2604.00927v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-01_multimodal-analysis-of-state-funded-news-coverage-",
+      "date": "2026-04-01",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Multimodal Analysis of State-Funded News Coverage of the Israel-Hamas War on YouTube Shorts",
+      "description": "YouTube Shorts have become central to news consumption on the platform, yet research on how geopolitical events are represented in this format remains limited. To address this gap, we present a multimodal pipeline that combines automatic transcription, aspect-based sentiment analysis (ABSA), and ...",
+      "source_url": "http://arxiv.org/abs/2604.00994v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-01_pixelprune-pixel-level-adaptive-visual-token-reduc",
+      "date": "2026-04-01",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding",
+      "description": "Document understanding and GUI interaction are among the highest-value applications of Vision-Language Models (VLMs), yet they impose exceptionally heavy computational burden: fine-grained text and small UI elements demand high-resolution inputs that produce tens of thousands of visual tokens. We...",
+      "source_url": "http://arxiv.org/abs/2604.00886v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-01_positional-cognitive-specialization-where-do-llms-",
+      "date": "2026-04-01",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Positional Cognitive Specialization: Where Do LLMs Learn To Comprehend and Speak Your Language?",
+      "description": "Adapting large language models (LLMs) to new languages is an expensive and opaque process. Understanding how language models acquire new languages and multilingual abilities is key to achieve efficient adaptation. Prior work on multilingual interpretability research focuses primarily on how train...",
+      "source_url": "http://arxiv.org/abs/2604.00923v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-01_psychagent-an-experience-driven-lifelong-learning-",
+      "date": "2026-04-01",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "PsychAgent: An Experience-Driven Lifelong Learning Agent for Self-Evolving Psychological Counselor",
+      "description": "Existing methods for AI psychological counselors predominantly rely on supervised fine-tuning using static dialogue datasets. However, this contrasts with human experts, who continuously refine their proficiency through clinical practice and accumulated experience. To bridge this gap, we propose ...",
+      "source_url": "http://arxiv.org/abs/2604.00931v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-01_warp-guaranteed-inner-layer-repair-of-nlp-transfor",
+      "date": "2026-04-01",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "WARP: Guaranteed Inner-Layer Repair of NLP Transformers",
+      "description": "Transformer-based NLP models remain vulnerable to adversarial perturbations, yet existing repair methods face a fundamental trade-off: gradient-based approaches offer flexibility but lack verifiability and often overfit; methods that do provide repair guarantees are restricted to the final layer ...",
+      "source_url": "http://arxiv.org/abs/2604.00938v1",
       "tags": [
         "paper",
         "arxiv",
