@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-04-02T01:38:04.403068Z",
-    "total_events": 378,
+    "generated_at": "2026-04-03T01:37:45.769229Z",
+    "total_events": 391,
     "type_counts": {
-      "paper": 240,
+      "paper": 250,
       "model_release": 39,
-      "announcement": 96,
+      "announcement": 99,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 72,
+      "openai": 74,
       "anthropic": 10,
       "meta": 6,
-      "other": 239,
+      "other": 249,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 36
+      "huggingface": 37
     }
   },
   "companies": [
@@ -8448,6 +8448,289 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-02_aa-svd-anchored-and-adaptive-svd-for-large-languag",
+      "date": "2026-04-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AA-SVD : Anchored and Adaptive SVD for Large Language Model Compression",
+      "description": "We introduce a fast low-rank factorization-based framework for compressing large language models that enables rapid compression of billion-parameter models without retraining. Unlike existing factorization-based approaches that optimize only on the original inputs, ignoring distribution shifts fr...",
+      "source_url": "http://arxiv.org/abs/2604.02119v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-02_aegis-adversarial-entropy-guided-immune-system-the",
+      "date": "2026-04-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AEGIS: Adversarial Entropy-Guided Immune System -- Thermodynamic State Space Models for Zero-Day Network Evasion Detection",
+      "description": "As TLS 1.3 encryption limits traditional Deep Packet Inspection (DPI), the security community has pivoted to Euclidean Transformer-based classifiers (e.g., ET-BERT) for encrypted traffic analysis. However, these models remain vulnerable to byte-level adversarial morphing -- recent pre-padding att...",
+      "source_url": "http://arxiv.org/abs/2604.02149v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-02_blinded-radiologist-and-llm-based-evaluation-of-ll",
+      "date": "2026-04-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Blinded Radiologist and LLM-Based Evaluation of LLM-Generated Japanese Translations of Chest CT Reports: Comparative Study",
+      "description": "Background: Accurate translation of radiology reports is important for multilingual research, clinical communication, and radiology education, but the validity of LLM-based evaluation remains unclear. Objective: To evaluate the educational suitability of LLM-generated Japanese translations of che...",
+      "source_url": "http://arxiv.org/abs/2604.02207v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-02_cashg-context-aware-stylized-online-handwriting-ge",
+      "date": "2026-04-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "CASHG: Context-Aware Stylized Online Handwriting Generation",
+      "description": "Online handwriting represents strokes as time-ordered trajectories, which makes handwritten content easier to transform and reuse in a wide range of applications. However, generating natural sentence-level online handwriting that faithfully reflects a writer's style remains challenging, since sen...",
+      "source_url": "http://arxiv.org/abs/2604.02103v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-02_codex-now-offers-more-flexible-pricing-for-teams",
+      "date": "2026-04-02",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Codex now offers more flexible pricing for teams",
+      "description": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+      "source_url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-02_from-high-dimensional-spaces-to-verifiable-odd-cov",
+      "date": "2026-04-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "From High-Dimensional Spaces to Verifiable ODD Coverage for Safety-Critical AI-based Systems",
+      "description": "While Artificial Intelligence (AI) offers transformative potential for operational performance, its deployment in safety-critical domains such as aviation requires strict adherence to rigorous certification standards. Current EASA guidelines mandate demonstrating complete coverage of the AI/ML co...",
+      "source_url": "http://arxiv.org/abs/2604.02198v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-02_gaeleval-benchmarking-llm-performance-for-scottish",
+      "date": "2026-04-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "GaelEval: Benchmarking LLM Performance for Scottish Gaelic",
+      "description": "Multilingual large language models (LLMs) often exhibit emergent 'shadow' capabilities in languages without official support, yet their performance on these languages remains uneven and under-measured. This is particularly acute for morphosyntactically rich minority languages such as Scottish Gae...",
+      "source_url": "http://arxiv.org/abs/2604.02135v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-02_neural-network-methods-for-two-dimensional-finite-",
+      "date": "2026-04-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Neural network methods for two-dimensional finite-source reflector design",
+      "description": "We address the inverse problem of designing two-dimensional reflectors that transform light from a finite, extended source into a prescribed far-field distribution. We propose a neural network parameterization of the reflector height and develop two differentiable objective functions: (i) a direc...",
+      "source_url": "http://arxiv.org/abs/2604.02184v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-02_on-the-role-of-depth-in-the-expressivity-of-rnns",
+      "date": "2026-04-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "On the Role of Depth in the Expressivity of RNNs",
+      "description": "The benefits of depth in feedforward neural networks are well known: composing multiple layers of linear transformations with nonlinear activations enables complex computations. While similar effects are expected in recurrent neural networks (RNNs), it remains unclear how depth interacts with rec...",
+      "source_url": "http://arxiv.org/abs/2604.02201v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-02_openai-acquires-tbpn",
+      "date": "2026-04-02",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "OpenAI acquires TBPN",
+      "description": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+      "source_url": "https://openai.com/index/openai-acquires-tbpn",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-02_optimizing-rag-rerankers-with-llm-feedback-via-rei",
+      "date": "2026-04-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Optimizing RAG Rerankers with LLM Feedback via Reinforcement Learning",
+      "description": "Rerankers play a pivotal role in refining retrieval results for Retrieval-Augmented Generation. However, current reranking models are typically optimized on static human annotated relevance labels in isolation, decoupled from the downstream generation process. This isolation leads to a fundamenta...",
+      "source_url": "http://arxiv.org/abs/2604.02091v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-02_seal-an-open-auditable-and-fair-data-generation-fr",
+      "date": "2026-04-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "SEAL: An Open, Auditable, and Fair Data Generation Framework for AI-Native 6G Networks",
+      "description": "AI-native 6G networks promise to transform the telecom industry by enabling dynamic resource allocation, predictive maintenance, and ultra-reliable low-latency communications across all layers, which are essential for applications such as smart cities, autonomous vehicles, and immersive XR. Howev...",
+      "source_url": "http://arxiv.org/abs/2604.02128v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-02_welcome-gemma-4-frontier-multimodal-intelligence-o",
+      "date": "2026-04-02",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/gemma4",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
     }
   ]
 }
