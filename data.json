@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-03T01:37:45.769229Z",
-    "total_events": 391,
+    "generated_at": "2026-04-04T01:37:10.200326Z",
+    "total_events": 398,
     "type_counts": {
-      "paper": 250,
+      "paper": 257,
       "model_release": 39,
       "announcement": 99,
       "statement": 2,
@@ -14,7 +14,7 @@
       "openai": 74,
       "anthropic": 10,
       "meta": 6,
-      "other": 249,
+      "other": 256,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
@@ -8494,6 +8494,28 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-04-02_beyond-the-assistant-turn-user-turn-generation-as-",
+      "date": "2026-04-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models",
+      "description": "Standard LLM benchmarks evaluate the assistant turn: the model generates a response to an input, a verifier scores correctness, and the analysis ends. This paradigm leaves unmeasured whether the LLM encodes any awareness of what follows the assistant response. We propose user-turn generation as a...",
+      "source_url": "http://arxiv.org/abs/2604.02315v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-04-02_blinded-radiologist-and-llm-based-evaluation-of-ll",
       "date": "2026-04-02",
       "type": "paper",
@@ -8559,6 +8581,28 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-04-02_crystalite-a-lightweight-transformer-for-efficient",
+      "date": "2026-04-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Crystalite: A Lightweight Transformer for Efficient Crystal Modeling",
+      "description": "Generative models for crystalline materials often rely on equivariant graph neural networks, which capture geometric structure well but are costly to train and slow to sample. We present Crystalite, a lightweight diffusion Transformer for crystal modeling built around two simple inductive biases....",
+      "source_url": "http://arxiv.org/abs/2604.02270v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-04-02_from-high-dimensional-spaces-to-verifiable-odd-cov",
       "date": "2026-04-02",
       "type": "paper",
@@ -8589,6 +8633,28 @@
       "title": "GaelEval: Benchmarking LLM Performance for Scottish Gaelic",
       "description": "Multilingual large language models (LLMs) often exhibit emergent 'shadow' capabilities in languages without official support, yet their performance on these languages remains uneven and under-measured. This is particularly acute for morphosyntactically rich minority languages such as Scottish Gae...",
       "source_url": "http://arxiv.org/abs/2604.02135v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-02_go-mhc-direct-parameterization-of-manifold-constra",
+      "date": "2026-04-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "go-$m$HC: Direct Parameterization of Manifold-Constrained Hyper-Connections via Generalized Orthostochastic Matrices",
+      "description": "Doubly stochastic matrices enable learned mixing across residual streams, but parameterizing the set of doubly stochastic matrices (the Birkhoff polytope) exactly and efficiently remains an open challenge. Existing exact methods scale factorially with the number of streams ($d$), while Kronecker-...",
+      "source_url": "http://arxiv.org/abs/2604.02309v1",
       "tags": [
         "paper",
         "arxiv",
@@ -8698,6 +8764,94 @@
       "title": "SEAL: An Open, Auditable, and Fair Data Generation Framework for AI-Native 6G Networks",
       "description": "AI-native 6G networks promise to transform the telecom industry by enabling dynamic resource allocation, predictive maintenance, and ultra-reliable low-latency communications across all layers, which are essential for applications such as smart cities, autonomous vehicles, and immersive XR. Howev...",
       "source_url": "http://arxiv.org/abs/2604.02128v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-02_steerable-visual-representations",
+      "date": "2026-04-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Steerable Visual Representations",
+      "description": "Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic image features that can be applied to a variety of downstream tasks such as retrieval, classification, and segmentation. However, such representations tend to focus on the most salient visual cues in the image, with no w...",
+      "source_url": "http://arxiv.org/abs/2604.02327v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-02_taming-the-exponential-a-fast-softmax-surrogate-fo",
+      "date": "2026-04-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Taming the Exponential: A Fast Softmax Surrogate for Integer-Native Edge Inference",
+      "description": "Softmax can become a computational bottleneck in the Transformer model's Multi-Head Attention (MHA) block, particularly in small models under low-precision inference, where exponentiation and normalization incur significant overhead. As such, we suggest using Head-Calibrated Clipped-Linear Softma...",
+      "source_url": "http://arxiv.org/abs/2604.02292v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-02_topological-effects-in-neural-network-field-theory",
+      "date": "2026-04-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Topological Effects in Neural Network Field Theory",
+      "description": "Neural network field theory formulates field theory as a statistical ensemble of fields defined by a network architecture and a density on its parameters. We extend the construction to topological settings via the inclusion of discrete parameters that label the topological quantum number. We reco...",
+      "source_url": "http://arxiv.org/abs/2604.02313v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-02_vista-visualization-of-token-attribution-via-effic",
+      "date": "2026-04-02",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "VISTA: Visualization of Token Attribution via Efficient Analysis",
+      "description": "Understanding how Large Language Models (LLMs) process information from prompts remains a significant challenge. To shed light on this 'black box,' attention visualization techniques have been developed to capture neuron-level perceptions and interpret how models focus on different parts of input...",
+      "source_url": "http://arxiv.org/abs/2604.02217v1",
       "tags": [
         "paper",
         "arxiv",
