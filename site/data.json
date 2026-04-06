@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-05T01:36:37.990481Z",
-    "total_events": 398,
+    "generated_at": "2026-04-06T01:38:25.558500Z",
+    "total_events": 407,
     "type_counts": {
-      "paper": 257,
+      "paper": 266,
       "model_release": 39,
       "announcement": 99,
       "statement": 2,
@@ -14,7 +14,7 @@
       "openai": 74,
       "anthropic": 10,
       "meta": 6,
-      "other": 256,
+      "other": 265,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
@@ -8885,6 +8885,204 @@
       "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-03_a-data-centric-vision-transformer-baseline-for-sar",
+      "date": "2026-04-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A Data-Centric Vision Transformer Baseline for SAR Sea Ice Classification",
+      "description": "Accurate and automated sea ice classification is important for climate monitoring and maritime safety in the Arctic. While Synthetic Aperture Radar (SAR) is the operational standard because of its all-weather capability, it remains challenging to distinguish morphologically similar ice classes un...",
+      "source_url": "http://arxiv.org/abs/2604.03094v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-03_a-tsetlin-machine-driven-intrusion-detection-syste",
+      "date": "2026-04-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A Tsetlin Machine-driven Intrusion Detection System for Next-Generation IoMT Security",
+      "description": "The rapid adoption of the Internet of Medical Things (IoMT) is transforming healthcare by enabling seamless connectivity among medical devices, systems, and services. However, it also introduces serious cybersecurity and patient safety concerns as attackers increasingly exploit new methods and em...",
+      "source_url": "http://arxiv.org/abs/2604.03205v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-03_an-independent-safety-evaluation-of-kimi-k25",
+      "date": "2026-04-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "An Independent Safety Evaluation of Kimi K2.5",
+      "description": "Kimi K2.5 is an open-weight LLM that rivals closed models across coding, multimodal, and agentic benchmarks, but was released without an accompanying safety evaluation. In this work, we conduct a preliminary safety assessment of Kimi K2.5 focusing on risks likely to be exacerbated by powerful ope...",
+      "source_url": "http://arxiv.org/abs/2604.03121v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-03_automatic-textbook-formalization",
+      "date": "2026-04-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Automatic Textbook Formalization",
+      "description": "We present a case study where an automatic AI system formalizes a textbook with more than 500 pages of graduate-level algebraic combinatorics to Lean. The resulting formalization represents a new milestone in textbook formalization scale and proficiency, moving from early results in undergraduate...",
+      "source_url": "http://arxiv.org/abs/2604.03071v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-03_bibtex-citation-hallucinations-in-scientific-publi",
+      "date": "2026-04-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation",
+      "description": "Large language models with web search are increasingly used in scientific publishing agents, yet they still produce BibTeX entries with pervasive field-level errors. Prior evaluations tested base models without search, which does not reflect current practice. We construct a benchmark of 931 paper...",
+      "source_url": "http://arxiv.org/abs/2604.03159v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-03_domain-adapted-retrieval-for-in-context-annotation",
+      "date": "2026-04-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Domain-Adapted Retrieval for In-Context Annotation of Pedagogical Dialogue Acts",
+      "description": "Automated annotation of pedagogical dialogue is a high-stakes task where LLMs often fail without sufficient domain grounding. We present a domain-adapted RAG pipeline for tutoring move annotation. Rather than fine-tuning the generative model, we adapt retrieval by fine-tuning a lightweight embedd...",
+      "source_url": "http://arxiv.org/abs/2604.03127v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-03_gradient-boosting-within-a-single-attention-layer",
+      "date": "2026-04-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Gradient Boosting within a Single Attention Layer",
+      "description": "Transformer attention computes a single softmax-weighted average over values -- a one-pass estimate that cannot correct its own errors. We introduce \u001bmph{gradient-boosted attention}, which applies the principle of gradient boosting \u001bmph{within} a single attention layer: a second attention pass,...",
+      "source_url": "http://arxiv.org/abs/2604.03190v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-03_storyscope-investigating-idiosyncrasies-in-ai-fict",
+      "date": "2026-04-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "StoryScope: Investigating idiosyncrasies in AI fiction",
+      "description": "As AI-generated fiction becomes increasingly prevalent, questions of authorship and originality are becoming central to how written work is evaluated. While most existing work in this space focuses on identifying surface-level signatures of AI writing, we ask instead whether AI-generated stories ...",
+      "source_url": "http://arxiv.org/abs/2604.03136v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-03_valence-arousal-subspace-in-llms-circular-emotion-",
+      "date": "2026-04-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Valence-Arousal Subspace in LLMs: Circular Emotion Geometry and Multi-Behavioral Control",
+      "description": "We present a method to identify a valence-arousal (VA) subspace within large language model representations. From 211k emotion-labeled texts, we derive emotion steering vectors, then learn VA axes as linear combinations of their top PCA components via ridge regression on the model's self-reported...",
+      "source_url": "http://arxiv.org/abs/2604.03147v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     }
   ]
 }
