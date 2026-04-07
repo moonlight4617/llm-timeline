@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-04-06T01:38:25.558500Z",
-    "total_events": 407,
+    "generated_at": "2026-04-07T01:38:20.722549Z",
+    "total_events": 420,
     "type_counts": {
-      "paper": 266,
+      "paper": 276,
       "model_release": 39,
-      "announcement": 99,
+      "announcement": 102,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 74,
+      "openai": 76,
       "anthropic": 10,
       "meta": 6,
-      "other": 265,
+      "other": 275,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 37
+      "huggingface": 38
     }
   },
   "companies": [
@@ -8166,6 +8166,27 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-04-01_any-custom-frontend-with-gradios-backend",
+      "date": "2026-04-01",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Any Custom Frontend with Gradio's Backend",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/introducing-gradio-server",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-04-01_falcon-perception",
       "date": "2026-04-01",
       "type": "announcement",
@@ -9083,6 +9104,268 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-05_bwta-accurate-and-efficient-binarized-transformer-",
+      "date": "2026-04-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "BWTA: Accurate and Efficient Binarized Transformer by Algorithm-Hardware Co-design",
+      "description": "Ultra low-bit quantization brings substantial efficiency for Transformer-based models, but the accuracy degradation and limited GPU support hinder its wide usage. In this paper, we analyze zero-point distortion in binarization and propose a Binary Weights & Ternary Activations (BWTA) quantization...",
+      "source_url": "http://arxiv.org/abs/2604.03957v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-05_comparative-reversal-learning-reveals-rigid-adapta",
+      "date": "2026-04-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Comparative reversal learning reveals rigid adaptation in LLMs under non-stationary uncertainty",
+      "description": "Non-stationary environments require agents to revise previously learned action values when contingencies change. We treat large language models (LLMs) as sequential decision policies in a two-option probabilistic reversal-learning task with three latent states and switch events triggered by eithe...",
+      "source_url": "http://arxiv.org/abs/2604.04182v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-05_extracting-and-steering-emotion-representations-in",
+      "date": "2026-04-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Extracting and Steering Emotion Representations in Small Language Models: A Methodological Comparison",
+      "description": "Small language models (SLMs) in the 100M-10B parameter range increasingly power production systems, yet whether they possess the internal emotion representations recently discovered in frontier models remains unknown. We present the first comparative analysis of emotion vector extraction methods ...",
+      "source_url": "http://arxiv.org/abs/2604.04064v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-05_instraj-instructing-diffusion-models-with-travel-i",
+      "date": "2026-04-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "InsTraj: Instructing Diffusion Models with Travel Intentions to Generate Real-world Trajectories",
+      "description": "The generation of realistic and controllable GPS trajectories is a fundamental task for applications in urban planning, mobility simulation, and privacy-preserving data sharing. However, existing methods face a two-fold challenge: they lack the deep semantic understanding to interpret complex use...",
+      "source_url": "http://arxiv.org/abs/2604.04106v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-05_measuring-robustness-of-speech-recognition-from-me",
+      "date": "2026-04-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Measuring Robustness of Speech Recognition from MEG Signals Under Distribution Shift",
+      "description": "This study investigates robust speech-related decoding from non-invasive MEG signals using the LibriBrain phoneme-classification benchmark from the 2025 PNPL competition. We compare residual convolutional neural networks (CNNs), an STFT-based CNN, and a CNN--Transformer hybrid, while also examini...",
+      "source_url": "http://arxiv.org/abs/2604.04129v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-05_readable-minds-emergent-theory-of-mind-like-behavi",
+      "date": "2026-04-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Readable Minds: Emergent Theory-of-Mind-Like Behavior in LLM Poker Agents",
+      "description": "Theory of Mind (ToM) -- the ability to model others' mental states -- is fundamental to human social cognition. Whether large language models (LLMs) can develop ToM has been tested exclusively through static vignettes, leaving open whether ToM-like reasoning can emerge through dynamic interaction...",
+      "source_url": "http://arxiv.org/abs/2604.04157v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-05_ruquant-towards-refining-uniform-quantization-for-",
+      "date": "2026-04-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "RUQuant: Towards Refining Uniform Quantization for Large Language Models",
+      "description": "The increasing size and complexity of large language models (LLMs) have raised significant challenges in deployment efficiency, particularly under resource constraints. Post-training quantization (PTQ) has emerged as a practical solution by compressing models without requiring retraining. While e...",
+      "source_url": "http://arxiv.org/abs/2604.04013v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-05_tora-topological-representation-alignment-for-3d-s",
+      "date": "2026-04-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "TORA: Topological Representation Alignment for 3D Shape Assembly",
+      "description": "Flow-matching methods for 3D shape assembly learn point-wise velocity fields that transport parts toward assembled configurations, yet they receive no explicit guidance about which cross-part interactions should drive the motion. We introduce TORA, a topology-first representation alignment framew...",
+      "source_url": "http://arxiv.org/abs/2604.04050v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-05_unmasking-hallucinations-a-causal-graph-attention-",
+      "date": "2026-04-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Unmasking Hallucinations: A Causal Graph-Attention Perspective on Factual Reliability in Large Language Models",
+      "description": "This paper primarily focuses on the hallucinations caused due to AI language models(LLMs).LLMs have shown extraordinary Language understanding and generation capabilities .Still it has major a disadvantage hallucinations which give outputs which are factually incorrect ,misleading or unsupported ...",
+      "source_url": "http://arxiv.org/abs/2604.04020v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-05_vla-forget-vision-language-action-unlearning-for-e",
+      "date": "2026-04-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models",
+      "description": "Vision-language-action (VLA) models are emerging as embodied foundation models for robotic manipulation, but their deployment introduces a new unlearning challenge: removing unsafe, spurious, or privacy-sensitive behaviors without degrading perception, language grounding, and action control. In O...",
+      "source_url": "http://arxiv.org/abs/2604.03956v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-06_announcing-the-openai-safety-fellowship",
+      "date": "2026-04-06",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Announcing the OpenAI Safety Fellowship",
+      "description": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
+      "source_url": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-06_industrial-policy-for-the-intelligence-age",
+      "date": "2026-04-06",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Industrial policy for the Intelligence Age",
+      "description": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "source_url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
     }
   ]
 }
