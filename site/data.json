@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-07T01:38:20.722549Z",
-    "total_events": 420,
+    "generated_at": "2026-04-08T01:37:49.054842Z",
+    "total_events": 430,
     "type_counts": {
-      "paper": 276,
+      "paper": 286,
       "model_release": 39,
       "announcement": 102,
       "statement": 2,
@@ -14,7 +14,7 @@
       "openai": 76,
       "anthropic": 10,
       "meta": 6,
-      "other": 275,
+      "other": 285,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
@@ -9366,6 +9366,226 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-07_brain-to-speech-prosody-feature-engineering-and-tr",
+      "date": "2026-04-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Brain-to-Speech: Prosody Feature Engineering and Transformer-Based Reconstruction",
+      "description": "This chapter presents a novel approach to brain-to-speech (BTS) synthesis from intracranial electroencephalography (iEEG) data, emphasizing prosody-aware feature engineering and advanced transformer-based models for high-fidelity speech reconstruction. Driven by the increasing interest in decodin...",
+      "source_url": "http://arxiv.org/abs/2604.05751v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-07_crft-consistent-recurrent-feature-flow-transformer",
+      "date": "2026-04-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "CRFT: Consistent-Recurrent Feature Flow Transformer for Cross-Modal Image Registration",
+      "description": "We present Consistent-Recurrent Feature Flow Transformer (CRFT), a unified coarse-to-fine framework based on feature flow learning for robust cross-modal image registration. CRFT learns a modality-independent feature flow representation within a transformer-based architecture that jointly perform...",
+      "source_url": "http://arxiv.org/abs/2604.05689v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-07_eeg-mftnet-an-enhanced-eegnet-architecture-with-mu",
+      "date": "2026-04-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "EEG-MFTNet: An Enhanced EEGNet Architecture with Multi-Scale Temporal Convolutions and Transformer Fusion for Cross-Session Motor Imagery Decoding",
+      "description": "Brain-computer interfaces (BCIs) enable direct communication between the brain and external devices, providing critical support for individuals with motor impairments. However, accurate motor imagery (MI) decoding from electroencephalography (EEG) remains challenging due to noise and cross-sessio...",
+      "source_url": "http://arxiv.org/abs/2604.05843v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-07_from-uniform-to-learned-knots-a-study-of-spline-ba",
+      "date": "2026-04-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "From Uniform to Learned Knots: A Study of Spline-Based Numerical Encodings for Tabular Deep Learning",
+      "description": "Numerical preprocessing remains an important component of tabular deep learning, where the representation of continuous features can strongly affect downstream performance. Although its importance is well established for classical statistical and machine learning models, the role of explicit nume...",
+      "source_url": "http://arxiv.org/abs/2604.05635v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-07_learn-to-rank-visual-attribution-by-learning-impor",
+      "date": "2026-04-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Learn to Rank: Visual Attribution by Learning Importance Ranking",
+      "description": "Interpreting the decisions of complex computer vision models is crucial to establish trust and accountability, especially in safety-critical domains. An established approach to interpretability is generating visual attribution maps that highlight regions of the input most relevant to the model's ...",
+      "source_url": "http://arxiv.org/abs/2604.05819v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-07_lorm-learning-the-language-of-rotating-machinery-f",
+      "date": "2026-04-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "LoRM: Learning the Language of Rotating Machinery for Self-Supervised Condition Monitoring",
+      "description": "We present LoRM (Language of Rotating Machinery), a self-supervised framework for multi-modal rotating-machinery signal understanding and real-time condition monitoring. LoRM is built on the idea that rotating-machinery signals can be viewed as a machine language: local signals can be tokenised i...",
+      "source_url": "http://arxiv.org/abs/2604.05863v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-07_modeling-patient-care-trajectories-with-transforme",
+      "date": "2026-04-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Modeling Patient Care Trajectories with Transformer Hawkes Processes",
+      "description": "Patient healthcare utilization consists of irregularly time-stamped events, such as outpatient visits, inpatient admissions, and emergency encounters, forming individualized care trajectories. Modeling these trajectories is crucial for understanding utilization patterns and predicting future care...",
+      "source_url": "http://arxiv.org/abs/2604.05844v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-07_semlink-a-semantic-aware-automated-test-oracle-for",
+      "date": "2026-04-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "SemLink: A Semantic-Aware Automated Test Oracle for Hyperlink Verification using Siamese Sentence-BERT",
+      "description": "Web applications rely heavily on hyperlinks to connect disparate information resources. However, the dynamic nature of the web leads to link rot, where targets become unavailable, and more insidiously, semantic drift, where a valid HTTP 200 connection exists, but the target content no longer alig...",
+      "source_url": "http://arxiv.org/abs/2604.05711v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-07_swiss-bench-003-evaluating-llm-reliability-and-adv",
+      "date": "2026-04-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Swiss-Bench 003: Evaluating LLM Reliability and Adversarial Security for Swiss Regulatory Contexts",
+      "description": "The deployment of large language models (LLMs) in Swiss financial and regulatory contexts demands empirical evidence of both production reliability and adversarial security, dimensions not jointly operationalized in existing Swiss-focused evaluation frameworks. This paper introduces Swiss-Bench 0...",
+      "source_url": "http://arxiv.org/abs/2604.05872v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-07_understanding-performance-gap-between-parallel-and",
+      "date": "2026-04-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Understanding Performance Gap Between Parallel and Sequential Sampling in Large Reasoning Models",
+      "description": "Large Reasoning Models (LRMs) have shown remarkable performance on challenging questions, such as math and coding. However, to obtain a high quality solution, one may need to sample more than once. In principal, there are two sampling strategies that can be composed to form more complex processes...",
+      "source_url": "http://arxiv.org/abs/2604.05868v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     }
   ]
 }
