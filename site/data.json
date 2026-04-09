@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-04-08T01:37:49.054842Z",
-    "total_events": 430,
+    "generated_at": "2026-04-09T01:38:28.707500Z",
+    "total_events": 445,
     "type_counts": {
-      "paper": 286,
+      "paper": 296,
       "model_release": 39,
-      "announcement": 102,
+      "announcement": 107,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 76,
+      "openai": 78,
       "anthropic": 10,
       "meta": 6,
-      "other": 285,
+      "other": 295,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 38
+      "huggingface": 41
     }
   },
   "companies": [
@@ -8101,6 +8101,27 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-03-31_training-mrna-language-models-across-25-species-fo",
+      "date": "2026-03-31",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Training mRNA Language Models Across 25 Species for $165",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-03-31_trl-v10-post-training-library-built-to-move-with-t",
       "date": "2026-03-31",
       "type": "announcement",
@@ -9574,6 +9595,310 @@
       "title": "Understanding Performance Gap Between Parallel and Sequential Sampling in Large Reasoning Models",
       "description": "Large Reasoning Models (LRMs) have shown remarkable performance on challenging questions, such as math and coding. However, to obtain a high quality solution, one may need to sample more than once. In principal, there are two sampling strategies that can be composed to form more complex processes...",
       "source_url": "http://arxiv.org/abs/2604.05868v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-08_altkevolve-onthejob-learning-for-ai-agents",
+      "date": "2026-04-08",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-08_beyond-the-mean-modelling-annotation-distributions",
+      "date": "2026-04-08",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Beyond the Mean: Modelling Annotation Distributions in Continuous Affect Prediction",
+      "description": "Emotion annotation is inherently subjective and cognitively demanding, producing signals that reflect diverse perceptions across annotators rather than a single ground truth. In continuous affect prediction, this variability is typically collapsed into point estimates such as the mean or median, ...",
+      "source_url": "http://arxiv.org/abs/2604.07198v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-08_controller-design-for-structured-state-space-model",
+      "date": "2026-04-08",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Controller Design for Structured State-space Models via Contraction Theory",
+      "description": "This paper presents an indirect data-driven output feedback controller synthesis for nonlinear systems, leveraging Structured State-space Models (SSMs) as surrogate models. SSMs have emerged as a compelling alternative in modelling time-series data and dynamical systems. They can capture long-ter...",
+      "source_url": "http://arxiv.org/abs/2604.07069v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-08_dynamic-context-evolution-for-scalable-synthetic-d",
+      "date": "2026-04-08",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Dynamic Context Evolution for Scalable Synthetic Data Generation",
+      "description": "Large language models produce repetitive output when prompted independently across many batches, a phenomenon we term cross-batch mode collapse: the progressive loss of output diversity when a language model is prompted repeatedly without access to its prior generations. Practitioners have long m...",
+      "source_url": "http://arxiv.org/abs/2604.07147v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-08_introducing-the-child-safety-blueprint",
+      "date": "2026-04-08",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing the Child Safety Blueprint",
+      "description": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+      "source_url": "https://openai.com/index/introducing-child-safety-blueprint",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-08_is-cross-lingual-transfer-in-bilingual-models-huma",
+      "date": "2026-04-08",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Is Cross-Lingual Transfer in Bilingual Models Human-Like? A Study with Overlapping Word Forms in Dutch and English",
+      "description": "Bilingual speakers show cross-lingual activation during reading, especially for words with shared surface form. Cognates (friends) typically lead to facilitation, whereas interlingual homographs (false friends) cause interference or no effect. We examine whether cross-lingual activation in biling...",
+      "source_url": "http://arxiv.org/abs/2604.07067v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-08_language-bias-under-conflicting-information-in-mul",
+      "date": "2026-04-08",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Language Bias under Conflicting Information in Multilingual LLMs",
+      "description": "Large Language Models (LLMs) have been shown to contain biases in the process of integrating conflicting information when answering questions. Here we ask whether such biases also exist with respect to which language is used for each conflicting piece of information. To answer this question, we e...",
+      "source_url": "http://arxiv.org/abs/2604.07123v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-08_lasca-language-conditioned-scalable-modelling-of-a",
+      "date": "2026-04-08",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "LaScA: Language-Conditioned Scalable Modelling of Affective Dynamics",
+      "description": "Predicting affect in unconstrained environments remains a fundamental challenge in human-centered AI. While deep neural embeddings dominate contemporary approaches, they often lack interpretability and limit expert-driven refinement. We propose a novel framework that uses Language Models (LMs) as...",
+      "source_url": "http://arxiv.org/abs/2604.07193v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-08_production-ready-automated-ecu-calibration-using-r",
+      "date": "2026-04-08",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Production-Ready Automated ECU Calibration using Residual Reinforcement Learning",
+      "description": "Electronic Control Units (ECUs) have played a pivotal role in transforming motorcars of yore into the modern vehicles we see on our roads today. They actively regulate the actuation of individual components and thus determine the characteristics of the whole system. In this, the behavior of the c...",
+      "source_url": "http://arxiv.org/abs/2604.07059v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-08_safetensors-is-joining-the-pytorch-foundation",
+      "date": "2026-04-08",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Safetensors is Joining the PyTorch Foundation",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-08_self-discovered-intention-aware-transformer-for-mu",
+      "date": "2026-04-08",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Self-Discovered Intention-aware Transformer for Multi-modal Vehicle Trajectory Prediction",
+      "description": "Predicting vehicle trajectories plays an important role in autonomous driving and ITS applications. Although multiple deep learning algorithms are devised to predict vehicle trajectories, their reliant on specific graph structure (e.g., Graph Neural Network) or explicit intention labeling limit t...",
+      "source_url": "http://arxiv.org/abs/2604.07126v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-08_the-atom-report-measuring-the-open-language-model-",
+      "date": "2026-04-08",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The ATOM Report: Measuring the Open Language Model Ecosystem",
+      "description": "We present a comprehensive adoption snapshot of the leading open language models and who is building them, focusing on the ~1.5K mainline open models from the likes of Alibaba's Qwen, DeepSeek, Meta's Llama, that are the foundation of an ecosystem crucial to researchers, entrepreneurs, and policy...",
+      "source_url": "http://arxiv.org/abs/2604.07190v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-08_the-next-phase-of-enterprise-ai",
+      "date": "2026-04-08",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "The next phase of enterprise AI",
+      "description": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
+      "source_url": "https://openai.com/index/next-phase-of-enterprise-ai",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-08_yale-dm-lab-at-archehr-qa-2026-deterministic-groun",
+      "date": "2026-04-08",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Yale-DM-Lab at ArchEHR-QA 2026: Deterministic Grounding and Multi-Pass Evidence Alignment for EHR Question Answering",
+      "description": "We describe the Yale-DM-Lab system for the ArchEHR-QA 2026 shared task. The task studies patient-authored questions about hospitalization records and contains four subtasks (ST): clinician-interpreted question reformulation, evidence sentence identification, answer generation, and evidence-answer...",
+      "source_url": "http://arxiv.org/abs/2604.07116v1",
       "tags": [
         "paper",
         "arxiv",
