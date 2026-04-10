@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-04-09T01:38:28.707500Z",
-    "total_events": 445,
+    "generated_at": "2026-04-10T01:39:07.137547Z",
+    "total_events": 459,
     "type_counts": {
-      "paper": 296,
+      "paper": 306,
       "model_release": 39,
-      "announcement": 107,
+      "announcement": 111,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 78,
+      "openai": 80,
       "anthropic": 10,
       "meta": 6,
-      "other": 295,
+      "other": 305,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 41
+      "huggingface": 43
     }
   },
   "companies": [
@@ -9911,6 +9911,310 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-09_activation-steering-for-aligned-open-ended-generat",
+      "date": "2026-04-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Activation Steering for Aligned Open-ended Generation without Sacrificing Coherence",
+      "description": "Alignment in LLMs is more brittle than commonly assumed: misalignment can be triggered by adversarial prompts, benign fine-tuning, emergent misalignment, and goal misgeneralization. Recent evidence suggests that some misalignment behaviors are encoded as linear structure in activation space, maki...",
+      "source_url": "http://arxiv.org/abs/2604.08169v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-09_can-vision-language-models-judge-action-quality-an",
+      "date": "2026-04-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Can Vision Language Models Judge Action Quality? An Empirical Evaluation",
+      "description": "Action Quality Assessment (AQA) has broad applications in physical therapy, sports coaching, and competitive judging. Although Vision Language Models (VLMs) hold considerable promise for AQA, their actual performance in this domain remains largely uncharacterised. We present a comprehensive evalu...",
+      "source_url": "http://arxiv.org/abs/2604.08294v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-09_cyberagent-moves-faster-with-chatgpt-enterprise-an",
+      "date": "2026-04-09",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+      "description": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+      "source_url": "https://openai.com/index/cyberagent",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-09_distributed-multi-layer-editing-for-rule-level-kno",
+      "date": "2026-04-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Distributed Multi-Layer Editing for Rule-Level Knowledge in Large Language Models",
+      "description": "Large language models store not only isolated facts but also rules that support reasoning across symbolic expressions, natural language explanations, and concrete instances. Yet most model editing methods are built for fact-level knowledge, assuming that a target edit can be achieved through a lo...",
+      "source_url": "http://arxiv.org/abs/2604.08284v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-09_editcaption-human-aligned-instruction-synthesis-fo",
+      "date": "2026-04-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "EditCaption: Human-Aligned Instruction Synthesis for Image Editing via Supervised Fine-Tuning and Direct Preference Optimization",
+      "description": "High-quality training triplets (source-target image pairs with precise editing instructions) are a critical bottleneck for scaling instruction-guided image editing models. Vision-language models (VLMs) are widely used for automated instruction synthesis, but we identify three systematic failure m...",
+      "source_url": "http://arxiv.org/abs/2604.08213v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-09_grounding-clinical-ai-competency-in-human-cognitio",
+      "date": "2026-04-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework",
+      "description": "The competency of any intelligent agent is bounded by its formal account of the world in which it operates. Clinical AI lacks such an account. Existing frameworks address evaluation, regulation, or system design in isolation, without a shared model of the clinical world to connect them. We introd...",
+      "source_url": "http://arxiv.org/abs/2604.08226v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-09_histdit-a-structure-aware-latent-conditional-diffu",
+      "date": "2026-04-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "HistDiT: A Structure-Aware Latent Conditional Diffusion Model for High-Fidelity Virtual Staining in Histopathology",
+      "description": "Immunohistochemistry (IHC) is essential for assessing specific immune biomarkers like Human Epidermal growth-factor Receptor 2 (HER2) in breast cancer. However, the traditional protocols of obtaining IHC stains are resource-intensive, time-consuming, and prone to structural damages. Virtual stain...",
+      "source_url": "http://arxiv.org/abs/2604.08305v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-09_inside-out-measuring-generalization-in-vision-tran",
+      "date": "2026-04-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Inside-Out: Measuring Generalization in Vision Transformers Through Inner Workings",
+      "description": "Reliable generalization metrics are fundamental to the evaluation of machine learning models. Especially in high-stakes applications where labeled target data are scarce, evaluation of models' generalization performance under distribution shift is a pressing need. We focus on two practical scenar...",
+      "source_url": "http://arxiv.org/abs/2604.08192v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-09_llm-based-data-generation-and-clinical-skills-eval",
+      "date": "2026-04-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "LLM-Based Data Generation and Clinical Skills Evaluation for Low-Resource French OSCEs",
+      "description": "Objective Structured Clinical Examinations (OSCEs) are the standard method for assessing medical students' clinical and communication skills through structured patient interviews. In France, however, the organization of training sessions is limited by human and logistical constraints, restricting...",
+      "source_url": "http://arxiv.org/abs/2604.08126v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-09_long-term-embeddings-for-balanced-personalization",
+      "date": "2026-04-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Long-Term Embeddings for Balanced Personalization",
+      "description": "Modern transformer-based sequential recommenders excel at capturing short-term intent but often suffer from recency bias, overlooking stable long-term preferences. While extending sequence lengths is an intuitive fix, it is computationally inefficient, and recent interactions tend to dominate the...",
+      "source_url": "http://arxiv.org/abs/2604.08181v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-09_multi-modal-learning-meets-genetic-programming-ana",
+      "date": "2026-04-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Multi-Modal Learning meets Genetic Programming: Analyzing Alignment in Latent Space Optimization",
+      "description": "Symbolic regression (SR) aims to discover mathematical expressions from data, a task traditionally tackled using Genetic Programming (GP) through combinatorial search over symbolic structures. Latent Space Optimization (LSO) methods use neural encoders to map symbolic expressions into continuous ...",
+      "source_url": "http://arxiv.org/abs/2604.08324v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-09_multimodal-embedding-reranker-models-with-sentence",
+      "date": "2026-04-09",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-09_openai-full-fan-mode-contest-terms-conditions",
+      "date": "2026-04-09",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+      "description": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.",
+      "source_url": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-09_waypoint-15-higher-fidelity-interactive-worlds-for",
+      "date": "2026-04-09",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/waypoint-1-5",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
     }
   ]
 }
