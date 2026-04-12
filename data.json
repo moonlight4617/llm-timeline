@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-04-11T01:37:41.987836Z",
-    "total_events": 479,
+    "generated_at": "2026-04-12T01:37:00.382976Z",
+    "total_events": 486,
     "type_counts": {
       "paper": 316,
       "model_release": 39,
-      "announcement": 121,
+      "announcement": 128,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 90,
+      "openai": 97,
       "anthropic": 10,
       "meta": 6,
       "other": 315,
@@ -10479,6 +10479,27 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-04-10_brainstorming-with-chatgpt",
+      "date": "2026-04-10",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Brainstorming with ChatGPT",
+      "description": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+      "source_url": "https://openai.com/academy/brainstorming",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-04-10_chatgpt-for-customer-success-teams",
       "date": "2026-04-10",
       "type": "announcement",
@@ -10487,6 +10508,48 @@
       "title": "ChatGPT for customer success teams",
       "description": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
       "source_url": "https://openai.com/academy/customer-success",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-10_chatgpt-for-marketing-teams",
+      "date": "2026-04-10",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "ChatGPT for marketing teams",
+      "description": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+      "source_url": "https://openai.com/academy/marketing",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-10_chatgpt-for-operations-teams",
+      "date": "2026-04-10",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "ChatGPT for operations teams",
+      "description": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+      "source_url": "https://openai.com/academy/operations",
       "tags": [
         "openai",
         "auto-collected"
@@ -10563,6 +10626,69 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-04-10_getting-started-with-chatgpt",
+      "date": "2026-04-10",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Getting started with ChatGPT",
+      "description": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "source_url": "https://openai.com/academy/getting-started",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-10_healthcare",
+      "date": "2026-04-10",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Healthcare",
+      "description": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+      "source_url": "https://openai.com/academy/healthcare",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-10_our-response-to-the-axios-developer-tool-compromis",
+      "date": "2026-04-10",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Our response to the Axios developer tool compromise",
+      "description": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+      "source_url": "https://openai.com/index/axios-developer-tool-compromise",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-04-10_research-with-chatgpt",
       "date": "2026-04-10",
       "type": "announcement",
@@ -10613,6 +10739,27 @@
       "title": "Using custom GPTs",
       "description": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
       "source_url": "https://openai.com/academy/custom-gpts",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-10_using-skills",
+      "date": "2026-04-10",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Using skills",
+      "description": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
+      "source_url": "https://openai.com/academy/skills",
       "tags": [
         "openai",
         "auto-collected"
