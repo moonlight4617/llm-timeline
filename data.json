@@ -1,20 +1,20 @@
 {
   "meta": {
-    "generated_at": "2026-04-12T01:37:00.382976Z",
-    "total_events": 486,
+    "generated_at": "2026-04-13T01:38:42.323049Z",
+    "total_events": 497,
     "type_counts": {
-      "paper": 316,
+      "paper": 326,
       "model_release": 39,
-      "announcement": 128,
+      "announcement": 129,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 97,
+      "openai": 98,
       "anthropic": 10,
       "meta": 6,
-      "other": 315,
+      "other": 325,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
@@ -10605,6 +10605,28 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-04-10_facet-level-tracing-of-evidence-uncertainty-and-ha",
+      "date": "2026-04-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Facet-Level Tracing of Evidence Uncertainty and Hallucination in RAG",
+      "description": "Retrieval-Augmented Generation (RAG) aims to reduce hallucination by grounding answers in retrieved evidence, yet hallucinated answers remain common even when relevant documents are available. Existing evaluations focus on answer-level or passage-level accuracy, offering limited insight into how ...",
+      "source_url": "http://arxiv.org/abs/2604.09174v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-04-10_financial-services",
       "date": "2026-04-10",
       "type": "announcement",
@@ -10624,6 +10646,28 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-10_generalization-and-scaling-laws-for-mixture-of-exp",
+      "date": "2026-04-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Generalization and Scaling Laws for Mixture-of-Experts Transformers",
+      "description": "We develop a theory of generalization and scaling for Mixture-of-Experts (MoE) Transformers that cleanly separates \u001bmph{active} per-input capacity from routing combinatorics. By conditioning on fixed routing patterns and union-bounding across them, we derive a sup-norm covering-number bound whos...",
+      "source_url": "http://arxiv.org/abs/2604.09175v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     },
     {
       "id": "2026-04-10_getting-started-with-chatgpt",
@@ -10666,6 +10710,94 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-10_hierarchical-flow-decomposition-for-turning-moveme",
+      "date": "2026-04-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Hierarchical Flow Decomposition for Turning Movement Prediction at Signalized Intersections",
+      "description": "Accurate prediction of intersection turning movements is essential for adaptive signal control but remains difficult due to the high volatility of directional flows. This study proposes HFD-TM (Hierarchical Flow-Decomposition for Turning Movement Prediction), a hierarchical deep learning framewor...",
+      "source_url": "http://arxiv.org/abs/2604.09336v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-10_is-more-data-worth-the-cost-dataset-scaling-laws-i",
+      "date": "2026-04-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Is More Data Worth the Cost? Dataset Scaling Laws in a Tiny Attention-Only Decoder",
+      "description": "Training Transformer language models is expensive, as performance typically improves with increasing dataset size and computational budget. Although scaling laws describe this trend at large scale, their implications in controlled, smaller-scale settings remain less explored. In this work, we iso...",
+      "source_url": "http://arxiv.org/abs/2604.09389v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-10_mind-the-gap-between-spatial-reasoning-and-acting-",
+      "date": "2026-04-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Mind the Gap Between Spatial Reasoning and Acting! Step-by-Step Evaluation of Agents With Spatial-Gym",
+      "description": "Spatial reasoning is central to navigation and robotics, yet measuring model capabilities on these tasks remains difficult. Existing benchmarks evaluate models in a one-shot setting, requiring full solution generation in a single response, unlike humans, who work in interactive environments step-...",
+      "source_url": "http://arxiv.org/abs/2604.09338v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-10_mosaic-multimodal-jailbreak-against-closed-source-",
+      "date": "2026-04-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Mosaic: Multimodal Jailbreak against Closed-Source VLMs via Multi-View Ensemble Optimization",
+      "description": "Vision-Language Models (VLMs) are powerful but remain vulnerable to multimodal jailbreak attacks. Existing attacks mainly rely on either explicit visual prompt attacks or gradient-based adversarial optimization. While the former is easier to detect, the latter produces subtle perturbations that a...",
+      "source_url": "http://arxiv.org/abs/2604.09253v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     },
     {
       "id": "2026-04-10_our-response-to-the-axios-developer-tool-compromis",
@@ -10731,6 +10863,72 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-04-10_spasm-stable-persona-driven-agent-simulation-for-m",
+      "date": "2026-04-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "SPASM: Stable Persona-driven Agent Simulation for Multi-turn Dialogue Generation",
+      "description": "Large language models are increasingly deployed in multi-turn settings such as tutoring, support, and counseling, where reliability depends on preserving consistent roles, personas, and goals across long horizons. This requirement becomes critical when LLMs are used to generate synthetic dialogue...",
+      "source_url": "http://arxiv.org/abs/2604.09212v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-10_the-ai-codebase-maturity-model-from-assisted-codin",
+      "date": "2026-04-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The AI Codebase Maturity Model: From Assisted Coding to Self-Sustaining Systems",
+      "description": "AI coding tools are widely adopted, but most teams plateau at prompt-and-review without a framework for systematic progression. This paper presents the AI Codebase Maturity Model (ACMM), a 5-level framework describing how codebases evolve from basic AI-assisted coding to self-sustaining systems. ...",
+      "source_url": "http://arxiv.org/abs/2604.09388v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-10_uipress-bringing-optical-token-compression-to-ui-t",
+      "date": "2026-04-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "UIPress: Bringing Optical Token Compression to UI-to-Code Generation",
+      "description": "UI-to-Code generation requires vision-language models (VLMs) to produce thousands of tokens of structured HTML/CSS from a single screenshot, making visual token efficiency critical. Existing compression methods either select tokens at inference time using task-agnostic heuristics, or zero out low...",
+      "source_url": "http://arxiv.org/abs/2604.09442v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-04-10_using-custom-gpts",
       "date": "2026-04-10",
       "type": "announcement",
@@ -10739,6 +10937,27 @@
       "title": "Using custom GPTs",
       "description": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
       "source_url": "https://openai.com/academy/custom-gpts",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-10_using-projects-in-chatgpt",
+      "date": "2026-04-10",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Using projects in ChatGPT",
+      "description": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+      "source_url": "https://openai.com/academy/projects",
       "tags": [
         "openai",
         "auto-collected"
@@ -10771,6 +10990,28 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-10_vision-transformers-for-preoperative-ct-based-pred",
+      "date": "2026-04-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Vision Transformers for Preoperative CT-Based Prediction of Histopathologic Chemotherapy Response Score in High-Grade Serous Ovarian Carcinoma",
+      "description": "Purpose. High-grade serous ovarian carcinoma (HGSOC) is characterized by pronounced biological and spatial heterogeneity and is frequently diagnosed at an advanced stage. Neoadjuvant chemotherapy (NACT) followed by delayed primary surgery is commonly employed in patients unsuitable for primary cy...",
+      "source_url": "http://arxiv.org/abs/2604.09197v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     },
     {
       "id": "2026-04-10_writing-with-chatgpt",
