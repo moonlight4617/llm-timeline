@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-04-13T01:38:42.323049Z",
-    "total_events": 497,
+    "generated_at": "2026-04-14T01:37:40.232697Z",
+    "total_events": 499,
     "type_counts": {
       "paper": 326,
       "model_release": 39,
-      "announcement": 129,
+      "announcement": 131,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 98,
+      "openai": 100,
       "anthropic": 10,
       "meta": 6,
       "other": 325,
@@ -10521,6 +10521,27 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-04-10_chatgpt-for-finance-teams",
+      "date": "2026-04-10",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "ChatGPT for finance teams",
+      "description": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+      "source_url": "https://openai.com/academy/finance",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-04-10_chatgpt-for-marketing-teams",
       "date": "2026-04-10",
       "type": "announcement",
@@ -11022,6 +11043,27 @@
       "title": "Writing with ChatGPT",
       "description": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
       "source_url": "https://openai.com/academy/writing",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-13_enterprises-power-agentic-workflows-in-cloudflare-",
+      "date": "2026-04-13",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "description": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+      "source_url": "https://openai.com/index/cloudflare-openai-agent-cloud",
       "tags": [
         "openai",
         "auto-collected"
