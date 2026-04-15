@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-04-14T01:37:40.232697Z",
-    "total_events": 499,
+    "generated_at": "2026-04-15T01:38:16.764155Z",
+    "total_events": 502,
     "type_counts": {
       "paper": 326,
       "model_release": 39,
-      "announcement": 131,
+      "announcement": 134,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 100,
+      "openai": 103,
       "anthropic": 10,
       "meta": 6,
       "other": 325,
@@ -10842,6 +10842,27 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-04-10_personalizing-chatgpt",
+      "date": "2026-04-10",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Personalizing ChatGPT",
+      "description": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
+      "source_url": "https://openai.com/academy/personalization",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-04-10_research-with-chatgpt",
       "date": "2026-04-10",
       "type": "announcement",
@@ -11035,6 +11056,27 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-04-10_working-with-files-in-chatgpt",
+      "date": "2026-04-10",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Working with files in ChatGPT",
+      "description": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
+      "source_url": "https://openai.com/academy/working-with-files",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-04-10_writing-with-chatgpt",
       "date": "2026-04-10",
       "type": "announcement",
@@ -11064,6 +11106,27 @@
       "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
       "description": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
       "source_url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-14_trusted-access-for-the-next-era-of-cyber-defense",
+      "date": "2026-04-14",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Trusted access for the next era of cyber defense",
+      "description": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+      "source_url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
       "tags": [
         "openai",
         "auto-collected"
