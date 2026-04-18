@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-04-17T01:37:57.486169Z",
-    "total_events": 512,
+    "generated_at": "2026-04-18T01:37:39.333320Z",
+    "total_events": 514,
     "type_counts": {
       "paper": 326,
       "model_release": 39,
-      "announcement": 144,
+      "announcement": 146,
       "statement": 2,
       "policy": 1
     },
@@ -18,7 +18,7 @@
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 47
+      "huggingface": 49
     }
   },
   "companies": [
@@ -11287,6 +11287,27 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-04-16_ecom-rlve-adaptive-verifiable-environments-for-e-c",
+      "date": "2026-04-16",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ecom-rlve",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-04-16_introducing-gpt-rosalind-for-life-sciences-researc",
       "date": "2026-04-16",
       "type": "announcement",
@@ -11337,6 +11358,27 @@
       "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
       "description": "Hugging Face Blogからの自動収集記事。",
       "source_url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-17_building-a-fast-multilingual-ocr-model-with-synthe",
+      "date": "2026-04-17",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
       "tags": [
         "huggingface",
         "auto-collected"
