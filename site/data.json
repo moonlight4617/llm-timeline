@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-04-20T01:38:42.225309Z",
-    "total_events": 514,
+    "generated_at": "2026-04-21T01:38:07.096191Z",
+    "total_events": 516,
     "type_counts": {
       "paper": 326,
       "model_release": 39,
-      "announcement": 146,
+      "announcement": 148,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 109,
+      "openai": 110,
       "anthropic": 10,
       "meta": 6,
       "other": 325,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 49
+      "huggingface": 50
     }
   },
   "companies": [
@@ -11379,6 +11379,48 @@
       "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
       "description": "Hugging Face Blogからの自動収集記事。",
       "source_url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-20_openai-helps-hyatt-advance-ai-among-colleagues",
+      "date": "2026-04-20",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "OpenAI helps Hyatt advance AI among colleagues",
+      "description": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+      "source_url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-21_how-to-ground-a-korean-ai-agent-in-real-demographi",
+      "date": "2026-04-21",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
       "tags": [
         "huggingface",
         "auto-collected"
