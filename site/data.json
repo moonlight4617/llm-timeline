@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-04-21T01:38:07.096191Z",
-    "total_events": 516,
+    "generated_at": "2026-04-22T01:38:27.262751Z",
+    "total_events": 529,
     "type_counts": {
-      "paper": 326,
+      "paper": 336,
       "model_release": 39,
-      "announcement": 148,
+      "announcement": 151,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 110,
+      "openai": 111,
       "anthropic": 10,
       "meta": 6,
-      "other": 325,
+      "other": 335,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 50
+      "huggingface": 52
     }
   },
   "companies": [
@@ -11413,6 +11413,137 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-04-21_ai-and-the-future-of-cybersecurity-why-openness-ma",
+      "date": "2026-04-21",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/cybersecurity-openness",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-21_are-large-language-models-economically-viable-for-",
+      "date": "2026-04-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Are Large Language Models Economically Viable for Industry Deployment?",
+      "description": "Generative AI-powered by Large Language Models (LLMs)-is increasingly deployed in industry across healthcare decision support, financial analytics, enterprise retrieval, and conversational automation, where reliability, efficiency, and cost control are critical. In such settings, models must sati...",
+      "source_url": "http://arxiv.org/abs/2604.19342v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-21_do-llms-game-formalization-evaluating-faithfulness",
+      "date": "2026-04-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Do LLMs Game Formalization? Evaluating Faithfulness in Logical Reasoning",
+      "description": "Formal verification guarantees proof validity but not formalization faithfulness. For natural-language logical reasoning, where models construct axiom systems from scratch without library constraints, this gap between valid proofs and faithful translations is especially acute. We investigate whet...",
+      "source_url": "http://arxiv.org/abs/2604.19459v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-21_does-self-consistency-improve-the-recall-of-encycl",
+      "date": "2026-04-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Does Self-Consistency Improve the Recall of Encyclopedic Knowledge?",
+      "description": "While self-consistency is known to improve performance on symbolic reasoning, its effect on the recall of encyclopedic knowledge is unclear due to a lack of targeted evaluation grounds. To address this, we establish such a knowledge recall split for the popular MMLU benchmark by applying a data-d...",
+      "source_url": "http://arxiv.org/abs/2604.19395v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-21_evaluation-driven-scaling-for-scientific-discovery",
+      "date": "2026-04-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Evaluation-driven Scaling for Scientific Discovery",
+      "description": "Language models are increasingly used in scientific discovery to generate hypotheses, propose candidate solutions, implement systems, and iteratively refine them. At the core of these trial-and-error loops lies evaluation: the process of obtaining feedback on candidate solutions via verifiers, si...",
+      "source_url": "http://arxiv.org/abs/2604.19341v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-21_grasprune-global-gating-for-budgeted-structured-pr",
+      "date": "2026-04-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "GRASPrune: Global Gating for Budgeted Structured Pruning of Large Language Models",
+      "description": "Large language models (LLMs) are expensive to serve because model parameters, attention computation, and KV caches impose substantial memory and latency costs. We present GRASPrune, a structured pruning framework applied after pretraining that jointly prunes FFN channels and KV head groups under ...",
+      "source_url": "http://arxiv.org/abs/2604.19398v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-04-21_how-to-ground-a-korean-ai-agent-in-real-demographi",
       "date": "2026-04-21",
       "type": "announcement",
@@ -11432,6 +11563,158 @@
       "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-21_indiafinbench-an-evaluation-benchmark-for-large-la",
+      "date": "2026-04-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "IndiaFinBench: An Evaluation Benchmark for Large Language Model Performance on Indian Financial Regulatory Text",
+      "description": "We introduce IndiaFinBench, to our knowledge the first publicly available evaluation benchmark for assessing large language model (LLM) performance on Indian financial regulatory text. Existing financial NLP benchmarks draw exclusively from Western financial corpora (SEC filings, US earnings repo...",
+      "source_url": "http://arxiv.org/abs/2604.19298v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-21_leprec-reasoning-as-classification-over-structured",
+      "date": "2026-04-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "LePREC: Reasoning as Classification over Structured Factors for Assessing Relevance of Legal Issues",
+      "description": "More than half of the global population struggles to meet their civil justice needs due to limited legal resources. While Large Language Models (LLMs) have demonstrated impressive reasoning capabilities, significant challenges remain even at the foundational step of legal issue identification. To...",
+      "source_url": "http://arxiv.org/abs/2604.19464v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-21_multimodal-transformer-for-sample-aware-prediction",
+      "date": "2026-04-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Multimodal Transformer for Sample-Aware Prediction of Metal-Organic Framework Properties",
+      "description": "Metal-organic frameworks (MOFs) are a major target of machine-learning-based property prediction, yet most models assume that a single framework representation maps to a single property value. This assumption becomes problematic for experimental MOFs, where samples reported as the same framework ...",
+      "source_url": "http://arxiv.org/abs/2604.19383v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-21_qimma-a-quality-first-arabic-llm-leaderboard",
+      "date": "2026-04-21",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-21_scaling-codex-to-enterprises-worldwide",
+      "date": "2026-04-21",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Scaling Codex to enterprises worldwide",
+      "description": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
+      "source_url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-21_the-order-in-the-horses-heart-a-case-study-in-llm-",
+      "date": "2026-04-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "'The Order in the Horse's Heart': A Case Study in LLM-Assisted Stylometry for the Discovery of Biblical Allusion in Modern Literary Fiction",
+      "description": "We present a dual-track pipeline for detecting biblical allusions in literary fiction and apply it to the novels of Cormac McCarthy. A bottom-up embedding track uses inverse document frequency to identify rare vocabulary shared with the King James Bible, embeds occurrences in their local context ...",
+      "source_url": "http://arxiv.org/abs/2604.19447v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-21_when-active-learning-falls-short-an-empirical-stud",
+      "date": "2026-04-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "When Active Learning Falls Short: An Empirical Study on Chemical Reaction Extraction",
+      "description": "The rapid growth of chemical literature has generated vast amounts of unstructured data, where reaction information is particularly valuable for applications such as reaction predictions and drug design. However, the prohibitive cost of expert annotation has led to a scarcity of training data, se...",
+      "source_url": "http://arxiv.org/abs/2604.19335v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     }
   ]
 }
