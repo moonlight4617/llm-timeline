@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-04-22T01:38:27.262751Z",
-    "total_events": 529,
+    "generated_at": "2026-04-23T01:37:51.645465Z",
+    "total_events": 536,
     "type_counts": {
       "paper": 336,
       "model_release": 39,
-      "announcement": 151,
+      "announcement": 158,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 111,
+      "openai": 117,
       "anthropic": 10,
       "meta": 6,
       "other": 335,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 52
+      "huggingface": 53
     }
   },
   "companies": [
@@ -11587,6 +11587,27 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-04-21_introducing-chatgpt-images-20",
+      "date": "2026-04-21",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing ChatGPT Images 2.0",
+      "description": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.",
+      "source_url": "https://openai.com/index/introducing-chatgpt-images-2-0",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-04-21_leprec-reasoning-as-classification-over-structured",
       "date": "2026-04-21",
       "type": "paper",
@@ -11715,6 +11736,132 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-22_gemma-4-vla-demo-on-jetson-orin-nano-super",
+      "date": "2026-04-22",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/gemma4",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-22_introducing-openai-privacy-filter",
+      "date": "2026-04-22",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing OpenAI Privacy Filter",
+      "description": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+      "source_url": "https://openai.com/index/introducing-openai-privacy-filter",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-22_introducing-workspace-agents-in-chatgpt",
+      "date": "2026-04-22",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing workspace agents in ChatGPT",
+      "description": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+      "source_url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-22_making-chatgpt-better-for-clinicians",
+      "date": "2026-04-22",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Making ChatGPT better for clinicians",
+      "description": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
+      "source_url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-22_speeding-up-agentic-workflows-with-websockets-in-t",
+      "date": "2026-04-22",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "description": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "source_url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-22_workspace-agents",
+      "date": "2026-04-22",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Workspace agents",
+      "description": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+      "source_url": "https://openai.com/academy/workspace-agents",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
     }
   ]
 }
