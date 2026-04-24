@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-04-23T01:37:51.645465Z",
-    "total_events": 536,
+    "generated_at": "2026-04-24T01:38:40.360961Z",
+    "total_events": 546,
     "type_counts": {
       "paper": 336,
       "model_release": 39,
-      "announcement": 158,
+      "announcement": 168,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 117,
+      "openai": 127,
       "anthropic": 10,
       "meta": 6,
       "other": 335,
@@ -11851,6 +11851,216 @@
       "title": "Workspace agents",
       "description": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
       "source_url": "https://openai.com/academy/workspace-agents",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-23_automations",
+      "date": "2026-04-23",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Automations",
+      "description": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+      "source_url": "https://openai.com/academy/codex-automations",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-23_codex-settings",
+      "date": "2026-04-23",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Codex settings",
+      "description": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+      "source_url": "https://openai.com/academy/codex-settings",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-23_gpt-55-bio-bug-bounty",
+      "date": "2026-04-23",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "description": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
+      "source_url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-23_gpt-55-system-card",
+      "date": "2026-04-23",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "GPT-5.5 System Card",
+      "description": "OpenAI Newsからの自動収集記事。",
+      "source_url": "https://openai.com/index/gpt-5-5-system-card",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-23_how-to-get-started-with-codex",
+      "date": "2026-04-23",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How to get started with Codex",
+      "description": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+      "source_url": "https://openai.com/academy/codex-how-to-start",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-23_introducing-gpt-55",
+      "date": "2026-04-23",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing GPT-5.5",
+      "description": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+      "source_url": "https://openai.com/index/introducing-gpt-5-5",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-23_plugins-and-skills",
+      "date": "2026-04-23",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Plugins and skills",
+      "description": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+      "source_url": "https://openai.com/academy/codex-plugins-and-skills",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-23_top-10-uses-for-codex-at-work",
+      "date": "2026-04-23",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Top 10 uses for Codex at work",
+      "description": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "source_url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-23_what-is-codex",
+      "date": "2026-04-23",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "What is Codex?",
+      "description": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+      "source_url": "https://openai.com/academy/what-is-codex",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-23_working-with-codex",
+      "date": "2026-04-23",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Working with Codex",
+      "description": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+      "source_url": "https://openai.com/academy/working-with-codex",
       "tags": [
         "openai",
         "auto-collected"
