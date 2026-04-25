@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-04-24T01:38:40.360961Z",
-    "total_events": 546,
+    "generated_at": "2026-04-25T01:37:22.024386Z",
+    "total_events": 558,
     "type_counts": {
-      "paper": 336,
+      "paper": 346,
       "model_release": 39,
-      "announcement": 168,
+      "announcement": 170,
       "statement": 2,
       "policy": 1
     },
@@ -14,11 +14,11 @@
       "openai": 127,
       "anthropic": 10,
       "meta": 6,
-      "other": 335,
+      "other": 345,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 53
+      "huggingface": 55
     }
   },
   "companies": [
@@ -11864,6 +11864,50 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-04-23_a-multi-stage-warm-start-deep-learning-framework-f",
+      "date": "2026-04-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A Multi-Stage Warm-Start Deep Learning Framework for Unit Commitment",
+      "description": "Maintaining instantaneous balance between electricity supply and demand is critical for reliability and grid instability. System operators achieve this through solving the task of Unit Commitment (UC),ca high dimensional large-scale Mixed-integer Linear Programming (MILP) problem that is strictly...",
+      "source_url": "http://arxiv.org/abs/2604.21891v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-23_a-scale-adaptive-framework-for-joint-spatiotempora",
+      "date": "2026-04-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models",
+      "description": "Deep-learning video super-resolution has progressed rapidly, but climate applications typically super-resolve (increase resolution) either space or time, and joint spatiotemporal models are often designed for a single pair of super-resolution (SR) factors (upscaling spatial and temporal ratio bet...",
+      "source_url": "http://arxiv.org/abs/2604.21903v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-04-23_automations",
       "date": "2026-04-23",
       "type": "announcement",
@@ -11885,6 +11929,28 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-04-23_bounding-the-black-box-a-statistical-certification",
+      "date": "2026-04-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Bounding the Black Box: A Statistical Certification Framework for AI Risk Regulation",
+      "description": "Artificial intelligence now decides who receives a loan, who is flagged for criminal investigation, and whether an autonomous vehicle brakes in time. Governments have responded: the EU AI Act, the NIST Risk Management Framework, and the Council of Europe Convention all demand that high-risk syste...",
+      "source_url": "http://arxiv.org/abs/2604.21854v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-04-23_codex-settings",
       "date": "2026-04-23",
       "type": "announcement",
@@ -11904,6 +11970,50 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-23_evaluating-post-hoc-explanations-of-the-transforme",
+      "date": "2026-04-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Evaluating Post-hoc Explanations of the Transformer-based Genome Language Model DNABERT-2",
+      "description": "Explaining deep neural network predictions on genome sequences enables biological insight and hypothesis generation-often of greater interest than predictive performance alone. While explanations of convolutional neural networks (CNNs) have been shown to capture relevant patterns in genome sequen...",
+      "source_url": "http://arxiv.org/abs/2604.21690v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-23_geometric-monomial-gem-a-family-of-rational-2n-dif",
+      "date": "2026-04-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Geometric Monomial (GEM): a family of rational 2N-differentiable activation functions",
+      "description": "The choice of activation function plays a crucial role in the optimization and performance of deep neural networks. While the Rectified Linear Unit (ReLU) remains the dominant choice due to its simplicity and effectiveness, its lack of smoothness may hinder gradient-based optimization in deep arc...",
+      "source_url": "http://arxiv.org/abs/2604.21677v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     },
     {
       "id": "2026-04-23_gpt-55-bio-bug-bounty",
@@ -11948,6 +12058,28 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-04-23_gs-quant-granular-semantic-and-generative-structur",
+      "date": "2026-04-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "GS-Quant: Granular Semantic and Generative Structural Quantization for Knowledge Graph Completion",
+      "description": "Large Language Models (LLMs) have shown immense potential in Knowledge Graph Completion (KGC), yet bridging the modality gap between continuous graph embeddings and discrete LLM tokens remains a critical challenge. While recent quantization-based approaches attempt to align these modalities, they...",
+      "source_url": "http://arxiv.org/abs/2604.21649v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-04-23_how-to-get-started-with-codex",
       "date": "2026-04-23",
       "type": "announcement",
@@ -11965,6 +12097,27 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-23_how-to-use-transformersjs-in-a-chrome-extension",
+      "date": "2026-04-23",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "How to Use Transformers.js in a Chrome Extension",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
     },
@@ -11990,6 +12143,28 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-04-23_nemobot-games-crafting-strategic-ai-gaming-agents-",
+      "date": "2026-04-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models",
+      "description": "This paper introduces a new paradigm for AI game programming, leveraging large language models (LLMs) to extend and operationalize Claude Shannon's taxonomy of game-playing machines. Central to this paradigm is Nemobot, an interactive agentic engineering environment that enables users to create, ...",
+      "source_url": "http://arxiv.org/abs/2604.21896v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-04-23_plugins-and-skills",
       "date": "2026-04-23",
       "type": "announcement",
@@ -12011,6 +12186,50 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-04-23_revealing-geography-driven-signals-in-zone-level-c",
+      "date": "2026-04-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Revealing Geography-Driven Signals in Zone-Level Claim Frequency Models: An Empirical Study using Environmental and Visual Predictors",
+      "description": "Geographic context is often consider relevant to motor insurance risk, yet public actuarial datasets provide limited location identifiers, constraining how this information can be incorporated and evaluated in claim-frequency models. This study examines how geographic information from alternative...",
+      "source_url": "http://arxiv.org/abs/2604.21893v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-04-23_stealthy-backdoor-attacks-against-llms-based-on-na",
+      "date": "2026-04-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Stealthy Backdoor Attacks against LLMs Based on Natural Style Triggers",
+      "description": "The growing application of large language models (LLMs) in safety-critical domains has raised urgent concerns about their security. Many recent studies have demonstrated the feasibility of backdoor attacks against LLMs. However, existing methods suffer from three key shortcomings: explicit trigge...",
+      "source_url": "http://arxiv.org/abs/2604.21700v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-04-23_top-10-uses-for-codex-at-work",
       "date": "2026-04-23",
       "type": "announcement",
@@ -12030,6 +12249,28 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-23_transient-turn-injection-exposing-stateless-multi-",
+      "date": "2026-04-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models",
+      "description": "Large language models (LLMs) are increasingly integrated into sensitive workflows, raising the stakes for adversarial robustness and safety. This paper introduces Transient Turn Injection(TTI), a new multi-turn attack technique that systematically exploits stateless moderation by distributing adv...",
+      "source_url": "http://arxiv.org/abs/2604.21860v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     },
     {
       "id": "2026-04-23_what-is-codex",
@@ -12070,6 +12311,27 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-24_deepseek-v4-a-million-token-context-that-agents-ca",
+      "date": "2026-04-24",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/deepseekv4",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
     }
