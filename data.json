@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T01:37:59.276344Z",
-    "total_events": 558,
+    "generated_at": "2026-04-27T01:39:07.013854Z",
+    "total_events": 559,
     "type_counts": {
       "paper": 346,
       "model_release": 39,
-      "announcement": 170,
+      "announcement": 171,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 127,
+      "openai": 128,
       "anthropic": 10,
       "meta": 6,
       "other": 345,
@@ -12332,6 +12332,27 @@
       "body": "",
       "company_name": "Hugging Face",
       "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-26_our-principles",
+      "date": "2026-04-26",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Our principles",
+      "description": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+      "source_url": "https://openai.com/index/our-principles",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
     }
