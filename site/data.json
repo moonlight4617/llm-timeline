@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-04-27T01:39:07.013854Z",
-    "total_events": 559,
+    "generated_at": "2026-04-28T01:39:04.213605Z",
+    "total_events": 565,
     "type_counts": {
       "paper": 346,
       "model_release": 39,
-      "announcement": 171,
+      "announcement": 177,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 128,
+      "openai": 132,
       "anthropic": 10,
       "meta": 6,
       "other": 345,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 55
+      "huggingface": 57
     }
   },
   "companies": [
@@ -12353,6 +12353,132 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-27_an-open-source-spec-for-orchestration-symphony",
+      "date": "2026-04-27",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "An open-source spec for orchestration: Symphony",
+      "description": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+      "source_url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-27_choco-automates-food-distribution-with-ai-agents",
+      "date": "2026-04-27",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Choco automates food distribution with AI agents",
+      "description": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+      "source_url": "https://openai.com/index/choco",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-27_how-to-build-scalable-web-apps-with-openais-privac",
+      "date": "2026-04-27",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-27_openai-available-at-fedramp-moderate",
+      "date": "2026-04-27",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "OpenAI available at FedRAMP Moderate",
+      "description": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+      "source_url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-27_the-next-phase-of-the-microsoft-openai-partnership",
+      "date": "2026-04-27",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "The next phase of the Microsoft OpenAI partnership",
+      "description": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+      "source_url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-28_adaptive-ultrasound-imaging-with-physics-informed-",
+      "date": "2026-04-28",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
     }
