@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-04-29T01:40:25.241678Z",
-    "total_events": 568,
+    "generated_at": "2026-04-30T01:39:38.002824Z",
+    "total_events": 573,
     "type_counts": {
       "paper": 346,
       "model_release": 39,
-      "announcement": 180,
+      "announcement": 185,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 134,
+      "openai": 136,
       "anthropic": 10,
       "meta": 6,
       "other": 345,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 58
+      "huggingface": 61
     }
   },
   "companies": [
@@ -12542,6 +12542,111 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-29_ai-evals-are-becoming-the-new-compute-bottleneck",
+      "date": "2026-04-29",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "AI evals are becoming the new compute bottleneck",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-29_building-the-compute-infrastructure-for-the-intell",
+      "date": "2026-04-29",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Building the compute infrastructure for the Intelligence Age",
+      "description": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+      "source_url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-29_cybersecurity-in-the-intelligence-age",
+      "date": "2026-04-29",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Cybersecurity in the Intelligence Age",
+      "description": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+      "source_url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-29_deepinfra-on-hugging-face-inference-providers",
+      "date": "2026-04-29",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/inference-providers-deepinfra",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-29_granite-41-llms-how-theyre-built",
+      "date": "2026-04-29",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Granite 4.1 LLMs: How They’re Built",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
     }
