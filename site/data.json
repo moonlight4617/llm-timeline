@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-04-30T01:39:38.002824Z",
-    "total_events": 573,
+    "generated_at": "2026-05-01T01:40:06.287127Z",
+    "total_events": 575,
     "type_counts": {
       "paper": 346,
       "model_release": 39,
-      "announcement": 185,
+      "announcement": 187,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 136,
+      "openai": 138,
       "anthropic": 10,
       "meta": 6,
       "other": 345,
@@ -12647,6 +12647,48 @@
       "body": "",
       "company_name": "Hugging Face",
       "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-29_where-the-goblins-came-from",
+      "date": "2026-04-29",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Where the goblins came from",
+      "description": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+      "source_url": "https://openai.com/index/where-the-goblins-came-from",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-04-30_introducing-advanced-account-security",
+      "date": "2026-04-30",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing Advanced Account Security",
+      "description": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+      "source_url": "https://openai.com/index/advanced-account-security",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
     }
