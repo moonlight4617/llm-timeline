@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-05-04T01:39:25.638645Z",
-    "total_events": 575,
+    "generated_at": "2026-05-05T01:38:41.830920Z",
+    "total_events": 576,
     "type_counts": {
       "paper": 346,
       "model_release": 39,
-      "announcement": 187,
+      "announcement": 188,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 138,
+      "openai": 139,
       "anthropic": 10,
       "meta": 6,
       "other": 345,
@@ -12680,6 +12680,27 @@
       "title": "Introducing Advanced Account Security",
       "description": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
       "source_url": "https://openai.com/index/advanced-account-security",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-04_how-openai-delivers-low-latency-voice-ai-at-scale",
+      "date": "2026-05-04",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "description": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+      "source_url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
       "tags": [
         "openai",
         "auto-collected"
