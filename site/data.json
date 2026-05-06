@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-05-05T01:38:41.830920Z",
-    "total_events": 576,
+    "generated_at": "2026-05-06T01:39:01.235888Z",
+    "total_events": 580,
     "type_counts": {
       "paper": 346,
       "model_release": 39,
-      "announcement": 188,
+      "announcement": 192,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 139,
+      "openai": 143,
       "anthropic": 10,
       "meta": 6,
       "other": 345,
@@ -12701,6 +12701,90 @@
       "title": "How OpenAI delivers low-latency voice AI at scale",
       "description": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
       "source_url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-04_openai-and-pwc-collaborate-to-reimagine-the-office",
+      "date": "2026-05-04",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "description": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+      "source_url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-05_gpt-55-instant-smarter-clearer-and-more-personaliz",
+      "date": "2026-05-05",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "description": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+      "source_url": "https://openai.com/index/gpt-5-5-instant",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-05_gpt-55-instant-system-card",
+      "date": "2026-05-05",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "GPT-5.5 Instant System Card",
+      "description": "OpenAI Newsからの自動収集記事。",
+      "source_url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-05_new-ways-to-buy-chatgpt-ads",
+      "date": "2026-05-05",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "New ways to buy ChatGPT ads",
+      "description": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+      "source_url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
       "tags": [
         "openai",
         "auto-collected"
