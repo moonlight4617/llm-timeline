@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-05-06T01:39:01.235888Z",
-    "total_events": 580,
+    "generated_at": "2026-05-07T01:40:08.592773Z",
+    "total_events": 587,
     "type_counts": {
       "paper": 346,
       "model_release": 39,
-      "announcement": 192,
+      "announcement": 199,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 143,
+      "openai": 148,
       "anthropic": 10,
       "meta": 6,
       "other": 345,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 61
+      "huggingface": 63
     }
   },
   "companies": [
@@ -12794,6 +12794,153 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-05_unlocking-large-scale-ai-training-networks-with-mr",
+      "date": "2026-05-05",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "description": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "source_url": "https://openai.com/index/mrc-supercomputer-networking",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-06_adding-benchmaxxer-repellant-to-the-open-asr-leade",
+      "date": "2026-05-06",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-06_how-frontier-enterprises-are-building-an-ai-advant",
+      "date": "2026-05-06",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How frontier enterprises are building an AI advantage",
+      "description": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "source_url": "https://openai.com/index/introducing-b2b-signals",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-06_introducing-chatgpt-futures-class-of-2026",
+      "date": "2026-05-06",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "description": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+      "source_url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-06_singular-bank-helps-bankers-move-fast-with-chatgpt",
+      "date": "2026-05-06",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "description": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+      "source_url": "https://openai.com/index/singular-bank",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-06_uber-uses-openai-to-help-people-earn-smarter-and-b",
+      "date": "2026-05-06",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "description": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+      "source_url": "https://openai.com/index/uber",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-06_vllm-v0-to-v1-correctness-before-corrections-in-rl",
+      "date": "2026-05-06",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
     }
