@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-05-07T01:40:08.592773Z",
-    "total_events": 587,
+    "generated_at": "2026-05-08T01:40:00.771029Z",
+    "total_events": 593,
     "type_counts": {
       "paper": 346,
       "model_release": 39,
-      "announcement": 199,
+      "announcement": 205,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 148,
+      "openai": 154,
       "anthropic": 10,
       "meta": 6,
       "other": 345,
@@ -12941,6 +12941,132 @@
       "body": "",
       "company_name": "Hugging Face",
       "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-07_advancing-voice-intelligence-with-new-models-in-th",
+      "date": "2026-05-07",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Advancing voice intelligence with new models in the API",
+      "description": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+      "source_url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-07_introducing-trusted-contact-in-chatgpt",
+      "date": "2026-05-07",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing Trusted Contact in ChatGPT",
+      "description": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+      "source_url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-07_parloa-builds-service-agents-customers-want-to-tal",
+      "date": "2026-05-07",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Parloa builds service agents customers want to talk to",
+      "description": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+      "source_url": "https://openai.com/index/parloa",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-07_scaling-trusted-access-for-cyber-with-gpt-55-and-g",
+      "date": "2026-05-07",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "description": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+      "source_url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-07_simplex-rethinks-software-development-with-codex",
+      "date": "2026-05-07",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Simplex rethinks software development with Codex",
+      "description": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
+      "source_url": "https://openai.com/index/simplex",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-07_testing-ads-in-chatgpt",
+      "date": "2026-05-07",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Testing ads in ChatGPT",
+      "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "source_url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
     }
