@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-05-09T01:39:06.450754Z",
-    "total_events": 597,
+    "generated_at": "2026-05-10T01:38:56.130887Z",
+    "total_events": 598,
     "type_counts": {
       "paper": 346,
       "model_release": 39,
-      "announcement": 209,
+      "announcement": 210,
       "statement": 2,
       "policy": 1
     },
@@ -18,7 +18,7 @@
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 65
+      "huggingface": 66
     }
   },
   "companies": [
@@ -13151,6 +13151,27 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-09_oncoagent-a-dual-tier-multi-agent-framework-for-pr",
+      "date": "2026-05-09",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "'OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support'",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
     }
