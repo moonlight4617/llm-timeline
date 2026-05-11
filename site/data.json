@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T01:38:56.130887Z",
-    "total_events": 598,
+    "generated_at": "2026-05-11T01:40:23.841229Z",
+    "total_events": 599,
     "type_counts": {
       "paper": 346,
       "model_release": 39,
-      "announcement": 210,
+      "announcement": 211,
       "statement": 2,
       "policy": 1
     },
@@ -18,7 +18,7 @@
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 66
+      "huggingface": 67
     }
   },
   "companies": [
@@ -13163,6 +13163,27 @@
       "title": "'OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support'",
       "description": "Hugging Face Blogからの自動収集記事。",
       "source_url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-10_machinacheck-building-a-multi-agent-cnc-manufactur",
+      "date": "2026-05-10",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
       "tags": [
         "huggingface",
         "auto-collected"
