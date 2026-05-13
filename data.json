@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-05-12T01:39:28.007796Z",
-    "total_events": 604,
+    "generated_at": "2026-05-13T01:41:04.594272Z",
+    "total_events": 608,
     "type_counts": {
       "paper": 346,
       "model_release": 39,
-      "announcement": 216,
+      "announcement": 220,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 160,
+      "openai": 164,
       "anthropic": 10,
       "meta": 6,
       "other": 345,
@@ -13289,6 +13289,90 @@
       "title": "OpenAI launches DeployCo to help businesses build around intelligence",
       "description": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
       "source_url": "https://openai.com/index/openai-launches-the-deployment-company",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-12_autoscout24-scales-engineering-with-ai-powered-wor",
+      "date": "2026-05-12",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "description": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "source_url": "https://openai.com/index/autoscout24",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-12_how-finance-teams-use-codex",
+      "date": "2026-05-12",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How finance teams use Codex",
+      "description": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+      "source_url": "https://openai.com/academy/how-finance-teams-use-codex",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-12_how-nvidia-engineers-and-researchers-build-with-co",
+      "date": "2026-05-12",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "description": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "source_url": "https://openai.com/index/nvidia",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-12_what-parameter-golf-taught-us-about-ai-assisted-re",
+      "date": "2026-05-12",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "description": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "source_url": "https://openai.com/index/what-parameter-golf-taught-us",
       "tags": [
         "openai",
         "auto-collected"
