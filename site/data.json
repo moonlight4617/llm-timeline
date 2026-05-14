@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-05-13T01:41:04.594272Z",
-    "total_events": 608,
+    "generated_at": "2026-05-14T01:43:35.606349Z",
+    "total_events": 609,
     "type_counts": {
       "paper": 346,
       "model_release": 39,
-      "announcement": 220,
+      "announcement": 221,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 164,
+      "openai": 165,
       "anthropic": 10,
       "meta": 6,
       "other": 345,
@@ -13373,6 +13373,27 @@
       "title": "What Parameter Golf taught us about AI-assisted research",
       "description": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
       "source_url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-13_building-a-safe-effective-sandbox-to-enable-codex-",
+      "date": "2026-05-13",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "description": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+      "source_url": "https://openai.com/index/building-codex-windows-sandbox",
       "tags": [
         "openai",
         "auto-collected"
