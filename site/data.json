@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-05-14T01:43:35.606349Z",
-    "total_events": 609,
+    "generated_at": "2026-05-15T01:41:24.001304Z",
+    "total_events": 614,
     "type_counts": {
       "paper": 346,
       "model_release": 39,
-      "announcement": 221,
+      "announcement": 226,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 165,
+      "openai": 168,
       "anthropic": 10,
       "meta": 6,
       "other": 345,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 68
+      "huggingface": 70
     }
   },
   "companies": [
@@ -13394,6 +13394,111 @@
       "title": "Building a safe, effective sandbox to enable Codex on Windows",
       "description": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
       "source_url": "https://openai.com/index/building-codex-windows-sandbox",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-13_our-response-to-the-tanstack-npm-supply-chain-atta",
+      "date": "2026-05-13",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Our response to the TanStack npm supply chain attack",
+      "description": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening ...",
+      "source_url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-14_granite-embedding-multilingual-r2-open-apache-20-m",
+      "date": "2026-05-14",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-14_helping-chatgpt-better-recognize-context-in-sensit",
+      "date": "2026-05-14",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Helping ChatGPT better recognize context in sensitive conversations",
+      "description": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+      "source_url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-14_unlocking-asynchronicity-in-continuous-batching",
+      "date": "2026-05-14",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Unlocking asynchronicity in continuous batching",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/continuous_async",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-14_work-with-codex-from-anywhere",
+      "date": "2026-05-14",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Work with Codex from anywhere",
+      "description": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+      "source_url": "https://openai.com/index/work-with-codex-from-anywhere",
       "tags": [
         "openai",
         "auto-collected"
