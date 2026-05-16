@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-05-15T01:41:24.001304Z",
-    "total_events": 614,
+    "generated_at": "2026-05-16T01:39:31.416041Z",
+    "total_events": 617,
     "type_counts": {
       "paper": 346,
       "model_release": 39,
-      "announcement": 226,
+      "announcement": 229,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 168,
+      "openai": 171,
       "anthropic": 10,
       "meta": 6,
       "other": 345,
@@ -13470,6 +13470,27 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-05-14_seas-view-on-the-future-of-agentic-software-develo",
+      "date": "2026-05-14",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Sea's View on the Future of Agentic Software Development with Codex",
+      "description": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+      "source_url": "https://openai.com/index/sea-david-chen",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-05-14_unlocking-asynchronicity-in-continuous-batching",
       "date": "2026-05-14",
       "type": "announcement",
@@ -13499,6 +13520,48 @@
       "title": "Work with Codex from anywhere",
       "description": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
       "source_url": "https://openai.com/index/work-with-codex-from-anywhere",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-15_a-new-personal-finance-experience-in-chatgpt",
+      "date": "2026-05-15",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "A new personal finance experience in ChatGPT",
+      "description": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "source_url": "https://openai.com/index/personal-finance-chatgpt",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-15_databricks-brings-gpt-55-to-enterprise-agent-workf",
+      "date": "2026-05-15",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "source_url": "https://openai.com/index/databricks",
       "tags": [
         "openai",
         "auto-collected"
