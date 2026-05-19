@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-05-18T01:45:39.022079Z",
-    "total_events": 621,
+    "generated_at": "2026-05-19T01:44:24.107680Z",
+    "total_events": 625,
     "type_counts": {
       "paper": 346,
       "model_release": 39,
-      "announcement": 233,
+      "announcement": 237,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 175,
+      "openai": 176,
       "anthropic": 10,
       "meta": 6,
       "other": 345,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 70
+      "huggingface": 73
     }
   },
   "companies": [
@@ -13655,6 +13655,90 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-18_fine-tuning-nvidia-cosmos-predict-25-with-loradora",
+      "date": "2026-05-18",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-18_openai-and-dell-partner-to-bring-codex-to-hybrid-a",
+      "date": "2026-05-18",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "description": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "source_url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-18_paddleocr-35-running-ocr-and-document-parsing-task",
+      "date": "2026-05-18",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-18_the-open-agent-leaderboard",
+      "date": "2026-05-18",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "The Open Agent Leaderboard",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
     }
