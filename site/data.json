@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-05-19T01:44:24.107680Z",
-    "total_events": 625,
+    "generated_at": "2026-05-20T01:46:08.633586Z",
+    "total_events": 628,
     "type_counts": {
       "paper": 346,
       "model_release": 39,
-      "announcement": 237,
+      "announcement": 240,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 176,
+      "openai": 177,
       "anthropic": 10,
       "meta": 6,
       "other": 345,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 73
+      "huggingface": 75
     }
   },
   "companies": [
@@ -13730,6 +13730,69 @@
       "title": "The Open Agent Leaderboard",
       "description": "Hugging Face Blogからの自動収集記事。",
       "source_url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-19_advancing-content-provenance-for-a-safer-more-tran",
+      "date": "2026-05-19",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "description": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+      "source_url": "https://openai.com/index/advancing-content-provenance",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-19_introducing-the-ettin-reranker-family",
+      "date": "2026-05-19",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Introducing the Ettin Reranker Family",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ettin-reranker",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-19_olmoearth-v11-a-more-efficient-family-of-models",
+      "date": "2026-05-19",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "OlmoEarth v1.1: A more efficient family of models",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
       "tags": [
         "huggingface",
         "auto-collected"
