@@ -1,20 +1,20 @@
 {
   "meta": {
-    "generated_at": "2026-05-20T01:46:08.633586Z",
-    "total_events": 628,
+    "generated_at": "2026-05-21T01:44:44.620419Z",
+    "total_events": 641,
     "type_counts": {
-      "paper": 346,
+      "paper": 355,
       "model_release": 39,
-      "announcement": 240,
+      "announcement": 244,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 177,
+      "openai": 181,
       "anthropic": 10,
       "meta": 6,
-      "other": 345,
+      "other": 354,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
@@ -13764,6 +13764,27 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-05-19_introducing-openai-for-singapore",
+      "date": "2026-05-19",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing OpenAI for Singapore",
+      "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "source_url": "https://openai.com/index/introducing-openai-for-singapore",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-05-19_introducing-the-ettin-reranker-family",
       "date": "2026-05-19",
       "type": "announcement",
@@ -13804,6 +13825,267 @@
       "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-20_a-sharper-picture-of-generalization-in-transformer",
+      "date": "2026-05-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A Sharper Picture of Generalization in Transformers",
+      "description": "We study transformers' generalization behavior on boolean domains from the perspective of the Fourier Spectra of their target functions. In contrast to prior work (Edelman et al., 2022; Trauger and Tewari, 2024), which derived generalization bounds from Rademacher complexity, we investigate the f...",
+      "source_url": "http://arxiv.org/abs/2605.20988v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-05-20_an-openai-model-has-disproved-a-central-conjecture",
+      "date": "2026-05-20",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "source_url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-20_apm-evaluating-style-personalization-in-llms-with-",
+      "date": "2026-05-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "APM: Evaluating Style Personalization in LLMs with Arbitrary Preference Mappings",
+      "description": "Typical LLM responses tend to follow a default style, even though users often have distinct preferences regarding tone, verbosity, and formality that they do not explicitly state in their prompts. Evaluating whether personalization methods can adapt to these implicit preferences is challenging, s...",
+      "source_url": "http://arxiv.org/abs/2605.21063v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-05-20_automated-icd-classification-of-psychiatric-diagno",
+      "date": "2026-05-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Automated ICD Classification of Psychiatric Diagnoses: From Classical NLP to Large Language Models",
+      "description": "Mental health has become a global priority, leading to a massive administrative burden in the coding of clinical diagnoses. This study proposes the automation of psychiatric diagnostic analysis by mapping free-text descriptions to the International Classification of Diseases (ICD) using Natural L...",
+      "source_url": "http://arxiv.org/abs/2605.21154v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-05-20_cross-lingual-robustness-of-llm-brain-alignment-an",
+      "date": "2026-05-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Cross-lingual robustness of LLM-brain alignment and its computational roots",
+      "description": "Large language models (LLMs) reliably predict neural activity during language comprehension and transformer depth has been interpreted as mirroring hierarchical cortical organization. However, it remains unclear whether such alignment extends to subcortical regions, overlaps spatially across lang...",
+      "source_url": "http://arxiv.org/abs/2605.21049v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-05-20_genetic-programming-with-transformer-based-mutatio",
+      "date": "2026-05-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Genetic Programming with Transformer-Based Mutation for Approximate Circuit Design",
+      "description": "A recent trend is to leverage machine learning models to improve the evolutionary design and optimization process. We propose a novel transformer-based mutation operator for Cartesian genetic programming (CGP) for the automated design of approximate arithmetic circuits. We introduce a hybrid sche...",
+      "source_url": "http://arxiv.org/abs/2605.21055v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-05-20_how-ramp-engineers-accelerate-code-review-with-cod",
+      "date": "2026-05-20",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "description": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "source_url": "https://openai.com/index/ramp",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-20_musical-attention-transformer-music-generation-usi",
+      "date": "2026-05-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Musical Attention Transformer: Music Generation Using a Music-Specific Attention Model",
+      "description": "This study aims to enhance the quality of music generation using Transformers by incorporating meta-information. While Transformer-based approaches are effective at capturing long-term dependencies in musical compositions, the music they generate often suffers from issues such as excessive repeti...",
+      "source_url": "http://arxiv.org/abs/2605.21081v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-05-20_single-pass-depth-selective-reading-for-multi-aspe",
+      "date": "2026-05-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Single-Pass, Depth-Selective Reading for Multi-Aspect Sentiment Analysis",
+      "description": "Aspect-Term Sentiment Analysis (ATSA) in multi-aspect sentences faces a fundamental tradeoff between efficiency and expressiveness. Existing models either re-encode the sentence for each aspect or rely on static use of deep representations, leading to redundant computation and limited adaptivity....",
+      "source_url": "http://arxiv.org/abs/2605.20998v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-05-20_spectralearth-fm-bringing-hyperspectral-imagery-in",
+      "date": "2026-05-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "SpectralEarth-FM: Bringing Hyperspectral Imagery into Multimodal Earth Observation Pretraining",
+      "description": "Earth observation (EO) foundation models (FMs) are increasingly trained on multisensor data, spanning multispectral imagery (MSI), synthetic aperture radar (SAR), and derived geospatial layers, but hyperspectral imagery (HSI) remains underrepresented. Conversely, existing hyperspectral FMs are tr...",
+      "source_url": "http://arxiv.org/abs/2605.21075v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-05-20_the-next-phase-of-openais-education-for-countries",
+      "date": "2026-05-20",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "description": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "source_url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-20_towards-understanding-self-pretraining-for-sequenc",
+      "date": "2026-05-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Towards Understanding Self-Pretraining for Sequence Classification",
+      "description": "Amos et al. (2024) showed that the accuracy of Transformer models in sequence classification can be significantly improved by first pretraining with a masked token prediction objective without external data or augmentation, a procedure referred to as self-pretraining (SPT). While the primary obje...",
+      "source_url": "http://arxiv.org/abs/2605.21070v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     }
   ]
 }
