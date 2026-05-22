@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-05-21T01:44:44.620419Z",
-    "total_events": 641,
+    "generated_at": "2026-05-22T01:44:47.952133Z",
+    "total_events": 642,
     "type_counts": {
       "paper": 355,
       "model_release": 39,
-      "announcement": 244,
+      "announcement": 245,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 181,
+      "openai": 182,
       "anthropic": 10,
       "meta": 6,
       "other": 354,
@@ -14086,6 +14086,27 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-05-21_adventhealth-advances-whole-person-care-with-opena",
+      "date": "2026-05-21",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "description": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "source_url": "https://openai.com/index/adventhealth",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
     }
   ]
 }
