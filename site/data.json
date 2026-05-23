@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-05-22T01:44:47.952133Z",
-    "total_events": 642,
+    "generated_at": "2026-05-23T01:40:32.362471Z",
+    "total_events": 646,
     "type_counts": {
       "paper": 355,
       "model_release": 39,
-      "announcement": 245,
+      "announcement": 249,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 182,
+      "openai": 184,
       "anthropic": 10,
       "meta": 6,
       "other": 354,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 75
+      "huggingface": 77
     }
   },
   "companies": [
@@ -14105,6 +14105,90 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-22_how-virgin-atlantic-ships-faster-with-codex",
+      "date": "2026-05-22",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "description": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "source_url": "https://openai.com/index/virgin-atlantic",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-22_openai-named-a-leader-in-enterprise-coding-agents-",
+      "date": "2026-05-22",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "description": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "source_url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-22_specialization-beats-scale-a-strategic-variable-mo",
+      "date": "2026-05-22",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-23_towards-speed-of-light-text-generation-with-nemotr",
+      "date": "2026-05-23",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
     }
