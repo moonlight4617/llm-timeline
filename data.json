@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-05-25T01:48:02.118774Z",
-    "total_events": 646,
+    "generated_at": "2026-05-26T01:42:08.347105Z",
+    "total_events": 648,
     "type_counts": {
       "paper": 355,
       "model_release": 39,
-      "announcement": 249,
+      "announcement": 251,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 184,
+      "openai": 185,
       "anthropic": 10,
       "meta": 6,
       "other": 354,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 77
+      "huggingface": 78
     }
   },
   "companies": [
@@ -14189,6 +14189,48 @@
       "body": "",
       "company_name": "Hugging Face",
       "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-25_harness-scaffold-and-the-ai-agent-terms-worth-gett",
+      "date": "2026-05-25",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/agent-glossary",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-25_openai-grupo-folha-and-grupo-uol-announce-strategi",
+      "date": "2026-05-25",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "description": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+      "source_url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
     }
