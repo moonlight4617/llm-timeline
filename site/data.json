@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-05-27T01:46:44.883252Z",
-    "total_events": 648,
+    "generated_at": "2026-05-28T01:39:47.279695Z",
+    "total_events": 655,
     "type_counts": {
       "paper": 355,
       "model_release": 39,
-      "announcement": 251,
+      "announcement": 258,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 185,
+      "openai": 189,
       "anthropic": 10,
       "meta": 6,
       "other": 354,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 78
+      "huggingface": 81
     }
   },
   "companies": [
@@ -14222,6 +14222,153 @@
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
       "description": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
       "source_url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-27_building-self-improving-tax-agents-with-codex",
+      "date": "2026-05-27",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Building self-improving tax agents with Codex",
+      "description": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "source_url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-27_cisco-and-openai-redefine-enterprise-engineering-w",
+      "date": "2026-05-27",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "description": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "source_url": "https://openai.com/index/cisco",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-27_election-information-and-safeguards-in-2026",
+      "date": "2026-05-27",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Election information and safeguards in 2026",
+      "description": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "source_url": "https://openai.com/index/election-safeguards-2026",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-27_itbench-aa-frontier-models-score-below-50-on-the-f",
+      "date": "2026-05-27",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-27_reachy-mini-goes-fully-local",
+      "date": "2026-05-27",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Reachy Mini goes fully local",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-27_shipping-a-trillion-parameters-with-a-hub-bucket-d",
+      "date": "2026-05-27",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/delta-weight-sync",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-27_warps-big-bet-on-building-open-source-with-gpt-55",
+      "date": "2026-05-27",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "source_url": "https://openai.com/index/warp",
       "tags": [
         "openai",
         "auto-collected"
