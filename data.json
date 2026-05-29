@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-05-28T01:39:47.279695Z",
-    "total_events": 655,
+    "generated_at": "2026-05-29T01:45:01.359021Z",
+    "total_events": 657,
     "type_counts": {
       "paper": 355,
       "model_release": 39,
-      "announcement": 258,
+      "announcement": 260,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 189,
+      "openai": 191,
       "anthropic": 10,
       "meta": 6,
       "other": 354,
@@ -14369,6 +14369,48 @@
       "title": "Warp’s big bet on building open source with GPT-5.5",
       "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
       "source_url": "https://openai.com/index/warp",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-28_how-endava-builds-an-agentic-organization-with-cod",
+      "date": "2026-05-28",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How Endava builds an agentic organization with Codex",
+      "description": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "source_url": "https://openai.com/index/endava",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-28_openais-frontier-governance-framework",
+      "date": "2026-05-28",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "OpenAI’s Frontier Governance Framework",
+      "description": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "source_url": "https://openai.com/index/openai-frontier-governance-framework",
       "tags": [
         "openai",
         "auto-collected"
