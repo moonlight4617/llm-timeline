@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-05-29T01:45:01.359021Z",
-    "total_events": 657,
+    "generated_at": "2026-05-30T01:40:41.312707Z",
+    "total_events": 663,
     "type_counts": {
       "paper": 355,
       "model_release": 39,
-      "announcement": 260,
+      "announcement": 266,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 191,
+      "openai": 196,
       "anthropic": 10,
       "meta": 6,
       "other": 354,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 81
+      "huggingface": 82
     }
   },
   "companies": [
@@ -14403,6 +14403,27 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-05-28_mufg-aims-to-become-ai-native-with-openai",
+      "date": "2026-05-28",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "description": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "source_url": "https://openai.com/index/mufg",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-05-28_openais-frontier-governance-framework",
       "date": "2026-05-28",
       "type": "announcement",
@@ -14411,6 +14432,111 @@
       "title": "OpenAI’s Frontier Governance Framework",
       "description": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
       "source_url": "https://openai.com/index/openai-frontier-governance-framework",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-29_a-shared-playbook-for-trustworthy-third-party-eval",
+      "date": "2026-05-29",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "description": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "source_url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-29_boston-childrens-uses-ai-to-unlock-new-diagnoses",
+      "date": "2026-05-29",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "description": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "source_url": "https://openai.com/index/boston-childrens-hospital",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-29_how-braintrust-turns-customer-requests-into-code-w",
+      "date": "2026-05-29",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "description": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "source_url": "https://openai.com/index/braintrust",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-29_profiling-in-pytorch-part-1-a-beginners-guide-to-t",
+      "date": "2026-05-29",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/torch-profiler",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-29_strengthening-societal-resilience-with-rosalind-bi",
+      "date": "2026-05-29",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "description": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "source_url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
       "tags": [
         "openai",
         "auto-collected"
