@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-06-01T01:51:38.552155Z",
-    "total_events": 663,
+    "generated_at": "2026-06-02T01:54:11.530981Z",
+    "total_events": 669,
     "type_counts": {
       "paper": 355,
       "model_release": 39,
-      "announcement": 266,
+      "announcement": 272,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 196,
+      "openai": 199,
       "anthropic": 10,
       "meta": 6,
       "other": 354,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 82
+      "huggingface": 85
     }
   },
   "companies": [
@@ -14546,6 +14546,132 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-01_beyond-llms-why-scalable-enterprise-ai-adoption-de",
+      "date": "2026-06-01",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-01_building-the-infrastructure-for-the-intelligence-a",
+      "date": "2026-06-01",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "description": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "source_url": "https://openai.com/index/stargate-michigan-data-center",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-01_introducing-mellum2-a-12b-mixture-of-experts-model",
+      "date": "2026-06-01",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-01_openai-frontier-models-and-codex-are-now-available",
+      "date": "2026-06-01",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "description": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+      "source_url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-01_our-views-on-ai-policy-and-political-advocacy",
+      "date": "2026-06-01",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Our views on AI policy and political advocacy",
+      "description": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+      "source_url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-01_welcome-nvidia-cosmos-3-the-first-open-omni-model-",
+      "date": "2026-06-01",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
     }
