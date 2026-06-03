@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-06-02T01:54:11.530981Z",
-    "total_events": 669,
+    "generated_at": "2026-06-03T01:57:57.921370Z",
+    "total_events": 674,
     "type_counts": {
       "paper": 355,
       "model_release": 39,
-      "announcement": 272,
+      "announcement": 277,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 199,
+      "openai": 203,
       "anthropic": 10,
       "meta": 6,
       "other": 354,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 85
+      "huggingface": 86
     }
   },
   "companies": [
@@ -14672,6 +14672,111 @@
       "body": "",
       "company_name": "Hugging Face",
       "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-02_advancing-youth-safety-and-opportunity-through-glo",
+      "date": "2026-06-02",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "description": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "source_url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-02_codex-for-every-role-tool-and-workflow",
+      "date": "2026-06-02",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Codex for every role, tool, and workflow",
+      "description": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "source_url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-02_codex-is-becoming-a-productivity-tool-for-everyone",
+      "date": "2026-06-02",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Codex is becoming a productivity tool for everyone",
+      "description": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "source_url": "https://openai.com/index/codex-for-knowledge-work",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-02_holo31-fast-local-computer-use-agents",
+      "date": "2026-06-02",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/Hcompany/holo31",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-02_travelers-deploys-ai-powered-claims-countrywide-wi",
+      "date": "2026-06-02",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "description": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "source_url": "https://openai.com/index/travelers",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
     }
