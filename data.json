@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-06-03T01:57:57.921370Z",
-    "total_events": 674,
+    "generated_at": "2026-06-04T01:56:56.239564Z",
+    "total_events": 678,
     "type_counts": {
       "paper": 355,
       "model_release": 39,
-      "announcement": 277,
+      "announcement": 281,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 203,
+      "openai": 207,
       "anthropic": 10,
       "meta": 6,
       "other": 354,
@@ -14768,6 +14768,90 @@
       "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
       "description": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
       "source_url": "https://openai.com/index/travelers",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-03_a-blueprint-for-democratic-governance-of-frontier-",
+      "date": "2026-06-03",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "A blueprint for democratic governance of frontier AI",
+      "description": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "source_url": "https://openai.com/index/frontier-safety-blueprint",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-03_how-wasmer-used-codex-to-build-a-nodejs-runtime-fo",
+      "date": "2026-06-03",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "description": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+      "source_url": "https://openai.com/index/wasmer",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-03_introducing-new-capabilities-to-gpt-rosalind",
+      "date": "2026-06-03",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "description": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+      "source_url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-03_openai-public-policy-agenda",
+      "date": "2026-06-03",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "OpenAI public policy agenda",
+      "description": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "source_url": "https://openai.com/index/public-policy-agenda",
       "tags": [
         "openai",
         "auto-collected"
