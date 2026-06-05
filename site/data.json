@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T01:56:56.239564Z",
-    "total_events": 678,
+    "generated_at": "2026-06-05T01:48:20.007820Z",
+    "total_events": 681,
     "type_counts": {
       "paper": 355,
       "model_release": 39,
-      "announcement": 281,
+      "announcement": 284,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 207,
+      "openai": 210,
       "anthropic": 10,
       "meta": 6,
       "other": 354,
@@ -14852,6 +14852,69 @@
       "title": "OpenAI public policy agenda",
       "description": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
       "source_url": "https://openai.com/index/public-policy-agenda",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-04_biodefense-in-the-intelligence-age",
+      "date": "2026-06-04",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Biodefense in the Intelligence Age",
+      "description": "An action plan for AI-powered biological resilience",
+      "source_url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-04_dreaming-better-memory-for-a-more-helpful-chatgpt",
+      "date": "2026-06-04",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "description": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+      "source_url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-04_how-endava-is-redesigning-software-delivery-around",
+      "date": "2026-06-04",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "description": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "source_url": "https://openai.com/index/endava-frontiers",
       "tags": [
         "openai",
         "auto-collected"
