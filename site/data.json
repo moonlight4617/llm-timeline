@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-06-05T01:48:20.007820Z",
-    "total_events": 681,
+    "generated_at": "2026-06-06T01:43:24.618318Z",
+    "total_events": 697,
     "type_counts": {
-      "paper": 355,
+      "paper": 365,
       "model_release": 39,
-      "announcement": 284,
+      "announcement": 290,
       "statement": 2,
       "policy": 1
     },
@@ -14,11 +14,11 @@
       "openai": 210,
       "anthropic": 10,
       "meta": 6,
-      "other": 354,
+      "other": 364,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 86
+      "huggingface": 92
     }
   },
   "companies": [
@@ -14802,6 +14802,48 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-06-03_adding-mcp-tools-to-reachy-mini",
+      "date": "2026-06-03",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Adding MCP Tools to Reachy Mini",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-03_direct-preference-optimization-beyondchatbots",
+      "date": "2026-06-03",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-06-03_how-wasmer-used-codex-to-build-a-nodejs-runtime-fo",
       "date": "2026-06-03",
       "type": "announcement",
@@ -14886,6 +14928,49 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-06-04_designing-the-hf-cli-as-an-agent-optimized-way-to-",
+      "date": "2026-06-04",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/hf-cli-for-agents",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-04_dragon-a-benchmark-and-dataset-for-drag-based-gui-",
+      "date": "2026-06-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "DragOn: A Benchmark and Dataset for Drag-Based GUI Interactions",
+      "description": "GUI agents - vision-based models that control desktops, web browsers, and mobile devices through graphical user interfaces - promise to automate a wide range of digital tasks. While million-scale datasets have enabled substantial progress on click-grounding, drag grounding (e.g. drag-and-drop, sw...",
+      "source_url": "http://arxiv.org/abs/2606.06322v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-06-04_dreaming-better-memory-for-a-more-helpful-chatgpt",
       "date": "2026-06-04",
       "type": "announcement",
@@ -14907,6 +14992,71 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-06-04_end-to-end-subgraph-detection-with-graphdetr",
+      "date": "2026-06-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "End-to-End Subgraph Detection with GraphDETR",
+      "description": "Subgraph detection seeks to identify whether and where instances of query patterns occur within a larger graph. This problem is fundamental across scientific domains and is closely related to subgraph isomorphism, which is NP-complete, limiting combinatorial approaches to small patterns or modera...",
+      "source_url": "http://arxiv.org/abs/2606.06364v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-04_equivariant-neural-belief-propagation",
+      "date": "2026-06-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Equivariant Neural Belief Propagation",
+      "description": "Probabilistic inference over spatially embedded variables requires beliefs that respect $SE(3)$ symmetry, yet existing equivariant networks produce only scalars and vectors -- not the rank-2 precision tensors needed for anisotropic uncertainty, and single-component messages collapse multi-modal e...",
+      "source_url": "http://arxiv.org/abs/2606.06344v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-04_eva-bench-data-20-3-domains-121-tools-213-scenario",
+      "date": "2026-06-04",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-06-04_how-endava-is-redesigning-software-delivery-around",
       "date": "2026-06-04",
       "type": "announcement",
@@ -14924,6 +15074,202 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-04_nemotron-35-content-safety-customizable-multimodal",
+      "date": "2026-06-04",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-04_operation-guided-progressive-human-to-ai-text-tran",
+      "date": "2026-06-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection",
+      "description": "As AI writing assistants become increasingly integrated into real-world drafting and revision workflows, many documents are no longer purely human-written or AI-generated, but instead result from progressive human-AI co-editing. However, existing AI-text detection benchmarks largely focus on fina...",
+      "source_url": "http://arxiv.org/abs/2606.06481v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-04_pc-layer-polynomial-weight-preconditioning-for-imp",
+      "date": "2026-06-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training",
+      "description": "We propose a preconditioning (PC) layer, a weight parameterization via polynomial preconditioner that ensures stable weight conditioning throughout LLM training. The PC module reshapes the singular-value spectrum of weight matrices via low-degree polynomial preconditioning. After training, the pr...",
+      "source_url": "http://arxiv.org/abs/2606.06470v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-04_pretraining-recurrent-networks-without-recurrence",
+      "date": "2026-06-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Pretraining Recurrent Networks without Recurrence",
+      "description": "Training recurrent neural networks (RNNs) requires assigning credit across long sequences of computations. Standard backpropagation through time (BPTT) addresses this problem poorly: it is sequential in time, limiting parallelism, and suffers from vanishing or exploding gradients, making long-ran...",
+      "source_url": "http://arxiv.org/abs/2606.06479v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-04_riskflow-fast-and-faithful-safety-critical-traffic",
+      "date": "2026-06-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "RiskFlow: Fast and Faithful Safety-Critical Traffic Scenario Generation",
+      "description": "Safety-critical traffic scenario generation is essential for evaluating autonomous driving systems under rare but high-risk interactions. Existing diffusion-based methods offer strong controllability in closed-loop generation, but their iterative denoising process is computationally expensive and...",
+      "source_url": "http://arxiv.org/abs/2606.06423v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-04_scaffold-not-vocabulary-a-controlled-two-tier-pre-",
+      "date": "2026-06-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Scaffold, Not Vocabulary? A Controlled, Two-Tier, Pre-Registered Study of a Popperian Code-Generation Skill",
+      "description": "Large language models increasingly write, review, and judge code, and a fast-growing practice equips them with prompt 'skills' that ask the model to reason like a scientist. A prominent example tells the model to act as a Popperian falsificationist, and such skills are reported to improve generat...",
+      "source_url": "http://arxiv.org/abs/2606.06454v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-04_subspace-aware-sparse-autoencoders-for-effective-m",
+      "date": "2026-06-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability",
+      "description": "Sparse Autoencoders (SAEs) are widely used for mechanistic interpretability in large language models, yet their formulation assigns each latent feature a single decoder direction, implicitly assuming features to be one-dimensional. We show that this assumption mismatches with the multi-dimensiona...",
+      "source_url": "http://arxiv.org/abs/2606.06333v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-04_will-the-agent-recuse-itself-measuring-llm-agent-c",
+      "date": "2026-06-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals",
+      "description": "As autonomous LLM agents increasingly hold real credentials and operate infrastructure without a human in the loop, operators have no standard way to tell an agent that a resource is off-limits. Access controls either let the agent in (it has valid credentials) or hard-fail it (indistinguishable ...",
+      "source_url": "http://arxiv.org/abs/2606.06460v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-05_thousand-token-wood-shipping-a-multi-agent-economy",
+      "date": "2026-06-05",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
     }
