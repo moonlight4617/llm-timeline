@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T01:43:24.618318Z",
-    "total_events": 697,
+    "generated_at": "2026-06-07T01:48:36.751188Z",
+    "total_events": 698,
     "type_counts": {
       "paper": 365,
       "model_release": 39,
-      "announcement": 290,
+      "announcement": 291,
       "statement": 2,
       "policy": 1
     },
@@ -18,7 +18,7 @@
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 92
+      "huggingface": 93
     }
   },
   "companies": [
@@ -15261,6 +15261,27 @@
       "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
       "description": "Hugging Face Blogからの自動収集記事。",
       "source_url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-06_five-labs-five-minds-building-a-multi-model-financ",
+      "date": "2026-06-06",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Five labs, five minds: building a multi-model finance drama on small models",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
       "tags": [
         "huggingface",
         "auto-collected"
