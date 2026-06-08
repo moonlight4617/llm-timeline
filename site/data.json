@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-06-07T01:48:36.751188Z",
-    "total_events": 698,
+    "generated_at": "2026-06-08T01:51:36.946287Z",
+    "total_events": 709,
     "type_counts": {
-      "paper": 365,
+      "paper": 375,
       "model_release": 39,
-      "announcement": 291,
+      "announcement": 292,
       "statement": 2,
       "policy": 1
     },
@@ -14,11 +14,11 @@
       "openai": 210,
       "anthropic": 10,
       "meta": 6,
-      "other": 364,
+      "other": 374,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 93
+      "huggingface": 94
     }
   },
   "companies": [
@@ -15253,6 +15253,182 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-06-05_act-as-a-real-researcher-a-suite-of-benchmarks-eva",
+      "date": "2026-06-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Act As a Real Researcher: A Suite of Benchmarks Evaluating Frontier LLMs and Agentic Harnesses in Research Lifecycle",
+      "description": "As foundation models advance and agent scaffolding becomes increasingly sophisticated, agents have demonstrated remarkable proficiency in complex, long-horizon coding tasks and even autonomous experiment execution. Despite their evolution from research assistants into autonomous research agents, ...",
+      "source_url": "http://arxiv.org/abs/2606.07462v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-05_amortized-neural-optimization-for-pre-layout-signa",
+      "date": "2026-06-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Amortized Neural Optimization for Pre-Layout Signal Integrity Design Space Exploration using Differentiable Surrogates",
+      "description": "Pre-layout design space exploration (DSE) for high-speed signal integrity (SI) analysis is often limited by the computational cost of simulations and iterative optimization algorithms within modern electronic design automation (EDA) workflows. While machine learning surrogate models accelerate th...",
+      "source_url": "http://arxiv.org/abs/2606.07463v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-05_how-far-can-chord-symbol-time-series-adaptation-ca",
+      "date": "2026-06-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "How Far Can Chord-Symbol Time-Series Adaptation Carry Genre Identity? Capabilities and Boundaries in Multi-Genre Chord-Symbol Modeling",
+      "description": "Harmony is a compact symbolic layer where mathematical pitch relations, acoustic consonance, and musical convention meet. This report treats chord-symbol sequences not as a complete representation of music, but as an interpretable, controllable time series for genre-local harmonic modeling. Start...",
+      "source_url": "http://arxiv.org/abs/2606.07334v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-05_llm-guided-evolution-for-medical-decision-pipeline",
+      "date": "2026-06-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "LLM-Guided Evolution for Medical Decision Pipelines",
+      "description": "Adapting large language models (LLMs) to clinical workflows often requires costly fine-tuning or manual prompt and pipeline engineering. We study LLM-guided MAP-Elites evolution as an inference-time alternative for discovering medical decision strategies and provide an implementation repository a...",
+      "source_url": "http://arxiv.org/abs/2606.07342v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-05_planning-aligned-token-compression-for-long-contex",
+      "date": "2026-06-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Planning-aligned Token Compression for Long-Context Autonomous Driving",
+      "description": "Monolithic vision-action models represent an emerging paradigm in autonomous driving. However, this architecture produces token sequences that quickly exceed real-time computational budgets when encoding extended temporal context for complex interactions. While approaches like linear transformers...",
+      "source_url": "http://arxiv.org/abs/2606.07464v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-05_sparse-subspace-to-expert-sharing-for-task-agnosti",
+      "date": "2026-06-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning",
+      "description": "Continual learning in Large Language Models (LLMs) is hindered by the plasticity-stability dilemma, where acquiring new capabilities often leads to catastrophic forgetting of previous knowledge. Existing methods typically treat parameters uniformly, failing to distinguish between specific task kn...",
+      "source_url": "http://arxiv.org/abs/2606.07500v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-05_sparsely-gated-tiny-linear-experts",
+      "date": "2026-06-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Sparsely gated tiny linear experts",
+      "description": "Sparsity allows scaling model parameters without proportionally increasing computational cost. While mixture of experts (MoE) models are made increasingly sparse, individual experts typically remain large and dense. Here, we demonstrate that further increasing sparsity by shrinking each expert to...",
+      "source_url": "http://arxiv.org/abs/2606.07414v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-05_supervision-versus-demonstration-based-in-context-",
+      "date": "2026-06-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Supervision versus Demonstration-Based In-Context Learning for Multiword Expression Classification",
+      "description": "Turkish idiomatic light verb constructions (LVCs) are challenging for multiword expression processing because they often share the same surface form as fully literal verb-object combinations while functioning as a single, partially idiomatic predicate. We frame Turkish LVC detection as a binary c...",
+      "source_url": "http://arxiv.org/abs/2606.07479v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-06-05_thousand-token-wood-shipping-a-multi-agent-economy",
       "date": "2026-06-05",
       "type": "announcement",
@@ -15274,6 +15450,50 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-06-05_watch-remember-reason-human-view-video-understandi",
+      "date": "2026-06-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Watch, Remember, Reason: Human-View Video Understanding with MLLMs",
+      "description": "Video understanding is being rapidly transformed by multimodal large language models (MLLMs), as research moves from short clips to long, multimodal, and knowledge-intensive video scenarios. These scenarios require models to handle sparse evidence, long-range dependencies, multimodal alignment, a...",
+      "source_url": "http://arxiv.org/abs/2606.07433v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-05_your-unembedding-matrix-is-secretly-a-feature-lens",
+      "date": "2026-06-05",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings",
+      "description": "Large language models exhibit impressive zero-shot capabilities across a wide range of downstream tasks. However, they struggle to function as off-the-shelf embedding models, leading to suboptimal performance on massive text embedding benchmarks. In this paper, we identify a potential cause under...",
+      "source_url": "http://arxiv.org/abs/2606.07502v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-06-06_five-labs-five-minds-building-a-multi-model-financ",
       "date": "2026-06-06",
       "type": "announcement",
@@ -15282,6 +15502,27 @@
       "title": "Five labs, five minds: building a multi-model finance drama on small models",
       "description": "Hugging Face Blogからの自動収集記事。",
       "source_url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-07_amazing-digital-dentures-a-failed-project",
+      "date": "2026-06-07",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Amazing Digital Dentures (a failed project)",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
       "tags": [
         "huggingface",
         "auto-collected"
