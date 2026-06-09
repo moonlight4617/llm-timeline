@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-06-08T01:51:36.946287Z",
-    "total_events": 709,
+    "generated_at": "2026-06-09T01:40:52.941353Z",
+    "total_events": 723,
     "type_counts": {
-      "paper": 375,
+      "paper": 385,
       "model_release": 39,
-      "announcement": 292,
+      "announcement": 296,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 210,
+      "openai": 213,
       "anthropic": 10,
       "meta": 6,
-      "other": 374,
+      "other": 384,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 94
+      "huggingface": 95
     }
   },
   "companies": [
@@ -15523,6 +15523,310 @@
       "title": "Amazing Digital Dentures (a failed project)",
       "description": "Hugging Face Blogからの自動収集記事。",
       "source_url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-07_back-on-track-aligning-rewards-and-states-for-reas",
+      "date": "2026-06-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Back on Track: Aligning Rewards and States for Reasoning in Diffusion Large Language Models",
+      "description": "Reinforcement learning (RL) holds immense promise for enhancing the reasoning capabilities of diffusion large language models (dLLMs). However, progress is fundamentally constrained by a dual misalignment between authentic generation trajectory and the gradient update process: (i) Process-reward ...",
+      "source_url": "http://arxiv.org/abs/2606.08501v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-07_beyond-linear-activation-steering-invertible-laten",
+      "date": "2026-06-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Beyond Linear Activation Steering: Invertible Latent Transformations for Controlling LLM Behavior",
+      "description": "Activation steering provides a lightweight inference-time mechanism for controlling large language models (LLMs) by modifying their internal activation vectors toward desired behaviors. Most existing methods compute a fixed steering direction in the original activation space, typically from pairs...",
+      "source_url": "http://arxiv.org/abs/2606.08454v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-07_how-much-capacity-does-eeg-denoising-need-ultra-co",
+      "date": "2026-06-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "How Much Capacity Does EEG Denoising Need? Ultra-Compact Networks reveal Benchmark Saturation and Metric-Utility Gap",
+      "description": "Deep learning EEG denoising architectures have scaled from tens of thousands to tens of millions of parameters, yet no prior study has isolated model capacity as the experimental variable or tested whether reconstruction metrics predict downstream neural-signal utility. We address both gaps by fi...",
+      "source_url": "http://arxiv.org/abs/2606.08594v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-07_inside-the-llm-word-factory",
+      "date": "2026-06-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Inside the LLM Word Factory",
+      "description": "Transformer language models process input provided as subword fragments, but natural language semantics usually rely on word-level concepts. Detokenization is the process where models reconcile these two facts, aggregating subwords into word-level representations through their computation. Prior ...",
+      "source_url": "http://arxiv.org/abs/2606.08562v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-07_ishigaki-ids-an-open-weight-verifier-aware-model-f",
+      "date": "2026-06-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Ishigaki-IDS: An Open-Weight Verifier-Aware Model for Information Delivery Specification Drafting in Building Information Modeling",
+      "description": "Building Information Modeling (BIM) projects require information requirements to be described as machine-checkable Information Delivery Specification (IDS) files in order to verify whether building models contain the required attributes. However, IDS authoring remains a practical bottleneck: prac...",
+      "source_url": "http://arxiv.org/abs/2606.08545v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-07_multilingual-fact-checking-at-scale-fine-tuned-com",
+      "date": "2026-06-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Multilingual Fact-Checking at Scale: Fine-Tuned Compact Models vs LLMs",
+      "description": "We present a multilingual fact-checking system deployed at Factiverse, designed for high-throughput and low-latency operation across diverse languages. The system follows a modular pipeline with three stages: claim detection, evidence retrieval and re-ranking, and veracity prediction. We fine-tun...",
+      "source_url": "http://arxiv.org/abs/2606.08605v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-07_projecting-the-emerging-mindset-of-swe-agent-by-la",
+      "date": "2026-06-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Projecting the Emerging Mindset of SWE Agent by Launching a Wild Code Understanding Journey",
+      "description": "Software engineering agents (SWE agents) increasingly work through tool-mediated trajectories in real repositories, yet their behavior remains difficult to characterize in concrete, observable terms. These trajectories record tool use, intermediate reasoning, evidence selection, and self-directed...",
+      "source_url": "http://arxiv.org/abs/2606.08500v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-07_routine-laboratory-trajectories-encode-the-onset-o",
+      "date": "2026-06-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Routine laboratory trajectories encode the onset of organ-level complications in cancer",
+      "description": "Routine laboratory panels drawn during cancer treatment constitute longitudinal physiological recordings of organ function, yet their temporal structure is discarded by single-timepoint prognostic tools. A transformer trained on 2,777,595 laboratory measurements from 3,905 patients with multiple ...",
+      "source_url": "http://arxiv.org/abs/2606.08538v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-07_scaffold-effects-on-gaia-a-controlled-comparison",
+      "date": "2026-06-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Scaffold Effects on GAIA: A Controlled Comparison",
+      "description": "Published agent capability scores conflate what a model can do with what its scaffold lets it do, and the magnitude of this elicitation gap is not well characterized under controlled conditions. This study executes a pre-registered controlled comparison of three scaffolds (ReAct, a Planner-Actor-...",
+      "source_url": "http://arxiv.org/abs/2606.08529v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-07_self-evolving-scientific-agent-discovers-generaliz",
+      "date": "2026-06-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Self-Evolving Scientific Agent Discovers Generalizable Physically-Reasoned Fluid Control",
+      "description": "While data-intensive deep reinforcement learning can optimize complex control policies, scientific discovery in physical systems fundamentally requires an interpretable chain of reasoning that connects physical evidence to structured control architectures. Here, we present a self-evolving scienti...",
+      "source_url": "http://arxiv.org/abs/2606.08405v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-08_built-to-benefit-everyone-our-plan",
+      "date": "2026-06-08",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Built to benefit everyone: our plan",
+      "description": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "source_url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-08_confidential-submission-of-draft-s-1-to-the-sec",
+      "date": "2026-06-08",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "description": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "source_url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-08_introducing-the-openai-economic-research-exchange",
+      "date": "2026-06-08",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "description": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+      "source_url": "https://openai.com/index/economic-research-exchange",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-08_the-open-source-community-is-backing-openenv-for-a",
+      "date": "2026-06-08",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/openenv-agentic-rl",
       "tags": [
         "huggingface",
         "auto-collected"
