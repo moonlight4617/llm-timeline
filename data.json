@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-06-09T01:40:52.941353Z",
-    "total_events": 723,
+    "generated_at": "2026-06-10T01:47:08.491521Z",
+    "total_events": 739,
     "type_counts": {
-      "paper": 385,
+      "paper": 395,
       "model_release": 39,
-      "announcement": 296,
+      "announcement": 302,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 213,
+      "openai": 215,
       "anthropic": 10,
       "meta": 6,
-      "other": 384,
+      "other": 394,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 95
+      "huggingface": 99
     }
   },
   "companies": [
@@ -15836,6 +15836,352 @@
       "body": "",
       "company_name": "Hugging Face",
       "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-09_beyond-apis-probing-the-limits-of-mllms-in-physica",
+      "date": "2026-06-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Beyond APIs: Probing the Limits of MLLMs in Physical Tool Use",
+      "description": "Multimodal Large Language Models (MLLMs) excel at utilizing digital APIs and increasingly serve as the 'brain' of embodied AI, instructing robots to interact with the physical world. In such embodied settings, a central capability is the use of physical tools, which underpins MLLMs' ability to as...",
+      "source_url": "http://arxiv.org/abs/2606.10803v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-09_can-voice-agents-handle-bilingual-customers-benchm",
+      "date": "2026-06-09",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-09_citras-fm-tiny-time-series-foundation-model-for-co",
+      "date": "2026-06-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "CITRAS-FM: Tiny Time Series Foundation Model for Covariate-Informed Zero-Shot Forecasting",
+      "description": "Pretrained time series foundation models (TSFMs) have enabled zero-shot forecasting on unseen target series. However, existing TSFMs often incur high computational cost and provide limited support for diverse variable types, often failing to account for covariates that exogenously influence targe...",
+      "source_url": "http://arxiv.org/abs/2606.10798v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-09_encoding-the-euler-characteristic-transform",
+      "date": "2026-06-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Encoding the Euler Characteristic Transform",
+      "description": "The Euler Characteristic Curve (ECC) records the Euler characteristic of a linearly embedded cell complex as a function of filtration height in a given direction, and the Euler Characteristic Transform (ECT) is the injective shape descriptor obtained by collecting ECCs over many directions. How t...",
+      "source_url": "http://arxiv.org/abs/2606.10824v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-09_frontier-coding-agents-use-metaprogramming-to-adap",
+      "date": "2026-06-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Frontier Coding Agents Use Metaprogramming to Adapt to Unfamiliar Programming Languages",
+      "description": "LLM-based coding agents are usually evaluated in familiar software settings: mainstream languages, common libraries, and public repositories. These benchmarks remain important, but they can hide how agents behave when the language itself is unfamiliar. We evaluate six contemporary coding agents o...",
+      "source_url": "http://arxiv.org/abs/2606.10933v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-09_how-an-agent-built-a-3d-paris-gallery-by-chaining-",
+      "date": "2026-06-09",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-09_how-engineers-at-nextdoor-use-codex-to-build-witho",
+      "date": "2026-06-09",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "description": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "source_url": "https://openai.com/index/nextdoor",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-09_introducing-north-mini-code-coheres-first-model-fo",
+      "date": "2026-06-09",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-09_k-forcing-joint-next-k-token-decoding-via-push-for",
+      "date": "2026-06-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "K-Forcing: Joint Next-K-Token Decoding via Push-Forward Language Modeling",
+      "description": "Autoregressive (AR) language modeling is the dominant paradigm for text generation, yet its sequential token-by-token decoding makes inference memory-bound and inefficient. Existing acceleration approaches, such as speculative decoding and diffusion language models, can yield speedups under certa...",
+      "source_url": "http://arxiv.org/abs/2606.10820v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-09_migrating-your-github-ci-to-hugging-face-jobs",
+      "date": "2026-06-09",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-09_moonshine-an-autonomous-mathematical-research-agen",
+      "date": "2026-06-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Moonshine: An Autonomous Mathematical Research Agent Centered on Conjecture Generation",
+      "description": "Moonshine is an autonomous agent whose central objective is to generate mathematical conjectures. Its core capability is to extract structure from classical problems, distill new concepts, and formulate conjectures of mathematical significance. Rather than treating the solution of a single propos...",
+      "source_url": "http://arxiv.org/abs/2606.10806v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-09_optimal-post-training-quantization-scales-and-wher",
+      "date": "2026-06-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Optimal Post-Training Quantization Scales and Where to Find Them",
+      "description": "Post-training quantization (PTQ) compresses large language models by mapping weights to low-bit representations. The scaling factor that defines the quantization grid is typically chosen using simple, data-free heuristics. In this work, we present PiSO (Piecewise Scale Optimization), an algorithm...",
+      "source_url": "http://arxiv.org/abs/2606.10890v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-09_provenance-tracking-in-ai-compilers-through-the-le",
+      "date": "2026-06-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Provenance Tracking in AI Compilers through the Lens of Coalgebra",
+      "description": "AI compilers aggressively rewrite computation graphs through normalization, lowering, and optimization, making it difficult to track the provenance of tensors and operators across compilation. Reliable provenance is essential for attaching platform-specific postprocessing, debugging compiler beha...",
+      "source_url": "http://arxiv.org/abs/2606.10937v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-09_recoverable-but-not-stationarylocal-linear-structu",
+      "date": "2026-06-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Recoverable but Not Stationary:Local Linear Structures in Weights and Activations",
+      "description": "Task vectors, LoRA, activation steering, and random search around pretrained weights all suggest that learned behaviour can be controlled by linear directions. We ask which linear structures actually exist and on what scale. In a synthetic multitask transformer and LoRA adapters on DistilGPT-2 / ...",
+      "source_url": "http://arxiv.org/abs/2606.10929v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-09_training-llms-to-enforce-multi-level-instruction-h",
+      "date": "2026-06-09",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Training LLMs to Enforce Multi-Level Instruction Hierarchies via Gravity-Weighted Direct Preference Optimization",
+      "description": "Production LLMs receive instructions from sources with very different levels of trust, yet attend to every token with uniform architectural privilege. This is the structural vulnerability that enables malicious prompt injections and, more broadly, leaves models without a principled way to resolve...",
+      "source_url": "http://arxiv.org/abs/2606.10860v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-09_what-codex-unlocks-for-notion",
+      "date": "2026-06-09",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "What Codex unlocks for Notion",
+      "description": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "source_url": "https://openai.com/index/notion",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
     }
