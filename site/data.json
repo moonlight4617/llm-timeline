@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-06-11T01:54:43.489230Z",
-    "total_events": 753,
+    "generated_at": "2026-06-12T01:51:55.986461Z",
+    "total_events": 766,
     "type_counts": {
-      "paper": 405,
+      "paper": 414,
       "model_release": 39,
-      "announcement": 306,
+      "announcement": 310,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 219,
+      "openai": 222,
       "anthropic": 10,
-      "meta": 6,
-      "other": 404,
+      "meta": 7,
+      "other": 412,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 99
+      "huggingface": 100
     }
   },
   "companies": [
@@ -16469,6 +16469,94 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-06-11_a-quantitative-experimental-repeated-measures-stud",
+      "date": "2026-06-11",
+      "type": "paper",
+      "company": "meta",
+      "person": null,
+      "title": "A Quantitative Experimental Repeated Measures Study of Training Dynamics in a Small Llama Style Language Model Under a Compute-Aware Token Budget",
+      "description": "This study examines training dynamics in a small Llama-style language model trained under a fixed, compute-constrained token budget. Rather than evaluating efficiency solely through endpoint performance, the study uses a quantitative experimental repeated measures design to analyze how validation...",
+      "source_url": "http://arxiv.org/abs/2606.13370v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected",
+        "meta"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Meta AI",
+      "company_color": "#0866FF",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-11_an-end-to-end-hybrid-framework-for-rumour-detectio",
+      "date": "2026-06-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "An End-to-End Hybrid Framework for Rumour Detection in Low-Resources Algerian Dialect",
+      "description": "The rapid growth of social media has intensified the spread of rumours. This issue is more challenging in the Algerian context due to the informal and code-switched nature of dialectal content, the scarcity of annotated resources, and the limited effectiveness of standard Arabic NLP tools on dial...",
+      "source_url": "http://arxiv.org/abs/2606.13411v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-11_bbva-puts-ai-at-the-core-of-banking-with-openai",
+      "date": "2026-06-11",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "description": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "source_url": "https://openai.com/index/bbva",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-11_erts-adversarial-robustness-testing-of-ethical-ai-",
+      "date": "2026-06-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "ERTS: Adversarial Robustness Testing of Ethical AI via Semantic Perturbation in a Bounded Consequence Space",
+      "description": "As AI systems are deployed in high-stakes ethical contexts such as healthcare triage, autonomous vehicle control, and employment screening, formal methods for evaluating their robustness against adversarial manipulation of ethical reasoning remain underdeveloped. This paper introduces the Ethical...",
+      "source_url": "http://arxiv.org/abs/2606.13282v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-06-11_how-an-astrophysicist-uses-codex-to-help-simulate-",
       "date": "2026-06-11",
       "type": "announcement",
@@ -16477,6 +16565,201 @@
       "title": "How an astrophysicist uses Codex to help simulate black holes",
       "description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
       "source_url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-11_hydra-x-native-unified-multimodal-models-with-holi",
+      "date": "2026-06-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "HYDRA-X: Native Unified Multimodal Models with Holistic Visual Tokenizers",
+      "description": "Holistic visual tokenizers are fundamental to unified multimodal models (UMMs) as they map diverse visual inputs into a unified representation space. In this paper, we present HYDRA-X, the first UMM that unifies image and video tokenization within a single Vision Transformer (ViT). Our design is ...",
+      "source_url": "http://arxiv.org/abs/2606.13289v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-11_omnidirector-general-multi-shot-camera-cloning-wit",
+      "date": "2026-06-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data",
+      "description": "Cloning camera motion from reference videos is an important task in video generation, as videos provide intuitive and precise control. Existing methods either directly use parametric representations that fail to handle multi-shot generation or synthesize cross-paired data, which suffer from data ...",
+      "source_url": "http://arxiv.org/abs/2606.13432v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-11_openai-to-acquire-ona",
+      "date": "2026-06-11",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "OpenAI to acquire Ona",
+      "description": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "source_url": "https://openai.com/index/openai-to-acquire-ona",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-11_optical-implementation-of-equilibrium-propagation-",
+      "date": "2026-06-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Optical Implementation of Equilibrium Propagation Using Spatial Photonic Ising Machines",
+      "description": "Equilibrium Propagation offers a compelling alternative to traditional machine learning for training energy-based networks. Here we demonstrate a hybrid optical-digital implementation of EP using a Spatial Photonic Ising Machine (SPIM). The SPIM exploits the gauge transformation method to optical...",
+      "source_url": "http://arxiv.org/abs/2606.13454v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-11_physics-guided-spatiotemporal-learning-for-coastal",
+      "date": "2026-06-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Physics-Guided Spatiotemporal Learning for Coastal Wave Peak Period Estimation from Video",
+      "description": "Wave parameters in the nearshore are crucial for coastal engineering, shoreline protection, marine hazard assessment, and coastal management for climate resilience. Traditional monitoring systems like buoys and radar platforms offer accurate monitoring but can have high installation and maintenan...",
+      "source_url": "http://arxiv.org/abs/2606.13302v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-11_positional-encoding-in-the-context-of-memristor-ba",
+      "date": "2026-06-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Positional Encoding in the Context of Memristor-Based Analog Computation for Automatic Speech Recognition",
+      "description": "Memristors provide a new chance for resource-efficient computation of neural models for natural language processing by enabling analog execution of vector-matrix-multiplication. Yet, computations on these devices are currently subject to larger distortion, both in weight programming and execution...",
+      "source_url": "http://arxiv.org/abs/2606.13379v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-11_profiling-in-pytorch-part-2-from-nnlinear-to-a-fus",
+      "date": "2026-06-11",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-11_protox-ad-self-explainable-time-series-anomaly-det",
+      "date": "2026-06-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "ProtoX-AD: Self-Explainable Time Series Anomaly Detection and Characterization",
+      "description": "Recent advances in time series anomaly detection (TSAD) have highlighted the effectiveness of self-supervised classification-based approaches. These methods apply transformations to normal training samples, training a classifier to recognize transformation-specific patterns that help identify ano...",
+      "source_url": "http://arxiv.org/abs/2606.13277v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-11_supporting-europes-work-in-ensuring-a-trustworthy-",
+      "date": "2026-06-11",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "source_url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "tags": [
         "openai",
         "auto-collected"
