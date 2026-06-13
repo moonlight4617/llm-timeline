@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T01:51:55.986461Z",
-    "total_events": 766,
+    "generated_at": "2026-06-13T01:47:48.939780Z",
+    "total_events": 776,
     "type_counts": {
-      "paper": 414,
+      "paper": 421,
       "model_release": 39,
-      "announcement": 310,
+      "announcement": 313,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 222,
+      "openai": 224,
       "anthropic": 10,
       "meta": 7,
-      "other": 412,
+      "other": 419,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 100
+      "huggingface": 101
     }
   },
   "companies": [
@@ -16492,6 +16492,28 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-06-11_adjusted-cup-product-neural-layer",
+      "date": "2026-06-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Adjusted Cup-Product Neural Layer",
+      "description": "Many important observables in physics and geometry are cup products of cochains. The adjusted cup product neural layer has been introduced in this paper. It is a neural primitive that hard wires the cup product with an adjustment term from higher gauge theory. This creates a readout that is gauge...",
+      "source_url": "http://arxiv.org/abs/2606.13568v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-06-11_an-end-to-end-hybrid-framework-for-rumour-detectio",
       "date": "2026-06-11",
       "type": "paper",
@@ -16557,6 +16579,28 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-06-11_gf-dit-scheduling-parallelism-for-diffusion-transf",
+      "date": "2026-06-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving",
+      "description": "Diffusion Transformers (DiTs) have become the dominant architecture for image and video generation, creating growing demand for efficient DiT serving. Existing systems assign each request a fixed parallel configuration throughout its lifetime. However, DiT workloads exhibit substantial heterogene...",
+      "source_url": "http://arxiv.org/abs/2606.13501v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-06-11_how-an-astrophysicist-uses-codex-to-help-simulate-",
       "date": "2026-06-11",
       "type": "announcement",
@@ -16586,6 +16630,94 @@
       "title": "HYDRA-X: Native Unified Multimodal Models with Holistic Visual Tokenizers",
       "description": "Holistic visual tokenizers are fundamental to unified multimodal models (UMMs) as they map diverse visual inputs into a unified representation space. In this paper, we present HYDRA-X, the first UMM that unifies image and video tokenization within a single Vision Transformer (ViT). Our design is ...",
       "source_url": "http://arxiv.org/abs/2606.13289v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-11_hypertool-beyond-step-wise-tool-calls-for-tool-aug",
+      "date": "2026-06-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents",
+      "description": "Tool-augmented LLM agents commonly rely on step-wise atomic tool calls, where each invocation, observation, and value transfer is exposed in the main reasoning trace. This creates an \u001bmph{execution-granularity mismatch}: locally deterministic tool workflows are unfolded into repeated model-visib...",
+      "source_url": "http://arxiv.org/abs/2606.13663v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-11_mana-dexterous-manipulation-of-articulated-tools",
+      "date": "2026-06-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Mana: Dexterous Manipulation of Articulated Tools",
+      "description": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focused on rigid objects, articulated tool use remains underexplored because of its physical complexi...",
+      "source_url": "http://arxiv.org/abs/2606.13677v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-11_maskwam-unifying-mask-prompting-and-prediction-for",
+      "date": "2026-06-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "MaskWAM: Unifying Mask Prompting and Prediction for World-Action Models",
+      "description": "World Action Models (WAMs) present a promising paradigm for robotic control via video prediction. However, current WAMs suffer from fundamental spatial bottlenecks: standard text inputs introduce referential ambiguity in cluttered scenes, while unstructured RGB predictions lack semantic grounding...",
+      "source_url": "http://arxiv.org/abs/2606.13515v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-11_multiagent-protocols-with-aggregated-confidence-si",
+      "date": "2026-06-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Multiagent Protocols with Aggregated Confidence Signals",
+      "description": "Confidence is used for reliability, oversight, and a range of downstream decision tasks in Natural Language Processing (NLP), yet no existing method produces or evaluates a confidence for the output of a multiagent system. Prior work uses confidence within multiagent debate (MAD) to weight messag...",
+      "source_url": "http://arxiv.org/abs/2606.13591v1",
       "tags": [
         "paper",
         "arxiv",
@@ -16752,6 +16884,28 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-06-11_recursive-agent-harnesses",
+      "date": "2026-06-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Recursive Agent Harnesses",
+      "description": "Recursive language models (RLMs) showed that recursion over model calls is an effective strategy for long-context reasoning, and production coding agents have begun to write code that spawns subagents at scale, most recently in Anthropic's dynamic workflows. We name and study the pattern between ...",
+      "source_url": "http://arxiv.org/abs/2606.13643v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-06-11_supporting-europes-work-in-ensuring-a-trustworthy-",
       "date": "2026-06-11",
       "type": "announcement",
@@ -16769,6 +16923,69 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-12_how-preply-combines-ai-and-human-tutors-to-persona",
+      "date": "2026-06-12",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "description": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "source_url": "https://openai.com/index/preply",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-12_new-openai-academy-courses-for-the-next-era-of-wor",
+      "date": "2026-06-12",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "New OpenAI Academy courses for the next era of work",
+      "description": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "source_url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-12_olmo-eval-an-evaluation-workbench-for-the-model-de",
+      "date": "2026-06-12",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
     }
