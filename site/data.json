@@ -1,20 +1,20 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T01:51:44.043972Z",
-    "total_events": 776,
+    "generated_at": "2026-06-15T01:54:13.738311Z",
+    "total_events": 787,
     "type_counts": {
-      "paper": 421,
+      "paper": 431,
       "model_release": 39,
-      "announcement": 313,
+      "announcement": 314,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 224,
+      "openai": 225,
       "anthropic": 10,
       "meta": 7,
-      "other": 419,
+      "other": 429,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
@@ -16927,6 +16927,116 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-06-12_a-comparative-study-of-deep-learning-architectures",
+      "date": "2026-06-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A Comparative Study of Deep Learning Architectures for Multi-Horizon Behavioural Forecasting for Mobile Health",
+      "description": "Wearable devices and smartphones generate rich behavioural time series that can support proactive health interventions, yet systematic comparisons of modern forecasting architectures for these data are lacking. In particular, it remains unclear how models generalise across populations, how differ...",
+      "source_url": "http://arxiv.org/abs/2606.14604v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-12_bayling-duplex-native-full-duplex-speech-dialogue-",
+      "date": "2026-06-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "BayLing-Duplex: Native Full-Duplex Speech Dialogue with a Single Autoregressive LLM",
+      "description": "Real-time, full-duplex speech interaction is a key feature of next-generation spoken chatbots, allowing the model to listen and speak at the same time and to handle natural phenomena such as overlap, hesitation, and barge-in. Existing speech language models (SpeechLMs) such as LLaMA-Omni and GLM-...",
+      "source_url": "http://arxiv.org/abs/2606.14528v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-12_free-heavy-tailed-lunch-for-muon-a-theoretical-jus",
+      "date": "2026-06-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Free Heavy-Tailed Lunch for Muon: A Theoretical Justification of Empirical Success",
+      "description": "Non-Euclidean optimisation methods with matrix-valued updates, such as Muon and Scion, have recently shown strong empirical performance for training Transformer models, yet their theoretical advantages over Euclidean methods remain poorly understood. We address this gap in the heavy-tailed non-co...",
+      "source_url": "http://arxiv.org/abs/2606.14560v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-12_from-chatbot-to-digital-colleague-the-paradigm-shi",
+      "date": "2026-06-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomous AI",
+      "description": "Large Language Models (LLMs) are undergoing a fundamental transformation from conversational generators into integrated AI systems capable of reasoning, action, memory, and self-improvement. We conceptualize this transition as a shift from Chatbot to Digital Colleague: from conversational answers...",
+      "source_url": "http://arxiv.org/abs/2606.14502v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-12_from-shield-to-target-denial-of-service-attacks-on",
+      "date": "2026-06-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "From Shield to Target: Denial-of-Service Attacks on LLM-Based Agent Guardrails",
+      "description": "LLM-based guardrails have emerged as a highly effective defense against prompt injection and jailbreak attacks in autonomous agents. However, we reveal that the very reasoning and task-following capabilities enabling this protection introduce a novel vulnerability: attackers can inject crafted da...",
+      "source_url": "http://arxiv.org/abs/2606.14517v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-06-12_how-preply-combines-ai-and-human-tutors-to-persona",
       "date": "2026-06-12",
       "type": "announcement",
@@ -16946,6 +17056,50 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-12_losona-a-benchmark-for-local-social-norm-adaptatio",
+      "date": "2026-06-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "LoSoNA: A Benchmark for Local Social Norm Adaptation in Group Conversations",
+      "description": "Online group chats are social spaces with local conversational norms that are rarely stated explicitly. The ability and willingness of LLM-based agents to recognize and adapt to these norms remains mostly unexplored. We introduce LoSoNA, a benchmark for local social norm adaptation in multi-party...",
+      "source_url": "http://arxiv.org/abs/2606.14600v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-12_nest3d-a-high-resolution-multimodal-dataset-of-soc",
+      "date": "2026-06-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "NEST3D: A High-Resolution Multimodal Dataset of Sociable Weaver Tree Nests",
+      "description": "Sociable weaver nests function as complex ecological structures offering thermoregulatory microhabitats and sustaining diverse species; however, datasets used in prior studies lack fine-grained 3D structural detail. Producing usable and accurate 3D weaver nest data is challenging due to their irr...",
+      "source_url": "http://arxiv.org/abs/2606.14562v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     },
     {
       "id": "2026-06-12_new-openai-academy-courses-for-the-next-era-of-wor",
@@ -16986,6 +17140,93 @@
       "body": "",
       "company_name": "Hugging Face",
       "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-12_realizing-native-int8-compute-for-diffusion-transf",
+      "date": "2026-06-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Realizing Native INT8 Compute for Diffusion Transformers on Consumer GPUs: A Fused INT8 GEMM Kernel for Ideogram 4.0",
+      "description": "Post-training INT8 (W8A8) quantization of diffusion transformers is widely deployed as a speed optimization, yet on consumer Ampere GPUs it is frequently slower than the FP8 and NF4 alternatives it is meant to beat. We trace this to a software artifact: the production 'INT8' forward quantizes wei...",
+      "source_url": "http://arxiv.org/abs/2606.14598v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-12_when-errors-become-narratives-a-longitudinal-taxon",
+      "date": "2026-06-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "When Errors Become Narratives: A Longitudinal Taxonomy of Silent Failures in a Production LLM Agent Runtime",
+      "description": "LLM agent systems increasingly run as long-lived autonomous runtimes: scheduling jobs, calling tools, maintaining memory, and pushing results to humans. We present a longitudinal study of silent failures in one such system: a personal-assistant agent runtime in continuous production since March 2...",
+      "source_url": "http://arxiv.org/abs/2606.14589v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-12_zero-shot-generalization-of-transformer-neural-ope",
+      "date": "2026-06-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Zero-shot generalization of transformer neural operators to larger domains",
+      "description": "Transformer-based neural operators have shown remarkable performance for approximating solution operators of partial differential equations on complex geometries. However, existing approaches implicitly assume a fixed domain size, which limits their ability to generalize at inference. In this wor...",
+      "source_url": "http://arxiv.org/abs/2606.14597v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-14_introducing-the-openai-partner-network",
+      "date": "2026-06-14",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing the OpenAI Partner Network",
+      "description": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "source_url": "https://openai.com/index/introducing-openai-partner-network",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
     }
