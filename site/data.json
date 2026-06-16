@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-15T01:54:13.738311Z",
-    "total_events": 787,
+    "generated_at": "2026-06-16T01:57:52.388355Z",
+    "total_events": 797,
     "type_counts": {
-      "paper": 431,
+      "paper": 441,
       "model_release": 39,
       "announcement": 314,
       "statement": 2,
@@ -14,7 +14,7 @@
       "openai": 225,
       "anthropic": 10,
       "meta": 7,
-      "other": 429,
+      "other": 439,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
@@ -17210,6 +17210,28 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-06-14_diffract-diffusion-feature-reconstruction-and-attr",
+      "date": "2026-06-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "DifFRACT: Diffusion Feature Reconstruction and Attribution for Circuit Tracing",
+      "description": "Mechanistic interpretability seeks to explain neural network behavior by decomposing model computations into interpretable features and circuits. While transcoder-based circuit tracing has recently enabled detailed causal analyses of large language models, multimodal diffusion transformers for im...",
+      "source_url": "http://arxiv.org/abs/2606.15796v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-06-14_introducing-the-openai-partner-network",
       "date": "2026-06-14",
       "type": "announcement",
@@ -17229,6 +17251,204 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-14_reqat-achieving-full-precision-reasoning-accuracy-",
+      "date": "2026-06-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "ReQAT: Achieving Full-Precision Reasoning Accuracy with 4-bit Floating-Point Quantization-Aware Training",
+      "description": "Large Reasoning Models (LRMs) achieve strong problem-solving through long chain-of-thought, but their deployment is constrained by the high cost of full-precision inference and growing KV cache footprints. Microscaled FP4 formats enable efficient FP4 deployment; however, fully quantizing weights,...",
+      "source_url": "http://arxiv.org/abs/2606.15682v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-14_robust-transformer-based-one-step-stock-index-fore",
+      "date": "2026-06-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Robust Transformer-Based One-Step Stock Index Forecasting via Shifted Data Augmentation",
+      "description": "Transformers have shown remarkable success in sequence modeling, yet their direct application to financial time series remains challenging due to noisy signals, short-memory dynamics, and distributional shifts. This paper proposes a modified Transformer architecture for one-step stock index forec...",
+      "source_url": "http://arxiv.org/abs/2606.15701v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-14_sace-concept-erasure-at-the-semantic-singularity-i",
+      "date": "2026-06-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "SACE: Concept Erasure at the Semantic Singularity in Visual Autoregressive Models",
+      "description": "The rapid progress of visual autoregressive (VAR) models has unlocked a transformative frontier for high-fidelity text-to-image synthesis, while heightening concerns over the safety alignment of generated content. Naive application of existing erasure techniques to VAR models causes catastrophic ...",
+      "source_url": "http://arxiv.org/abs/2606.15819v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-14_snyk-vulnbench-js-10-can-llms-find-the-same-bugs-t",
+      "date": "2026-06-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Snyk VulnBench JS 1.0: Can LLMs Find the Same Bugs Twice?",
+      "description": "We ran 300 repeated vulnerability-finding scans to measure how repeatable agentic large language model (LLM) security review is on the same JavaScript code, prompt, and benchmark harness. The headline result is that LLM security findings were unevenly repeatable: reference-matched findings were s...",
+      "source_url": "http://arxiv.org/abs/2606.15762v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-14_the-algebra-of-krom-logic-programs",
+      "date": "2026-06-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The algebra of Krom logic programs",
+      "description": "This paper investigates the algebraic structure of Krom logic programs, consisting only of facts and rules with at most one body atom. We show that sequential composition endows the class of Krom programs with a natural monoid structure and that this structure admits rich algebraic extensions to ...",
+      "source_url": "http://arxiv.org/abs/2606.15719v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-14_the-data-manifold-under-the-microscope",
+      "date": "2026-06-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The Data Manifold under the Microscope",
+      "description": "A significant gap exists between theory and practice in deep learning. Generalization and approximation error bounds are often derived for simplified models or are too loose to be informative. Many rely on the manifold hypothesis and on geometric regularity such as intrinsic dimension, curvature,...",
+      "source_url": "http://arxiv.org/abs/2606.15760v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-14_the-reservoir-attention-network-cross-pass-state-i",
+      "date": "2026-06-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The Reservoir Attention Network: Cross-Pass State in Pretrained Transformers via Content-Addressable Reservoir Injection",
+      "description": "A feasibility and dynamics study of the Reservoir Attention Network (RAN), an architecture that injects a fixed, randomly-initialized reservoir into the mid-layer attention of a pretrained transformer to carry state across forward passes. Experiments span GPT-2 (124M, 355M) to Qwen2.5 (0.5B, 1.5B...",
+      "source_url": "http://arxiv.org/abs/2606.15678v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-14_ttda704-at-semeval-2026-task-4-modeling-narrative-",
+      "date": "2026-06-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "ttda704 at SemEval-2026 Task 4: Modeling Narrative Structures via Pseudonymization and Multi-View Sentence Alignment",
+      "description": "We present our approach to SemEval 2026 Task 4: Narrative Story Similarity and Narrative Representation Learning. Our solution uses contrastive learning with fine-tuned sentence transformers to capture narrative similarity across abstract themes, course of action, and outcomes. We develop two pip...",
+      "source_url": "http://arxiv.org/abs/2606.15783v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-14_vernier-probing-representational-misalignment-behi",
+      "date": "2026-06-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Vernier: Probing Representational Misalignment Behind Lexical Gaps in Causal Reasoning",
+      "description": "Instruction-tuned language models can answer the same causal-reasoning question differently after its English variable names are replaced by type-preserving placeholders, although the structural causal model and the gold answer are unchanged. We ask whether this lexical gap reflects information l...",
+      "source_url": "http://arxiv.org/abs/2606.15733v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     }
   ]
 }
