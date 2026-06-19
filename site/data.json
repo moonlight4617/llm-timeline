@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-06-18T01:55:08.299902Z",
-    "total_events": 824,
+    "generated_at": "2026-06-19T02:00:34.310284Z",
+    "total_events": 840,
     "type_counts": {
-      "paper": 461,
+      "paper": 471,
       "model_release": 39,
-      "announcement": 321,
+      "announcement": 327,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 228,
+      "openai": 231,
       "anthropic": 10,
       "meta": 7,
-      "other": 459,
+      "other": 469,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 105
+      "huggingface": 108
     }
   },
   "companies": [
@@ -18036,6 +18036,352 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-18_a-model-driven-approach-for-developing-families-of",
+      "date": "2026-06-18",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A Model-Driven Approach for Developing Families of Reinforcement Learning Environments",
+      "description": "Virtual training environments are software-intensive systems in which reinforcement learning (RL) agents learn, adapt, and demonstrate meaningful behavior. Virtual training environments offer a safe and cost-efficient alternative to training agents in real-world settings. However, to converge, mo...",
+      "source_url": "http://arxiv.org/abs/2606.20324v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-18_beyond-lora-can-you-beat-the-most-popular-fine-tun",
+      "date": "2026-06-18",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/peft-beyond-lora",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-18_datamagic-transforming-tabular-data-into-data-insi",
+      "date": "2026-06-18",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "DataMagic: Transforming Tabular Data into Data Insight Video",
+      "description": "Data videos integrate dynamic charts, voice narration, and synchronized animations to communicate data insights as temporal narratives, making them an effective medium for improving data consumption efficiency in the data management lifecycle. However, producing high-quality data videos requires ...",
+      "source_url": "http://arxiv.org/abs/2606.20388v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-18_deepswip-quotient-wmc-counterfactuals-for-neural-p",
+      "date": "2026-06-18",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs",
+      "description": "Neurosymbolic systems such as DeepProbLog combine neural perception with probabilistic logic, but standard inference is associational. Counterfactual reasoning additionally requires a causal semantics for interventions and evidence. We introduce DeepSWIP, a single-world counterfactual semantics f...",
+      "source_url": "http://arxiv.org/abs/2606.20526v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-18_heptv2-end-to-end-efficient-point-transformer-for-",
+      "date": "2026-06-18",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "HEPTv2: End-to-End Efficient Point Transformer for Charged Particle Reconstruction",
+      "description": "Charged-particle tracking -- reconstructing trajectories from sparse detector measurements -- is a fundamental high-energy-physics inference problem and a canonical example of learning under extreme combinatorial ambiguity. At the High-Luminosity Large Hadron Collider (HL-LHC), tracking must rema...",
+      "source_url": "http://arxiv.org/abs/2606.20437v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-18_improving-health-intelligence-in-chatgpt",
+      "date": "2026-06-18",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Improving health intelligence in ChatGPT",
+      "description": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "source_url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-18_is-it-agentic-enough-benchmarking-open-models-on-y",
+      "date": "2026-06-18",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-18_mosaicleaks-can-your-research-agent-keep-a-secret",
+      "date": "2026-06-18",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-18_multi-lcb-extending-livecodebench-to-multiple-prog",
+      "date": "2026-06-18",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages",
+      "description": "LiveCodeBench (LCB) has recently become a widely adopted benchmark for evaluating large language models (LLMs) on code-generation tasks. By curating competitive programming problems, constantly adding fresh problems to the set, and filtering them by release dates, LCB provides contamination-aware...",
+      "source_url": "http://arxiv.org/abs/2606.20517v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-18_multi-task-bayesian-in-context-learning",
+      "date": "2026-06-18",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Multi-Task Bayesian In-Context Learning",
+      "description": "Bayesian predictive inference provides a principled framework for uncertainty quantification, data efficiency, and robust generalization. However, exact inference is often intractable, and scalable approximations may remain computationally expensive or require restrictive modeling assumptions tha...",
+      "source_url": "http://arxiv.org/abs/2606.20538v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-18_new-usage-analytics-and-updated-spend-controls-for",
+      "date": "2026-06-18",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "description": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "source_url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-18_on-the-redundancy-of-timestep-embeddings-in-diffus",
+      "date": "2026-06-18",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "On the Redundancy of Timestep Embeddings in Diffusion Models",
+      "description": "Diffusion models rely heavily on explicit timestep embeddings to modulate the denoising process across various noise scales. In this work, we challenge the necessity of these temporal signals by analyzing their impact on U-Net and Diffusion Transformer architectures. Beyond empirical evidence, we...",
+      "source_url": "http://arxiv.org/abs/2606.20416v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-18_rethinking-shrinkage-bias-in-llm-fp4-pretraining-g",
+      "date": "2026-06-18",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Rethinking Shrinkage Bias in LLM FP4 Pretraining: Geometric Origin, Systemic Impact, and UFP4 Recipe",
+      "description": "FP4 training promises substantial reductions in memory and computation cost for LLM pretraining, yet current FP4 hardware paths and recipes, including NVIDIA Blackwell/Rubin-class systems and AMD MI350-series GPUs, remain centered on E2M1 data elements. In this study, we identify a fundamental li...",
+      "source_url": "http://arxiv.org/abs/2606.20381v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-18_the-significance-of-style-diversity-in-annotation-",
+      "date": "2026-06-18",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The Significance of Style Diversity in Annotation-Free Synthetic Data Generation",
+      "description": "Generating high-utility synthetic data for intent classification typically requires human-annotated seed data, which is often unavailable in fast-paced industrial settings. In this paper, we propose a framework for synthetic dialogue generation that works entirely without human-annotated data, re...",
+      "source_url": "http://arxiv.org/abs/2606.20400v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-18_the-token-is-a-group-element-on-lie-algebra-attent",
+      "date": "2026-06-18",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
+      "description": "We place the attention token on the group: a token is an element $g_i$ of a matrix Lie group $G$ -- a bare transformation, with no feature payload and no external action $ρ(g)$ carrying it. To our knowledge this is the first attention construction whose tokens are bare matrix Lie group elements: ...",
+      "source_url": "http://arxiv.org/abs/2606.20547v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-18_using-ai-to-help-physicians-diagnose-rare-genetic-",
+      "date": "2026-06-18",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "description": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "source_url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
     }
   ]
 }
