@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T01:53:37.732120Z",
-    "total_events": 840,
+    "generated_at": "2026-06-22T01:55:03.446132Z",
+    "total_events": 841,
     "type_counts": {
       "paper": 471,
       "model_release": 39,
-      "announcement": 327,
+      "announcement": 328,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 231,
+      "openai": 232,
       "anthropic": 10,
       "meta": 7,
       "other": 469,
@@ -18371,6 +18371,27 @@
       "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
       "description": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
       "source_url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-21_samsung-electronics-brings-chatgpt-and-codex-to-em",
+      "date": "2026-06-21",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "description": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "source_url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
       "tags": [
         "openai",
         "auto-collected"
