@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-06-22T01:55:03.446132Z",
-    "total_events": 841,
+    "generated_at": "2026-06-23T01:43:59.283445Z",
+    "total_events": 854,
     "type_counts": {
-      "paper": 471,
+      "paper": 480,
       "model_release": 39,
-      "announcement": 328,
+      "announcement": 332,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 232,
+      "openai": 235,
       "anthropic": 10,
       "meta": 7,
-      "other": 469,
+      "other": 478,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 108
+      "huggingface": 109
     }
   },
   "companies": [
@@ -18384,6 +18384,204 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-06-19_compressing-observation-history-into-agent-memory-",
+      "date": "2026-06-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Compressing Observation History into Agent Memory: Distilling Transformers into Recurrent Transformers",
+      "description": "Transformers are AI's workhorse with strong performance in modeling sequential data, but their computational cost becomes prohibitive when processing long sequences. We target long-horizon streaming vision and robotics applications like map-free pose estimation, where it is particularly impractic...",
+      "source_url": "http://arxiv.org/abs/2606.21562v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-19_decoupling-the-declarative-from-the-procedural-in-",
+      "date": "2026-06-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Decoupling the Declarative from the Procedural in Vision-Language-Action Models",
+      "description": "Deploying generalist robotic agents in the real world requires transferable skills. Specifically, a policy trained to clone a behavior from object-specific demonstrations must generalize beyond that object, otherwise data collection requirements become intractable. Recently, fine-tuning of pre-tr...",
+      "source_url": "http://arxiv.org/abs/2606.21496v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-19_does-mixture-of-experts-actually-help-inference-on",
+      "date": "2026-06-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Does Mixture-of-Experts Actually Help Inference on Consumer and Edge Hardware? An Empirical Study",
+      "description": "Mixture-of-Experts (MoE) language models are often described as ideal for resource-constrained inference. Each token activates only a small subset of experts, so the per-token compute cost, in floating-point operations (FLOPs), resembles that of a much smaller dense model. Whether that FLOP advan...",
+      "source_url": "http://arxiv.org/abs/2606.21428v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-19_economic-transformation-and-cultural-change-eviden",
+      "date": "2026-06-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Economic Transformation and Cultural Change: Evidence from Two Centuries of French Drama",
+      "description": "How do large-scale economic transformations shape cultural production? We address this question by combining computational linguistics, econometrics, and formal modelling, using French drama as a well-documented empirical laboratory. Applying latent Dirichlet allocation to a corpus of 1,215 theat...",
+      "source_url": "http://arxiv.org/abs/2606.21485v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-19_evaluating-llms-for-real-world-web-vulnerability-d",
+      "date": "2026-06-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Evaluating LLMs for Real-World Web Vulnerability Detection",
+      "description": "Large Language Models (LLMs) have emerged as a promising tool for automated vulnerability detection, yet their effectiveness on web-specific vulnerabilities remains to be explored.   This work benchmarks six frontier (Claude Opus 4.6, Codex GPT-5.4, Gemini 3.1-pro-preview) and open-weight models ...",
+      "source_url": "http://arxiv.org/abs/2606.21397v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-19_evaluation-of-small-language-models-for-arabic-lan",
+      "date": "2026-06-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Evaluation of Small Language Models for Arabic Language Processing",
+      "description": "This paper evaluates the performance of twelve Small Language Models (SLMs) on Arabic natural language processing tasks. The study introduces a benchmark of 240 Arabic test items distributed across eight domains and ten language skills, covering both comprehension-oriented and generation-oriented...",
+      "source_url": "http://arxiv.org/abs/2606.21460v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-19_fast-turboquant-a-multiplier-free-online-vector-qu",
+      "date": "2026-06-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Fast-TurboQuant: A Multiplier-Free Online Vector Quantization Approach",
+      "description": "As large language models scale, memory bandwidth for key-value caches and retrieval-augmented generation systems becomes a critical bottleneck. While 1-bit quantization addresses this constraint, recent TurboQuant relies on dense random rotation matrices to condition the vector distribution befor...",
+      "source_url": "http://arxiv.org/abs/2606.21448v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-19_lig-layer-wise-integrated-gradients-for-within-lay",
+      "date": "2026-06-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "LIG: Layer-wise Integrated Gradients for Within-Layer Flow Analysis in Transformers",
+      "description": "Transformers achieve strong performance, but their internal computations remain opaque. We view each Transformer layer as a dynamic graph whose nodes are token representations and per-head attention outputs, with Multi-Head Attention (ATT) and MLP as module boundaries. On this graph we use LIG (L...",
+      "source_url": "http://arxiv.org/abs/2606.21564v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-19_universal-encoders-for-modular-relational-deep-lea",
+      "date": "2026-06-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Universal Encoders for Modular Relational Deep Learning",
+      "description": "Relational Deep Learning (RDL) models multi-tabular databases as temporal heterogeneous graphs for end-to-end representation learning. While RDL is evolving rapidly, existing approaches face significant generalization obstacles. They are either schema-specific, requiring training from scratch for...",
+      "source_url": "http://arxiv.org/abs/2606.21434v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-06-21_samsung-electronics-brings-chatgpt-and-codex-to-em",
       "date": "2026-06-21",
       "type": "announcement",
@@ -18401,6 +18599,90 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-22_codex-maxxing-for-long-running-work",
+      "date": "2026-06-22",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Codex-maxxing for long-running work",
+      "description": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "source_url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-22_daybreak-tools-for-securing-every-organization-in-",
+      "date": "2026-06-22",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "description": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "source_url": "https://openai.com/index/daybreak-securing-the-world",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-22_patch-the-planet-a-daybreak-initiative-to-support-",
+      "date": "2026-06-22",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "description": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "source_url": "https://openai.com/index/patch-the-planet",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-22_pp-ocrv6-on-hugging-face-50-language-ocr-from-15m-",
+      "date": "2026-06-22",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
     }
