@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T01:43:59.283445Z",
-    "total_events": 854,
+    "generated_at": "2026-06-24T01:42:21.874703Z",
+    "total_events": 871,
     "type_counts": {
-      "paper": 480,
+      "paper": 490,
       "model_release": 39,
-      "announcement": 332,
+      "announcement": 339,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 235,
+      "openai": 238,
       "anthropic": 10,
       "meta": 7,
-      "other": 478,
+      "other": 488,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 109
+      "huggingface": 113
     }
   },
   "companies": [
@@ -18685,6 +18685,373 @@
       "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-22_we-got-local-models-to-triage-the-openclaw-repo-fo",
+      "date": "2026-06-22",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/local-models-pr-triage",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-23_adversabench-automated-llm-red-teaming-with-multi-",
+      "date": "2026-06-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AdversaBench: Automated LLM Red-Teaming with Multi-Judge Confirmation and Cross-Model Transferability",
+      "description": "Scaling adversarial evaluation of large language models requires both a method for generating hard inputs and a reliable way to confirm that resulting failures are real. We present AdversaBench, an end-to-end red-teaming pipeline that mutates seed prompts with five structured operators, queries a...",
+      "source_url": "http://arxiv.org/abs/2606.24589v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-23_an-llm-based-two-stage-transformer-framework-for-c",
+      "date": "2026-06-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "An LLM-based Two-Stage Transformer Framework for Cross-Domain Bearing Fault Diagnosis with Limited Data",
+      "description": "Bearing fault diagnosis faces critical challenges when dataset heterogeneity, operating condition variations, and limited labeled data occur simultaneously in industrial environments. Existing approaches address these issues in isolation and rely on implicit feature alignment, limiting effectiven...",
+      "source_url": "http://arxiv.org/abs/2606.24459v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-23_build-real-agentic-apps-using-cuga-two-dozen-worki",
+      "date": "2026-06-23",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-23_detecting-ai-coding-agents-in-open-source-a-valida",
+      "date": "2026-06-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Detecting AI Coding Agents in Open Source: A Validated Multi-Method Census of 180 Million Repositories",
+      "description": "Generative AI coding agents are entering the open-source supply chain, yet their diverse and often invisible traces leave their prevalence poorly understood. We introduce a multi-layered detection framework that integrates configuration-file scanning, commit-message analysis, author-identity matc...",
+      "source_url": "http://arxiv.org/abs/2606.24429v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-23_experimenting-with-the-proposed-cross-origin-stora",
+      "date": "2026-06-23",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/cross-origin-storage",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-23_helping-build-shared-standards-for-advanced-ai",
+      "date": "2026-06-23",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Helping build shared standards for advanced AI",
+      "description": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "source_url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-23_how-gpt-5-helped-immunologist-derya-unutmaz-solve-",
+      "date": "2026-06-23",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "description": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "source_url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-23_how-omio-is-building-the-future-of-conversational-",
+      "date": "2026-06-23",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How Omio is building the future of conversational travel",
+      "description": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "source_url": "https://openai.com/index/omio",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-23_medpcfm-improving-medical-point-cloud-completion-b",
+      "date": "2026-06-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "MedPCFM: Improving Medical Point Cloud Completion by Integrating Point Transformers and Flow Matching",
+      "description": "Medical point cloud completion is important for anatomical reconstruction and downstream clinical workflows, yet generative modeling in this setting remains insufficiently studied. We investigate completion through continuous-time generative modeling and introduce PCFM, a PTv3-backed flow matchin...",
+      "source_url": "http://arxiv.org/abs/2606.24433v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-23_nocontactnoworries-estimating-contact-through-visi",
+      "date": "2026-06-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "NoContactNoWorries: Estimating Contact through Vision and Proprioception for In-Hand Dexterous Manipulation",
+      "description": "Perceiving physical contact is fundamental to dexterous manipulation. While robots often rely on dedicated hardware tactile sensors, humans exhibit a remarkable ability to infer contact by integrating visual information with an innate sense of their body's pose and movement. Inspired by this embo...",
+      "source_url": "http://arxiv.org/abs/2606.24450v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-23_poster-exploring-the-limits-of-audio-based-detecti",
+      "date": "2026-06-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Poster: Exploring the Limits of Audio-Based Detection of Turkish Phone Call Scams",
+      "description": "Scam phone calls exploit vulnerable communities worldwide, yet research on detection has focused almost exclusively on English and other high-resource languages. In low-resource settings such as Turkish, detection is especially difficult, as annotated data is scarce and technological defenses rem...",
+      "source_url": "http://arxiv.org/abs/2606.24523v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-23_privacy-preserving-rag-via-multi-agent-semantic-re",
+      "date": "2026-06-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Privacy-Preserving RAG via Multi-Agent Semantic Rewriting: Achieving Confidentiality Without Compromising Contextual Fidelity",
+      "description": "Retrieval-Augmented Generation enhances large language models by incorporating external knowledge, but deploying it in sensitive scenarios risks privacy leakage via malicious prompts. To address this, we propose a multi-agent framework that sanitizes retrieved content through semantic rewriting. ...",
+      "source_url": "http://arxiv.org/abs/2606.24623v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-23_shipping-huggingface-hub-every-week-with-ai-open-t",
+      "date": "2026-06-23",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-23_the-african-language-tax-quantifying-the-cost-late",
+      "date": "2026-06-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The African Language Tax: Quantifying the Cost, Latency, and Context Penalty of Tokenizing African Languages in Frontier LLMs",
+      "description": "Commercial large language models bill, scale latency, and budget context per token. Yet tokenizers assign more subword tokens to the same meaning in some languages than in others, so speakers of languages with high token-fertility pay a structural penalty before a model is ever invoked. This pena...",
+      "source_url": "http://arxiv.org/abs/2606.24460v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-23_transformation-behavior-of-images-in-latent-space",
+      "date": "2026-06-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Transformation Behavior of Images in Latent Space",
+      "description": "Training of neural networks for histopathology classification tasks typically relies on data encoding into latent space, which reduces complexity and improves performance. There are several encoder networks available, either pretrained on general image datasets such as ImageNET, or specifically o...",
+      "source_url": "http://arxiv.org/abs/2606.24430v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-23_uncertainty-aware-longitudinal-forecasting-of-alzh",
+      "date": "2026-06-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Uncertainty-Aware Longitudinal Forecasting of Alzheimer's Disease Progression Using Deep Learning",
+      "description": "Longitudinal modelling of Alzheimer's disease progression is clinically useful only if it can describe not just the most likely next diagnosis, but how a patient may evolve over time and how reliable that forecast is. Most deep learning approaches reduce this problem to single-step classification...",
+      "source_url": "http://arxiv.org/abs/2606.24604v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     }
   ]
 }
