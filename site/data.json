@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T01:45:44.367533Z",
-    "total_events": 884,
+    "generated_at": "2026-06-26T01:47:45.079392Z",
+    "total_events": 896,
     "type_counts": {
-      "paper": 500,
+      "paper": 509,
       "model_release": 39,
-      "announcement": 342,
+      "announcement": 345,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 239,
+      "openai": 240,
       "anthropic": 10,
       "meta": 7,
-      "other": 498,
+      "other": 507,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 115
+      "huggingface": 117
     }
   },
   "companies": [
@@ -19335,6 +19335,267 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-25_auditing-framing-sensitive-behavioral-instability-",
+      "date": "2026-06-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Auditing Framing-Sensitive Behavioral Instability in Large Language Models for Mental Health Interactions",
+      "description": "Large language models (LLMs) are increasingly being integrated into mental health support tools and other psychologically sensitive conversational applications. In such settings, behavioral stability and consistency are important for trustworthy human-AI interaction. However, semantically similar...",
+      "source_url": "http://arxiv.org/abs/2606.26982v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-25_confidence-aware-tool-orchestration-for-robust-vid",
+      "date": "2026-06-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Confidence-Aware Tool Orchestration for Robust Video Understanding",
+      "description": "Video reasoning language models implicitly assume that every input frame is equally reliable. This leads to what we term the Blind Trust Problem: under realistic perturbations such as motion blur, glare, or occlusion, frontier video reasoning models can suffer 15-30%p accuracy drops on real-world...",
+      "source_url": "http://arxiv.org/abs/2606.26904v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-25_efficient-foundation-decoders-for-fault-tolerant-q",
+      "date": "2026-06-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Efficient foundation decoders for fault-tolerant quantum computing",
+      "description": "Foundation decoders, a class of high-capacity neural decoders, are leading candidates for fault-tolerant quantum computing, with accurate and efficient decoding at large code distances. However, their construction often faces a steep scaling barrier, as larger code distances rapidly amplify the c...",
+      "source_url": "http://arxiv.org/abs/2606.27119v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-25_how-agents-are-transforming-work",
+      "date": "2026-06-25",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How agents are transforming work",
+      "description": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "source_url": "https://openai.com/index/how-agents-are-transforming-work",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-25_inherited-circuits-learned-semantics-how-fine-tuni",
+      "date": "2026-06-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Inherited Circuits, Learned Semantics: How Fine-Tuning Creates Evasion Vulnerabilities Invisible to Standard Evaluation",
+      "description": "LLMs fine-tuned for security classification are usually evaluated on held-out examples from the same distribution as their training data. We show that this can miss vulnerabilities introduced by fine-tuning itself: models can learn token-level indicator semantics that preserve canonical accuracy ...",
+      "source_url": "http://arxiv.org/abs/2606.27091v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-25_kolmogorov-arnold-networks-kan-for-aerodynamic-pre",
+      "date": "2026-06-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Kolmogorov Arnold networks (KAN) for aerodynamic prediction: a comparison with MLPs and GNNs",
+      "description": "Kolmogorov Arnold networks (KAN) have recently been introduced as a (deep) neural network architecture whose trainable parameters adapt the activation functions, instead of the coefficients of the affine transformations at the core of traditional architectures such as deep multilayer perceptrons ...",
+      "source_url": "http://arxiv.org/abs/2606.27126v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-25_learning-to-recover-task-experts-from-a-multi-task",
+      "date": "2026-06-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Learning to Recover Task Experts from a Multi-Task Merged Model",
+      "description": "Multi-task model merging aims to consolidate several task-specific experts into a unified model, yet static merging consistently suffers from parameter interference. While dynamic merging models aim to bridge this gap, many works rely on the costly storage and loading of redundant expert componen...",
+      "source_url": "http://arxiv.org/abs/2606.26902v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-25_on-board-remote-sensing-foundation-models-for-unsu",
+      "date": "2026-06-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "On-board Remote-Sensing Foundation Models for Unsupervised Change Detection of Disaster Events",
+      "description": "Remote Sensing Foundation Models (RSFMs) have emerged as a powerful alternative to supervised models for Earth Observation, allowing satellites to autonomously trigger high-resolution captures or adjust tasking parameters upon detecting an anomaly, thereby maximizing the utility of the mission's ...",
+      "source_url": "http://arxiv.org/abs/2606.27018v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-25_transformer-based-classification-of-bacterial-rama",
+      "date": "2026-06-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Transformer-Based Classification of Bacterial Raman Spectra with LOOCV",
+      "description": "Transformer-based models have recently attracted increasing attention for Raman spectral classification. In this study, a transformer-based approach was systematically evaluated using a nested leave-one-replicate-out cross-validation framework and compared with conventional machine-learning pipel...",
+      "source_url": "http://arxiv.org/abs/2606.27096v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-25_where-do-models-find-happiness-emotion-vectors-in-",
+      "date": "2026-06-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Where Do Models Find Happiness? Emotion Vectors in Open-Source LLMs",
+      "description": "Recent work identified emotion vectors in Claude Sonnet 4.5, which are internal representations that encode emotion concepts, causally influence behavior, and exhibit geometry mirroring human psychological structure. We test the generality of these findings in two open-weight models, Apertus-8B-I...",
+      "source_url": "http://arxiv.org/abs/2606.26987v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-25_which-tokens-does-a-hybrid-model-predict-better",
+      "date": "2026-06-25",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Which tokens does a hybrid model predict better?",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-26_run-a-vllm-server-on-hf-jobs-in-one-command",
+      "date": "2026-06-26",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/vllm-jobs",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
     }
   ]
 }
