@@ -1,20 +1,20 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T01:47:45.079392Z",
-    "total_events": 896,
+    "generated_at": "2026-06-27T01:43:03.121161Z",
+    "total_events": 903,
     "type_counts": {
-      "paper": 509,
+      "paper": 515,
       "model_release": 39,
-      "announcement": 345,
+      "announcement": 346,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 240,
+      "openai": 241,
       "anthropic": 10,
       "meta": 7,
-      "other": 507,
+      "other": 513,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
@@ -19359,6 +19359,28 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-06-25_carve-content-aware-recurrent-with-value-efficienc",
+      "date": "2026-06-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention",
+      "description": "Recurrent models must forget in order to remember, yet the state of the art decides what to erase without consulting what is stored -- the gate sees only the arriving token, not the memory it is about to modify. This memory-blind gating is one of three coupled defects in the leading delta-rule ar...",
+      "source_url": "http://arxiv.org/abs/2606.27229v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-06-25_confidence-aware-tool-orchestration-for-robust-vid",
       "date": "2026-06-25",
       "type": "paper",
@@ -19403,6 +19425,28 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-06-25_eo-wm-a-physically-informed-world-model-for-probab",
+      "date": "2026-06-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting",
+      "description": "Earth Observation (EO) forecasting aims to predict future Earth surface dynamics from satellite observations under changing meteorological conditions. In this paper, we view this task as a partially observed, weather-driven world modeling problem, in which weather acts as a conditioning signal, w...",
+      "source_url": "http://arxiv.org/abs/2606.27277v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-06-25_how-agents-are-transforming-work",
       "date": "2026-06-25",
       "type": "announcement",
@@ -19422,6 +19466,28 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-25_how-good-can-linear-models-be-for-time-series-fore",
+      "date": "2026-06-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "How Good Can Linear Models Be for Time-Series Forecasting?",
+      "description": "Time-series forecasting research has been moving steadily toward larger architectures, from specialized transformers to general-purpose foundation models, on the assumption that capacity is what unlocks accuracy. We take the opposite position: most of the gap can be closed at far lower cost by tu...",
+      "source_url": "http://arxiv.org/abs/2606.27282v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     },
     {
       "id": "2026-06-25_inherited-circuits-learned-semantics-how-fine-tuni",
@@ -19468,6 +19534,28 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-06-25_language-based-digital-twins-for-elderly-cognitive",
+      "date": "2026-06-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Language-Based Digital Twins for Elderly Cognitive Assistance",
+      "description": "Digital twins have emerged as a promising paradigm for personalized healthcare, enabling modeling of individual behavior and health trajectories. In cognitive health, early detection of Mild Cognitive Impairment (MCI) remains challenging, where language and conversational patterns serve as non-in...",
+      "source_url": "http://arxiv.org/abs/2606.27334v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-06-25_learning-to-recover-task-experts-from-a-multi-task",
       "date": "2026-06-25",
       "type": "paper",
@@ -19498,6 +19586,50 @@
       "title": "On-board Remote-Sensing Foundation Models for Unsupervised Change Detection of Disaster Events",
       "description": "Remote Sensing Foundation Models (RSFMs) have emerged as a powerful alternative to supervised models for Earth Observation, allowing satellites to autonomously trigger high-resolution captures or adjust tasking parameters upon detecting an anomaly, thereby maximizing the utility of the mission's ...",
       "source_url": "http://arxiv.org/abs/2606.27018v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-25_rspc-a-benchmark-for-modeling-stress-and-psychiatr",
+      "date": "2026-06-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "RSPC: A Benchmark for Modeling Stress and Psychiatric Conditions in Digitally Mediated Relationships using Psychiatrist Annotations",
+      "description": "In NLP, mental health conditions are often modeled as isolated phenomena, without interpersonal context. We use Reddit posts about long-distance relationships to capture both mental health distress and associated relational triggers. We introduce the Relational Stress and Psychiatry Corpus (RSPC)...",
+      "source_url": "http://arxiv.org/abs/2606.27247v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-25_the-geometry-of-updates-fisher-alignment-at-vocabu",
+      "date": "2026-06-25",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The Geometry of Updates: Fisher Alignment at Vocabulary Scale",
+      "description": "Training-free source selection for LLM families with shared vocabularies arises in scientific string domains such as SMILES, protein, and genomic sequences, where candidate corpora share a tokenizer but differ in prediction targets. This creates an activation-dark regime: representation-similarit...",
+      "source_url": "http://arxiv.org/abs/2606.27242v1",
       "tags": [
         "paper",
         "arxiv",
@@ -19573,6 +19705,27 @@
       "body": "",
       "company_name": "Hugging Face",
       "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-26_previewing-gpt-56-sol-a-next-generation-model",
+      "date": "2026-06-26",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "description": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "source_url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
     },
