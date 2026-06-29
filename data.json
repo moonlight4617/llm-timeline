@@ -1,20 +1,20 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T01:46:40.016277Z",
-    "total_events": 903,
+    "generated_at": "2026-06-29T01:48:43.529047Z",
+    "total_events": 914,
     "type_counts": {
-      "paper": 515,
+      "paper": 525,
       "model_release": 39,
-      "announcement": 346,
+      "announcement": 347,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 241,
+      "openai": 242,
       "anthropic": 10,
       "meta": 7,
-      "other": 513,
+      "other": 523,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
@@ -19709,6 +19709,204 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-06-26_a-tree-of-thoughts-inspired-hybrid-approach-for-le",
+      "date": "2026-06-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A Tree-of-Thoughts Inspired Hybrid Approach for Legal Case Judgement Summarization using LLMs",
+      "description": "In recent times, Large Language Models (LLMs) are increasingly being used for legal case judgement summarization. Most prior works have tried traditional extractive and abstractive summarization of case judgements. However, hybrid or extractive-abstractive techniques have not been explored much. ...",
+      "source_url": "http://arxiv.org/abs/2606.28044v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-26_ai-driven-synthesis-for-high-tech-system-design-au",
+      "date": "2026-06-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AI-Driven Synthesis for High-Tech System Design: Automating Innovation",
+      "description": "This article addresses the combinatorial complexity inherent in modern high-tech system design by presenting automation-in-design (AiD) as a transformative paradigm. We propose computational design synthesis (CDS), a framework utilising deep learning and generative AI to automate the creation of ...",
+      "source_url": "http://arxiv.org/abs/2606.28126v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-26_cpagents-agentic-composite-phenotype-generation-fo",
+      "date": "2026-06-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "CPAgents: Agentic Composite Phenotype Generation for Cardiac Disease Association",
+      "description": "Identifying robust associations between cardiac imaging phenotypes and clinical diseases is fundamental to population-scale cardiovascular research and reliable risk stratification. However, current phenome-wide association studies rely on pre-defined, single-variable phenotypes or expert-crafted...",
+      "source_url": "http://arxiv.org/abs/2606.28179v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-26_from-tokens-to-states-llms-as-a-special-case-of-wo",
+      "date": "2026-06-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "From Tokens to States: LLMs as a Special Case of World Models and the Continuous Path Beyond",
+      "description": "The AI community has framed the relationship between large language models (LLMs) and world models as a dichotomy: LLMs predict tokens; world models simulate reality. Yann LeCun argues in 2022 that reaching general intelligence requires abandoning autoregressive token prediction in favour of late...",
+      "source_url": "http://arxiv.org/abs/2606.28127v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-26_higher-order-fourier-neural-operator-explicit-mode",
+      "date": "2026-06-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Higher-Order Fourier Neural Operator: Explicit Mode Mixer for Nonlinear PDEs",
+      "description": "Neural operators provide deep neural networks for learning mappings between function spaces. Among them, the Fourier Neural Operator (FNO) is particularly effective: its spectral convolution relies on low-dimensional Fourier-domain representations and can handle inputs at different resolutions. T...",
+      "source_url": "http://arxiv.org/abs/2606.28122v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-26_mixtta-low-rank-cross-channel-mixing-for-reliable-",
+      "date": "2026-06-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "MixTTA: Low-Rank Cross-Channel Mixing for Reliable Test-Time Adaptation",
+      "description": "Test-Time Adaptation (TTA) methods commonly update the affine parameters of normalization layers to adapt deployed models under distribution shifts. However, per-channel affine parameters perform axis-aligned scaling and shifting, making them geometrically incapable of correcting cross-channel st...",
+      "source_url": "http://arxiv.org/abs/2606.28142v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-26_multihashformer-hash-based-generative-language-mod",
+      "date": "2026-06-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "MultiHashFormer: Hash-based Generative Language Models",
+      "description": "Language models (LMs) represent tokens using embedding matrices that scale linearly with the vocabulary size. To constrain the parameter footprint, prior work proposes hashing many tokens into a single vector within encoder-only models. While this offers parameter efficiency, many-to-one collisio...",
+      "source_url": "http://arxiv.org/abs/2606.28057v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-26_pac-bayesian-certificates-for-quadratic-closed-loo",
+      "date": "2026-06-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "PAC-Bayesian Certificates for Quadratic Closed-Loop Control",
+      "description": "PAC-Bayesian bounds provide finite-sample guarantees for data-dependent randomized predictors, but applying them to learning-based control is difficult because the natural objective is a quadratic trajectory cost. Such losses are unbounded, non-Lipschitz , and lead to response-dependent Chernoff ...",
+      "source_url": "http://arxiv.org/abs/2606.28281v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-26_parameter-efficient-hybrid-transformer-peht-for-ne",
+      "date": "2026-06-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via Dynamic Urban Congestion Integration",
+      "description": "Accurate network traffic prediction is a critical element for efficient resource allocation in dynamic urban cellular networks. However, prediction remains challenging because network demand is influenced by complex mobility patterns, congestion dynamics, and heterogeneous user behavior. This pap...",
+      "source_url": "http://arxiv.org/abs/2606.28274v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-06-26_previewing-gpt-56-sol-a-next-generation-model",
       "date": "2026-06-26",
       "type": "announcement",
@@ -19747,6 +19945,49 @@
       "body": "",
       "company_name": "Hugging Face",
       "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-26_stag-spatio-temporal-evolving-structural-represent",
+      "date": "2026-06-26",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "STAG: Spatio-temporal Evolving Structural Representation of Action Units for Micro-expression Recognition",
+      "description": "Micro-expression recognition is challenging due to subtle and short-lived facial muscle movements. Existing methods rely heavily on apex-onset frames, overlook fine-grained inter-frame dynamics, and separately model spatial and temporal information, limiting generalization across datasets. To add...",
+      "source_url": "http://arxiv.org/abs/2606.28083v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-28_hp-inc-launches-frontier-strategic-partnership-wit",
+      "date": "2026-06-28",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "description": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "source_url": "https://openai.com/index/hp-frontier-partnership",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
     }
