@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T01:48:43.529047Z",
-    "total_events": 914,
+    "generated_at": "2026-06-30T01:45:32.368571Z",
+    "total_events": 926,
     "type_counts": {
-      "paper": 525,
+      "paper": 535,
       "model_release": 39,
-      "announcement": 347,
+      "announcement": 349,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 242,
+      "openai": 243,
       "anthropic": 10,
       "meta": 7,
-      "other": 523,
+      "other": 533,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 117
+      "huggingface": 118
     }
   },
   "companies": [
@@ -19971,6 +19971,160 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-06-28_adaptive-financial-transformer-with-regime-gated-a",
+      "date": "2026-06-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Adaptive Financial Transformer with Regime-Gated Attention for Stock Return Prediction",
+      "description": "Adaptive Financial Transformer (AFT) is proposed for stock return prediction under non-stationary financial markets. The model incorporates a Market Regime Encoder, an Adaptive Gate Network, and an Adaptive Financial Context module to dynamically bias self-attention based on semantic relationship...",
+      "source_url": "http://arxiv.org/abs/2606.29347v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-28_anybody-free-form-whole-body-humanoid-control-from",
+      "date": "2026-06-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AnyBody: Free-Form Whole-Body Humanoid Control from Arbitrary Keypoint Guidance",
+      "description": "We present AnyBody, a unified whole-body humanoid controller driven by an arbitrary subset of body keypoints chosen at deploy time. Prior physics-based trackers either rely on expensive full-body motion capture and error-prone trajectory retargeting, which bottleneck scalable data collection and ...",
+      "source_url": "http://arxiv.org/abs/2606.29209v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-28_can-ocr-vlms-read-devanagari-a-stress-test-benchma",
+      "date": "2026-06-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Can OCR-VLMs Read Devanagari? A Stress-Test Benchmark and Post-Correction Study",
+      "description": "OCR systems, ranging from classical engines to specialised OCR vision-language models (OCR-VLMs) and frontier multimodal LLMs, report strong results on English and Chinese document benchmarks, yet their behaviour on Indic scripts is largely uncharacterised. We benchmark ten systems on Devanagari ...",
+      "source_url": "http://arxiv.org/abs/2606.29213v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-28_deciphering-region-level-signatures-from-latency-m",
+      "date": "2026-06-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Deciphering Region-Level Signatures from Latency Measurements in LEO Satellite Internet",
+      "description": "Low-Earth orbit (LEO) satellite Internet has become an indispensable infrastructure that provide growing coverage for global users. Despite extensive measurement efforts, the principles underlying region-level performance characteristics remain insufficiently understood, limiting the ability to i...",
+      "source_url": "http://arxiv.org/abs/2606.29324v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-28_deterministic-decisions-for-high-stakes-ai-a-zero-",
+      "date": "2026-06-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Deterministic Decisions for High-Stakes AI. A Zero-Egress Pipeline with the Deployability of RAG and the Accuracy of Machine Learning",
+      "description": "We identify intervention bias as a previously unquantified failure mode of zero-shot large-language-model (LLM) educational advisory agents: without task-specific training, they recommend action when a hindsight-optimal oracle policy mandates inaction. In a six-arm ablation on the Open University...",
+      "source_url": "http://arxiv.org/abs/2606.29280v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-28_generalization-analysis-of-transformers-in-distrib",
+      "date": "2026-06-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Generalization Analysis of Transformers in Distribution Regression",
+      "description": "In recent years, models based on the Transformer architecture have seen widespread applications and have become one of the core tools in the field of deep learning. Numerous successful techniques, such as parameter-efficient fine-tuning and efficient scaling, have been proposed surrounding their ...",
+      "source_url": "http://arxiv.org/abs/2606.29256v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-28_hierarchical-experimentalist-agents",
+      "date": "2026-06-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Hierarchical Experimentalist Agents",
+      "description": "Large language models (LLMs) are increasingly used to take actions in the real world and support human decision-making, yet most agents rely on parametric knowledge, fixed post-training data, retrieval, or search. This paradigm breaks down in novel domains and for sophisticated queries that canno...",
+      "source_url": "http://arxiv.org/abs/2606.29315v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-06-28_hp-inc-launches-frontier-strategic-partnership-wit",
       "date": "2026-06-28",
       "type": "announcement",
@@ -19979,6 +20133,114 @@
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "description": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
       "source_url": "https://openai.com/index/hp-frontier-partnership",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-28_phf-privileged-hidden-flow-for-on-policy-self-dist",
+      "date": "2026-06-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "PHF: Privileged Hidden Flow for On-Policy Self-Distillation",
+      "description": "On-policy self-distillation (OPSD) trains a reasoning model on rollouts sampled from its own policy by matching a privileged teacher that also sees verified reference solutions. Existing OPSD objectives supervise only the output distribution, so privileged context affects training through a token...",
+      "source_url": "http://arxiv.org/abs/2606.29340v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-28_policyguard-a-dialogue-grounded-sub-agent-verifier",
+      "date": "2026-06-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "PolicyGuard: A Dialogue-Grounded Sub-Agent Verifier for Policy Adherence in LLM Agents",
+      "description": "LLM agents handle user requests on behalf of organizations through tool calls and must follow the company policies stated in their system prompts. Prior work approaches this as a safeguarding problem -- external checks that block non-compliant agent actions. We argue that policy adherence is a br...",
+      "source_url": "http://arxiv.org/abs/2606.29225v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-28_two-kinds-of-robustness-are-not-the-same-disentang",
+      "date": "2026-06-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Two kinds of robustness are not the same: disentangling fault tolerance and low-SNR robustness in multi-domain event detection on real data",
+      "description": "Reliable event detection underpins induced-seismicity monitoring for Carbon dioxide Capture and Storage (CCS) and geothermal operations, distributed acoustic sensing (DAS), and industrial condition monitoring. In each setting a detector must stay reliable both when sensors fail and when the signa...",
+      "source_url": "http://arxiv.org/abs/2606.29339v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-29_discoformer-one-transformer-for-density-and-score-",
+      "date": "2026-06-29",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/allenai/discoformer",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-29_mapping-europes-ai-workforce-opportunity",
+      "date": "2026-06-29",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "description": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "source_url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
       "tags": [
         "openai",
         "auto-collected"
