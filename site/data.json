@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T01:45:32.368571Z",
-    "total_events": 926,
+    "generated_at": "2026-07-01T01:49:50.117862Z",
+    "total_events": 943,
     "type_counts": {
-      "paper": 535,
+      "paper": 545,
       "model_release": 39,
-      "announcement": 349,
+      "announcement": 356,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 243,
+      "openai": 247,
       "anthropic": 10,
       "meta": 7,
-      "other": 533,
+      "other": 543,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 118
+      "huggingface": 121
     }
   },
   "companies": [
@@ -20250,6 +20250,373 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-30_automating-cause-effect-specification-with-knowled",
+      "date": "2026-06-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Automating Cause-Effect Specification with Knowledge Graphs and Large Language Models",
+      "description": "Engineering specifications such as interlocks, alarm rationalization tables, and cause-and-effect (C&E) matrices remain central to process control and safety, yet their creation is still predominantly manual, document-driven, and prone to inconsistency. This paper presents a semantic-AI framework...",
+      "source_url": "http://arxiv.org/abs/2606.31614v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-30_autotrainess-teaching-language-models-to-improve-l",
+      "date": "2026-06-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AutoTrainess: Teaching Language Models to Improve Language Models Autonomously",
+      "description": "Training language models (LMs) remains a highly human-intensive process, even as frontier language model agents become increasingly capable at software engineering and other long-horizon tasks. A central challenge is that autonomous post-training is not just a coding problem: it requires the agen...",
+      "source_url": "http://arxiv.org/abs/2606.31551v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-30_calibration-not-compilation-detecting-and-repairin",
+      "date": "2026-06-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Calibration, Not Compilation: Detecting and Repairing Misspecified Probabilistic Programs Written by Language Models",
+      "description": "Language models increasingly write probabilistic programs (in NumPyro, Stan, or Pyro), but a program that compiles, runs, and passes every unit test can still be \u001bmph{statistically} wrong -- a Gaussian likelihood for heavy-tailed data, a Poisson for over-dispersed counts, an invalid prior suppor...",
+      "source_url": "http://arxiv.org/abs/2606.31630v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-30_clexeval-a-human-in-the-loop-framework-for-qualita",
+      "date": "2026-06-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "CLExEval: A Human-in-the-Loop Framework for Qualitative Evaluation of LLM Clinical Reasoning",
+      "description": "Large Language Models (LLMs) achieve strong results on many medical benchmarks, but their clinical reasoning remains difficult to evaluate reliably. A central risk is an evaluation illusion: fluent and well-structured explanations can appear clinically convincing even when the final diagnosis is ...",
+      "source_url": "http://arxiv.org/abs/2606.31608v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-30_core-dump-epidemiology-fixing-an-18-year-old-bug",
+      "date": "2026-06-30",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "description": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "source_url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-30_cve-ttp-kg-knowledge-graph-linking-software-vulner",
+      "date": "2026-06-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "CVE-TTP KG: Knowledge Graph Linking Software Vulnerabilities to Attack Behaviors",
+      "description": "In the evolving threat landscape, adversaries exploit software vulnerabilities to launch sophisticated attacks, challenging traditional defenses. Although databases like CVE and NVD provide detailed technical information, they often lack links to attacker behaviors such as tactics and techniques,...",
+      "source_url": "http://arxiv.org/abs/2606.31557v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-30_dppe-rethinking-camera-based-positional-encoding-f",
+      "date": "2026-06-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "DPPE: Rethinking Camera-Based Positional Encoding for Scaling Multi-View Transformers",
+      "description": "The remarkable scalability of Transformers has expanded their application to 3D computer vision, where camera-aware positional encoding is crucial for providing spatial cues in multi-view geometry. Recent advancements have established the practice of using camera parameters -- such as extrinsics ...",
+      "source_url": "http://arxiv.org/abs/2606.31585v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-30_featuring-every-eval-ever-results-on-hugging-face-",
+      "date": "2026-06-30",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/eee-community-evals",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-30_how-chatgpt-adoption-has-expanded",
+      "date": "2026-06-30",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How ChatGPT adoption has expanded",
+      "description": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "source_url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-30_inside-genebench-pro",
+      "date": "2026-06-30",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Inside Genebench-Pro",
+      "description": "OpenAI Newsからの自動収集記事。",
+      "source_url": "https://openai.com/index/genebench-pro/case-studies",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-30_introducing-genebench-pro",
+      "date": "2026-06-30",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing GeneBench-Pro",
+      "description": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "source_url": "https://openai.com/index/introducing-genebench-pro",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-30_localized-conformal-prediction-for-image-classific",
+      "date": "2026-06-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Localized Conformal Prediction for Image Classification with Vision-Language Models",
+      "description": "Conformal predictions have attracted significant attention in the field of uncertainty quantification, mainly because of their strong marginal coverage guarantees. Full conditional guarantee is not an attainable goal, a well known fact in conformal predictions literature. As a result, several app...",
+      "source_url": "http://arxiv.org/abs/2606.31577v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-30_modality-driven-search-with-holistic-trace-judging",
+      "date": "2026-06-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Modality-Driven Search with Holistic Trace Judging for ARC-AGI-2",
+      "description": "Large language models can produce fluent, internally coherent reasoning traces for abstract reasoning tasks while still being confidently wrong - making selection among candidates, not just generation, the central challenge. I present a solver for ARC-AGI-2, a few-shot visual reasoning benchmark,...",
+      "source_url": "http://arxiv.org/abs/2606.31543v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-30_scarfbench-benchmarking-ai-agents-for-enterprise-j",
+      "date": "2026-06-30",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-06-30_scientific-explanations-in-health-sciences-causali",
+      "date": "2026-06-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Scientific Explanations in Health Sciences: Causality, Trust, and Epistemic Adequacy",
+      "description": "Medical Artificial Intelligence (AI) is widely expected to transform clinical practice, yet the decision-making processes of many Machine Learning (ML) models remain opaque. Explainability has been advanced as a partial remedy to clarify why AI generates predictions, particularly in high-stakes c...",
+      "source_url": "http://arxiv.org/abs/2606.31616v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-30_temperature-field-reconstruction-of-tungsten-monob",
+      "date": "2026-06-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Temperature Field Reconstruction of Tungsten Monoblock Divertor on EAST using Physics-aware Neural Operator Transformer",
+      "description": "Accurate modeling of the divertor temperature field is essential for preventing material melting and damage and for extending the service life of fusion devices. However, conventional numerical methods, such as the Finite Element Method (FEM), are computationally expensive and therefore unsuitabl...",
+      "source_url": "http://arxiv.org/abs/2606.31574v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-30_why-specialization-is-inevitable",
+      "date": "2026-06-30",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Why Specialization Is Inevitable",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
     }
