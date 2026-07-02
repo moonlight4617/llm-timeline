@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T01:49:50.117862Z",
-    "total_events": 943,
+    "generated_at": "2026-07-02T01:45:35.831174Z",
+    "total_events": 954,
     "type_counts": {
-      "paper": 545,
+      "paper": 555,
       "model_release": 39,
-      "announcement": 356,
+      "announcement": 357,
       "statement": 2,
       "policy": 1
     },
@@ -14,11 +14,11 @@
       "openai": 247,
       "anthropic": 10,
       "meta": 7,
-      "other": 543,
+      "other": 553,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 121
+      "huggingface": 122
     }
   },
   "companies": [
@@ -20619,6 +20619,247 @@
       "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-01_agentic-generation-of-verifiable-rules-for-determi",
+      "date": "2026-07-01",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Agentic generation of verifiable rules for deterministic, self-expanding reaction classification",
+      "description": "Computer-assisted synthesis planning breaks target molecules into accessible precursors using large libraries of reaction rules that assign each transformation a deterministic, interpretable label. But chemistry is long-tailed, making manual encoding intractable, and existing tools rely on fixed ...",
+      "source_url": "http://arxiv.org/abs/2607.01061v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-01_bayesian-uncertainty-propagation-for-agentic-rag-p",
+      "date": "2026-07-01",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Bayesian Uncertainty Propagation for Agentic RAG Pipelines: A Proof-of-Concept Study on Multi-Hop Question Answering",
+      "description": "Trustworthy deployment of Agentic Retrieval-Augmented Generation (RAG) systems requires mechanisms for estimating when multi-stage reasoning pipelines may fail. This paper presents an uncertainty-aware Agentic Retrieval-Augmented Generation (RAG) framework in which planner, evaluator and generato...",
+      "source_url": "http://arxiv.org/abs/2607.00972v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-01_beyond-activation-alignmentthe-alignment-diversity",
+      "date": "2026-07-01",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Beyond Activation Alignment:The Alignment-Diversity Tradeoff in Task-Aware LLM Quantization",
+      "description": "Mixed-precision quantization (MPQ) has become a key technique for deploying large language models under stringent memory and compute constraints. We first identify a phenomenon that we term the Perplexity Illusion: layers ranked as important by perplexity-based sensitivity show little rank correl...",
+      "source_url": "http://arxiv.org/abs/2607.00908v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-01_deep-multitask-learning-for-mixed-type-outcomes-wi",
+      "date": "2026-07-01",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Deep Multitask Learning for Mixed-Type Outcomes with Shared Sparsity",
+      "description": "Most existing multitask learning approaches are limited by their reliance on task-specific loss functions tailored to the scale and type of each outcome. When outcomes differ across tasks, these losses are generally not directly comparable, which makes it difficult to formulate a unified objectiv...",
+      "source_url": "http://arxiv.org/abs/2607.00995v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-01_group-invariant-coresets-for-data-efficient-active",
+      "date": "2026-07-01",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Group-invariant Coresets for Data-efficient Active Learning",
+      "description": "Active learning reduces labeling cost by querying the most informative unlabeled samples, but standard coreset methods ignore known data symmetries and can waste budget on transformed versions of the same instance. We propose GRINCO, a group-invariant coreset framework that performs acquisition i...",
+      "source_url": "http://arxiv.org/abs/2607.01089v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-01_gsrq-gain-shape-residual-quantization-for-sub-1-bi",
+      "date": "2026-07-01",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "GSRQ: Gain-Shape Residual Quantization for Sub-1-bit KV Cache",
+      "description": "The deployment of Large Language Models (LLMs) with extended context windows is increasingly constrained by the linear growth of Key-Value (KV) cache memory. Vector Quantization (VQ), particularly Residual Quantization (RQ), is a promising approach for pushing KV cache storage toward the sub-1-bi...",
+      "source_url": "http://arxiv.org/abs/2607.01065v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-01_hugging-face-and-cerebras-bring-gemma-4-to-real-ti",
+      "date": "2026-07-01",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-01_knowledgedebugger-an-exploration-tool-for-knowledg",
+      "date": "2026-07-01",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "KnowledgeDebugger -- an Exploration Tool for Knowledge Localization and Editing in Transformers",
+      "description": "Recent research has increasingly focused on understanding how Transformers store and process knowledge, as well as how this knowledge can be edited. Research work in this area is often conducted in two phases: first, phenomena are explored on individual samples. Then, when results appear promisin...",
+      "source_url": "http://arxiv.org/abs/2607.01000v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-01_post-training-pruning-for-diffusion-transformers",
+      "date": "2026-07-01",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Post-Training Pruning for Diffusion Transformers",
+      "description": "Diffusion Transformers (DiTs) have demonstrated impressive performance in image generation but suffer from substantial computational overhead and resource consumption. Post-training pruning offers a promising solution; however, due to DiTs' unique architectural design and parameter distribution, ...",
+      "source_url": "http://arxiv.org/abs/2607.00927v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-01_quantifying-the-affective-gap-a-zero-shot-evaluati",
+      "date": "2026-07-01",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Quantifying the Affective Gap: A Zero-Shot Evaluation of LLMs on Fine-Grained Emotion Taxonomies",
+      "description": "Emotion recognition in natural language is a foundational challenge in affective computing, with critical implications for human-computer interaction, mental health support, and conversational AI. This paper presents a rigorous, unified zero-shot evaluation of three leading commercial large langu...",
+      "source_url": "http://arxiv.org/abs/2607.00968v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-01_understanding-large-language-models",
+      "date": "2026-07-01",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Understanding Large Language Models",
+      "description": "Large Language Models (LLMs) represent one of the most significant advances in AI and natural language processing in recent years. Still, many pressing questions about their mechanisms, capabilities, and relationship to human cognition remain highly debated. This chapter aims to outline our curre...",
+      "source_url": "http://arxiv.org/abs/2607.01006v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     }
   ]
 }
