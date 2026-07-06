@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T04:56:41.465329Z",
-    "total_events": 964,
+    "generated_at": "2026-07-06T05:11:59.994751Z",
+    "total_events": 965,
     "type_counts": {
       "paper": 565,
       "model_release": 39,
-      "announcement": 357,
+      "announcement": 358,
       "statement": 2,
       "policy": 1
     },
@@ -18,7 +18,7 @@
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 122
+      "huggingface": 123
     }
   },
   "companies": [
@@ -21080,6 +21080,27 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-06_kernels-major-updates",
+      "date": "2026-07-06",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "🤗 Kernels: Major Updates",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/revamped-kernels",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
     }
   ]
 }
