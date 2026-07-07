@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T05:11:59.994751Z",
-    "total_events": 965,
+    "generated_at": "2026-07-07T04:52:09.560660Z",
+    "total_events": 977,
     "type_counts": {
-      "paper": 565,
+      "paper": 575,
       "model_release": 39,
-      "announcement": 358,
+      "announcement": 360,
       "statement": 2,
       "policy": 1
     },
@@ -14,11 +14,11 @@
       "openai": 247,
       "anthropic": 10,
       "meta": 7,
-      "other": 563,
+      "other": 573,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 123
+      "huggingface": 125
     }
   },
   "companies": [
@@ -21082,6 +21082,116 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-07-06_agentgym2-benchmarking-large-language-model-agents",
+      "date": "2026-07-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AgentGym2: Benchmarking Large Language Model Agents in De-Idealized Real-World Environments",
+      "description": "Language agents, i.e., LLM agents, progress rapidly and are increasingly deployed in production environments. This trend underscores the urgent need for rigorous and realistic evaluations. However, most existing benchmarks evaluate agents in simplified, idealized settings. They typically rely on ...",
+      "source_url": "http://arxiv.org/abs/2607.05174v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-06_air-quality-downscaling-with-station-guided-pseudo",
+      "date": "2026-07-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Air Quality Downscaling with Station-Guided Pseudo-Supervision",
+      "description": "Super-resolving coarse atmospheric fields to local PM$_{2.5}$ variations is uniquely challenged by a mismatch in spatial support: while pixels represent regional averages, ground-truth observations are discrete, unaligned samples of a continuous spatial signal. To bridge this gap, we present a st...",
+      "source_url": "http://arxiv.org/abs/2607.05292v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-06_assemcad-production-ready-cad-assembly-generation-",
+      "date": "2026-07-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "ASSEMCAD: Production-Ready CAD Assembly Generation from Natural Language",
+      "description": "Recent advances in large language models and programmatic CAD have significantly improved Text-to-CAD generation for individual parts. However, production-ready mechanical assembly generation remains largely unsolved. Unlike single-part modeling, assemblies require coordinated reasoning over mult...",
+      "source_url": "http://arxiv.org/abs/2607.05123v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-06_from-fixed-to-free-cameras-calibration-free-view-r",
+      "date": "2026-07-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
+      "description": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Language-Action (VLA) policies tolerate such camera variations only when the camera extrinsics are ex...",
+      "source_url": "http://arxiv.org/abs/2607.05396v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-06_how-much-is-left-llms-linearly-encode-their-remain",
+      "date": "2026-07-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "How Much is Left? LLMs Linearly Encode Their Remaining Output Length",
+      "description": "Large language models generate one token at a time, yet their responses show remarkably consistent length structure: step-by-step solutions converge in predictable token counts, retrievals stop after a few sentences, retractions extend responses by measurable amounts. We ask whether the model car...",
+      "source_url": "http://arxiv.org/abs/2607.05316v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-07-06_kernels-major-updates",
       "date": "2026-07-06",
       "type": "announcement",
@@ -21090,6 +21200,158 @@
       "title": "🤗 Kernels: Major Updates",
       "description": "Hugging Face Blogからの自動収集記事。",
       "source_url": "https://huggingface.co/blog/revamped-kernels",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-06_llm-as-a-verifier-a-general-purpose-verification-f",
+      "date": "2026-07-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+      "description": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine the correctness of a solution, as a new scaling axis. To unlock this and demonstrate its effectiven...",
+      "source_url": "http://arxiv.org/abs/2607.05391v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-06_prx-part-4-our-data-strategy",
+      "date": "2026-07-06",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "PRX Part 4: Our Data Strategy",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-06_topological-shape-representation-for-aneurysm-bifu",
+      "date": "2026-07-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Topological Shape Representation for Aneurysm -- Bifurcation Detection",
+      "description": "Automated detection of intracranial aneurysms (IAs) from CT angiography (CTA) is severely hindered by high false-positive rates. Convolutional neural networks (CNNs) rely on local pixel intensities, causing systematic confusion between saccular aneurysms and vascular bifurcations -- a problem esp...",
+      "source_url": "http://arxiv.org/abs/2607.05317v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-06_unified-audio-intelligence-without-regressing-on-t",
+      "date": "2026-07-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Unified Audio Intelligence Without Regressing on Text Intelligence",
+      "description": "Audio intelligence involves understanding, reasoning about, and generating both audio and speech. In this work, we introduce Nemotron-Labs-Audex-30B-A3B (Audex), a unified audio-text LLM built on Nemotron-Cascade-2-30B-A3B, a strong text-only MoE LLM. Audex adopts a simple unified design with a s...",
+      "source_url": "http://arxiv.org/abs/2607.05196v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-06_wavelet-scattering-transform-for-interpretable-sch",
+      "date": "2026-07-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Wavelet Scattering Transform for Interpretable Schizophrenia Biomarker Discovery and Classification from Resting-State EEG",
+      "description": "Schizophrenia is a debilitating neuropsychiatric disorder characterized by profound cortical network dysregulation, for which objective, clinically translatable EEG based biomarkers remain underdeveloped. Existing automated classification pipelines rely predominantly on static power spectral dens...",
+      "source_url": "http://arxiv.org/abs/2607.05282v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-06_when-claws-remember-but-do-not-tell-stealthy-memor",
+      "date": "2026-07-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "When Claws Remember but Do Not Tell: Stealthy Memory Injection in Persistent Personal Agents",
+      "description": "Persistent personal agents combine long-term memory with access to users' external environments, enabling personalized foreground assistance and proactive background execution. This integration also creates a new path to compromise: untrusted external content can be silently written into persiste...",
+      "source_url": "http://arxiv.org/abs/2607.05189v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-07_lerobot-v060-imagine-evaluate-improve",
+      "date": "2026-07-07",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/lerobot-release-v060",
       "tags": [
         "huggingface",
         "auto-collected"
