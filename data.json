@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-07-07T04:52:09.560660Z",
-    "total_events": 977,
+    "generated_at": "2026-07-08T04:14:32.579632Z",
+    "total_events": 991,
     "type_counts": {
-      "paper": 575,
+      "paper": 585,
       "model_release": 39,
-      "announcement": 360,
+      "announcement": 364,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 247,
+      "openai": 248,
       "anthropic": 10,
       "meta": 7,
-      "other": 573,
+      "other": 583,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 125
+      "huggingface": 128
     }
   },
   "companies": [
@@ -21344,6 +21344,223 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-07-07_an-experimental-design-approach-to-evaluating-agen",
+      "date": "2026-07-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "An Experimental Design Approach to Evaluating Agentic AI's Autonomous Model Discovery",
+      "description": "Large language model coding agents increasingly perform open-ended data modeling and analysis. These agents are stochastic and adaptive, and therefore their autonomous model discovery behavior cannot be adequately characterized by a single benchmark run. In this work, we propose an experimental d...",
+      "source_url": "http://arxiv.org/abs/2607.06413v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-07_australian-payments-plus-moves-faster-with-chatgpt",
+      "date": "2026-07-07",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "description": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+      "source_url": "https://openai.com/index/australian-payments-plus",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-07_automated-compliance-mapping-in-cloud-security-wit",
+      "date": "2026-07-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Automated Compliance Mapping in Cloud Security with Domain-Adapted Sentence Transformers",
+      "description": "Mapping cloud security controls to technical metrics is currently a manual process. This paper proposes domain adaptation of Sentence Transformer models to automate it. We build a training corpus of 3,499 semantic pairs from five European security standards and a set of technical metrics, then ex...",
+      "source_url": "http://arxiv.org/abs/2607.06364v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-07_depthweave-kv-token-adaptive-cross-layer-residual-",
+      "date": "2026-07-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression",
+      "description": "Long-context language model inference is increasingly limited by the memory bandwidth and capacity required to store key-value caches, yet existing compression methods often apply uniform budgets across layers or tokens and degrade retrieval when lexical cues and semantic states require different...",
+      "source_url": "http://arxiv.org/abs/2607.06523v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-07_doomed-from-the-start-early-abort-of-llm-agent-epi",
+      "date": "2026-07-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade",
+      "description": "Large language model (LLM) agents solving multi-step tasks frequently commit to trajectories that are doomed to fail, yet continue to consume substantial inference compute before the failure becomes observable. We show that failure is predictable early from the agent's internal representations: l...",
+      "source_url": "http://arxiv.org/abs/2607.06503v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-07_from-hugging-face-to-amazon-sagemaker-studio-in-on",
+      "date": "2026-07-07",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-07_graph-convolutional-attention-a-spectral-perspecti",
+      "date": "2026-07-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
+      "description": "Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoising graphs. However, our principled understanding of attention-based graph denoising remains lim...",
+      "source_url": "http://arxiv.org/abs/2607.06546v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-07_harnessing-code-agents-for-automatic-software-veri",
+      "date": "2026-07-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Harnessing Code Agents for Automatic Software Verification",
+      "description": "Formal verification offers the strongest guarantee of software correctness, but it does not scale: the proofs demanded by interactive theorem provers such as Coq require enormous expert effort. Large language models (LLMs) promise to generate these proofs automatically, yet existing approaches wi...",
+      "source_url": "http://arxiv.org/abs/2607.06341v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-07_hugging-face-models-on-foundry-managed-compute",
+      "date": "2026-07-07",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-07_industry-classification-of-github-repositories-usi",
+      "date": "2026-07-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Industry Classification of GitHub Repositories Using the North American Industry Classification System (NAICS)",
+      "description": "GitHub hosts hundreds of millions of public repositories, but the platform exposes no native mapping from repositories to standardized industry sectors. This gap limits empirical work on the geography of innovation, the industrial composition of open-source production, and the diffusion of new te...",
+      "source_url": "http://arxiv.org/abs/2607.06505v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-07-07_lerobot-v060-imagine-evaluate-improve",
       "date": "2026-07-07",
       "type": "announcement",
@@ -21363,6 +21580,93 @@
       "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-07_prompt-adapter-context-routing-for-parameter-effic",
+      "date": "2026-07-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Prompt-Adapter Context Routing for Parameter-Efficient Multi-Shot Long Video Extrapolation",
+      "description": "We present PACR-Video, a parameter-efficient framework for multi-shot long video extrapolation that preserves recurring entities, scene structure, visual style, and causal progression without full generator fine-tuning. PACR-Video keeps a text-to-video diffusion transformer frozen and augments it...",
+      "source_url": "http://arxiv.org/abs/2607.06481v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-07_rubench-a-repository-level-agentic-coding-benchmar",
+      "date": "2026-07-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications",
+      "description": "Developers increasingly delegate real maintenance work to product-grade coding agents, and many state tasks in their native language, in the style of a customer request rather than a curated English issue. Existing repository-level agentic benchmarks do not measure this setting: their task statem...",
+      "source_url": "http://arxiv.org/abs/2607.06411v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-07_run-ai-workloads-on-any-cloud-store-on-hugging-fac",
+      "date": "2026-07-07",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-07_wordvoice-explicit-and-decoupled-multi-dimensional",
+      "date": "2026-07-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS",
+      "description": "While recent Large Language Model (LLM)-based Text-to-Speech (TTS) systems have achieved remarkable naturalness, they predominantly rely on implicit end-to-end generation paradigms, resulting in coarse-grained control. In scenarios demanding precise stylistic interventions and strict temporal ali...",
+      "source_url": "http://arxiv.org/abs/2607.06461v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     }
   ]
 }
