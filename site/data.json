@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T04:24:36.453875Z",
-    "total_events": 1023,
+    "generated_at": "2026-07-13T04:29:55.756441Z",
+    "total_events": 1033,
     "type_counts": {
-      "paper": 605,
+      "paper": 615,
       "model_release": 39,
       "announcement": 376,
       "statement": 2,
@@ -14,7 +14,7 @@
       "openai": 257,
       "anthropic": 10,
       "meta": 7,
-      "other": 603,
+      "other": 613,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
@@ -22319,6 +22319,138 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-07-10_a-sovereign-open-source-foundation-model-for-germa",
+      "date": "2026-07-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A Sovereign, Open-Source Foundation Model for German and English",
+      "description": "We present Soofi S 30B-A3B, a sovereign, open-source Mixture-of-Experts (MoE) hybrid Mamba Transformer foundation model for German and English. Its hybrid design activates only 3B of 30B parameters per token and keeps the inference cache near-constant as context grows, giving it a decisive throug...",
+      "source_url": "http://arxiv.org/abs/2607.09424v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-10_beyond-fixed-representations-the-vocabulary-and-ve",
+      "date": "2026-07-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Beyond Fixed Representations: The Vocabulary and Verifier Gaps in Open-Ended AI",
+      "description": "Modern AI systems are increasingly being evaluated for their ability to reason, code, prove theorems, use tools, and long-horizon research tasks. These are powerful capabilities, but they share a structural limitation: the representational frame within which the model operates, including its conc...",
+      "source_url": "http://arxiv.org/abs/2607.09560v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-10_cocot-eeg-contrastive-pretrained-multiscale-convol",
+      "date": "2026-07-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "CoCoT-EEG: Contrastive-Pretrained Multiscale Convolutional Transformer for EEG Decoding",
+      "description": "Self-supervised pretrained foundation models (FM) have shown early promise for non-invasive electroencephalogram (EEG) decoding applications. Many recent large-scale models converged on the approach of tokenizing raw EEG followed by masked reconstruction pretraining. However, this recipe has been...",
+      "source_url": "http://arxiv.org/abs/2607.09543v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-10_decoupling-language-guidance-from-backbones-for-te",
+      "date": "2026-07-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Decoupling Language Guidance from Backbones for Text-Guided Medical Segmentation",
+      "description": "Text-guided medical image segmentation leverages clinical semantics to improve lesion delineation, yet many existing models bind cross-modal fusion, supervision, and decoder design into a task-specific architecture. Such tight coupling makes it difficult to reuse language guidance modules across ...",
+      "source_url": "http://arxiv.org/abs/2607.09481v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-10_foveation-guided-dynamic-token-selection-for-robus",
+      "date": "2026-07-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Foveation-Guided Dynamic Token Selection for Robust and Efficient Vision Transformers",
+      "description": "The human visual system (HVS) employs foveated sampling and eye movements to achieve efficient perception, conserving both metabolic energy and computational resources. Drawing inspiration from this robustness and adaptability, we introduce the Foveated Dynamic Transformer (FDT), a foveation-guid...",
+      "source_url": "http://arxiv.org/abs/2607.09480v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-10_freyatts-technical-report",
+      "date": "2026-07-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "FreyaTTS Technical Report",
+      "description": "We introduce Freya-TTS, a compact, tokenizer-free, Turkish-first text-to-speech model designed for highly reliable and efficient conversational synthesis. Freya-TTS is a 183.2M-parameter non-autoregressive conditional flow-matching Diffusion Transformer (DiT) that operates in the frozen continuou...",
+      "source_url": "http://arxiv.org/abs/2607.09530v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-07-10_how-deutsche-telekom-is-rewiring-telecommunication",
       "date": "2026-07-10",
       "type": "announcement",
@@ -22340,6 +22472,50 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-07-10_multimodal-scenario-similarity-search-for-autonomo",
+      "date": "2026-07-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Multimodal Scenario Similarity Search for Autonomous Driving",
+      "description": "Large-scale autonomous-driving datasets contain vast numbers of recorded scenarios, creating a need for efficient retrieval methods that can identify situations similar to a given query. Existing approaches typically rely on either visual representations or motion-based descriptions, making it di...",
+      "source_url": "http://arxiv.org/abs/2607.09428v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-10_pac-act-post-training-actor-critic-for-action-chun",
+      "date": "2026-07-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers",
+      "description": "Precision industrial contact manipulation requires reliable robot policies under pose perturbations and contact-force constraints. Vision-language-action models offer broad generalization but often introduce high inference latency and GPU-memory cost, while vision-action chunking policies are mor...",
+      "source_url": "http://arxiv.org/abs/2607.09590v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-07-10_profiling-in-pytorch-part-3-attention-is-all-you-p",
       "date": "2026-07-10",
       "type": "announcement",
@@ -22359,6 +22535,50 @@
       "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-10_self-guided-test-time-training-for-long-context-ll",
+      "date": "2026-07-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Self-Guided Test-Time Training for Long-Context LLMs",
+      "description": "Long-context processing has become increasingly important for large language models (LLMs), but simply extending the context window does not guarantee effective utilization of long inputs. As input length grows, accuracy often degrades, indicating that models still struggle to identify and use th...",
+      "source_url": "http://arxiv.org/abs/2607.09415v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-10_task-specific-multimodal-question-answering-agents",
+      "date": "2026-07-10",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026",
+      "description": "We present our submission to the QANTA 2026 shared challenge at the ICML 2026 Workshop on Efficient Multimodal Question Answering (EMM-QA). Quanta evaluates multimodal quizbowl systems that answer pyramid-style questions from incrementally revealed text and accompanying images while operating und...",
+      "source_url": "http://arxiv.org/abs/2607.09623v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     }
   ]
 }
