@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T03:57:43.072606Z",
-    "total_events": 1053,
+    "generated_at": "2026-07-16T04:08:29.749987Z",
+    "total_events": 1069,
     "type_counts": {
-      "paper": 634,
+      "paper": 644,
       "model_release": 39,
-      "announcement": 377,
+      "announcement": 383,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 258,
+      "openai": 260,
       "anthropic": 10,
       "meta": 7,
-      "other": 632,
+      "other": 642,
       "mistral": 3,
       "xai": 1,
       "deepseek": 2,
-      "huggingface": 131
+      "huggingface": 135
     }
   },
   "companies": [
@@ -23018,6 +23018,352 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-15_ai-augmented-human-resource-management-insights-fr",
+      "date": "2026-07-15",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AI-Augmented Human Resource Management? Insights from German companies",
+      "description": "This study examines the integration of AI into Human Resource Management in German companies. We ask if and how AI-based technologies are \u001bnquote{augmenting} human resource management. Organisations employ generative AI or predictive analytics to transform traditional human resource functions, t...",
+      "source_url": "http://arxiv.org/abs/2607.13839v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-15_anatomically-faithful-but-temporally-blind-auditin",
+      "date": "2026-07-15",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Anatomically Faithful but Temporally Blind: Auditing Attribution for Left-Ventricular Ejection-Fraction Estimation from Echocardiography",
+      "description": "Background and Objective: Deep video models estimate left-ventricular ejection fraction (EF) from echocardiography with near-expert accuracy, and post-hoc attribution (Chefer relevance for transformers, Grad-CAM for CNNs) is increasingly used to certify that models 'look at the right place.' Yet ...",
+      "source_url": "http://arxiv.org/abs/2607.13738v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-15_beyond-color-geometry-evaluating-human-like-color-",
+      "date": "2026-07-15",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Beyond Color Geometry: Evaluating Human-Like Color Representations in Vision Models",
+      "description": "Do vision models see colors the way humans do? Existing evaluations of color representations usually compare them with geometric spaces such as CIELAB or with discrete color labels. These references capture perceptual distance or category membership, but not the graded way in which people organiz...",
+      "source_url": "http://arxiv.org/abs/2607.13647v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-15_generative-compilation-on-the-fly-compiler-feedbac",
+      "date": "2026-07-15",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Generative Compilation: On-the-Fly Compiler Feedback as AI Generates Code",
+      "description": "Languages with rich static semantics, such as Rust, provide stronger guarantees for AI-generated code, but their strictness makes generation more difficult. Off-the-shelf compilers can provide useful feedback post-generation, but does not guide intermediate generation steps, such as those during ...",
+      "source_url": "http://arxiv.org/abs/2607.13921v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-15_gpt-red-unlocking-self-improvement-for-robustness",
+      "date": "2026-07-15",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "description": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "source_url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-15_introducing-real-world-voiceeq-measuring-the-human",
+      "date": "2026-07-15",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/real-world-voiceeq",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-15_kaleido-algorithm-hardware-co-design-for-video-dif",
+      "date": "2026-07-15",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Kaleido: Algorithm-Hardware Co-Design for Video Diffusion Transformers by Exploiting Latent Space Correlations",
+      "description": "Video diffusion transformers (vDiTs) generate high quality video but introduce extremely high compute cost due to the long diffusion timesteps and self attention computation. As diffusion timesteps are reduced, the computation cost of self attention becomes the dominant bottleneck. Existing accel...",
+      "source_url": "http://arxiv.org/abs/2607.13770v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-15_model-routing-is-simple-until-it-isnt",
+      "date": "2026-07-15",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-15_mxgps-multiplex-graph-transformers-for-a-power-gri",
+      "date": "2026-07-15",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "MxGPS: Multiplex Graph Transformers for a Power Grid Foundation Model",
+      "description": "Single-task fine-tuning of graph neural networks (GNNs) for power grid problems exhibits a systematic failure mode: models that achieve the lowest in-distribution error degrade the most under topology shift. We term this topology overfitting: the tendency of task-specific gradient signals to enco...",
+      "source_url": "http://arxiv.org/abs/2607.13763v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-15_rf-spectrogram-anomaly-detection-with-quantum-kitc",
+      "date": "2026-07-15",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "RF Spectrogram Anomaly Detection with Quantum Kitchen Sinks: Architecture, Representation, and Hardware Validation",
+      "description": "The broadcast nature of wireless channels exposes radio-frequency (RF) networks to anomalous and malicious transmissions, making anomaly detection a fundamental requirement for secure spectrum management. Quantum Kitchen Sinks (QKS) offer a lightweight hybrid quantum feature map suitable for near...",
+      "source_url": "http://arxiv.org/abs/2607.13897v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-15_the-us-is-advancing-ai-safety-through-state-and-fe",
+      "date": "2026-07-15",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "The US is advancing AI safety through state and federal action",
+      "description": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "source_url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-15_trace-turn-level-reward-assignment-via-credit-esti",
+      "date": "2026-07-15",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "TRACE: Turn-level Reward Assignment via Credit Estimation for Long-Horizon Agents",
+      "description": "Multi-turn agents solve complex tasks through extended sequences of tool interactions before producing a final answer, making credit assignment a fundamental challenge during post-training. Outcome rewards provide reliable supervision for short-horizon reasoning, but become sparse and high-varian...",
+      "source_url": "http://arxiv.org/abs/2607.13988v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-15_transforming-rank-how-architecture-navigates-the-s",
+      "date": "2026-07-15",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Transforming Rank: How Architecture Navigates the Spectral Pathologies of Depth",
+      "description": "We investigate how each component of the Transformer feedforward block architecture design determines how much rank survives across depth at initialization. We reinterpret skip connections and normalization, long understood as controlling magnitude, as mechanisms for preserving gradient rank acro...",
+      "source_url": "http://arxiv.org/abs/2607.14018v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-15_vaiom-continuous-input-discrete-output-decoder-onl",
+      "date": "2026-07-15",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "VAIOM: Continuous-Input, Discrete-Output Decoder-Only Financial Sequence Modeling",
+      "description": "Financial observations are continuous, heterogeneous, and noisy, whereas decoder-only next-token models are usually built around discrete symbolic inputs. We introduce Vector-Input Autoregressive Inference for Ordinal-Return Modeling (VAIOM), a decoder-only Transformer for probabilistic next-retu...",
+      "source_url": "http://arxiv.org/abs/2607.13929v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-15_welcome-inkling-by-thinking-machines",
+      "date": "2026-07-15",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Welcome Inkling by Thinking Machines",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-15_what-building-shippy-taught-us-about-building-agen",
+      "date": "2026-07-15",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "What building Shippy taught us about building agents",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
     }
   ]
 }
