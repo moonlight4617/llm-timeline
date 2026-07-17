@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T04:08:29.749987Z",
-    "total_events": 1069,
+    "generated_at": "2026-07-17T04:05:51.214981Z",
+    "total_events": 1084,
     "type_counts": {
-      "paper": 644,
+      "paper": 654,
       "model_release": 39,
-      "announcement": 383,
+      "announcement": 388,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 260,
+      "openai": 262,
       "anthropic": 10,
       "meta": 7,
-      "other": 642,
+      "other": 651,
       "mistral": 3,
-      "xai": 1,
+      "xai": 2,
       "deepseek": 2,
-      "huggingface": 135
+      "huggingface": 138
     }
   },
   "companies": [
@@ -23362,6 +23362,332 @@
       "body": "",
       "company_name": "Hugging Face",
       "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-16_benchmarking-multimodal-large-language-models-for-",
+      "date": "2026-07-16",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy",
+      "description": "Multimodal large language models (MLLMs) are increasingly used to interpret visualizations, yet current evaluations remain largely chart-centric and provide limited evidence of understanding of scientific visualization (SciVis). We benchmark six MLLMs on the scientific visualization literacy asse...",
+      "source_url": "http://arxiv.org/abs/2607.15176v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-16_grokipedia-vs-wikipedia-an-llm-based-audit-of-poli",
+      "date": "2026-07-16",
+      "type": "paper",
+      "company": "xai",
+      "person": null,
+      "title": "Grokipedia vs Wikipedia: An LLM-Based Audit of Political Neutrality along Ideologies",
+      "description": "Online encyclopedias shape political opinion and, through it, democratic discourse. In late 2025, Grokipedia was released, an encyclopedia written entirely by the LLM Grok. One motivation behind the project was to provide an unbiased alternative to Wikipedia, which has faced accusations of 'left-...",
+      "source_url": "http://arxiv.org/abs/2607.15146v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected",
+        "xai"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "xAI",
+      "company_color": "#1DA1F2",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-16_how-cars24-scales-conversations-and-builds-faster-",
+      "date": "2026-07-16",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "description": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "source_url": "https://openai.com/index/cars24",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-16_language-identification-via-compositional-data-ana",
+      "date": "2026-07-16",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Language Identification via Compositional Data Analysis: A Linear-Time Classifier Based on Log-Ratio Geometry",
+      "description": "Language identification is commonly addressed using either neural architectures or statistical n-gram models. Neural approaches typically require substantial computational resources, whereas classical frequency-based methods offer efficient linear-time performance, but rely on distance metrics th...",
+      "source_url": "http://arxiv.org/abs/2607.15238v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-16_man-machine-and-masterpiece-artistic-ownership-in-",
+      "date": "2026-07-16",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Man, Machine, and Masterpiece: Artistic Ownership in the AI Era",
+      "description": "The integration of AI-driven systems in creative work has sparked debates among artists and legal communities about notions of ownership. Yet there remains little consensus on how ownership should be defined and attributed when human and AI contributions are intertwined. To provoke critical refle...",
+      "source_url": "http://arxiv.org/abs/2607.15027v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-16_newer-models-same-advantage",
+      "date": "2026-07-16",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Newer Models, Same Advantage",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-16_nifa-nonlinear-imc-enhanced-fpga-for-efficient-ml-",
+      "date": "2026-07-16",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "NIFA: Nonlinear IMC enhanced FPGA for efficient ML inference",
+      "description": "Recent FPGAs have improved deep learning (DL) inference efficiency through dedicated tensor blocks and in-BRAM computation. ReRAM-based analog in-memory computing (IMC) pushes efficiency further, offering an order-of-magnitude improvement in compute density and energy efficiency over conventional...",
+      "source_url": "http://arxiv.org/abs/2607.15123v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-16_nvidia-nemotron-3-embed-ranks-1-overall-on-rteb-ad",
+      "date": "2026-07-16",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-16_omniabench-benchmarking-general-ai-agents-across-d",
+      "date": "2026-07-16",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "OmniaBench: Benchmarking General AI Agents Across Diverse Scenarios",
+      "description": "Large language models are increasingly evolving from text generators into general agents capable of understanding user requests, invoking external tools, and completing complex tasks through interaction. However, existing agent benchmarks often focus on limited scenarios, tool ecosystems, or inte...",
+      "source_url": "http://arxiv.org/abs/2607.14989v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-16_scaling-behavior-foundation-model-for-humanoid-rob",
+      "date": "2026-07-16",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Scaling Behavior Foundation Model for Humanoid Robots",
+      "description": "Humanoid control requires natural whole-body coordination, precise real-time responses to control signals, and robust generalization across diverse environmental contexts, making it a cornerstone for generalist embodied agents. Behavior Foundation Models (BFMs) have recently emerged as a promisin...",
+      "source_url": "http://arxiv.org/abs/2607.15163v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-16_security-incident-disclosure-july-2026",
+      "date": "2026-07-16",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Security incident disclosure — July 2026",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/security-incident-july-2026",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-16_t2mlr-transformer-with-temporal-middle-layer-recur",
+      "date": "2026-07-16",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "T^2MLR: Transformer with Temporal Middle-Layer Recurrence",
+      "description": "Transformer reasoning is limited by autoregressive decoding, which repeat edly compresses rich hidden computation through token space and makes it difficult for intermediate reasoning states to persist across time. We in troduce Transformers with Temporal Middle-Layer Recurrence (T2MLR), a transf...",
+      "source_url": "http://arxiv.org/abs/2607.15178v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-16_the-industrialization-of-research-on-ai-driven-sci",
+      "date": "2026-07-16",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The Industrialization of Research ; On AI-Driven Science and Its Consequences",
+      "description": "Artificial intelligence is transforming scientific research - not merely as a more powerful instrument, but as an autonomous participant in the research cycle itself. This transition constitutes, in the most precise sense of the term, the industrialization of research: a shift from a craft model,...",
+      "source_url": "http://arxiv.org/abs/2607.15164v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-16_towards-hierarchical-structure-understanding-of-ne",
+      "date": "2026-07-16",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Towards Hierarchical Structure Understanding of Newspaper Images",
+      "description": "Understanding newspaper images remains a challenging task due to their complex, nested hierarchical structures and dense, heterogeneous layouts. In this paper, we explore two complementary approaches for newspaper structure understanding. First, we present a modular bottom-up pipeline that combin...",
+      "source_url": "http://arxiv.org/abs/2607.15082v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-16_why-teens-deserve-access-to-safe-ai",
+      "date": "2026-07-16",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Why teens deserve access to safe AI",
+      "description": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "source_url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
     }
