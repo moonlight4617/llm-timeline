@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T04:05:51.214981Z",
-    "total_events": 1084,
+    "generated_at": "2026-07-18T03:54:38.292468Z",
+    "total_events": 1086,
     "type_counts": {
       "paper": 654,
       "model_release": 39,
-      "announcement": 388,
+      "announcement": 390,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 262,
+      "openai": 263,
       "anthropic": 10,
       "meta": 7,
       "other": 651,
       "mistral": 3,
       "xai": 2,
       "deepseek": 2,
-      "huggingface": 138
+      "huggingface": 139
     }
   },
   "companies": [
@@ -23688,6 +23688,48 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-17_a-scorecard-for-the-ai-age",
+      "date": "2026-07-17",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "A scorecard for the AI age",
+      "description": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "source_url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-17_fine-tune-video-and-image-models-at-scale-with-nvi",
+      "date": "2026-07-17",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
     }
