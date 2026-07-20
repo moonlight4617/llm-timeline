@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T04:21:14.414087Z",
-    "total_events": 1086,
+    "generated_at": "2026-07-20T04:35:18.262461Z",
+    "total_events": 1096,
     "type_counts": {
-      "paper": 654,
+      "paper": 664,
       "model_release": 39,
       "announcement": 390,
       "statement": 2,
@@ -14,7 +14,7 @@
       "openai": 263,
       "anthropic": 10,
       "meta": 7,
-      "other": 651,
+      "other": 661,
       "mistral": 3,
       "xai": 2,
       "deepseek": 2,
@@ -23713,6 +23713,138 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-07-17_an-exam-for-active-observers",
+      "date": "2026-07-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "An Exam for Active Observers",
+      "description": "Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active observation is essential for a wide range of tasks. Whether today's multimodal large language models...",
+      "source_url": "http://arxiv.org/abs/2607.16165v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-17_an-exploratory-study-of-single-channel-surface-ele",
+      "date": "2026-07-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "An Exploratory Study of Single Channel Surface Electromyography for Hand Gesture Classification",
+      "description": "Accurate hand gesture recognition using surface electromyography (sEMG) typically relies on multichannel sensor arrays and computationally intensive models. This limits practical deployment in low-power and embedded systems. This study investigates the feasibility of classifying ten hand gestures...",
+      "source_url": "http://arxiv.org/abs/2607.15972v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-17_clacfinmmeval-2026-task-3-sentiment-augmented-deep",
+      "date": "2026-07-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "CLaC@FinMMEval 2026 Task 3: Sentiment-Augmented Deep Reinforcement Learning for Active Trading -- An Alpha-Reward Approach",
+      "description": "This paper presents our system for Task 3 of the CLEF 2026 FinMMEval Lab, which requires daily long, flat, or short trading decisions for Bitcoin (BTC) and Tesla (TSLA) using news and historical market data. We formulate the problem as a discrete-action Markov Decision Process and compare four de...",
+      "source_url": "http://arxiv.org/abs/2607.16028v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-17_controlling-implicit-shortcut-reliance-in-l2-spoke",
+      "date": "2026-07-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Controlling Implicit Shortcut Reliance in L2 Spoken English Auto-markers",
+      "description": "Increasingly, speech and language processing tasks take either audio or text directly rather than extracting features from these as the input to the classifier or regressor. Often these systems make use of complex, for example transformer-based, processes that have the ability to derive highly no...",
+      "source_url": "http://arxiv.org/abs/2607.16085v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-17_deep-and-probabilistic-models-for-gene-regulatory-",
+      "date": "2026-07-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Deep and Probabilistic Models for Gene Regulatory Network Inference",
+      "description": "Gene regulatory networks (GRNs) link transcription factor (TF) proteins to their target genes, yet reconstructing these networks from genome-wide data remains challenging under practical and methodological constraints. Many methods couple modeling assumptions to a specific inference procedure and...",
+      "source_url": "http://arxiv.org/abs/2607.16053v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-17_dpnext-a-lightweight-multi-scale-feature-fusion-fr",
+      "date": "2026-07-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "DPNeXt: A Lightweight Multi-Scale Feature Fusion Framework for Efficient ViT-Based Multi-Task Dense Prediction",
+      "description": "Multi-Task Learning (MTL) in robotics perception systems supports comprehensive 3D spatial scene understanding by integrating semantic segmentation and depth estimation. While Vision Foundation Models (VFMs) are increasingly adopted as robust feature encoders, existing decoding strategies present...",
+      "source_url": "http://arxiv.org/abs/2607.16012v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-07-17_fine-tune-video-and-image-models-at-scale-with-nvi",
       "date": "2026-07-17",
       "type": "announcement",
@@ -23732,6 +23864,94 @@
       "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-17_frontier-language-models-struggle-to-copy-text-can",
+      "date": "2026-07-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Frontier Language Models Struggle to Copy: Text Can Be Better Viewed in 2D",
+      "description": "While large language models (LLMs) can solve advanced reasoning problems in seconds, we show that even frontier models fail to perform a much simpler operation: exactly copying an input string that lies well within their context windows. We attribute this failure to positional encodings in Transf...",
+      "source_url": "http://arxiv.org/abs/2607.16072v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-17_induction-in-both-directions-a-mechanistic-analysi",
+      "date": "2026-07-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Induction in Both Directions: A Mechanistic Analysis of In-Context Learning in Masked Diffusion Language Models",
+      "description": "While the internal mechanisms of autoregressive (AR) transformers have been studied extensively, much less is known about diffusion language models (DLMs), an emerging alternative that generates text by iterative denoising. In this work, we study how DLMs implement induction, a mechanism behind i...",
+      "source_url": "http://arxiv.org/abs/2607.15893v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-17_learning-standard-model-structure-from-lhc-data-wi",
+      "date": "2026-07-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Learning Standard Model structure from LHC data with Riemannian flow matching",
+      "description": "In this work we demonstrate that a single transformer-based generative model can capture Standard Model structure spanning five decades of invariant mass, from the sub-GeV regime to the TeV continuum, a range that no single Monte Carlo sample covers. To achieve this we design \textsc{ShellFlow}, ...",
+      "source_url": "http://arxiv.org/abs/2607.16144v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-17_loop-the-loopies",
+      "date": "2026-07-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Loop the Loopies!",
+      "description": "We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter model with 0.6B active parameters. Looped Transformers have long faced a challenge: given an N-fold...",
+      "source_url": "http://arxiv.org/abs/2607.16051v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     }
   ]
 }
