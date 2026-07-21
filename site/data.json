@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-07-20T04:35:18.262461Z",
-    "total_events": 1096,
+    "generated_at": "2026-07-21T04:14:47.369587Z",
+    "total_events": 1108,
     "type_counts": {
-      "paper": 664,
+      "paper": 674,
       "model_release": 39,
-      "announcement": 390,
+      "announcement": 392,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 263,
+      "openai": 264,
       "anthropic": 10,
       "meta": 7,
-      "other": 661,
+      "other": 671,
       "mistral": 3,
       "xai": 2,
       "deepseek": 2,
-      "huggingface": 139
+      "huggingface": 140
     }
   },
   "companies": [
@@ -23940,6 +23940,268 @@
       "title": "Loop the Loopies!",
       "description": "We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter model with 0.6B active parameters. Looped Transformers have long faced a challenge: given an N-fold...",
       "source_url": "http://arxiv.org/abs/2607.16051v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-20_flashrt-agent-harness-for-guiding-agents-to-deploy",
+      "date": "2026-07-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications",
+      "description": "Real-time multimodal applications, including voice agents and interactive video generation, compose heterogeneous models into pipelines whose efficient deployment requires application-specific decisions about placement, streaming, and intra-model parallelism. Existing serving systems and auto-par...",
+      "source_url": "http://arxiv.org/abs/2607.18171v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-20_gigapath-flash-and-gigatime-flash-efficient-pathol",
+      "date": "2026-07-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis",
+      "description": "Foundation models have emerged as a driving force in computational pathology, with the potential to transform cancer diagnosis, prognosis, and treatment selection by learning transferable representations from large-scale histopathology data. A growing landscape of pathology foundation models now ...",
+      "source_url": "http://arxiv.org/abs/2607.18218v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-20_introducing-cosmos-3-edge",
+      "date": "2026-07-20",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Introducing Cosmos 3 Edge",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-20_manifold-constrained-hyper-connections-for-paramet",
+      "date": "2026-07-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Manifold-Constrained Hyper-Connections for Parameter-Efficient Finetuning",
+      "description": "Most parameter-efficient finetuning (PEFT) methods adapt weights or activations, thus leaving one of the key Transformer components unchanged: residual connections. This paper investigates Manifold-Constrained Hyper-Connections (mHC), a generalisation of residual connections, as a novel PEFT appr...",
+      "source_url": "http://arxiv.org/abs/2607.18130v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-20_o-vad-industrial-video-anomaly-detection-through-o",
+      "date": "2026-07-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning",
+      "description": "Industrial Video Anomaly Detection (IVAD) aims to identify anomalous objects and events in an industrial process, which is crucial for modern manufacturing and quality control systems. Existing VLM-based anomaly reasoning methods are capable of detecting open-ended anomalies in general domains. H...",
+      "source_url": "http://arxiv.org/abs/2607.18142v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-20_or-else-a-differentiable-trust-region-for-policy-o",
+      "date": "2026-07-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "OR Else: A Differentiable Trust Region for Policy Optimization",
+      "description": "PPO and the GRPO baseline studied here use clipped surrogate objectives whose favorable-direction saturation introduces an abrupt change in the scalar objective's derivative. We ask whether Output Reset (OR), a smooth one-sided saturation rule, offers a useful alternative for large language model...",
+      "source_url": "http://arxiv.org/abs/2607.18163v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-20_patch-policy-efficient-embodied-control-via-dense-",
+      "date": "2026-07-20",
+      "type": "paper",
+      "company": null,
+      "person": "yann_lecun",
+      "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
+      "description": "Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global token, or rely on visual backbones trained from scratch, sacrificing both fine-grained spatial d...",
+      "source_url": "http://arxiv.org/abs/2607.18236v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "Yann LeCun",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-20_safety-and-alignment-in-an-era-of-long-horizon-mod",
+      "date": "2026-07-20",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Safety and alignment in an era of long-horizon models",
+      "description": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "source_url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-20_sciforma-structure-faithful-generation-of-scientif",
+      "date": "2026-07-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "SciForma: Structure-Faithful Generation of Scientific Diagrams",
+      "description": "Structural fidelity is essential to scientific methodology diagrams. To communicate research logic, these diagrams must faithfully render components, directional relations, and textual annotations. Since a single error, such as a reversed arrow or an unreadable equation, can invalidate the entire...",
+      "source_url": "http://arxiv.org/abs/2607.18091v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-20_sga-plugplay-geometric-verification-for-educationa",
+      "date": "2026-07-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "SGA: Plug&Play Geometric Verification for Educational Video Synthesis",
+      "description": "Recent work leverages Large Language Models (LLMs) to generate executable code for pedagogical animations using libraries such as Manim. However, ensuring spatial correctness and visual legibility remains challenging, as existing frameworks emphasize pedagogical content while overlooking geometri...",
+      "source_url": "http://arxiv.org/abs/2607.18116v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-20_simple-domain-generalization-for-strong-pixel-leve",
+      "date": "2026-07-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
+      "description": "Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cross-model and out-of-distribution shifts. This work studies domain generalization for pixel-level...",
+      "source_url": "http://arxiv.org/abs/2607.18230v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-20_vector-search-as-nearest-neighbor-matching-rag-bas",
+      "date": "2026-07-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
+      "description": "We propose one-step and two-step methods for policy learning with retrieval-augmented generation (RAG). We formulate RAG-based action selection under the potential outcome framework. In the two-step method, vector search retrieves action-specific neighboring evidence in an embedding space, the ge...",
+      "source_url": "http://arxiv.org/abs/2607.18225v1",
       "tags": [
         "paper",
         "arxiv",
