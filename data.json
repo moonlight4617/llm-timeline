@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T04:14:47.369587Z",
-    "total_events": 1108,
+    "generated_at": "2026-07-22T04:16:20.501734Z",
+    "total_events": 1123,
     "type_counts": {
-      "paper": 674,
+      "paper": 684,
       "model_release": 39,
-      "announcement": 392,
+      "announcement": 397,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 264,
+      "openai": 267,
       "anthropic": 10,
       "meta": 7,
-      "other": 671,
+      "other": 681,
       "mistral": 3,
       "xai": 2,
       "deepseek": 2,
-      "huggingface": 140
+      "huggingface": 142
     }
   },
   "companies": [
@@ -24202,6 +24202,331 @@
       "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
       "description": "We propose one-step and two-step methods for policy learning with retrieval-augmented generation (RAG). We formulate RAG-based action selection under the potential outcome framework. In the two-step method, vector search retrieves action-specific neighboring evidence in an embedding space, the ge...",
       "source_url": "http://arxiv.org/abs/2607.18225v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-21_appearance-pointers-multimodal-region-control-of-d",
+      "date": "2026-07-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
+      "description": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reliably achieved through text prompting alone. Diffusion Transformers (DiTs) can natively ingest het...",
+      "source_url": "http://arxiv.org/abs/2607.19344v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-21_beyond-score-prediction-llm-based-essay-scoring-an",
+      "date": "2026-07-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Beyond Score Prediction: LLM-Based Essay Scoring and Feedback Generation via Reinforcement Learning with Rubric Rewards",
+      "description": "Large language models (LLMs) have been widely applied to automated essay scoring (AES) and automated feedback generation (AFG). However, existing studies rely primarily on prompt engineering or supervised fine-tuning, while systematic research on reinforcement learning (RL) post-training and auto...",
+      "source_url": "http://arxiv.org/abs/2607.19219v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-21_biosecbench-surveillance-a-verifiable-benchmark-fo",
+      "date": "2026-07-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "BioSecBench-Surveillance: A Verifiable Benchmark for AI Agents in Pathogen Genomic Surveillance",
+      "description": "As pathogen genomic surveillance scales, the bottleneck is shifting from data generation to analysis. We present BioSecBench-Surveillance, a verifiable benchmark of 100 evaluations testing whether AI agents can infer the right analysis pipeline from raw sequencing data and surveillance context. E...",
+      "source_url": "http://arxiv.org/abs/2607.19262v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-21_coderescue-budget-calibrated-recovery-routing-for-",
+      "date": "2026-07-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
+      "description": "Coding agents increasingly operate in executable environments where a failed attempt produces actionable feedback rather than merely an incorrect answer. Existing cost-aware systems typically treat such failures as cascade decisions: try a cheap model first, then escalate hard cases to a stronger...",
+      "source_url": "http://arxiv.org/abs/2607.19338v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-21_david-vlez-and-robin-vince-join-the-boards-of-the-",
+      "date": "2026-07-21",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "description": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "source_url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-21_grabette-an-open-system-to-record-robot-manipulati",
+      "date": "2026-07-21",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/grabette",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-21_in-context-time-series-classification-with-random-",
+      "date": "2026-07-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "In-Context Time Series Classification with Random Convolutional Features",
+      "description": "Time series classification is central to domains like medical signal analysis, industrial monitoring, and sensor-based activity recognition, where class information manifests as localized shapes, specific frequencies, temporal shifts, or complex cross-channel interactions. Random convolutional tr...",
+      "source_url": "http://arxiv.org/abs/2607.19234v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-21_introducing-the-chatgpt-for-small-business-program",
+      "date": "2026-07-21",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing the ChatGPT for small business program",
+      "description": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "source_url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-21_openai-and-hugging-face-partner-to-address-securit",
+      "date": "2026-07-21",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "description": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "source_url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-21_roms-imle-a-minimalist-approach-to-competitive-sin",
+      "date": "2026-07-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling",
+      "description": "Generative models have undergone many generations of evolution, from VAEs/GANs to diffusion/flow matching. Along the way, the underlying techniques have become more complicated and various beliefs about what drives strong empirical performance have taken hold. Due to the success of diffusion mode...",
+      "source_url": "http://arxiv.org/abs/2607.19332v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-21_selective-state-space-adaptation-and-retrieval-for",
+      "date": "2026-07-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Selective State-Space Adaptation and Retrieval for Language Model Reasoning",
+      "description": "Low-rank adaptation introduces a static learned update applied identically to every input. The update provides task-level adaptation but does not explicitly represent token-level or instance-level state variation. A family of adapters is proposed that introduces selective state-space recurrence a...",
+      "source_url": "http://arxiv.org/abs/2607.19326v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-21_staypoint-detection-from-noisy-trajectory-data-exp",
+      "date": "2026-07-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Staypoint Detection from Noisy Trajectory Data [Experiment Paper]",
+      "description": "Detecting staypoints from raw trajectory data is fundamental to numerous spatial computing applications. This process transforms raw numeric sequences of geolocations into semantically meaningful locations, such as homes, workplaces, or restaurants. Despite its importance for semantic trajectory ...",
+      "source_url": "http://arxiv.org/abs/2607.19312v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-21_the-state-of-simulation-for-physical-ai-an-overvie",
+      "date": "2026-07-21",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-21_thermodynamics-informed-input-reparameterization-f",
+      "date": "2026-07-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Thermodynamics-Informed Input Reparameterization for Neural Prediction of Real-Fluid Thermodynamic Properties in Supercritical Combustion",
+      "description": "Real-fluid thermodynamic property evaluation is a major computational cost in supercritical combustion simulations. In the enthalpy-based pressure-correction formulation, the closure evaluates temperature T, density $ρ$, and compressibility coefficient $ψ$ from the solver state (h,p,Y) through en...",
+      "source_url": "http://arxiv.org/abs/2607.19241v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-21_two-level-meta-rubrics-for-evaluating-open-ended-g",
+      "date": "2026-07-21",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness",
+      "description": "Evaluating the factuality of long-form generations has focused predominantly on precision, measuring whether the claims a model makes are correct. The dominant decompose-search-verify pipeline catches incorrect claims well but says little about whether a response contains all the information it s...",
+      "source_url": "http://arxiv.org/abs/2607.19322v1",
       "tags": [
         "paper",
         "arxiv",
