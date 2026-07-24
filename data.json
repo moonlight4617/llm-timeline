@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-07-23T04:14:50.555402Z",
-    "total_events": 1138,
+    "generated_at": "2026-07-24T04:13:56.281848Z",
+    "total_events": 1150,
     "type_counts": {
-      "paper": 694,
+      "paper": 704,
       "model_release": 39,
-      "announcement": 402,
+      "announcement": 404,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 273,
+      "openai": 274,
       "anthropic": 10,
       "meta": 7,
-      "other": 690,
+      "other": 700,
       "mistral": 3,
       "xai": 2,
       "deepseek": 2,
-      "huggingface": 142
+      "huggingface": 143
     }
   },
   "companies": [
@@ -24853,6 +24853,268 @@
       "title": "User-Centric Modeling of Transactional Sequences with Explainable State Space Models",
       "description": "We propose a hybrid approach for user-centric modeling of transactional event sequences that combines contrastive representation learning (CoLES) with State Space Models (SSMs). While contrastive methods yield high-quality compressed user representations, existing encoders -- RNNs and Transformer...",
       "source_url": "http://arxiv.org/abs/2607.20228v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-23_adaptive-identity-anchoring-closed-loop-keyframe-p",
+      "date": "2026-07-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Adaptive Identity Anchoring: Closed-Loop Keyframe Placement for Synthetic Paired Supervision in Video Face Swapping",
+      "description": "Video face swapping has no natural paired supervision: no real footage exists of one person's face performing another person's video. The strongest current answer, DreamID-V's SyncID-Pipe, mints pairs by replacing the identity in exactly two frames of a real clip -- the first and the last -- and ...",
+      "source_url": "http://arxiv.org/abs/2607.21434v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-23_artificial-epanorthosis-why-large-language-models-",
+      "date": "2026-07-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it",
+      "description": "A rhetorical figure that Cicero and Quintilian catalogued two thousand years ago reappears, systematically, in the text of large language models: epanorthosis, the self-correction of the specimen «This is not a course. It is a journey of transformation». This essay argues that the overuse is a tr...",
+      "source_url": "http://arxiv.org/abs/2607.21498v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-23_bringing-nunchaku-4-bit-diffusion-inference-to-dif",
+      "date": "2026-07-23",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-23_capital-markets-llm-reliability-score-cm-lrs-from-",
+      "date": "2026-07-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Capital Markets LLM Reliability Score (CM-LRS): From Plausible to Bankable",
+      "description": "In capital-markets workflows the question is rarely whether a large language model can produce a fluent draft, but whether the draft is bankable: defensible in front of a counter-party or a regulator, with the documents in hand. Existing methods address parts of that gap: open-domain QA benchmark...",
+      "source_url": "http://arxiv.org/abs/2607.21340v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-23_kroquant-kronecker-structured-block-transforms-for",
+      "date": "2026-07-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "KroQuant: Kronecker-Structured Block Transforms for Efficient Post-Training Quantization of Diffusion Transformers",
+      "description": "Post-training quantization (PTQ) of diffusion transformers (DiTs) to W4A4 severely degrades output quality, because activations entering each linear layer contain outliers that 4-bit formats cannot represent. The standard fix applies an invertible linear transform to the activations and its inver...",
+      "source_url": "http://arxiv.org/abs/2607.21446v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-23_launching-health-in-chatgpt",
+      "date": "2026-07-23",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Launching Health in ChatGPT",
+      "description": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "source_url": "https://openai.com/index/health-in-chatgpt",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-23_medgame-storytelling-gamification-empowered-by-lar",
+      "date": "2026-07-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
+      "description": "Large Language Models (LLMs) show promise for medical education, but most existing systems focus on localized interactions such as question answering or single-turn feedback, rather than organizing an entire clinical case into a decision-centered learning trajectory. We introduce \textit{MedGame}...",
+      "source_url": "http://arxiv.org/abs/2607.21570v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-23_multimodal-pretraining-for-generalizable-eeg-repre",
+      "date": "2026-07-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Multimodal Pretraining for Generalizable EEG Representation Learning",
+      "description": "Electroencephalography (EEG) models used for epilepsy are often limited to specific datasets and tasks. This limited approach can make it challenging to apply these models across different datasets or in various situations. However, recent studies in foundation models and self-supervised learning...",
+      "source_url": "http://arxiv.org/abs/2607.21384v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-23_openforgerl-train-harness-native-agents-in-any-env",
+      "date": "2026-07-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
+      "description": "Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these complex harnesses also make agents hard to train end-to-end with open infrastructure, whose SFT/RL stacks ...",
+      "source_url": "http://arxiv.org/abs/2607.21557v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-23_regulating-autonomous-and-agentic-ai",
+      "date": "2026-07-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Regulating autonomous and agentic AI",
+      "description": "Regulating activities where regulatees use autonomous and agentic AI is challenging. Regulatory assumptions about regulatee knowledge and control no longer hold true; much of that lies elsewhere in the AI supply chain which thus needs to be brought within the scope of regulation. Governance syste...",
+      "source_url": "http://arxiv.org/abs/2607.21345v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-23_same-dangerous-objective-opposite-advice-direct-ex",
+      "date": "2026-07-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Same Dangerous Objective, Opposite Advice: Direct Exposure versus Multi-Agent Mediation",
+      "description": "Even a current high-capability LLM can appear safer when shown a dangerous objective directly than when other agents transform and relay its direction. Using OpenAI's gpt-5.6-sol model alias, we test 25 pre-specified mirrored trade-off profiles. Direct exposure to an objective authorizing conceal...",
+      "source_url": "http://arxiv.org/abs/2607.21518v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-23_synthetic-data-generation-framework-for-quality-co",
+      "date": "2026-07-23",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Synthetic data generation framework for quality control automation in gravure printing",
+      "description": "Quality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining high-quality standards in rotogravure printing. Deep learning models give prospects for automation. Ho...",
+      "source_url": "http://arxiv.org/abs/2607.21577v1",
       "tags": [
         "paper",
         "arxiv",
