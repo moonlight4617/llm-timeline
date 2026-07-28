@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-07-27T04:36:13.291273Z",
-    "total_events": 1160,
+    "generated_at": "2026-07-28T04:09:25.511551Z",
+    "total_events": 1172,
     "type_counts": {
-      "paper": 714,
+      "paper": 724,
       "model_release": 39,
-      "announcement": 404,
+      "announcement": 406,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 274,
+      "openai": 275,
       "anthropic": 10,
       "meta": 7,
-      "other": 710,
+      "other": 720,
       "mistral": 3,
       "xai": 2,
       "deepseek": 2,
-      "huggingface": 143
+      "huggingface": 144
     }
   },
   "companies": [
@@ -25335,6 +25335,268 @@
       "title": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
       "description": "Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing motion perception methods (e.g., sparse tracking, dense point-wise flow) treat motion as independent ...",
       "source_url": "http://arxiv.org/abs/2607.22534v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-27_certified-parallel-in-time-sinkhorn-for-dynamic-en",
+      "date": "2026-07-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport",
+      "description": "Dynamic applications, including optimal-transport Flow Matching, repeatedly solve related entropic optimal transport problems, yet conventional distributed Sinkhorn processes frames sequentially and synchronizes after every iteration. We present TemporalSinkhorn, a parallel-in-time executor that ...",
+      "source_url": "http://arxiv.org/abs/2607.24741v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-27_clinfusion-a-vision-centric-multimodal-llm-system-",
+      "date": "2026-07-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+      "description": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must align w...",
+      "source_url": "http://arxiv.org/abs/2607.24743v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-27_efficient-llm-generated-shuttling-compilers-for-co",
+      "date": "2026-07-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Efficient LLM-Generated Shuttling Compilers for Complex Trapped-Ion Architectures",
+      "description": "Trapped-ion quantum computers rely on shuttling compilers, which cast an input algorithm into a sequence of ion-qubit movements within a given architecture. We present the first study in which a single frontier large language model (LLM), Claude Opus 4.7, generates and iteratively refines the ful...",
+      "source_url": "http://arxiv.org/abs/2607.24714v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-27_egoplay-event-triggered-video-editing-for-egocentr",
+      "date": "2026-07-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "EgoPlay: Event-Triggered Video Editing for Egocentric Streams",
+      "description": "We introduce EgoPlay, an event-triggered video-to-video editor for egocentric streams, obtained by fine-tuning a pretrained V2V diffusion transformer on event-conditioned data built primarily from Ego4D. Given a monocular video and an event-triggered prompt of the form 'when X happens, do Y,' Ego...",
+      "source_url": "http://arxiv.org/abs/2607.24560v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-27_hierarchical-group-conditional-conformal-risk-cont",
+      "date": "2026-07-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Hierarchical Group-Conditional Conformal Risk Control for Selective Prediction in Language Models",
+      "description": "Large language models serve heterogeneous populations structured by domain, topic difficulty, and linguistic style. Conformal risk control (CRC) gives rigorous marginal risk guarantees for selective prediction with abstention, but marginal guarantees do not imply per-group ones: a model can meet ...",
+      "source_url": "http://arxiv.org/abs/2607.24562v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-27_how-ai-is-expanding-what-people-do-at-work",
+      "date": "2026-07-27",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How AI is expanding what people do at work",
+      "description": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "source_url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-27_kimi-k3-open-frontier-intelligence",
+      "date": "2026-07-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "description": "We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and mode...",
+      "source_url": "http://arxiv.org/abs/2607.24653v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-27_llm-assisted-ontology-engineering-and-construction",
+      "date": "2026-07-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "LLM-Assisted Ontology Engineering and Construction of a French Legal Knowledge Graph",
+      "description": "Maintenance regulations are complex legal texts that are difficult to exploit when addressing a specific case and challenging to integrate into operational systems. This paper presents a two-stage LLM-assisted workflow for French maintenance regulations: ontology engineering from a SEMLEG-based c...",
+      "source_url": "http://arxiv.org/abs/2607.24551v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-27_llm-soccerarena-benchmarking-llms-on-real-world-pr",
+      "date": "2026-07-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "LLM-SoccerArena: Benchmarking LLMs on Real-World Predictions in Sports",
+      "description": "Large language models (LLMs) increasingly support decisions about uncertain future events, yet evaluating their ability to forecast real-world outcomes remains difficult. In particular, existing benchmarks are typically static and retrospective, and therefore cannot test how information is synthe...",
+      "source_url": "http://arxiv.org/abs/2607.24573v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-27_mmoe-modernizing-diffusion-transformers-with-effic",
+      "date": "2026-07-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "MMOE: Modernizing Diffusion Transformers with Efficient Expert Design",
+      "description": "Modern large language models scale successfully by pairing capacity growth with efficiency, keeping per-token and deployment costs under control as capacity grows. AIGC Foundation Models (AFMs), especially diffusion-transformer backbones, have begun to adopt sparse experts, but recent efforts mos...",
+      "source_url": "http://arxiv.org/abs/2607.24665v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-27_nvidia-cosmos-h-dreams-bringing-real-time-generati",
+      "date": "2026-07-27",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-27_systematic-analysis-of-large-language-models-and-t",
+      "date": "2026-07-27",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Systematic Analysis of Large Language Models and Transformer-Based Machine Translation for English-Tamil and Tamil-English Across Diverse Datasets",
+      "description": "The challenge of Machine Translation for low resource languages such as Tamil is primarily caused by the restricted amount of parallel data for these languages, as well as their substantial amount of domain variation and morphological complexity. This research presents the comprehensive evaluatio...",
+      "source_url": "http://arxiv.org/abs/2607.24515v1",
       "tags": [
         "paper",
         "arxiv",
