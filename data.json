@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T04:09:25.511551Z",
-    "total_events": 1172,
+    "generated_at": "2026-07-29T04:11:54.344244Z",
+    "total_events": 1186,
     "type_counts": {
-      "paper": 724,
+      "paper": 734,
       "model_release": 39,
-      "announcement": 406,
+      "announcement": 410,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 275,
+      "openai": 276,
       "anthropic": 10,
       "meta": 7,
-      "other": 720,
+      "other": 730,
       "mistral": 3,
       "xai": 2,
       "deepseek": 2,
-      "huggingface": 144
+      "huggingface": 147
     }
   },
   "companies": [
@@ -25349,6 +25349,27 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-07-27_anatomy-of-a-frontier-lab-agent-intrusion-a-techni",
+      "date": "2026-07-27",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-07-27_certified-parallel-in-time-sinkhorn-for-dynamic-en",
       "date": "2026-07-27",
       "type": "paper",
@@ -25597,6 +25618,289 @@
       "title": "Systematic Analysis of Large Language Models and Transformer-Based Machine Translation for English-Tamil and Tamil-English Across Diverse Datasets",
       "description": "The challenge of Machine Translation for low resource languages such as Tamil is primarily caused by the restricted amount of parallel data for these languages, as well as their substantial amount of domain variation and morphological complexity. This research presents the comprehensive evaluatio...",
       "source_url": "http://arxiv.org/abs/2607.24515v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-28_ais-capability-in-assisting-scientific-research-in",
+      "date": "2026-07-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AI's Capability in Assisting Scientific Research in Physics, Astrophysics, and Cosmology II: Project Planning and Proposal Evaluation",
+      "description": "We investigate how well large language models (LLMs) can assist scientific project planning and proposal evaluation. One-page project plans were independently generated for eight expert-conceived research projects in physics, astrophysics, and cosmology by human researchers and three contemporary...",
+      "source_url": "http://arxiv.org/abs/2607.25881v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-28_device-invariance-using-domain-adaptation-on-acous",
+      "date": "2026-07-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Device Invariance using Domain Adaptation on Acoustic Scene Classification",
+      "description": "This paper explores the effectiveness of domain adaptation techniques when using convolutional neural network (CNN)-based and transformer-based feature representations for acoustic scene classification. Two well-known domain adaptation techniques, namely domain adversarial neural network (also ca...",
+      "source_url": "http://arxiv.org/abs/2607.25887v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-28_evaluating-vlms-for-autonomous-agent-driven-geomet",
+      "date": "2026-07-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Evaluating VLMs for Autonomous Agent-Driven Geometry Clipping Detection in Video Game QA",
+      "description": "In this work, we study the use of Vision-Language Models (VLMs) for anomaly detection in an agent-driven game Quality Assurance (QA) pipeline focusing on geometry clipping. In this evaluation, a custom exploration agent navigates a game level to collect visual observations, while the automatic an...",
+      "source_url": "http://arxiv.org/abs/2607.25921v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-28_generator-aligned-representation-interfaces-for-di",
+      "date": "2026-07-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Generator-Aligned Representation Interfaces for Diagnostic Soft Equivariance",
+      "description": "Exact-equivariant architectures typically encode prescribed group actions in specialized operators, which can complicate their reuse with generic backbones and across data modalities. We introduce the Generator-Aligned Representation Interface (GARI), a representation-level design principle that ...",
+      "source_url": "http://arxiv.org/abs/2607.25988v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-28_instruction-tuned-models-locally-reuse-human-synta",
+      "date": "2026-07-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Instruction-Tuned Models Locally Reuse Human Syntax More Than Humans Do",
+      "description": "Syntactic convergence (the tendency of speakers to adapt in language towards the grammatical profiles of their interlocutors) is a well-documented feature of human dialogue widely considered to operate below conscious awareness. Whether large language models exhibit analogous syntactic convergenc...",
+      "source_url": "http://arxiv.org/abs/2607.26015v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-28_lfm25-encoders-for-fast-long-context-inference-on-",
+      "date": "2026-07-28",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-28_mdtransformer-a-hardware-software-co-design-of-mod",
+      "date": "2026-07-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "MDTransformer: A Hardware-Software Co-Design of Mode-Division Photonic Transformer Accelerator with Inverse-Designed Coherent Crossbar",
+      "description": "Recently, photonic transformer accelerators (PTAs) have successfully achieved significant speedup and energy efficiency improvements over electronic accelerators for expediting Transformer inference. However, state-of-the-art rely on expensive multi-wavelength light generation and large dot-produ...",
+      "source_url": "http://arxiv.org/abs/2607.26016v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-28_minimizing-targeted-activations-input-only-suppres",
+      "date": "2026-07-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Minimizing Targeted Activations: Input-Only Suppression of Evaluation-Awareness Latents in Large Language Models",
+      "description": "Activation steering controls model behavior by editing internal activations at inference time. We study its input-side dual: optimizing a fluent prompt so that a chosen internal latent is driven toward zero, with no inference-time model access. Our target is an 'evaluation-awareness' latent-linea...",
+      "source_url": "http://arxiv.org/abs/2607.25907v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-28_penelope-localized-latent-recurrence-for-efficient",
+      "date": "2026-07-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Penelope: Localized Latent Recurrence for Efficient Structured Reasoning",
+      "description": "Complex structured reasoning tasks often require additional computation, yet current language models obtain it mainly by increasing parameter scale or by serializing intermediate steps as chain-of-thought (CoT) tokens. The former raises training and deployment costs, while the latter ties reasoni...",
+      "source_url": "http://arxiv.org/abs/2607.25915v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-28_scientific-computing-in-the-age-of-agentic-ai",
+      "date": "2026-07-28",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Scientific computing in the age of agentic AI",
+      "description": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "source_url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-28_spend-experts-where-you-are-unsure-confidence-adap",
+      "date": "2026-07-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-Experts LoRA",
+      "description": "Mixture-of-Experts (MoE) variants of Low-Rank Adaptation (LoRA) route every token to a fixed number of experts $k$. Tokens differ in how uncertain the model is about them, so a single k over-spends on easy tokens and under-serves hard ones. We observe that the router's output distribution is alre...",
+      "source_url": "http://arxiv.org/abs/2607.26052v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-28_the-olmoearth-platform-geospatial-inference-at-pla",
+      "date": "2026-07-28",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-28_vetclaw-an-edge-cloud-multimodal-agentic-system-fo",
+      "date": "2026-07-28",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening",
+      "description": "We present VetClaw, an edge-cloud multimodal agentic system for early veterinary disease screening. VetClaw uses a camera module as an edge sensing device and sends captured images, together with optional symptom descriptions, to a server-hosted vision-language model for zero-shot disease classif...",
+      "source_url": "http://arxiv.org/abs/2607.26042v1",
       "tags": [
         "paper",
         "arxiv",
