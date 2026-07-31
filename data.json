@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-07-30T03:56:18.306063Z",
-    "total_events": 1199,
+    "generated_at": "2026-07-31T04:21:46.224192Z",
+    "total_events": 1212,
     "type_counts": {
-      "paper": 744,
+      "paper": 754,
       "model_release": 39,
-      "announcement": 413,
+      "announcement": 416,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 279,
+      "openai": 281,
       "anthropic": 10,
       "meta": 7,
-      "other": 740,
+      "other": 750,
       "mistral": 3,
       "xai": 2,
       "deepseek": 2,
-      "huggingface": 147
+      "huggingface": 148
     }
   },
   "companies": [
@@ -26184,6 +26184,289 @@
       "title": "Voronoi Histograms for Adaptive Vectorization of Expected Persistence Diagrams",
       "description": "Persistence Diagram (PD) is known to capture point cloud topology effectively, but its computation has high time complexity. Expected Persistence Diagram (EPD) has been developed to reduce the time cost by studying the topology of multiple subsets of a point cloud and it serves as a distribution ...",
       "source_url": "http://arxiv.org/abs/2607.27126v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-30_a-fuzzy-rule-based-neuro-symbolic-approach-for-pip",
+      "date": "2026-07-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A Fuzzy Rule-based Neuro-Symbolic Approach for Pipe Severity Prediction in Sewer Networks",
+      "description": "Standard automated sewer pipe severity assessment relies on direct image classification, creating a 'black box' where the link between visual defects and final severity scores remains implicit. This study introduces a modular, fuzzy rule-based neuro-symbolic framework that bridges this gap by dec...",
+      "source_url": "http://arxiv.org/abs/2607.28481v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-30_a-report-grounded-vision-language-foundation-model",
+      "date": "2026-07-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A report-grounded vision-language foundation model for colonoscopy from 280000 routine reports",
+      "description": "Vision-language models remain underused in colonoscopy despite the rich expert descriptions recorded in routine reports. These reports document lesion appearance, size and location but summarise entire procedures rather than caption individual frames, leaving clinical findings only weakly linked ...",
+      "source_url": "http://arxiv.org/abs/2607.28466v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-30_advancing-the-price-performance-frontier-with-gpt-",
+      "date": "2026-07-30",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "description": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "source_url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-30_askchem-claim-centered-infrastructure-for-chemistr",
+      "date": "2026-07-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
+      "description": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a result, scientists and AI agents need to locate relevant information, verify their provenance, and ass...",
+      "source_url": "http://arxiv.org/abs/2607.28618v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-30_beyond-sentiment-structured-information-extraction",
+      "date": "2026-07-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Beyond Sentiment: Structured Information Extraction from Financial News",
+      "description": "Financial sentiment analysis has become a standard component in news-driven stock prediction, yet it reduces rich, multi-dimensional news articles to a single polarity score. We hypothesize that financial news encodes multiple orthogonal information dimensions---event type, impact scope, temporal...",
+      "source_url": "http://arxiv.org/abs/2607.28496v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-30_creative-transformation-in-literary-texts-modellin",
+      "date": "2026-07-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Creative Transformation in Literary Texts: Modelling Change Across Representational Levels",
+      "description": "Creativity is often framed as the production of novelty, yet many cultural works emerge through transformation of earlier artifacts and not through isolated invention. Drawing on theories of imitation by Gabriel Tarde and James Mark Baldwin, this paper models creativity as selective transformatio...",
+      "source_url": "http://arxiv.org/abs/2607.28513v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-30_frontis-ma1-training-an-ai4ai-model-towards-recurs",
+      "date": "2026-07-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering",
+      "description": "Recursive self-improvement (RSI) requires AI systems that improve the process of building AI (i.e., AI4AI); machine learning engineering (MLE) offers a concrete, executable testbed for studying this capability. We introduce OpenMLE, an open full-stack system for RSI research in MLE, spanning veri...",
+      "source_url": "http://arxiv.org/abs/2607.28568v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-30_gpu-management-why-idle-gpus-are-the-new-grounded-",
+      "date": "2026-07-30",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-30_how-avatarin-built-a-247-retail-agent-with-gpt-rea",
+      "date": "2026-07-30",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "description": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+      "source_url": "https://openai.com/index/avatarin",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-30_learning-to-trace-seiberg-dualities",
+      "date": "2026-07-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Learning to Trace Seiberg Dualities",
+      "description": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establish when two systems are dual, even when all of the 'rules of the game' are well-known. Said diff...",
+      "source_url": "http://arxiv.org/abs/2607.28628v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-30_mixfrag-fragility-guided-mixed-precision-post-trai",
+      "date": "2026-07-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers",
+      "description": "Post-training quantization (PTQ) has emerged as an effective solution for deploying Vision Transformers (ViTs) on resource-constrained devices. However, existing PTQ methods typically employ uniform bit-widths across transformer components, overlooking their heterogeneous sensitivity to quantizat...",
+      "source_url": "http://arxiv.org/abs/2607.28589v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-30_orca-bench-how-ready-are-language-model-agents-for",
+      "date": "2026-07-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "ORCA-bench: How Ready Are Language Model Agents for Oncall?",
+      "description": "Large language models can write, patch, and search code, but oncall root cause analysis (RCA) demands something different: reasoning over noisy metrics, logs, traces, and source code, starting from ambiguous user-facing reports, often hours after the incident began. We introduce ORCA-bench, a ben...",
+      "source_url": "http://arxiv.org/abs/2607.28545v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-30_selective-credibility-limited-belief-update",
+      "date": "2026-07-30",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Selective Credibility-Limited Belief Update",
+      "description": "Belief update concerns changes in an agent's beliefs induced by changes in the underlying world. Standard Katsuno-Mendelzon update assumes that an epistemic input can be incorporated from every initially possible world, whereas credibility-limited belief update restricts, for each source world, t...",
+      "source_url": "http://arxiv.org/abs/2607.28523v1",
       "tags": [
         "paper",
         "arxiv",
