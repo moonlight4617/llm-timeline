@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-07-31T04:21:46.224192Z",
-    "total_events": 1212,
+    "generated_at": "2026-08-01T04:20:54.812897Z",
+    "total_events": 1216,
     "type_counts": {
       "paper": 754,
       "model_release": 39,
-      "announcement": 416,
+      "announcement": 420,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 281,
+      "openai": 285,
       "anthropic": 10,
       "meta": 7,
       "other": 750,
@@ -26479,6 +26479,90 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-31_advancing-responsible-ai-across-europe",
+      "date": "2026-07-31",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Advancing responsible AI across Europe",
+      "description": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "source_url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-31_building-abundant-intelligence",
+      "date": "2026-07-31",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Building abundant intelligence",
+      "description": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+      "source_url": "https://openai.com/index/building-abundant-intelligence",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-31_disrupting-a-criminal-scam-operation",
+      "date": "2026-07-31",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Disrupting a Criminal Scam Operation",
+      "description": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-31_univ-builds-an-ai-ready-workforce",
+      "date": "2026-07-31",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Univé builds an AI-ready workforce",
+      "description": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "source_url": "https://openai.com/index/unive",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
     }
   ]
 }
