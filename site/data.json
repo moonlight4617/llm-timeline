@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T04:20:54.812897Z",
-    "total_events": 1216,
+    "generated_at": "2026-08-02T04:22:24.098770Z",
+    "total_events": 1217,
     "type_counts": {
       "paper": 754,
       "model_release": 39,
-      "announcement": 420,
+      "announcement": 421,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 285,
+      "openai": 286,
       "anthropic": 10,
       "meta": 7,
       "other": 750,
@@ -26552,6 +26552,27 @@
       "title": "Univé builds an AI-ready workforce",
       "description": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
       "source_url": "https://openai.com/index/unive",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-01_ten-advances-in-mathematics-and-theoretical-comput",
+      "date": "2026-08-01",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "description": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "source_url": "https://openai.com/index/ten-advances-in-mathematics",
       "tags": [
         "openai",
         "auto-collected"
