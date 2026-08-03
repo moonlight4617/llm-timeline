@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T04:22:24.098770Z",
-    "total_events": 1217,
+    "generated_at": "2026-08-03T04:29:34.007794Z",
+    "total_events": 1227,
     "type_counts": {
-      "paper": 754,
+      "paper": 764,
       "model_release": 39,
       "announcement": 421,
       "statement": 2,
@@ -14,9 +14,9 @@
       "openai": 286,
       "anthropic": 10,
       "meta": 7,
-      "other": 750,
+      "other": 759,
       "mistral": 3,
-      "xai": 2,
+      "xai": 3,
       "deepseek": 2,
       "huggingface": 148
     }
@@ -26502,6 +26502,50 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-07-31_amtfv-agentic-mathematical-tool-flow-verification-",
+      "date": "2026-07-31",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction",
+      "description": "Large language models have demonstrated strong mathematical problem-solving capabilities, yet reliably verifying their candidate answers remains challenging. Existing representative methods mainly revise outputs through natural-language reflection or assist verification by directly generating ver...",
+      "source_url": "http://arxiv.org/abs/2607.29549v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-31_arb-a-matched-authorship-rewriting-benchmark-datas",
+      "date": "2026-07-31",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "ARB: A Matched Authorship-Rewriting Benchmark Dataset for AI-Text Detector Evaluation",
+      "description": "Standard AI-text detection benchmarks compare human-written text against text generated directly by large language models (LLMs). While prior work has shown that rewriting and paraphrasing can degrade detector performance, it remains unclear whether performance measured on this conventional bench...",
+      "source_url": "http://arxiv.org/abs/2607.29539v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-07-31_building-abundant-intelligence",
       "date": "2026-07-31",
       "type": "announcement",
@@ -26523,6 +26567,28 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-07-31_cendre-concept-extraction-with-natural-domain-repr",
+      "date": "2026-07-31",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "CENDRe: Concept Extraction with Natural Domain Representations",
+      "description": "Convolutional neural networks (CNNs) are widely used for time-series classification, but their deployment in critical domains requires understanding the temporal and spectral patterns that drive their predictions. Concept extraction (CE) methods identify such patterns by analyzing representations...",
+      "source_url": "http://arxiv.org/abs/2607.29621v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-07-31_disrupting-a-criminal-scam-operation",
       "date": "2026-07-31",
       "type": "announcement",
@@ -26542,6 +26608,161 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-07-31_extractbench-a-benchmark-for-schema-guided-enterpr",
+      "date": "2026-07-31",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
+      "description": "Enterprise workflows increasingly rely on agents for \u001bmph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with source evidence as grounding metadata. We present ExtractBench, a benchmark for schema-guide...",
+      "source_url": "http://arxiv.org/abs/2607.29677v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-31_modelequivbench-certifying-multi-relational-evalua",
+      "date": "2026-07-31",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "ModelEquivBench: Certifying Multi-Relational Evaluation of LLM-Generated Optimization Models",
+      "description": "Large language models increasingly generate optimization models from natural language, but existing evaluation often reduces a generated model and its ground truth to a single equivalent/not-equivalent verdict or an execution-success rate--labels that are neither independently checkable nor faith...",
+      "source_url": "http://arxiv.org/abs/2607.29431v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-31_terranova-a-foundation-model-for-the-anthropocene",
+      "date": "2026-07-31",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "TerraNova: A Foundation Model for the Anthropocene",
+      "description": "A defining problem of the Anthropocene is to model the physical Earth and human societies as one coupled system, yet no learned representation spans their observational breadth. We argue the obstacle is geometric: the physical Earth is measured as continuous fields that ignore political borders, ...",
+      "source_url": "http://arxiv.org/abs/2607.29527v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-31_the-grokked-illusion-true-equilibrium-mitigates-ca",
+      "date": "2026-07-31",
+      "type": "paper",
+      "company": "xai",
+      "person": null,
+      "title": "The Grokked Illusion: True Equilibrium Mitigates Catastrophic Forgetting",
+      "description": "While neural networks are typically evaluated by their training and test performance, these metrics do not reveal how robust a learned representation is. Recent studies have shown that solutions occupying larger volumes in parameter space, as quantified by Boltzmann entropy, often exhibit superio...",
+      "source_url": "http://arxiv.org/abs/2607.29503v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected",
+        "xai"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "xAI",
+      "company_color": "#1DA1F2",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-31_toktier-exact-stateful-tokenization-for-agentic-ll",
+      "date": "2026-07-31",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "TokTier: Exact Stateful Tokenization for Agentic LLM Serving",
+      "description": "LLM serving systems cache prompt KV state, yet most front ends still re-tokenize the full request text on every call. The cost lands on coding agents, which resubmit a long transcript after each small tool result, and reuse is hard because even a short append can change token boundaries near the ...",
+      "source_url": "http://arxiv.org/abs/2607.29678v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-31_tracevit-grounded-trace-supervision-for-visual-abs",
+      "date": "2026-07-31",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "TraceViT: Grounded Trace Supervision for Visual Abstract Reasoning",
+      "description": "The Abstraction and Reasoning Corpus (ARC) tests whether a model can infer an unseen transformation from a few input-output examples and apply it to a new grid. Looped visual reasoners refine predictions over multiple iterations, but conventional training constrains only the final output, leaving...",
+      "source_url": "http://arxiv.org/abs/2607.29586v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-31_transcript-managed-transformers-monotone-multi-age",
+      "date": "2026-07-31",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Transcript-Managed Transformers: Monotone Multi-Agent Collapse and Universality with Two Pop-Enabled Transcripts",
+      "description": "We study transcript management for fixed, finite-precision causal Transformers. A transcript is partitioned into channels of bounded blocks. Each transition consults a fixed visible suffix and may append one block, leaving the model, weights, and token protocol unchanged. The operation $P_c:= op...",
+      "source_url": "http://arxiv.org/abs/2607.29496v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     },
     {
       "id": "2026-07-31_univ-builds-an-ai-ready-workforce",
