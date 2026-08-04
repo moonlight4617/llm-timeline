@@ -1,20 +1,20 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T04:29:34.007794Z",
-    "total_events": 1227,
+    "generated_at": "2026-08-04T04:14:02.734477Z",
+    "total_events": 1239,
     "type_counts": {
-      "paper": 764,
+      "paper": 774,
       "model_release": 39,
-      "announcement": 421,
+      "announcement": 423,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 286,
+      "openai": 288,
       "anthropic": 10,
       "meta": 7,
-      "other": 759,
+      "other": 769,
       "mistral": 3,
       "xai": 3,
       "deepseek": 2,
@@ -26805,6 +26805,268 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-03_abduction-without-a-body-representational-groundin",
+      "date": "2026-08-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Abduction Without a Body? Representational Grounding and the Abduction Loop for Scientific Hypothesis Generation",
+      "description": "Can scientific abduction occur without continuous sensorimotor embodiment? Recent arguments in AI and philosophy of science hold that genuine hypothesis generation requires an agent continuously coupled to the physical world. We defend a narrower claim: online embodiment is not necessary for ever...",
+      "source_url": "http://arxiv.org/abs/2608.02505v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-03_antares-foundation-models-for-agentic-vulnerabilit",
+      "date": "2026-08-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Antares: Foundation Models for Agentic Vulnerability Localization",
+      "description": "Vulnerability localization is a fundamental step in software security, requiring models to reason over large codebases and iteratively identify vulnerable implementations. We present Antares, a family of compact language models (350M, 1B, and 3B parameters) for agentic vulnerability localization....",
+      "source_url": "http://arxiv.org/abs/2608.02407v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-03_aurora-lm-autoencoding-unified-representation-for-",
+      "date": "2026-08-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
+      "description": "Language remains an outlier in generative modeling: while images, video, and audio are increasingly modeled in continuous latent spaces, text generation still relies predominantly on discrete tokens. Existing continuous language models either inherit embedding spaces not designed for joint genera...",
+      "source_url": "http://arxiv.org/abs/2608.02602v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-03_can-foundation-models-hear-what-made-that-sound-a-",
+      "date": "2026-08-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Can Foundation Models Hear What Made That Sound? A Tiered Benchmark of Audio-Language Models and Traditional Classifiers for Closed-Set Sound Source Identification",
+      "description": "We benchmark eleven audio classification methods: five task-aware closed-set LLMs (four Gemini models plus open-weight Kimi-Audio-7B-Instruct), four fixed-vocabulary taggers (YAMNet, PANNs, Whisper-AT, and SSLAM), a zero-shot audio-text model (CLAP), and an audio-grounded LLM (BAT). We evaluate t...",
+      "source_url": "http://arxiv.org/abs/2608.02397v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-03_circles-powers-telco-personalization-with-openai-t",
+      "date": "2026-08-03",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "description": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "source_url": "https://openai.com/index/circles",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-03_cmuon-accelerating-and-stabilizing-diffusion-trans",
+      "date": "2026-08-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "CMuon: Accelerating and Stabilizing Diffusion Transformer Training via Chunked Momentum Orthogonalization",
+      "description": "Diffusion Transformers (DiTs) have achieved state-of-the-art (SOTA) performance in visual generative modeling, yet their training remains computationally prohibitive. While the recently proposed Momentum Orthogonalization (Muon) optimizer offers a promising alternative to AdamW, its direct applic...",
+      "source_url": "http://arxiv.org/abs/2608.02502v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-03_dyfrdet-towards-accurate-small-object-detection-vi",
+      "date": "2026-08-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "DyFrDet: Towards Accurate Small Object Detection via Dynamic Frequency Suppression with Label Disambiguation",
+      "description": "Despite the remarkable progress over the past decades, accurately identifying small objects remains challenging because of their insufficient visual cues. Previous works typically attempt to construct discriminative representation of the small objects. However, the wide range frequency domain noi...",
+      "source_url": "http://arxiv.org/abs/2608.02495v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-03_gradcuit-credit-assigned-gradient-flow-enables-rob",
+      "date": "2026-08-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning",
+      "description": "Optimization-based latent reasoning improves large language model outputs by optimizing instance-specific continuous states at test time while keeping model parameters frozen. Existing methods, however, typically connect these states to the reasoning trajectory through decoded tokens, making sequ...",
+      "source_url": "http://arxiv.org/abs/2608.02585v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-03_how-we-built-a-realtime-system-for-responsive-voic",
+      "date": "2026-08-03",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "description": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "source_url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-03_real-time-detection-and-repair-of-llm-agent-failur",
+      "date": "2026-08-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Real-Time Detection and Repair of LLM Agent Failures",
+      "description": "LLM agents fail mid-episode -- they loop, cascade tool errors, drift off goal, fabricate results, or silently absorb corrupted content -- and the standard remedy, judging every step with a second LLM, costs more than the agent itself. We ask how much detection is achievable from observable step t...",
+      "source_url": "http://arxiv.org/abs/2608.02464v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-03_structured-memory-for-edge-language-models-persist",
+      "date": "2026-08-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection",
+      "description": "Retrieval-augmented generation (RAG) imposes a prefill cost proportional to retrieved context length, and -- with Transformer backbones -- a KV-cache that grows with each generated token. State-Space Models (SSMs) avoid the second cost by construction; we eliminate the first, collapsing prefill f...",
+      "source_url": "http://arxiv.org/abs/2608.02560v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-03_the-condition-number-barrier-in-sparse-least-squar",
+      "date": "2026-08-03",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The Condition-Number Barrier in Sparse Least Squares",
+      "description": "In [AS21], Axiotis and Sviridenko conjectured that the linear dependence on the restricted condition number in sparse convex optimization cannot be improved by a polynomial-time algorithm. We establish their conjectured lower bound for least-squares objectives, conditional on the randomized exact...",
+      "source_url": "http://arxiv.org/abs/2608.02588v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     }
   ]
 }
