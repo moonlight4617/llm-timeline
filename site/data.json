@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T04:14:02.734477Z",
-    "total_events": 1239,
+    "generated_at": "2026-08-05T04:09:11.410838Z",
+    "total_events": 1263,
     "type_counts": {
-      "paper": 774,
+      "paper": 784,
       "model_release": 39,
-      "announcement": 423,
+      "announcement": 437,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 288,
+      "openai": 291,
       "anthropic": 10,
       "meta": 7,
-      "other": 769,
-      "mistral": 3,
+      "other": 779,
+      "mistral": 13,
       "xai": 3,
       "deepseek": 2,
-      "huggingface": 148
+      "huggingface": 149
     }
   },
   "companies": [
@@ -14298,6 +14298,27 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-05-27_introducing-physics-ai-at-mistral-the-foundation-f",
+      "date": "2026-05-27",
+      "type": "announcement",
+      "company": "mistral",
+      "person": null,
+      "title": "Introducing physics AI at Mistral: the foundation for engineering acceleration.",
+      "description": "A new class of AI models that predict the behavior of physical systems, powering the engineers and hardware products of tomorrow.",
+      "source_url": "https://mistral.ai/news/introducing-physics-ai-at-mistral/",
+      "tags": [
+        "mistral",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Mistral AI",
+      "company_color": "#FF6B6B",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-05-27_itbench-aa-frontier-models-score-below-50-on-the-f",
       "date": "2026-05-27",
       "type": "announcement",
@@ -14382,6 +14403,27 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-05-28_ai-now-summit-2026",
+      "date": "2026-05-28",
+      "type": "announcement",
+      "company": "mistral",
+      "person": null,
+      "title": "AI Now Summit 2026",
+      "description": "Innovations for global enterprises solving the world’s hardest problems.",
+      "source_url": "https://mistral.ai/news/ai-now-summit-2026/",
+      "tags": [
+        "mistral",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Mistral AI",
+      "company_color": "#FF6B6B",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-05-28_how-endava-builds-an-agentic-organization-with-cod",
       "date": "2026-05-28",
       "type": "announcement",
@@ -14399,6 +14441,27 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-28_introducing-search-toolkit",
+      "date": "2026-05-28",
+      "type": "announcement",
+      "company": "mistral",
+      "person": null,
+      "title": "Introducing Search Toolkit",
+      "description": "Search Toolkit is a composable framework for building production search pipelines for AI applications.",
+      "source_url": "https://mistral.ai/news/search-toolkit/",
+      "tags": [
+        "mistral",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Mistral AI",
+      "company_color": "#FF6B6B",
       "person_name": "",
       "type_icon": "📢"
     },
@@ -14441,6 +14504,27 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-05-28_vibe-gets-to-work",
+      "date": "2026-05-28",
+      "type": "announcement",
+      "company": "mistral",
+      "person": null,
+      "title": "Vibe gets to work.",
+      "description": "The unified agent for long-horizon productivity and coding, launching with Work and Code modes. Plus, a new Vibe VS Code extension.",
+      "source_url": "https://mistral.ai/news/vibe-agent/",
+      "tags": [
+        "mistral",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Mistral AI",
+      "company_color": "#FF6B6B",
       "person_name": "",
       "type_icon": "📢"
     },
@@ -18879,6 +18963,27 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-06-23_introducing-mistral-ocr-4",
+      "date": "2026-06-23",
+      "type": "announcement",
+      "company": "mistral",
+      "person": null,
+      "title": "Introducing Mistral OCR 4",
+      "description": "Mistral OCR 4 delivers enterprise document AI with 170-language support, bounding boxes, and self-hosted deployment.",
+      "source_url": "https://mistral.ai/news/ocr-4/",
+      "tags": [
+        "mistral",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Mistral AI",
+      "company_color": "#FF6B6B",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-06-23_medpcfm-improving-medical-point-cloud-completion-b",
       "date": "2026-06-23",
       "type": "paper",
@@ -19095,6 +19200,27 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-06-24_bringing-more-control-over-your-connectors",
+      "date": "2026-06-24",
+      "type": "announcement",
+      "company": "mistral",
+      "person": null,
+      "title": "Bringing more control over your connectors",
+      "description": "Mistral Newsからの自動収集記事。",
+      "source_url": "https://mistral.ai/news/more-control-over-connectors/",
+      "tags": [
+        "mistral",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Mistral AI",
+      "company_color": "#FF6B6B",
+      "person_name": "",
+      "type_icon": "📢"
     },
     {
       "id": "2026-06-24_c3-bench-a-context-aware-change-captioning-benchma",
@@ -20972,6 +21098,27 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-07-02_leanstral-15-proof-abundance-for-all",
+      "date": "2026-07-02",
+      "type": "announcement",
+      "company": "mistral",
+      "person": null,
+      "title": "Leanstral 1.5: Proof Abundance for All",
+      "description": "Mistral Newsからの自動収集記事。",
+      "source_url": "https://mistral.ai/news/leanstral-1-5/",
+      "tags": [
+        "mistral",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Mistral AI",
+      "company_color": "#FF6B6B",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-07-02_orbitquant-data-agnostic-quantization-for-image-an",
       "date": "2026-07-02",
       "type": "paper",
@@ -21842,6 +21989,27 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-07-08_introducing-robostral-navigate",
+      "date": "2026-07-08",
+      "type": "announcement",
+      "company": "mistral",
+      "person": null,
+      "title": "Introducing Robostral Navigate",
+      "description": "Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.",
+      "source_url": "https://mistral.ai/news/robostral-navigate/",
+      "tags": [
+        "mistral",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Mistral AI",
+      "company_color": "#FF6B6B",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-07-08_medpmc-a-systematic-framework-for-scaling-high-fid",
       "date": "2026-07-08",
       "type": "paper",
@@ -22317,6 +22485,27 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-07-09_your-prompts-and-skills-need-a-system-of-record",
+      "date": "2026-07-09",
+      "type": "announcement",
+      "company": "mistral",
+      "person": null,
+      "title": "Your Prompts and Skills need a system of record.",
+      "description": "Studio provides a system of record for AI prompts and skills—versioned, owned, and traceable. Iterate fast, ship with control, and ensure consistent AI behavior.",
+      "source_url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
+      "tags": [
+        "mistral",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Mistral AI",
+      "company_color": "#FF6B6B",
+      "person_name": "",
+      "type_icon": "📢"
     },
     {
       "id": "2026-07-10_a-sovereign-open-source-foundation-model-for-germa",
@@ -26851,6 +27040,27 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-08-03_apple-is-getting-this-wrong",
+      "date": "2026-08-03",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Apple is getting this wrong",
+      "description": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "source_url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-08-03_aurora-lm-autoencoding-unified-representation-for-",
       "date": "2026-08-03",
       "type": "paper",
@@ -27055,6 +27265,310 @@
       "title": "The Condition-Number Barrier in Sparse Least Squares",
       "description": "In [AS21], Axiotis and Sviridenko conjectured that the linear dependence on the restricted condition number in sparse convex optimization cannot be improved by a polynomial-time algorithm. We establish their conjectured lower bound for least-squares objectives, conditional on the randomized exact...",
       "source_url": "http://arxiv.org/abs/2608.02588v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-04_a-physics-flavored-transformer-network-for-paramet",
+      "date": "2026-08-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A Physics-Flavored Transformer Network for Parametrizing Contraction Dynamics of Engineered Skeletal Muscle Tissues",
+      "description": "Engineered Skeletal Muscle Tissues (ESMs) have become a key structure for biomedical disease modeling and pharmacological screening, yet their functional characterization often relies on simplistic metrics like peak force, discarding critical kinetic information. This is partially due to the high...",
+      "source_url": "http://arxiv.org/abs/2608.03927v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-04_can-large-language-models-recover-semantic-optimiz",
+      "date": "2026-08-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Can Large Language Models Recover Semantic Optimization Opportunities That Compilers Miss?",
+      "description": "Optimizing compilers miss profitable transformations when their enabling semantics are absent from the analyzed program representation. We ask whether large language models (LLMs) can recover such semantics from heterogeneous C/C++ context and realize them as validated, contract-preserving artifa...",
+      "source_url": "http://arxiv.org/abs/2608.03983v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-04_deploy-local-agents-everywhere-with-lfm25-26b",
+      "date": "2026-08-04",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-04_equivariant-music-transformer",
+      "date": "2026-08-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Equivariant Music Transformer",
+      "description": "Humans recognize a musical passage even when it is shifted in time or transposed in pitch, indicating a notion of equivariance in the representation space. Our analysis, however, shows that standard music transformers map such time-shifted or pitch-transposed inputs onto uncorrelated representati...",
+      "source_url": "http://arxiv.org/abs/2608.03920v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-04_introducing-shieldstral",
+      "date": "2026-08-04",
+      "type": "announcement",
+      "company": "mistral",
+      "person": null,
+      "title": "Introducing Shieldstral.",
+      "description": "Shieldstral introduces a 3B open-weights multimodal safety classifier that outperforms models up to 7x its size.",
+      "source_url": "https://mistral.ai/news/shieldstral/",
+      "tags": [
+        "mistral",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Mistral AI",
+      "company_color": "#FF6B6B",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-04_latent-reward-registers-for-diffusion-preference-a",
+      "date": "2026-08-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Latent Reward Registers for Diffusion Preference Alignment",
+      "description": "Aligning diffusion models with human preferences usually relies on a sparse terminal reward evaluated on the final generated samples, presenting a severe temporal credit-assignment challenge across the multi-step denoising process. We propose Latent Reward Registers, a mechanism that estimates te...",
+      "source_url": "http://arxiv.org/abs/2608.03929v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-04_muon-meets-mamba-spectral-optimization-for-state-s",
+      "date": "2026-08-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Muon Meets Mamba: Spectral Optimization for State Space Models",
+      "description": "Muon is a recent optimizer that orthogonalizes the update to each weight matrix with a Newton-Schulz iteration, which performs steepest descent under the spectral norm. Almost all the evidence for it comes from Transformer models, and its behavior on state-space models is largely unreported. We c...",
+      "source_url": "http://arxiv.org/abs/2608.03941v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-04_new-ways-to-learn-and-teach-with-chatgpt-work-and-",
+      "date": "2026-08-04",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "description": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "source_url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-04_parvl-parallel-scaling-and-expandable-compute-allo",
+      "date": "2026-08-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs",
+      "description": "Existing scaling strategies for Multimodal Large Language Models (MLLMs) typically expand either model parameters or sequential inference computation, incurring substantial memory or latency overhead. More importantly, most existing methods fail to alter the rigid, fixed computation allocation be...",
+      "source_url": "http://arxiv.org/abs/2608.04010v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-04_prism-powerful-time-series-to-image-ts2i-represent",
+      "date": "2026-08-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "PRISM: Powerful Time Series to Image (TS2I) Representations for Multivariate Anomaly Detection",
+      "description": "Time series anomaly detection (TSAD) underpins applications in predictive maintenance, finance, and cloud computing, however performance remains sensitive to representation choices, especially in multivariate settings. While transforming time series into images has shown success in forecasting an...",
+      "source_url": "http://arxiv.org/abs/2608.03926v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-04_separating-quantum-circuits-from-classical-llms",
+      "date": "2026-08-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Separating quantum circuits from classical LLMs",
+      "description": "Modern large language models - transformers and diffusion language models - are built around two canonical algorithmic tasks: prediction and generation. We prove unconditional separations between low-depth quantum computation and the corresponding bounded-resource classical language-model archite...",
+      "source_url": "http://arxiv.org/abs/2608.03962v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-04_the-transformer-revolution-part-1-dynamic-processi",
+      "date": "2026-08-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The Transformer Revolution, Part 1: Dynamic Processing through Output- Weight Interconnections",
+      "description": "This paper offers a new interpretation of the Transformer during inference. Against the 'stochastic parrot' view that large language models merely reproduce statistical regularities learned in training, we argue that Transformers construct and apply prompt-dependent transformations whose paramete...",
+      "source_url": "http://arxiv.org/abs/2608.03921v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-04_third-party-cyber-evaluations-involving-openai-mod",
+      "date": "2026-08-04",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "description": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "source_url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-04_video-deepresearch-towards-the-next-generation-mul",
+      "date": "2026-08-04",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent",
+      "description": "We introduce Video-DeepResearch (Video-DR), extending multimodal agents from static images to continuous video streams, a setting that demands dense spatiotemporal grounding coupled with open-web exploration. Preliminary evaluations reveal two critical bottlenecks in current models: (1) modality ...",
+      "source_url": "http://arxiv.org/abs/2608.03979v1",
       "tags": [
         "paper",
         "arxiv",
