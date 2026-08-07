@@ -1,0 +1,12 @@
+---
+date: 2026-08-06
+type: announcement
+company: "openai"
+person: null
+title: "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users"
+description: "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
+source_url: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt
+tags: [openai, auto-collected]
+importance: medium
+auto_collected: true
+---

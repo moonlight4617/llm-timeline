@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-08-06T04:12:18.319307Z",
-    "total_events": 1272,
+    "generated_at": "2026-08-07T03:48:51.070921Z",
+    "total_events": 1286,
     "type_counts": {
-      "paper": 793,
+      "paper": 803,
       "model_release": 39,
-      "announcement": 437,
+      "announcement": 441,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 291,
+      "openai": 294,
       "anthropic": 10,
       "meta": 7,
-      "other": 788,
+      "other": 798,
       "mistral": 13,
       "xai": 3,
       "deepseek": 2,
-      "huggingface": 149
+      "huggingface": 150
     }
   },
   "companies": [
@@ -27779,6 +27779,310 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-06_baseten-on-hugging-face-inference-providers",
+      "date": "2026-08-06",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/baseten",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-06_bias-analysis-of-l2-speaking-assessment-systems-us",
+      "date": "2026-08-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors",
+      "description": "Automatic speaking assessment systems are increasingly deployed in high-stakes settings to mark second language (L2) learners' speaking tests, making it critical to show that their scores depend on speaking proficiency rather than irrelevant speaker attributes such as first language (L1) or age. ...",
+      "source_url": "http://arxiv.org/abs/2608.06300v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-06_from-asking-to-doing-how-the-world-is-putting-chat",
+      "date": "2026-08-06",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "description": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+      "source_url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-06_improving-gpt56-sol-in-chatgptand-expanding-access",
+      "date": "2026-08-06",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "source_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-06_otlesmix-wasserstein-barycenter-and-optimal-transp",
+      "date": "2026-08-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "OTLesMix: Wasserstein Barycenter and Optimal Transport Map for Synthetic Lesion Generation with Diverse Shapes and Locations",
+      "description": "The development of deep learning over the past decade has revolutionized medical imaging segmentation, allowing the extraction of precise descriptors from large volumes to characterize pathologies. Data augmentation is a technique widely regarded as a way to improve model training. It includes si...",
+      "source_url": "http://arxiv.org/abs/2608.06264v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-06_rxnclf-contrastive-transformation-aware-reaction-f",
+      "date": "2026-08-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "RxnCLF: Contrastive Transformation-Aware Reaction Foundation Model for Improved Reactivity Prediction",
+      "description": "Reaction yield prediction remains challenging because labeled data are scarce and reaction space is both combinatorially large and sparsely populated, limiting the generalization of existing reaction representations. String-, fingerprint-, and graph-based reaction encodings only partially capture...",
+      "source_url": "http://arxiv.org/abs/2608.06259v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-06_saga-score-weighted-adaptive-generation-alignment-",
+      "date": "2026-08-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "SAGA: Score-Weighted Adaptive Generation Alignment for Low-Resource Nordic Language Models",
+      "description": "Preference optimisation has proven effective for improving large language models but typically relies on costly human preference annotations. Extending these methods to morphologically rich, low-resource languages remains challenging because such annotations are scarce. We present SAGA (Score-wei...",
+      "source_url": "http://arxiv.org/abs/2608.06179v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-06_surv-iptb-an-attention-based-model-for-estimating-",
+      "date": "2026-08-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Surv-IPTB: An Attention-Based Model for Estimating Individual Probability of Treatment Benefit with Survival Data",
+      "description": "This work presents a novel attention-based framework for estimating the Individual Probability of Treatment Benefit (IPTB) in survival analysis contexts. The proposed model, called Surv-IPTB, directly quantifies the probability that a specific patient will experience extended survival time under ...",
+      "source_url": "http://arxiv.org/abs/2608.06288v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-06_the-bitter-lesson-of-tool-calling",
+      "date": "2026-08-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The Bitter Lesson of Tool Calling",
+      "description": "Tool use transforms LLMs into agents that act beyond their training data, and for code-capable models, programmatic tool calling extends this further by replacing rigid JSON calls with scripts that chain and parallelize naturally. However, a systematic evaluation of tools as code on an establishe...",
+      "source_url": "http://arxiv.org/abs/2608.06370v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-06_the-low-frequency-trap-video-language-models-fail-",
+      "date": "2026-08-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
+      "description": "Real-world video benchmarks provide broad coverage, but their fixed clips entangle event count, rate, duration, and visual complexity, making failure modes hard to isolate. While existing programmatic benchmarks offer better control, they score only the final answer rather than auditing reported ...",
+      "source_url": "http://arxiv.org/abs/2608.06361v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-06_the-tamed-subgradient-unadjusted-langevin-algorith",
+      "date": "2026-08-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The Tamed Subgradient Unadjusted Langevin Algorithm beyond Convexity",
+      "description": "We study the problem of sampling from target distributions whose potentials are simultaneously non-smooth, subject to superlinear gradient growth, and non-convex. We introduce the Subgradient Tamed Unadjusted Langevin Algorithm (SG-TULA), a discretisation of the Langevin diffusion that operates d...",
+      "source_url": "http://arxiv.org/abs/2608.06283v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-06_timestep-conditioned-transformers-for-global-weath",
+      "date": "2026-08-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Timestep-Conditioned Transformers for Global Weather Forecasting",
+      "description": "Existing machine-learning weather forecasting models rely on predetermined and fixed autoregressive timesteps. The choice of model timestep involves a fundamental trade-off: shorter timesteps (e.g. 1 to 6 hours) finely resolve atmospheric dynamics within the diurnal cycle but increase error accum...",
+      "source_url": "http://arxiv.org/abs/2608.06241v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-06_ts-rag-retrieval-augmented-generation-for-time-ser",
+      "date": "2026-08-06",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "TS-RAG: Retrieval Augmented Generation for Time Series Forecasting",
+      "description": "While deep learning models, particularly transformer-based architectures, have shown impressive performance in time series forecasting, the application of retrieval-augmented generation (RAG) in this domain remains limited. Since RAG has proven effective in enhancing the capabilities of large lan...",
+      "source_url": "http://arxiv.org/abs/2608.06223v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-06_working-with-the-american-psychological-associatio",
+      "date": "2026-08-06",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "description": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+      "source_url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
     }
   ]
 }
