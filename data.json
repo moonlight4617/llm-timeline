@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T03:48:51.070921Z",
-    "total_events": 1286,
+    "generated_at": "2026-08-08T02:54:06.610481Z",
+    "total_events": 1289,
     "type_counts": {
       "paper": 803,
       "model_release": 39,
-      "announcement": 441,
+      "announcement": 444,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 294,
+      "openai": 296,
       "anthropic": 10,
       "meta": 7,
       "other": 798,
       "mistral": 13,
       "xai": 3,
       "deepseek": 2,
-      "huggingface": 150
+      "huggingface": 151
     }
   },
   "companies": [
@@ -28081,6 +28081,69 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-07_how-hsp-gruppe-builds-ai-capabilities-for-tax-advi",
+      "date": "2026-08-07",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "description": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "source_url": "https://openai.com/index/hsp-gruppe",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-07_responding-to-the-next-frontier-of-critical-cyber-",
+      "date": "2026-08-07",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "description": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "source_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-07_tutormoments-do-ai-tutors-know-when-to-help-and-wh",
+      "date": "2026-08-07",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/allenai/tutormoments",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
     }
