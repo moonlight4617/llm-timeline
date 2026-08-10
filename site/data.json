@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T03:01:30.076839Z",
-    "total_events": 1289,
+    "generated_at": "2026-08-10T03:10:53.570869Z",
+    "total_events": 1299,
     "type_counts": {
-      "paper": 803,
+      "paper": 813,
       "model_release": 39,
       "announcement": 444,
       "statement": 2,
@@ -14,9 +14,9 @@
       "openai": 296,
       "anthropic": 10,
       "meta": 7,
-      "other": 798,
+      "other": 807,
       "mistral": 13,
-      "xai": 3,
+      "xai": 4,
       "deepseek": 2,
       "huggingface": 151
     }
@@ -28085,6 +28085,116 @@
       "type_icon": "📢"
     },
     {
+      "id": "2026-08-07_a-picture-is-worth-a-thousand-tokens-how-vision-la",
+      "date": "2026-08-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A Picture is Worth a Thousand Tokens: How Vision Language Models Cut AI Energy Costs While Improving Accuracy",
+      "description": "LLM inference accounts for over 90% of AI operational energy, scaling directly with input token count---a critical inefficiency for telecom network analytics and numerical time-series data analysis (NTSDA), where raw multivariate KPI windows from 4G/5G cell sites expand into thousands of floating...",
+      "source_url": "http://arxiv.org/abs/2608.07427v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-07_an-exploratory-evaluation-of-llm-assisted-rewritin",
+      "date": "2026-08-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "An Exploratory Evaluation of LLM-Assisted Rewriting of Moderate-Complexity Financial Sentences for DisCoCat-Based Sentiment Analysis",
+      "description": "Quantum natural language processing (QNLP) provides a grammar-aware framework for text modeling, and Distributional Compositional Categorical (DisCoCat) is one of its theoretically grounded formulations. Prior work on financial sentiment analysis has identified practical limitations of DisCoCat, ...",
+      "source_url": "http://arxiv.org/abs/2608.07439v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-07_diffusion-llms-as-targets-and-adversaries-mechanis",
+      "date": "2026-08-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Diffusion LLMs as Targets and Adversaries: Mechanistic Safety Exploits",
+      "description": "Diffusion Large Language Models (DLLMs) replace autoregressive next-token prediction with iterative parallel denoising, yet their internal safety mechanisms remain poorly understood. In this work, we investigate DLLMs both as targets and as adversaries, exposing mechanistic vulnerabilities in dif...",
+      "source_url": "http://arxiv.org/abs/2608.07430v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-07_fisher-r1-training-llm-agents-for-reliable-hypothe",
+      "date": "2026-08-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+      "description": "Reliable hypothesis testing is the foundation of many empirical scientific claims. Large language model (LLM) agents are increasingly used to automate this process, as they can inspect datasets, generate code, and produce analyses end-to-end. However, we show that they frequently make subtle infe...",
+      "source_url": "http://arxiv.org/abs/2608.07437v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-07_h2al-hyperbolic-hierarchy-aware-aggregative-learni",
+      "date": "2026-08-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "H2AL: Hyperbolic Hierarchy-aware Aggregative Learning for Registration-based Few-shot Medical Image Segmentation",
+      "description": "Registration-based Few-shot medical image segmentation (RFMIS) aims to generate pseudo-labels for unlabeled images by warping a labeled image through registration. However, existing methods primarily perform pixel-level optimization and inference in Euclidean space, treating anatomical structures...",
+      "source_url": "http://arxiv.org/abs/2608.07340v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-08-07_how-hsp-gruppe-builds-ai-capabilities-for-tax-advi",
       "date": "2026-08-07",
       "type": "announcement",
@@ -28104,6 +28214,95 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-07_mirrorworld-taming-video-diffusion-models-for-mirr",
+      "date": "2026-08-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation",
+      "description": "Recent advances in video diffusion models (VDMs) have enabled high-fidelity video synthesis. However, generating mirror reflections remains challenging because the content within a mirror must remain consistent with the surrounding scene. Existing VDMs are not specifically designed to model scene...",
+      "source_url": "http://arxiv.org/abs/2608.07463v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-07_omni-modal-decomposition-autoencoders-learn-full-s",
+      "date": "2026-08-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Omni-modal decomposition autoencoders learn full-stack wearable disentangled representations",
+      "description": "Learning disentangled representations is a key requirement for developing versatile, general-purpose, and sustainable models in multi-modal wearable computing. However, existing approaches do not operate as full-stack wearable processors, i.e., they do not simultaneously address task-specific cla...",
+      "source_url": "http://arxiv.org/abs/2608.07385v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-07_post-grokking-collapse-at-the-representation-reado",
+      "date": "2026-08-07",
+      "type": "paper",
+      "company": "xai",
+      "person": null,
+      "title": "Post-Grokking Collapse at the Representation-Readout Interface in Muon-Trained Transformers",
+      "description": "Under the standard split, Muon gets hidden matrices and AdamW embeddings/output head. Muon groks modular addition faster, but its solutions do not hold. All nine configurations on $(a+b) \bmod 113$ grok and later lose generalization. Across five seeds the selected AdamW reference falls below thre...",
+      "source_url": "http://arxiv.org/abs/2608.07436v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected",
+        "xai"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "xAI",
+      "company_color": "#1DA1F2",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-07_qfcqt-a-chaotically-gated-quantformer-framework-fo",
+      "date": "2026-08-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "QFCQT: A Chaotically Gated Quantformer Framework for Volatile Time-Series Forecasting",
+      "description": "Forecasting non-stationary time series remains difficult due to long-range dependencies, local volatility bursts, structural shifts, and nonlinear oscillatory behaviors. Although Transformer-based forecasters are effective for modeling long-term temporal dependencies, their feed-forward blocks ty...",
+      "source_url": "http://arxiv.org/abs/2608.07363v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     },
     {
       "id": "2026-08-07_responding-to-the-next-frontier-of-critical-cyber-",
@@ -28146,6 +28345,28 @@
       "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-07_uncovering-expert-objectives-in-production-plannin",
+      "date": "2026-08-07",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Uncovering expert objectives in production planning via inverse optimization: An industrial case study",
+      "description": "Production planning in the manufacturing industry often relies on the use of optimization models, but defining an appropriate objective function can be a challenge. In practice, planners must balance competing goals, manage uncertainty, and account for qualitative business preferences that are di...",
+      "source_url": "http://arxiv.org/abs/2608.07398v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     }
   ]
 }
