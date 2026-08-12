@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T03:03:33.736940Z",
-    "total_events": 1320,
+    "generated_at": "2026-08-12T03:22:48.173353Z",
+    "total_events": 1333,
     "type_counts": {
-      "paper": 823,
+      "paper": 833,
       "model_release": 39,
-      "announcement": 455,
+      "announcement": 458,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 304,
+      "openai": 305,
       "anthropic": 10,
       "meta": 7,
-      "other": 817,
-      "mistral": 13,
+      "other": 827,
+      "mistral": 14,
       "xai": 4,
       "deepseek": 2,
-      "huggingface": 154
+      "huggingface": 155
     }
   },
   "companies": [
@@ -28818,6 +28818,289 @@
       "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-11_a-comparative-evaluation-of-deep-learning-object-d",
+      "date": "2026-08-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A Comparative Evaluation of Deep Learning Object Detection Models on a Real-World Multi-Plant Dataset from Africa",
+      "description": "The application of computer vision in agriculture has shown significant potential for improving crop monitoring and precision farming. However, many existing approaches rely on controlled datasets that do not adequately represent realworld farming conditions, particularly in underrepresented regi...",
+      "source_url": "http://arxiv.org/abs/2608.11053v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-11_a-quantum-roadmap-for-softmax-attention-exact-born",
+      "date": "2026-08-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A Quantum Roadmap for Softmax Attention: Exact Born-Rule Analogs for Softmax Attention on the Probability Simplex",
+      "description": "The attention mechanism forms the foundation of many modern AI models such as the Transformer. In one subclass of problems where attention is used, inputs and outputs are bound to the probability simplex so that all outputs sum to one. In this setting, softmax attention admits an exact, component...",
+      "source_url": "http://arxiv.org/abs/2608.11173v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-11_albumentationsx-one-augmentation-pipeline-for-imag",
+      "date": "2026-08-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AlbumentationsX: One Augmentation Pipeline for Images and Related Annotations",
+      "description": "Augmentation can corrupt a training example when an image and its annotations receive different random changes. A crop must use the same coordinates for the image, mask, boxes, keypoints, stereo views, video frames, or volume. Code paths that choose these values separately can silently misalign t...",
+      "source_url": "http://arxiv.org/abs/2608.11123v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-11_benchmarking-time-series-generation-methods-for-pr",
+      "date": "2026-08-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Benchmarking Time Series Generation Methods for Privacy-Preserving Forecasting",
+      "description": "Time series forecasting in privacy-sensitive domains often requires training models on released data rather than original observations. Synthetic time series generation has been developed primarily for data augmentation, where generated series supplement the original training set. How well these ...",
+      "source_url": "http://arxiv.org/abs/2608.10891v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-11_combodied-agents-a-new-paradigm-of-human-centric-a",
+      "date": "2026-08-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI",
+      "description": "After an older adult misses a medication dose, a software agent can send another reminder and an embodied agent can bring the medication. Yet neither explains whether the person forgot, is confused, has side effects, or deliberately refused, nor what support is appropriate. This reveals a structu...",
+      "source_url": "http://arxiv.org/abs/2608.10915v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-11_daybreak-models-are-now-available-on-aws",
+      "date": "2026-08-11",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Daybreak models are now available on AWS",
+      "description": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "source_url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-11_deft-data-efficient-frequency-domain-top-k-samplin",
+      "date": "2026-08-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "DEFT: Data-Efficient Frequency-domain Top-k Sampling via Inverse Discrete Fourier Transform for Spatiotemporal Dynamical Systems Modeling",
+      "description": "Modeling spatiotemporal dynamical systems governed by partial differential equations (PDEs) poses two major challenges: it either requires expensive physics-based simulators that entail iterative numerical solving at high computational cost, or it depends on abundant training data, yet purely dat...",
+      "source_url": "http://arxiv.org/abs/2608.11019v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-11_in-region-inference-open-models-and-new-european-i",
+      "date": "2026-08-11",
+      "type": "announcement",
+      "company": "mistral",
+      "person": null,
+      "title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
+      "description": "Mistral is bringing together the inference infrastructure, open models, and long-term commitments Europe needs to control its AI future, and setting a roadmap for the world.",
+      "source_url": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
+      "tags": [
+        "mistral",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Mistral AI",
+      "company_color": "#FF6B6B",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-11_mapping-and-measuring-the-behavioral-evolution-of-",
+      "date": "2026-08-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Mapping and Measuring the Behavioral Evolution of Large Language Models",
+      "description": "Benchmark leaderboards summarize how well a language model performs, but not how its behavior relates to that of other models or changes across generations. We characterize the output behavior of 32 models from six families using their responses to a shared bank of 10{,}000 prompts. After embeddi...",
+      "source_url": "http://arxiv.org/abs/2608.11027v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-11_order-matters-lvlms-as-judges-for-temporal-reasoni",
+      "date": "2026-08-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Order Matters: LVLMs as Judges for Temporal Reasoning in Image Sequences",
+      "description": "As generative multimedia evolves from static image synthesis to complex, interleaved visual narratives, a foundational bottleneck has emerged: the judgment crisis. While human perception naturally synthesizes the temporal and logical flow of a story, automated evaluation systems remain largely 'b...",
+      "source_url": "http://arxiv.org/abs/2608.10908v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-11_putting-registers-to-work-task-registers-for-token",
+      "date": "2026-08-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Putting Registers to Work: Task Registers for Token Pruning in Vision Transformers",
+      "description": "Token-pruning policies are usually designed for a single recognition pipeline, but pretrained Vision Transformers are reused across tasks with different spatial demands. We ask which parts of a pruning policy transfer across image classification, semantic segmentation, and object detection. For e...",
+      "source_url": "http://arxiv.org/abs/2608.10989v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-11_thinking-of-ace-we-can-do-it-with-fewer-tokens",
+      "date": "2026-08-11",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-11_workflow-cards-structured-summaries-of-workflow-ex",
+      "date": "2026-08-11",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Workflow Cards: Structured Summaries of Workflow Executions Using Provenance Data",
+      "description": "Model Cards and Data Cards have demonstrated the value of structured, human-readable documentation for machine learning artifacts, capturing their context, parameters, limitations, and intended use. However, these practices remain focused on static artifacts (the datasets and trained models thems...",
+      "source_url": "http://arxiv.org/abs/2608.11022v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     }
   ]
 }
