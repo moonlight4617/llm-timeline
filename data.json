@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T03:22:48.173353Z",
-    "total_events": 1333,
+    "generated_at": "2026-08-13T03:25:49.871912Z",
+    "total_events": 1347,
     "type_counts": {
-      "paper": 833,
+      "paper": 843,
       "model_release": 39,
-      "announcement": 458,
+      "announcement": 462,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 305,
+      "openai": 307,
       "anthropic": 10,
       "meta": 7,
-      "other": 827,
+      "other": 837,
       "mistral": 14,
       "xai": 4,
       "deepseek": 2,
-      "huggingface": 155
+      "huggingface": 157
     }
   },
   "companies": [
@@ -29089,6 +29089,310 @@
       "title": "Workflow Cards: Structured Summaries of Workflow Executions Using Provenance Data",
       "description": "Model Cards and Data Cards have demonstrated the value of structured, human-readable documentation for machine learning artifacts, capturing their context, parameters, limitations, and intended use. However, these practices remain focused on static artifacts (the datasets and trained models thems...",
       "source_url": "http://arxiv.org/abs/2608.11022v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-12_a-cascaded-unsupervised-supervised-nlp-pipeline-fo",
+      "date": "2026-08-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A Cascaded Unsupervised-Supervised NLP Pipeline for Detecting Accusatory Language in Public Procurement",
+      "description": "Public procurement involves the allocation of substantial financial resources; therefore, continuous oversight through audits, controls, and monitoring mechanisms is essential. However, stakeholder comments and publicly available government data are often underutilized, despite their potential to...",
+      "source_url": "http://arxiv.org/abs/2608.12269v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-12_a-neighborhood-attention-transformer-network-for-e",
+      "date": "2026-08-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "A Neighborhood Attention Transformer Network for Enhanced 3D Segmentation of the Left Anterior Descending Artery",
+      "description": "Background: Accurate segmentation of the Left Anterior Descending (LAD) artery in 3D free-breathing, non-contrast CT is critical for cardiac dose sparing in thoracic radiotherapy. The LAD is extremely small, has poor soft-tissue contrast, and varies substantially across patients; even manual cont...",
+      "source_url": "http://arxiv.org/abs/2608.12274v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-12_an-agentic-workflow-for-legacy-hpc-modernization-c",
+      "date": "2026-08-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS",
+      "description": "Modernizing legacy Fortran is a problem of volume: the transformations are individually routine, but the codebases can be enormous, and across much of computational science the work simply goes undone. We propose an agentic workflow that takes this work on at production scale, and we set out to m...",
+      "source_url": "http://arxiv.org/abs/2608.12249v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-12_ava-encoder-towards-agent-native-video-representat",
+      "date": "2026-08-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
+      "description": "Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video representation that is both faithful to film content and directly usable for agentic reasoning and man...",
+      "source_url": "http://arxiv.org/abs/2608.12313v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-12_class-activation-mapping-in-explainable-computer-v",
+      "date": "2026-08-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations",
+      "description": "Class activation mapping (CAM) is one of the most widely used visual explanation families in explainable artificial intelligence. Its purpose is intuitive: it converts internal model evidence into a heatmap that highlights the image regions, convolutional channels, tokens, or patches that support...",
+      "source_url": "http://arxiv.org/abs/2608.12299v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-12_constructing-dynamic-master-logic-models-as-knowle",
+      "date": "2026-08-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
+      "description": "Dynamic Master Logic (DML) provides a hierarchical framework for representing system behavior by linking functional objectives to underlying structural elements. However, DML construction typically relies on expert interpretation of technical documentation, limiting scalability for complex system...",
+      "source_url": "http://arxiv.org/abs/2608.12304v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-12_diagram-mmu-a-multi-modal-benchmark-for-scientific",
+      "date": "2026-08-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams",
+      "description": "Multimodal Large Language Models (MLLMs) have been growing the capability for scientific writing and collaboration. For example, OpenAI Prism is a free workspace for scientific writing and collaboration. One important feature in Prism is turning scientific diagrams directly into LaTeX TikZ code. ...",
+      "source_url": "http://arxiv.org/abs/2608.12262v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-12_domain-aware-lightweight-spectral-grouped-convolut",
+      "date": "2026-08-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Domain-Aware Lightweight Spectral-Grouped Convolutions for Hyperspectral Fish Freshness Classification",
+      "description": "Hyperspectral imaging (HSI) offers nondestructive assessment of fish freshness by detecting biochemical alterations across spectral bands. However, conventional deep learning approaches do not fully address the particular characteristics of HSI data, such as spectral dominance over spatial textur...",
+      "source_url": "http://arxiv.org/abs/2608.12227v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-12_from-assistance-to-execution-how-enterprises-put-a",
+      "date": "2026-08-12",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "description": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "source_url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-12_how-ringcentral-builds-ai-native-work-from-enginee",
+      "date": "2026-08-12",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "description": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "source_url": "https://openai.com/index/ringcentral",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-12_introducing-olmoearth-embeddings-custom-embedding-",
+      "date": "2026-08-12",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-12_large-language-model-driven-small-capitalization-t",
+      "date": "2026-08-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Large Language Model-Driven Small-Capitalization Trading: Integrating Financial News Sentiment, Macroeconomic Indicators, and Technical Signals",
+      "description": "Large language models can extract richer signals from financial news than fixed sentiment lexicons, and recent work has explored feeding such signals into portfolio construction. We study an uncertainty-aware construction that feeds model-predicted risk -- decomposed into aleatoric and epistemic ...",
+      "source_url": "http://arxiv.org/abs/2608.12283v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-12_lfm25-vl-3b-for-better-and-faster-vision-capabilit",
+      "date": "2026-08-12",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-12_redistribution-based-cost-inference-improves-spars",
+      "date": "2026-08-12",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
+      "description": "Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, with no per-step attribution. We frame this as a temporal credit assignment problem and propose the...",
+      "source_url": "http://arxiv.org/abs/2608.12306v1",
       "tags": [
         "paper",
         "arxiv",
