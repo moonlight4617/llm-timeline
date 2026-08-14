@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T03:25:49.871912Z",
-    "total_events": 1347,
+    "generated_at": "2026-08-14T03:23:16.245161Z",
+    "total_events": 1362,
     "type_counts": {
-      "paper": 843,
+      "paper": 853,
       "model_release": 39,
-      "announcement": 462,
+      "announcement": 467,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 307,
+      "openai": 310,
       "anthropic": 10,
       "meta": 7,
-      "other": 837,
+      "other": 847,
       "mistral": 14,
       "xai": 4,
       "deepseek": 2,
-      "huggingface": 157
+      "huggingface": 159
     }
   },
   "companies": [
@@ -29393,6 +29393,331 @@
       "title": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
       "description": "Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, with no per-step attribution. We frame this as a temporal credit assignment problem and propose the...",
       "source_url": "http://arxiv.org/abs/2608.12306v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-13_algebraic-decomposition-theory-for-transformer-len",
+      "date": "2026-08-13",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Algebraic Decomposition Theory for Transformer Length Generalization",
+      "description": "Transformer-based language models are known to sometimes generalize to sequences longer than seen during training, but we lack a precise characterization of which tasks admit length generalization. It is not even known which regular languages transformers length-generalize on -- and this is a fou...",
+      "source_url": "http://arxiv.org/abs/2608.13433v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-13_autodesign-meta-harness-optimization-for-long-hori",
+      "date": "2026-08-13",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+      "description": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empi...",
+      "source_url": "http://arxiv.org/abs/2608.13560v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-13_exponential-quantum-advantage-for-learning-signals",
+      "date": "2026-08-13",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Exponential quantum advantage for learning signals with a single qubit",
+      "description": "Quantum technology has the potential to transform scientific discovery, but quantum advantages often require processing capabilities well beyond the reach of experimental platforms. We show that coupling a single controllable qubit to an otherwise conventional sensor can exponentially reduce the ...",
+      "source_url": "http://arxiv.org/abs/2608.13521v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-13_jointly-predicting-courses-and-grades-using-a-tran",
+      "date": "2026-08-13",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Jointly Predicting Courses and Grades Using a Transformer-Based Model",
+      "description": "Existing predictive models in learning analytics often treat student academic history as a simple sequence, overlooking the concurrent nature of courses taken within a semester. This simplification can lead to inaccurate performance predictions, particularly for students with heavy or challenging...",
+      "source_url": "http://arxiv.org/abs/2608.13409v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-13_openai-appoints-dali-rajic-as-chief-revenue-office",
+      "date": "2026-08-13",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "source_url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-13_previewing-ultrafast-mode-gpt-56-sol-at-up-to-14x-",
+      "date": "2026-08-13",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "description": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "source_url": "https://openai.com/index/previewing-ultrafast",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-13_quotebench-how-matched-scores-can-hide-command-pat",
+      "date": "2026-08-13",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+      "description": "LLM coding agents issue Bash commands through interfaces that may serialize, wrap, and reparse model output. Matched execution scores alone cannot distinguish command-generation errors from failures introduced after generation. QuoteBench measures this boundary with exact final-state validation o...",
+      "source_url": "http://arxiv.org/abs/2608.13547v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-13_record-train-and-deploy-from-one-place-with-strand",
+      "date": "2026-08-13",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-13_reduced-matrix-multiplication-input-adaptive-matri",
+      "date": "2026-08-13",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Reduced Matrix Multiplication: Input-Adaptive Matrix-Product Reduction for LLM Inference",
+      "description": "Transformer-based language models achieve strong performance but incur substantial inference cost due to repeated high-dimensional matrix multiplications. We propose Reduced Matrix Multiplication (RMM), a training-free, input-adaptive inference method that reduces Transformer matrix products by s...",
+      "source_url": "http://arxiv.org/abs/2608.13426v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-13_sign-language-video-synthesis-via-loss-guided-mult",
+      "date": "2026-08-13",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Sign Language Video Synthesis via Loss-Guided Multi-Expert GANs",
+      "description": "This preliminary technical report presents a framework for sign language video synthesis using a loss-guided multi-expert Generative Adversarial Network (GAN) to enhance communication for individuals with hearing impairments. Three specialized discriminators -- global, hand, and head -- each guid...",
+      "source_url": "http://arxiv.org/abs/2608.13368v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-13_simulation-to-real-transfer-learning-for-infrared-",
+      "date": "2026-08-13",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Simulation-to-real transfer learning for infrared spectroscopic chemical sensing and analysis from molecules to complex samples",
+      "description": "Infrared (IR) spectroscopy is widely used for chemical sensing, but extracting reliable chemical information from spectra remains challenging. Conventional interpretation is labor-intensive, relies on prior knowledge and reference spectra, and is difficult to scale, whereas most machine-learning ...",
+      "source_url": "http://arxiv.org/abs/2608.13341v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-13_tabsom-a-tabular-to-image-encoding-method-based-on",
+      "date": "2026-08-13",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "TabSOM: A tabular-to-image encoding method based on self-organizing maps",
+      "description": "Tabular-to-image methods have emerged as novel approaches to leverage the high predictive performance of convolutional neural networks and vision transformers. They convert tabular data into image representations, mapping each feature at a fixed pixel location derived from a dimensionality-reduct...",
+      "source_url": "http://arxiv.org/abs/2608.13513v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-13_the-builders-guide-to-gpt56",
+      "date": "2026-08-13",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "The builder’s guide to GPT‑5.6",
+      "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "source_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-13_what-we-learned-by-reproducing-2200-papers-from-ic",
+      "date": "2026-08-13",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-13_when-local-variance-optimality-is-not-enough-rope-",
+      "date": "2026-08-13",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "When Local Variance Optimality Is Not Enough: RoPE-Aligned Q/K Rotations for Dynamic 4-Bit Quantisation",
+      "description": "Rotation-based post-training quantisation commonly applies an orthogonal transform across an entire attention head to reduce outlier-induced error. RoPE instead partitions each head into two-dimensional frequency pairs, raising the question of whether a transform respecting this decomposition can...",
+      "source_url": "http://arxiv.org/abs/2608.13365v1",
       "tags": [
         "paper",
         "arxiv",
