@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T03:23:16.245161Z",
-    "total_events": 1362,
+    "generated_at": "2026-08-15T02:13:06.219397Z",
+    "total_events": 1363,
     "type_counts": {
       "paper": 853,
       "model_release": 39,
-      "announcement": 467,
+      "announcement": 468,
       "statement": 2,
       "policy": 1
     },
@@ -18,7 +18,7 @@
       "mistral": 14,
       "xai": 4,
       "deepseek": 2,
-      "huggingface": 159
+      "huggingface": 160
     }
   },
   "companies": [
@@ -29730,6 +29730,27 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-14_state-of-open-models-summer-2026-observations",
+      "date": "2026-08-14",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "State of Open Models: Summer 2026 Observations",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
     }
   ]
 }
