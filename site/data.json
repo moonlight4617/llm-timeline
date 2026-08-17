@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T02:20:32.824460Z",
-    "total_events": 1363,
+    "generated_at": "2026-08-17T02:18:58.646262Z",
+    "total_events": 1373,
     "type_counts": {
-      "paper": 853,
+      "paper": 863,
       "model_release": 39,
       "announcement": 468,
       "statement": 2,
@@ -14,7 +14,7 @@
       "openai": 310,
       "anthropic": 10,
       "meta": 7,
-      "other": 847,
+      "other": 857,
       "mistral": 14,
       "xai": 4,
       "deepseek": 2,
@@ -29732,6 +29732,182 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-08-14_ai-assisted-discovery-and-construction-of-a-counte",
+      "date": "2026-08-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AI-Assisted Discovery and Construction of a Counterexample to the Convergence of Three-Block ADMM with the Identity Matrix as its Third Constraint Block",
+      "description": "The alternating direction method of multipliers (ADMM), as a landmark algorithm, has attracted tremendous research attention and extensive practical applications over the past two decades. It is well known that, although the two-block ADMM enjoys well-established theoretical convergence guarantee...",
+      "source_url": "http://arxiv.org/abs/2608.14396v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-14_designing-compact-neural-architectures-via-neuron-",
+      "date": "2026-08-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Designing Compact Neural Architectures via Neuron Gating and Mixed Activation",
+      "description": "Neural Architecture Search (NAS) is naturally formulated as a bilevel optimization problem, where the upper-level optimizes the architecture using validation performance and the lower-level trains network parameters using training loss. However, NAS is computationally expensive due to discrete ar...",
+      "source_url": "http://arxiv.org/abs/2608.14443v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-14_ensuring-safe-physical-ai-in-urban-mobility-via-ha",
+      "date": "2026-08-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes",
+      "description": "As heterogeneous robotic systems deploy across diverse urban zones, maintaining safety amid complex human-robot interactions remains a critical challenge. We present a unified framework that bridges systematic hazard analysis and runtime enforcement using hazard-informed safety envelopes. Rather ...",
+      "source_url": "http://arxiv.org/abs/2608.14481v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-14_generating-benchmark-health-data-using-a-tabular-d",
+      "date": "2026-08-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Generating Benchmark Health Data Using a Tabular Diffusion Transformer",
+      "description": "Cross-Tabular Data Generation (CTDG) seeks to learn a generative model from multiple heterogeneous tables and produce new synthetic tabular datasets. However, existing synthetic tabular data generation methods are largely restricted to single-input-table scenarios and struggle to effectively hand...",
+      "source_url": "http://arxiv.org/abs/2608.14496v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-14_learning-to-transition-for-large-scale-and-high-or",
+      "date": "2026-08-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Learning-to-Transition for Large-scale and High-Order MIMO Detection",
+      "description": "High-order multiple-input multiple-output (MIMO) detection requires efficient search over a large discrete symbol space while producing reliable soft information for channel decoding. This paper develops a learning-to-transition (L2T) framework that formulates MIMO detection as a stochastic seque...",
+      "source_url": "http://arxiv.org/abs/2608.14511v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-14_llms-dont-pay-for-the-jump",
+      "date": "2026-08-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "LLMs Don't Pay for the Jump",
+      "description": "Zahavy [2026] argues that Large Language Models, despite their capabilities in induction and deduction, cannot perform the abductive 'Jump' that produced Einstein's equivalence principle, and attributes this limitation to the absence of embodied simulation. Zheng-Xin [2026] and Farmer [2026] ques...",
+      "source_url": "http://arxiv.org/abs/2608.14397v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-14_pace-bench-benchmarking-physics-adaptation-via-cod",
+      "date": "2026-08-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments",
+      "description": "Self-evolving agents improve future behavior from interaction experience, yet existing evaluations typically optimize under fixed execution conditions and do not test recovery after those conditions change. To address this gap, we introduce PACE-Bench (Physics Adaptation via Code Evolution), a si...",
+      "source_url": "http://arxiv.org/abs/2608.14441v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-14_recipenet-a-hierarchical-transformer-for-recipe-da",
+      "date": "2026-08-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "RecipeNet: A Hierarchical Transformer for Recipe Data",
+      "description": "Recipe data arises in domains such as materials synthesis, pharmaceutical formulation, and industrial manufacturing, where procedures are represented as ordered sequences of steps containing heterogeneous structured fields. Existing tabular learning methods typically flatten this structure into f...",
+      "source_url": "http://arxiv.org/abs/2608.14505v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
       "id": "2026-08-14_state-of-open-models-summer-2026-observations",
       "date": "2026-08-14",
       "type": "announcement",
@@ -29751,6 +29927,50 @@
       "company_color": "#FF9D00",
       "person_name": "",
       "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-14_the-past-and-future-of-ai-scientists",
+      "date": "2026-08-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The Past and Future of AI Scientists",
+      "description": "We present a survey of the past and future of AI Scientists: machines capable of automating science. AI Scientists can originate hypotheses, deduce their consequences, design and execute experiments, interpret their results, and revise their beliefs. Such systems are integrated scientific agents,...",
+      "source_url": "http://arxiv.org/abs/2608.14407v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-14_whose-doctor-does-the-ai-recommend-an-algorithm-au",
+      "date": "2026-08-14",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Whose doctor does the AI recommend? An algorithm audit of reputation and demographic signals in large language model-assisted physician choice",
+      "description": "Patients increasingly ask large language model (LLM) assistants which doctor to see, making these systems AI infomediaries: algorithms that intermediate one person's choice among other people and thereby decide, silently and at scale, which physicians become visible. We report a prespecified rand...",
+      "source_url": "http://arxiv.org/abs/2608.14399v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
     }
   ]
 }
