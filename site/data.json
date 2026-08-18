@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T02:18:58.646262Z",
-    "total_events": 1373,
+    "generated_at": "2026-08-18T02:14:44.586771Z",
+    "total_events": 1387,
     "type_counts": {
-      "paper": 863,
+      "paper": 873,
       "model_release": 39,
-      "announcement": 468,
+      "announcement": 472,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 310,
+      "openai": 313,
       "anthropic": 10,
       "meta": 7,
-      "other": 857,
+      "other": 867,
       "mistral": 14,
       "xai": 4,
       "deepseek": 2,
-      "huggingface": 160
+      "huggingface": 161
     }
   },
   "companies": [
@@ -29959,6 +29959,310 @@
       "title": "Whose doctor does the AI recommend? An algorithm audit of reputation and demographic signals in large language model-assisted physician choice",
       "description": "Patients increasingly ask large language model (LLM) assistants which doctor to see, making these systems AI infomediaries: algorithms that intermediate one person's choice among other people and thereby decide, silently and at scale, which physicians become visible. We report a prespecified rand...",
       "source_url": "http://arxiv.org/abs/2608.14399v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-17_autosr-automatic-symbolic-regression-by-searching-",
+      "date": "2026-08-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "AutoSR: Automatic Symbolic Regression by Searching Research States",
+      "description": "We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persistent scientific investigations rather than isolated equations. Finite, noisy data often yield numerically competitive expressions that imply very d...",
+      "source_url": "http://arxiv.org/abs/2608.16876v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-17_clawgym-ii-exploring-black-box-rl-on-agent-harness",
+      "date": "2026-08-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "ClawGym II: Exploring Black-Box RL on Agent Harness",
+      "description": "Agent harnesses have substantially improved performance on long-horizon tasks by coordinating agent interactions with the environment. However, reinforcement learning through complex harnesses remains largely unexplored, as scaling such training to long-horizon agent tasks introduces fundamental ...",
+      "source_url": "http://arxiv.org/abs/2608.16798v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-17_data-efficient-and-interpretable-classification-of",
+      "date": "2026-08-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Data-Efficient and Interpretable Classification of Circulating Tumor Cell Phenotypes in Microfluidic Devices via Deep Learning",
+      "description": "Accurate classification of circulating tumor cell (CTC) phenotypes can provide valuable information for assessing metastatic potential. Label free microfluidic devices provide a hydrodynamic obstacle course that transforms subtle biophysical characteristics of CTCs, including size and deformabili...",
+      "source_url": "http://arxiv.org/abs/2608.16870v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-17_does-the-lm-head-create-a-harmful-gradient-bottlen",
+      "date": "2026-08-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Does the LM Head Create a Harmful Gradient Bottleneck? A Causal Test",
+      "description": "The language-model head maps a hidden state of width D to a vocabulary of size V, so its transpose can return at most D independent directions to the Transformer. Godey and Artzi argue that this severe projection is a harmful optimization bottleneck. We separate the geometry from the causal claim...",
+      "source_url": "http://arxiv.org/abs/2608.16671v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-17_geo-flag-detecting-and-measuring-geo-optimized-web",
+      "date": "2026-08-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "GEO-Flag: Detecting and Measuring GEO-Optimized Web Content",
+      "description": "Generative Engine Optimization (GEO) modifies web content to increase its likelihood of being selected and cited by generative search engines. This can give strategically optimized pages visibility disproportionate to their authority or relevance and even make weak or false information appear wel...",
+      "source_url": "http://arxiv.org/abs/2608.16824v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-17_new-policy-ideas-for-the-intelligence-age",
+      "date": "2026-08-17",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "New policy ideas for the Intelligence Age",
+      "description": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "source_url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-17_non-crossing-deep-quantile-regression-for-distribu",
+      "date": "2026-08-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Non-Crossing Deep Quantile Regression for Distributional Survival Prediction",
+      "description": "In survival analysis the way covariates act on the risk of an event often differs between early and late failure times, yet hazard- and mean-based summaries collapse this variation into a single number. Quantile-based modeling instead describes the full conditional distribution on the original ti...",
+      "source_url": "http://arxiv.org/abs/2608.16864v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-17_on-the-principles-behind-neural-network-optimizers",
+      "date": "2026-08-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "On the Principles Behind Neural Network Optimizers",
+      "description": "Reliable optimization is central to neural network (NN) training, yet Adam, the default optimizer for modern LLMs, rests on a fragile foundation. This thesis develops a principled grounding for Adam and motivates new designs. First, we revisit Adam's divergence--convergence debate and show the ex...",
+      "source_url": "http://arxiv.org/abs/2608.16760v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-17_openai-joins-ports-pike-project",
+      "date": "2026-08-17",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "OpenAI joins PORTS-Pike project",
+      "description": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "source_url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-17_policy-iteration-with-human-feedback-bringing-post",
+      "date": "2026-08-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning",
+      "description": "Generative pretraining established reusable task representations; later work on language-based task conditioning and in-context learning showed that a fixed model could adapt its behavior from instructions and demonstrations. Policy Iteration with Human Feedback (PIHF) builds on this development ...",
+      "source_url": "http://arxiv.org/abs/2608.16831v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-17_same-cluster-33-points-more-utilization-what-chang",
+      "date": "2026-08-17",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-17_the-defenders-window",
+      "date": "2026-08-17",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "The Defender’s Window",
+      "description": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "source_url": "https://openai.com/index/the-defenders-window",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-17_towards-computational-provenance-carrying-causal-s",
+      "date": "2026-08-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text",
+      "description": "A language model's output does not by itself provide verifiable evidence about the internal computation that produced it. We study computational provenance: whether generated text can carry detectable evidence of which causally relevant internal state occurred. We test a bounded form of this idea...",
+      "source_url": "http://arxiv.org/abs/2608.16868v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-17_unitac-universal-task-aware-compression-via-weight",
+      "date": "2026-08-17",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "UniTAC: Universal Task-Aware Compression via Weighted Distortion Measures",
+      "description": "Physical AI systems such as autonomous vehicles and robots rely on timely exchange of high-dimensional sensory signals under tight bandwidth, latency, and energy budgets. Because the task driving downstream decisions evolves over time, a task-specific codec is brittle and retraining one per task ...",
+      "source_url": "http://arxiv.org/abs/2608.16696v1",
       "tags": [
         "paper",
         "arxiv",
