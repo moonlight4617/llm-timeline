@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T02:14:44.586771Z",
-    "total_events": 1387,
+    "generated_at": "2026-08-19T02:17:41.380808Z",
+    "total_events": 1405,
     "type_counts": {
-      "paper": 873,
+      "paper": 883,
       "model_release": 39,
-      "announcement": 472,
+      "announcement": 480,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 313,
+      "openai": 320,
       "anthropic": 10,
       "meta": 7,
-      "other": 867,
+      "other": 876,
       "mistral": 14,
       "xai": 4,
       "deepseek": 2,
-      "huggingface": 161
+      "huggingface": 163
     }
   },
   "companies": [
@@ -30273,6 +30273,395 @@
       "body": "",
       "company_name": "",
       "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-18_an-omitted-mode-is-a-rare-rule-the-sampling-verifi",
+      "date": "2026-08-18",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "An Omitted Mode Is a Rare Rule: The Sampling-Verification Danger Law in Continuous Code World Models",
+      "description": "In the Code World Model paradigm an LLM synthesizes an executable world model that a classical planner searches, and the model is accepted when it reproduces sampled transitions. We ask what that acceptance certifies in continuous control. We define the pipeline's danger as an expected risk and i...",
+      "source_url": "http://arxiv.org/abs/2608.17956v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-18_asana-cleared-5-years-of-engineering-work-in-2-wee",
+      "date": "2026-08-18",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "description": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+      "source_url": "https://openai.com/index/asana",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-18_chain-of-experience-for-continual-llm-improvement",
+      "date": "2026-08-18",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Chain-of-Experience for Continual LLM Improvement",
+      "description": "Humans continuously learn from experience, whereas conventional large language model (LLM) evaluations ignore the models' ability to improve through inference-time interaction. In this paper, we study how LLMs learn from iterative experience at test time, a setting we refer to as Chain-of-Experie...",
+      "source_url": "http://arxiv.org/abs/2608.18027v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-18_do-large-language-models-play-six-degrees-of-separ",
+      "date": "2026-08-18",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Do Large Language Models Play Six Degrees of Separation? Measuring Topological Compression in Long-Context Manifolds",
+      "description": "Large Language Models (LLMs) demonstrate remarkable multi-hop reasoning capabilities over long contexts, yet the internal mechanisms enabling these distant cognitive leaps remain poorly understood. Traditional attention-based interpretability often fails to capture true semantic proximity due to ...",
+      "source_url": "http://arxiv.org/abs/2608.17950v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-18_from-corpora-to-co-evolving-capabilities-capabilit",
+      "date": "2026-08-18",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
+      "description": "Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A central challenge is not only how to curate each task-specific corpus, but also how to organize hete...",
+      "source_url": "http://arxiv.org/abs/2608.18076v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-18_how-much-memory-does-your-agent-actually-need",
+      "date": "2026-08-18",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-18_how-nvidia-scales-expertise-with-chatgpt-work",
+      "date": "2026-08-18",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "description": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+      "source_url": "https://openai.com/index/nvidia/chatgpt-work",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-18_introducing-chatgpt-for-teens-built-for-learning-b",
+      "date": "2026-08-18",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "description": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "source_url": "https://openai.com/index/chatgpt-for-teens",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-18_language-has-two-parameters-narrative-induced-sema",
+      "date": "2026-08-18",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation",
+      "description": "Language has two parameters. Count how often words occur together and you estimate amplitude, the strength of association. Word embeddings and attention weights refine that count, which sums every writer in the corpus together. This paper claims a second parameter, phase, which signed weights lea...",
+      "source_url": "http://arxiv.org/abs/2608.18041v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-18_multi-vector-late-interaction-embedding-models-wit",
+      "date": "2026-08-18",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/multi-vector-encoder",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-18_pacing-model-development-in-an-era-of-cyber-critic",
+      "date": "2026-08-18",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "description": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+      "source_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-18_partnering-with-codeai-to-prepare-the-first-ai-gen",
+      "date": "2026-08-18",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "description": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "source_url": "https://openai.com/index/partnering-with-codeai",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-18_recirculation",
+      "date": "2026-08-18",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Recirculation",
+      "description": "We describe an inference-time architectural enhancement for off-the-shelf foundation models that markedly reduces perplexity and boosts accuracy across generation and reasoning tasks. Our approach incurs essentially no additional latency during generation, though it requires serial processing in ...",
+      "source_url": "http://arxiv.org/abs/2608.17981v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-18_stagedworkspace-a-versioned-workspace-for-knowledg",
+      "date": "2026-08-18",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents",
+      "description": "AI agents increasingly perform knowledge work (i.e., produce and modify persistent digital artifacts such as code repositories, documents, spreadsheets, slides, reports), yet the parsed views they search, the native files they edit, the changes they review, and the artifacts they submit can refer...",
+      "source_url": "http://arxiv.org/abs/2608.18050v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-18_strengthening-democratic-oversight-in-national-sec",
+      "date": "2026-08-18",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Strengthening democratic oversight in national security",
+      "description": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "source_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-18_the-iol-ai-challenge-an-open-challenge-towards-adv",
+      "date": "2026-08-18",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "The IOL-AI Challenge: An Open Challenge towards Advancing Linguistic Reasoning",
+      "description": "Reasoning in LLMs is overwhelmingly studied in domains that provide a model with rules: mathematics and code. Linguistic puzzles invert this: the solver must first discover the system before reasoning within it. We present the IOL-AI Challenge, an open-science competition run on the unseen proble...",
+      "source_url": "http://arxiv.org/abs/2608.18011v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-18_where-a-small-language-model-helps-in-invoice-cate",
+      "date": "2026-08-18",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Where A Small Language Model Helps in Invoice Categorisation, Understood Through Embedding Geometry",
+      "description": "Categorising invoices into the correct General Ledger (GL) code underpins financial reporting and tax compliance. This is a skilled accounting judgement rather than a routine task: the correct category depends subtly on the nature of the purchasing business, the vendor and the invoice text. Whils...",
+      "source_url": "http://arxiv.org/abs/2608.18033v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-18_why-gpt-style-models-do-not-directly-transfer-to-s",
+      "date": "2026-08-18",
+      "type": "paper",
+      "company": "openai",
+      "person": null,
+      "title": "Why GPT-Style Models Do Not Directly Transfer to Symbolic Music: Compression in the Wrong Coordinate System",
+      "description": "GPT-style models achieve strong performance by representing language with finite vocabularies of reusable discrete tokens. This success has motivated symbolic music tokenizations to treat recurring musical structures, such as chords, motifs, and phrases, as reusable units analogous to linguistic ...",
+      "source_url": "http://arxiv.org/abs/2608.18025v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected",
+        "openai"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
       "person_name": "",
       "type_icon": "📄"
     }
