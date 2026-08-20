@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T02:17:41.380808Z",
-    "total_events": 1405,
+    "generated_at": "2026-08-20T02:16:04.030424Z",
+    "total_events": 1419,
     "type_counts": {
-      "paper": 883,
+      "paper": 893,
       "model_release": 39,
-      "announcement": 480,
+      "announcement": 484,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 320,
+      "openai": 324,
       "anthropic": 10,
       "meta": 7,
-      "other": 876,
+      "other": 885,
       "mistral": 14,
       "xai": 4,
       "deepseek": 2,
-      "huggingface": 163
+      "huggingface": 164
     }
   },
   "companies": [
@@ -30342,6 +30342,27 @@
       "type_icon": "📄"
     },
     {
+      "id": "2026-08-18_chatgpt-ads-expands-across-europe",
+      "date": "2026-08-18",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "ChatGPT Ads expands across Europe",
+      "description": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "source_url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
       "id": "2026-08-18_do-large-language-models-play-six-degrees-of-separ",
       "date": "2026-08-18",
       "type": "paper",
@@ -30662,6 +30683,290 @@
       "body": "",
       "company_name": "OpenAI",
       "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-19_decomposing-wrong-consensus-agreement-in-llm-self-",
+      "date": "2026-08-19",
+      "type": "paper",
+      "company": "openai",
+      "person": null,
+      "title": "Decomposing Wrong-Consensus Agreement in LLM Self-Consistency: A GPT-4.1 Case Study",
+      "description": "Majority voting over multiple LLM samples is widely used to raise answer accuracy, yet its gain varies erratically: on hard questions it can even backfire. This paper gives a quantitative account of this failure. A pluralistic agreement index Gamma is defined as the expected fraction of the sampl...",
+      "source_url": "http://arxiv.org/abs/2608.18795v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected",
+        "openai"
+      ],
+      "importance": "high",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-19_assessing-quality-of-experience-in-natural-languag",
+      "date": "2026-08-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Assessing Quality of Experience in Natural Language Generation of German Text",
+      "description": "The rapid advancement of Natural Language Generation (NLG) has made the reliable evaluation of generated text increasingly critical, as these systems, such as large language models (LLMs), are now widely deployed in real-world applications. However, traditional automatic metrics fail to capture t...",
+      "source_url": "http://arxiv.org/abs/2608.18888v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-19_childsafeads-shared-task-2026-commercial-content-i",
+      "date": "2026-08-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "ChildSafeAds Shared Task 2026: Commercial Content in Child-Facing YouTube Videos",
+      "description": "ChildSafeAds is a shared task on commercial content in YouTube videos likely to reach children and teenagers. It contains 3,360 videos from 939 channels. Each instance begins with a segment submitted to SponsorBlock, an open-source crowdsourced browser extension whose users mark sponsor segments ...",
+      "source_url": "http://arxiv.org/abs/2608.19165v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-19_do-large-language-models-hallucinate-electric-fata",
+      "date": "2026-08-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Do Large Language Models Hallucinate Electric Fata Morganas?",
+      "description": "AI hallucinations - that is, outputs which are made up, cannot be verified, or contradict the source material - are generally regarded as an engineering flaw to be dealt with. This paper contends that they also have philosophical significance when it comes to the question of machine consciousness...",
+      "source_url": "http://arxiv.org/abs/2608.18816v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-19_from-threat-intelligence-to-detection-knowledge-dr",
+      "date": "2026-08-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "From Threat Intelligence to Detection: Knowledge-driven Enrichment and Template-based Rule Grounding for Automated Sigma Rule Generation",
+      "description": "Mechanisms for dynamically converting cyber threat intelligence (CTI) into actionable detection capabilities are necessary due to the rapid evolution of Advanced Persistent Threats (APTs). Sigma rules are an essential part of contemporary threat detection workflows because they offer a platform-i...",
+      "source_url": "http://arxiv.org/abs/2608.19011v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-19_geometric-data-perturbation-with-noisy-anchor-alig",
+      "date": "2026-08-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Geometric Data Perturbation with Noisy-Anchor Alignment for Privacy-Preserving Collaborative Learning",
+      "description": "Geometric Data Perturbation (GDP) enables one-shot, privacy-preserving collaborative learning: each participant applies a distance-preserving transformation to its private data and uploads only the resulting representation to a central analyst. We study GDP under analyst-participant collusion, in...",
+      "source_url": "http://arxiv.org/abs/2608.18749v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-19_learned-then-lost-a-measured-single-example-counte",
+      "date": "2026-08-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Learned, Then Lost: A Measured Single-Example Counterfactual in Pre-training",
+      "description": "A single training example's contribution to a finished model is normally estimated rather than measured, because measuring it takes two expensive full pre-training runs that differ in one row of one batch. We ran that counterfactual 24 times at a small scale. We trained 32 GPT-2 models at 124M pa...",
+      "source_url": "http://arxiv.org/abs/2608.19168v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-19_learning-state-aware-dynamic-generative-data-augme",
+      "date": "2026-08-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Learning-State-Aware Dynamic Generative Data Augmentation on Small-Scale Datasets",
+      "description": "Small-scale image classification is often limited by the scarcity of training data. Generative data augmentation (GDA) based on pretrained generative models has emerged as an effective solution. However, existing methods rely on task-agnostic augmentation strategies that overlook downstream model...",
+      "source_url": "http://arxiv.org/abs/2608.18907v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-19_lfm25-q4-0-checkpoints-from-quantization-aware-dis",
+      "date": "2026-08-19",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "LFM2.5 Q4 0 Checkpoints from Quantization-Aware Distillation",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/LiquidAI/qad",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-19_offering-zero-data-retention-for-frontier-models",
+      "date": "2026-08-19",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Offering Zero Data Retention for frontier models",
+      "description": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "source_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-19_pre-compiled-pipeline-shards-for-distributed-llm-i",
+      "date": "2026-08-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Pre-Compiled Pipeline Shards for Distributed LLM Inference on Intel AI PC Fleets",
+      "description": "Modern Intel AI PCs ship capable integrated GPUs and NPUs with 16+ GB of unified memory, and they spend considerable time idle. That is not enough memory to fit a large model such as a 70B-parameter LLM. We show that a handful of AIPCs, working together over an ordinary network, can serve models ...",
+      "source_url": "http://arxiv.org/abs/2608.19147v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-19_replit-expands-access-to-software-creation-with-gp",
+      "date": "2026-08-19",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "description": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "source_url": "https://openai.com/index/replit",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-19_score-subject-coordinate-recovery-for-label-free-c",
+      "date": "2026-08-19",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "SCORE: Subject Coordinate Recovery for Label-Free Cross-Subject EEG-to-Image Retrieval",
+      "description": "Accurate visual decoding can reveal how the brain represents visual information and recover perceived content from neural signals such as electroencephalography (EEG), with potential for neural communication. However, current EEG-to-image retrieval methods perform far below their within-subject c...",
+      "source_url": "http://arxiv.org/abs/2608.19134v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
     }
