@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T02:16:04.030424Z",
-    "total_events": 1419,
+    "generated_at": "2026-08-21T02:22:41.836358Z",
+    "total_events": 1433,
     "type_counts": {
-      "paper": 893,
+      "paper": 903,
       "model_release": 39,
-      "announcement": 484,
+      "announcement": 488,
       "statement": 2,
       "policy": 1
     },
     "company_counts": {
       "google": 9,
-      "openai": 324,
+      "openai": 326,
       "anthropic": 10,
       "meta": 7,
-      "other": 885,
-      "mistral": 14,
+      "other": 895,
+      "mistral": 15,
       "xai": 4,
       "deepseek": 2,
-      "huggingface": 164
+      "huggingface": 165
     }
   },
   "companies": [
@@ -30969,6 +30969,310 @@
       "company_color": "#888888",
       "person_name": "",
       "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-20_agentic-search-more-accurate-and-efficient-results",
+      "date": "2026-08-20",
+      "type": "announcement",
+      "company": "mistral",
+      "person": null,
+      "title": "Agentic Search. More accurate and efficient results from your AI systems.",
+      "description": "The retrieval layer that helps AI systems navigate, read, and verify information inside even the most complex documents",
+      "source_url": "https://mistral.ai/news/agentic-search/",
+      "tags": [
+        "mistral",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Mistral AI",
+      "company_color": "#FF6B6B",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-20_daedalus-150m-a-convolution-attention-hybrid-desig",
+      "date": "2026-08-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference",
+      "description": "Small language models are usually built like large ones and then squeezed onto a CPU afterwards. We did the opposite: we fixed the target first, one user, one token at a time, 4-bit weights, ordinary CPU, and chose the architecture to suit it. The result keeps full attention in only 6 of its 18 b...",
+      "source_url": "http://arxiv.org/abs/2608.20210v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-20_decoding-silent-reading-from-non-invasive-eeg",
+      "date": "2026-08-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Decoding silent reading from non-invasive EEG",
+      "description": "Non-invasive decoding of inner speech faces a fundamental data problem: a corpus pairing brain activity with a person's spontaneous inner monologue cannot be collected, and the available proxy paradigms (cued repetitive and retrospectively reported generative inner speech) are slow to acquire, po...",
+      "source_url": "http://arxiv.org/abs/2608.20186v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-20_echocot-extracting-hidden-chain-of-thought-from-la",
+      "date": "2026-08-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "EchoCoT: Extracting Hidden Chain-of-Thought from Large Reasoning Models",
+      "description": "Hidden chain-of-thought (CoT) traces, especially those from frontier proprietary large reasoning models (LRMs), are valuable model assets. Yet whether these hidden CoTs can be directly extracted from black-box models remains largely unexplored. In this work, we systematically study whether hidden...",
+      "source_url": "http://arxiv.org/abs/2608.20055v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-20_explainable-transformer-models-for-clinical-predic",
+      "date": "2026-08-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records",
+      "description": "Predictive models over structured electronic health records (EHRs) remain central to machine learning for healthcare, but few have jointly emphasized quantitative laboratory information and interpretability with respect to input medical events. We present BERT-LER, a BERT-style model for coded EH...",
+      "source_url": "http://arxiv.org/abs/2608.20315v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-20_feature-evolution-and-migration-during-vision-tran",
+      "date": "2026-08-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Feature Evolution and Migration during Vision Transformer Training",
+      "description": "We present a novel view on feature evolution in Vision Transformers (ViTs) by visualizing the training process over two dimensions -- network depth (layer) and training time (epochs). We employ Sparse Autoencoders (SAEs) to extract candidate sparse features from CLS-token representations and comp...",
+      "source_url": "http://arxiv.org/abs/2608.20134v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-20_inject-align-recover-staged-post-training-for-retr",
+      "date": "2026-08-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
+      "description": "Large language models often fail to answer questions about a bounded document collection when the source documents are not retrieved at inference time. We study this setting as document knowledge internalization: converting a fixed corpus into usable parametric knowledge for retrieval-free questi...",
+      "source_url": "http://arxiv.org/abs/2608.20281v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-20_introducing-ai-futures",
+      "date": "2026-08-20",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Introducing AI Futures",
+      "description": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "source_url": "https://openai.com/index/introducing-ai-futures",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-20_oenobench-a-wine-domain-benchmark-for-knowledge-gr",
+      "date": "2026-08-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "OenoBench: A Wine-Domain Benchmark for Knowledge-Grounded Evaluation of Large Language Models",
+      "description": "We introduce OenoBench, a wine-domain knowledge benchmark of 3,266 multiple-choice questions across six pillars (regions, grape varieties, viticulture, winemaking, producers, business) and four difficulty tiers. The corpus is built from 38,104 atomic, source-anchored facts extracted by 35 provena...",
+      "source_url": "http://arxiv.org/abs/2608.20106v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-20_prompt-conditioned-channel-attention-for-hierarchi",
+      "date": "2026-08-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Prompt-Conditioned Channel Attention for Hierarchical Feature Modulation toward Anatomy-Agnostic Segmentation",
+      "description": "Anatomically plausible segmentation remains challenging because of low contrast, ambiguous boundaries, and modality-specific artifacts. Interactive segmentation has emerged as a promising strategy to guide feature extraction and improve localization, particularly in structurally ambiguous regions...",
+      "source_url": "http://arxiv.org/abs/2608.20229v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-20_regusim-evaluating-llm-agent-rule-grounding-in-fin",
+      "date": "2026-08-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "ReguSim: Evaluating LLM Agent Rule Grounding in Financial Compliance",
+      "description": "LLM agents in financial markets may cite rules yet still submit orders that violate executable constraints or misread surveillance evidence. We introduce ReguSim, a controlled financial-compliance environment, and ReguBench, a target-marked monitoring benchmark, to separate four artifacts: stated...",
+      "source_url": "http://arxiv.org/abs/2608.19974v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-20_rethinking-patch-based-multivariate-time-series-fo",
+      "date": "2026-08-20",
+      "type": "paper",
+      "company": null,
+      "person": null,
+      "title": "Rethinking Patch Based Multivariate Time Series Forecasting with Semantic Structured Partitioning",
+      "description": "Multivariate time series forecasting (MTSF) is a fundamental task in many real world applications. Existing patch based forecasting methods generally fall into three categories: fixed partitioning, multi-scale partitioning, and extendable partitioning. Fixed partitioning often breaks meaningful t...",
+      "source_url": "http://arxiv.org/abs/2608.19966v1",
+      "tags": [
+        "paper",
+        "arxiv",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "",
+      "company_color": "#888888",
+      "person_name": "",
+      "type_icon": "📄"
+    },
+    {
+      "id": "2026-08-20_stampli-cuts-launch-hours-by-68-using-chatgpt-work",
+      "date": "2026-08-20",
+      "type": "announcement",
+      "company": "openai",
+      "person": null,
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "description": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "source_url": "https://openai.com/index/stampli",
+      "tags": [
+        "openai",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "OpenAI",
+      "company_color": "#00A67E",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-20_up-to-32x-faster-inference-with-lfm25-dspark",
+      "date": "2026-08-20",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
     }
   ]
 }
