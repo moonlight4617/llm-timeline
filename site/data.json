@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T02:22:41.836358Z",
-    "total_events": 1433,
+    "generated_at": "2026-08-22T02:15:06.829119Z",
+    "total_events": 1434,
     "type_counts": {
       "paper": 903,
       "model_release": 39,
-      "announcement": 488,
+      "announcement": 489,
       "statement": 2,
       "policy": 1
     },
@@ -18,7 +18,7 @@
       "mistral": 15,
       "xai": 4,
       "deepseek": 2,
-      "huggingface": 165
+      "huggingface": 166
     }
   },
   "companies": [
@@ -31262,6 +31262,27 @@
       "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
       "description": "Hugging Face Blogからの自動収集記事。",
       "source_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "tags": [
+        "huggingface",
+        "auto-collected"
+      ],
+      "importance": "medium",
+      "auto_collected": true,
+      "body": "",
+      "company_name": "Hugging Face",
+      "company_color": "#FF9D00",
+      "person_name": "",
+      "type_icon": "📢"
+    },
+    {
+      "id": "2026-08-21_measuring-benchmark-optimization-in-speech-recogni",
+      "date": "2026-08-21",
+      "type": "announcement",
+      "company": "huggingface",
+      "person": null,
+      "title": "Measuring benchmark optimization in speech recognition",
+      "description": "Hugging Face Blogからの自動収集記事。",
+      "source_url": "https://huggingface.co/blog/asr-benchmark-optimization",
       "tags": [
         "huggingface",
         "auto-collected"
